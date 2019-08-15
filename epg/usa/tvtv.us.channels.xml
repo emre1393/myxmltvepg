@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" site="tvtv.us">
+  <channels>
+    <channel update="i" site="tvtv.us" site_id="36212D/1766" xmltv_id="CBS (WCBS) New York, NY.us">CBS (WCBS) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1767" xmltv_id="NBC (WNBC) New York, NY.us">NBC (WNBC) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1638" xmltv_id="FOX (WNYW) New York, NY.us">FOX (WNYW) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1769" xmltv_id="ABC (WABC) New York, NY.us">ABC (WABC) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1612" xmltv_id="MNT (WWOR) New York, NY.us">MNT (WWOR) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/63" xmltv_id="WPIX New York (SUPERSTATION).us">WPIX New York (SUPERSTATION)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1774" xmltv_id="PBS (WNET) New York, NY.us">PBS (WNET) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1775" xmltv_id="PBS (WLIW) Long Island, NY.us">PBS (WLIW) Long Island, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10011" xmltv_id="NYC Life (WNYE-DT1) New York, NY.us">NYC Life (WNYE-DT1) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1778" xmltv_id="ION (WPXN) New York, NY.us">ION (WPXN) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/5138" xmltv_id="MeTV (WJLP) New Jersey\/New York.us">MeTV (WJLP) New Jersey\/New York</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11536" xmltv_id="Azteca (WMBC) Newton, NJ.us">Azteca (WMBC) Newton, NJ</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1771" xmltv_id="UNI (WXTV) Teaneck, NJ.us">UNI (WXTV) Teaneck, NJ</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11337" xmltv_id="SonLife (WZME) Bridgeport, CT.us">SonLife (WZME) Bridgeport, CT</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1772" xmltv_id="Telemundo (WNJU) Teterboro, NJ.us">Telemundo (WNJU) Teterboro, NJ</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2065" xmltv_id="Connecticut Public Television (WEDW) Bridgeport.us">Connecticut Public Television (WEDW) Bridgeport</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2574" xmltv_id="New Jersey PBS (WNJN) Montclair, NJ.us">New Jersey PBS (WNJN) Montclair, NJ</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/9574" xmltv_id="WLNY TV10\/55, Riverhead, NY.us">WLNY TV10\/55, Riverhead, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4689" xmltv_id="RNN (WRNN) Kingston, NY.us">RNN (WRNN) Kingston, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2561" xmltv_id="WMBC-Newton, NJ.us">WMBC-Newton, NJ</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7289" xmltv_id="MHz Worldview (WNYJ-DT2) Milford, NJ.us">MHz Worldview (WNYJ-DT2) Milford, NJ</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1776" xmltv_id="UniM\u00e1s (WFUT) New York, NY.us">UniM\u00e1s (WFUT) New York, NY</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/14683" xmltv_id="QVC.us">QVC</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/329" xmltv_id="Game Show Network - East.us">Game Show Network - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3000" xmltv_id="Jewelry Television.us">Jewelry Television</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1523" xmltv_id="EVINE.us">EVINE</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/13442" xmltv_id="QVC2.us">QVC2</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18865" xmltv_id="Audience Network.us">Audience Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/20224" xmltv_id="DirecTV Sports 121.us">DirecTV Sports 121</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/20225" xmltv_id="DirecTV Sports 122.us">DirecTV Sports 122</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/20368" xmltv_id="DirecTV Sports 123.us">DirecTV Sports 123</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/20369" xmltv_id="DirecTV Sports 124.us">DirecTV Sports 124</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/70" xmltv_id="CNN.us">CNN</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/425" xmltv_id="HLN.us">HLN</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/594" xmltv_id="ESPN.us">ESPN</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1527" xmltv_id="ESPN News.us">ESPN News</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3331" xmltv_id="ESPN U.us">ESPN U</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/650" xmltv_id="ESPN2.us">ESPN2</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/9051" xmltv_id="ESPN2 (Alternate).us">ESPN2 (Alternate)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3349" xmltv_id="NFL Network.us">NFL Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6178" xmltv_id="MLB Network.us">MLB Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6610" xmltv_id="MavTV USA.us">MavTV USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/14156" xmltv_id="NHL Network USA.us">NHL Network USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18833" xmltv_id="NHL Network USA Alternate.us">NHL Network USA Alternate</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3116" xmltv_id="NBA TV USA.us">NBA TV USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2269" xmltv_id="The Tennis Channel.us">The Tennis Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/193" xmltv_id="Golf Channel USA.us">Golf Channel USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/668" xmltv_id="Fox Sports 1.us">Fox Sports 1</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1386" xmltv_id="NBC Sports Network.us">NBC Sports Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3115" xmltv_id="CBS Sports Network USA.us">CBS Sports Network USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4546" xmltv_id="Gem Shopping Network.us">Gem Shopping Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/623" xmltv_id="HGTV USA - Eastern Feed.us">HGTV USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/622" xmltv_id="Do It Yourself Network (USA) - East.us">Do It Yourself Network (USA) - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1054" xmltv_id="Food Network USA - Eastern Feed.us">Food Network USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4226" xmltv_id="The Cooking Channel.us">The Cooking Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/617" xmltv_id="E! Entertainment USA - Eastern Feed.us">E! Entertainment USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/646" xmltv_id="Bravo USA - Eastern Feed.us">Bravo USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4175" xmltv_id="ReelzChannel.us">ReelzChannel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/14985" xmltv_id="HSN  - Home Shopping Network.us">HSN  - Home Shopping Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1030" xmltv_id="Paramount Network USA - Eastern Feed.us">Paramount Network USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/640" xmltv_id="USA Network - East Feed.us">USA Network - East Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/596" xmltv_id="Syfy - Eastern Feed.us">Syfy - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/347" xmltv_id="TNT - Eastern Feed.us">TNT - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/333" xmltv_id="truTV USA - Eastern.us">truTV USA - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/61" xmltv_id="TBS - East.us">TBS - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/652" xmltv_id="FX Networks East Coast.us">FX Networks East Coast</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/647" xmltv_id="Comedy Central (US) - Eastern Feed.us">Comedy Central (US) - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/659" xmltv_id="Oxygen - Eastern Feed.us">Oxygen - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/654" xmltv_id="Lifetime Network US - Eastern Feed.us">Lifetime Network US - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1333" xmltv_id="Lifetime Movies - East.us">Lifetime Movies - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/177" xmltv_id="AMC - Eastern Feed.us">AMC - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/176" xmltv_id="Turner Classic Movies USA.us">Turner Classic Movies USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1308" xmltv_id="FX Movie Channel.us">FX Movie Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1952" xmltv_id="FXX USA - Eastern.us">FXX USA - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/664" xmltv_id="WE (Womens Entertainment) - Eastern.us">WE (Womens Entertainment) - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1273" xmltv_id="Discovery Life Channel.us">Discovery Life Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/615" xmltv_id="BBC America - East.us">BBC America - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2" xmltv_id="A&amp;E US - Eastern Feed.us">A&amp;E US - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1971" xmltv_id="FYI USA - Eastern.us">FYI USA - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/621" xmltv_id="History Channel US - Eastern Feed.us">History Channel US - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/624" xmltv_id="Viceland USA.us">Viceland USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2091" xmltv_id="LOGO - East.us">LOGO - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10165" xmltv_id="POP - East.us">POP - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2267" xmltv_id="Ovation.us">Ovation</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/657" xmltv_id="National Geographic US - Eastern.us">National Geographic US - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/662" xmltv_id="Travel US - East.us">Travel US - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/649" xmltv_id="Discovery Channel (US) - Eastern Feed.us">Discovery Channel (US) - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1159" xmltv_id="Oprah Winfrey Network USA Eastern.us">Oprah Winfrey Network USA Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/5005" xmltv_id="TLC USA - Eastern.us">TLC USA - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/12597" xmltv_id="Velocity HD.us">Velocity HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/645" xmltv_id="Animal Planet US - East.us">Animal Planet US - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7537" xmltv_id="National Geographic Wild.us">National Geographic Wild</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1960" xmltv_id="Science.us">Science</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2090" xmltv_id="Investigation Discovery USA - Eastern.us">Investigation Discovery USA - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2074" xmltv_id="Destination America.us">Destination America</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2035" xmltv_id="American Heroes Channel.us">American Heroes Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6867" xmltv_id="Disney Junior USA - East.us">Disney Junior USA - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/595" xmltv_id="Disney - Eastern Feed.us">Disney - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1271" xmltv_id="Disney - Pacific Feed.us">Disney - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1053" xmltv_id="Disney XD USA - Eastern Feed.us">Disney XD USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4444" xmltv_id="Baby First TV.us">Baby First TV</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4225" xmltv_id="Discovery Family Channel.us">Discovery Family Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4349" xmltv_id="Universal Kids.us">Universal Kids</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/661" xmltv_id="Cartoon Network USA - Eastern Feed.us">Cartoon Network USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1209" xmltv_id="Cartoon Network USA - Pacific Feed.us">Cartoon Network USA - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2268" xmltv_id="Boomerang.us">Boomerang</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/658" xmltv_id="Nickelodeon USA - East Feed.us">Nickelodeon USA - East Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1198" xmltv_id="Nickelodeon USA - Pacific Feed.us">Nickelodeon USA - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1969" xmltv_id="Nick Jr. - East.us">Nick Jr. - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2010" xmltv_id="Nicktoons - East.us">Nicktoons - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1954" xmltv_id="TeenNick - Eastern.us">TeenNick - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1252" xmltv_id="TV Land - Eastern.us">TV Land - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1274" xmltv_id="ION  - Eastern Feed.us">ION  - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1923" xmltv_id="ION  - Pacific Feed.us">ION  - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/65" xmltv_id="WGN America - Eastern Feed.us">WGN America - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1011" xmltv_id="Freeform - East Feed.us">Freeform - East Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1052" xmltv_id="Hallmark - Eastern Feed.us">Hallmark - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1051" xmltv_id="GAC - Great American Country.us">GAC - Great American Country</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1076" xmltv_id="CMT US - Eastern Feed.us">CMT US - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2287" xmltv_id="TV One.us">TV One</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/323" xmltv_id="BET - Eastern Feed.us">BET - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6837" xmltv_id="BET Her.us">BET Her</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/656" xmltv_id="MTV USA - Eastern Feed.us">MTV USA - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1515" xmltv_id="MTV 2 - East.us">MTV 2 - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/663" xmltv_id="VH1 - Eastern Feed.us">VH1 - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2093" xmltv_id="MTV Classic - East.us">MTV Classic - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/5911" xmltv_id="UP.us">UP</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1486" xmltv_id="FUSE TV - Eastern feed.us">FUSE TV - Eastern feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/20067" xmltv_id="AXS TV USA HD.us">AXS TV USA HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11399" xmltv_id="El Rey Network.us">El Rey Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11364" xmltv_id="Fusion HD.us">Fusion HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11294" xmltv_id="Fusion.us">Fusion</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/9388" xmltv_id="SonLife Network.us">SonLife Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2673" xmltv_id="RFD-TV.us">RFD-TV</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10294" xmltv_id="BBC World HD.us">BBC World HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4541" xmltv_id="Free Speech Network.us">Free Speech Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16818" xmltv_id="NewsMax TV.us">NewsMax TV</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/648" xmltv_id="CSPAN.us">CSPAN</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1050" xmltv_id="CSPAN 2.us">CSPAN 2</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1963" xmltv_id="NASA Public Educational Channel.us">NASA Public Educational Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1856" xmltv_id="Bloomberg TV USA.us">Bloomberg TV USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/201" xmltv_id="CNBC USA.us">CNBC USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/655" xmltv_id="MSNBC USA.us">MSNBC USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2664" xmltv_id="CNBC World.us">CNBC World</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4656" xmltv_id="Fox Business.us">Fox Business</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1083" xmltv_id="Fox News.us">Fox News</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/13501" xmltv_id="WeatherNation.us">WeatherNation</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1526" xmltv_id="The Weather Channel.us">The Weather Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4455" xmltv_id="GEB America.us">GEB America</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1082" xmltv_id="INSP.us">INSP</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6825" xmltv_id="God TV USA.us">God TV USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6826" xmltv_id="Jewish Life Television.us">Jewish Life Television</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6038" xmltv_id="World Harvest Television.us">World Harvest Television</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6827" xmltv_id="Hope Channel.us">Hope Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6828" xmltv_id="Daystar  - Network.us">Daystar  - Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/620" xmltv_id="EWTN USA.us">EWTN USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/14962" xmltv_id="Hillsong (K64FT) Alexandria, LA.us">Hillsong (K64FT) Alexandria, LA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1119" xmltv_id="TBN  - Trinity Broadcasting Network - East.us">TBN  - Trinity Broadcasting Network - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/13473" xmltv_id="The Word Network.us">The Word Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3332" xmltv_id="BYU (Brigham Young University).us">BYU (Brigham Young University)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11131" xmltv_id="CTN - Christian Television Network.us">CTN - Christian Television Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3709" xmltv_id="TCT - Network.us">TCT - Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4547" xmltv_id="National Religious Broadcasting - East.us">National Religious Broadcasting - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/9018" xmltv_id="Impact Television Network.us">Impact Television Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/14995" xmltv_id="Comedy.TV.us">Comedy.TV</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/14993" xmltv_id="Justice Central.us">Justice Central</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4259" xmltv_id="PBS - Network HD - Eastern.us">PBS - Network HD - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2172" xmltv_id="CBS (KCBS) Los Angeles, CA.us">CBS (KCBS) Los Angeles, CA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2588" xmltv_id="NBC (KNBC) Los Angeles, CA.us">NBC (KNBC) Los Angeles, CA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3120" xmltv_id="CW (WDCW) District of Columbia.us">CW (WDCW) District of Columbia</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10264" xmltv_id="CW (KFMB-TV2) San Diego, CA.us">CW (KFMB-TV2) San Diego, CA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2589" xmltv_id="ABC (KABC) Los Angeles, CA.us">ABC (KABC) Los Angeles, CA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1949" xmltv_id="FOX (KTTV) Los Angeles, CA.us">FOX (KTTV) Los Angeles, CA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1305" xmltv_id="Univision - Eastern Feed.us">Univision - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1306" xmltv_id="Univision - Pacific Feed.us">Univision - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1894" xmltv_id="Galavision - Eastern Feed.us">Galavision - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1521" xmltv_id="Telemundo  - Eastern Feed.us">Telemundo  - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2013" xmltv_id="Telemundo  - Pacific Feed.us">Telemundo  - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/17006" xmltv_id="UniM\u00e1s  - Network Pacific.us">UniM\u00e1s  - Network Pacific</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1797" xmltv_id="NBC Universo - Eastern feed.us">NBC Universo - Eastern feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2073" xmltv_id="Discovery en Espanol.us">Discovery en Espanol</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2096" xmltv_id="CNN Espa\u00f1ol.us">CNN Espa\u00f1ol</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6833" xmltv_id="Telecentro.us">Telecentro</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18869" xmltv_id="Per\u00fa M\u00e1gico.us">Per\u00fa M\u00e1gico</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/8898" xmltv_id="V-Me Television HD.us">V-Me Television HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2142" xmltv_id="Azteca America - East.us">Azteca America - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3256" xmltv_id="Enlace.us">Enlace</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11145" xmltv_id="Uni Deportes.us">Uni Deportes</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1827" xmltv_id="Fox Deportes.us">Fox Deportes</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2108" xmltv_id="ESPN Deportes.us">ESPN Deportes</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10855" xmltv_id="beIN Sport en Espanol.us">beIN Sport en Espanol</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11505" xmltv_id="Gol TV USA.us">Gol TV USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4578" xmltv_id="TyC Sports.us">TyC Sports</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10807" xmltv_id="Spectrum Deportes.us">Spectrum Deportes</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19239" xmltv_id="DirecTV MLS Direct Kick (471) HD.us">DirecTV MLS Direct Kick (471) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19238" xmltv_id="DirecTV MLS Direct Kick (471).us">DirecTV MLS Direct Kick (471)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19240" xmltv_id="DirecTV MLS Direct Kick (472).us">DirecTV MLS Direct Kick (472)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19241" xmltv_id="DirecTV MLS Direct Kick (472) HD.us">DirecTV MLS Direct Kick (472) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19242" xmltv_id="DirecTV MLS Direct Kick (473).us">DirecTV MLS Direct Kick (473)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19243" xmltv_id="DirecTV MLS Direct Kick (473) HD.us">DirecTV MLS Direct Kick (473) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19245" xmltv_id="DirecTV MLS Direct Kick (474) HD.us">DirecTV MLS Direct Kick (474) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19244" xmltv_id="DirecTV MLS Direct Kick (474).us">DirecTV MLS Direct Kick (474)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19246" xmltv_id="DirecTV MLS Direct Kick (475).us">DirecTV MLS Direct Kick (475)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19247" xmltv_id="DirecTV MLS Direct Kick (475) HD.us">DirecTV MLS Direct Kick (475) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19248" xmltv_id="DirecTV MLS Direct Kick (476).us">DirecTV MLS Direct Kick (476)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19249" xmltv_id="DirecTV MLS Direct Kick (476) HD.us">DirecTV MLS Direct Kick (476) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/31696" xmltv_id="DirecTV MLS Direct Kick (477) HD.us">DirecTV MLS Direct Kick (477) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/31695" xmltv_id="DirecTV MLS Direct Kick (477).us">DirecTV MLS Direct Kick (477)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/32674" xmltv_id="DirecTV MLS Direct Kick (478) HD.us">DirecTV MLS Direct Kick (478) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/32672" xmltv_id="DirecTV MLS Direct Kick (478).us">DirecTV MLS Direct Kick (478)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/32673" xmltv_id="DirecTV MLS Direct Kick (479).us">DirecTV MLS Direct Kick (479)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/32675" xmltv_id="DirecTV MLS Direct Kick (479) HD.us">DirecTV MLS Direct Kick (479) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16675" xmltv_id="Premier League Extra Time 1.us">Premier League Extra Time 1</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16676" xmltv_id="Premier League Extra Time 2.us">Premier League Extra Time 2</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16677" xmltv_id="Premier League Extra Time 3.us">Premier League Extra Time 3</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16678" xmltv_id="Premier League Extra Time 4.us">Premier League Extra Time 4</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16679" xmltv_id="Premier League Extra Time 5.us">Premier League Extra Time 5</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/614" xmltv_id="HBO - Eastern Feed.us">HBO - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/626" xmltv_id="HBO 2 - Eastern Feed.us">HBO 2 - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1651" xmltv_id="HBO Signature (HBO 3) - Eastern.us">HBO Signature (HBO 3) - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1472" xmltv_id="HBO - Pacific Feed.us">HBO - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2205" xmltv_id="HBO 2 - Pacific Feed.us">HBO 2 - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7105" xmltv_id="HBO Comedy HD - East.us">HBO Comedy HD - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/628" xmltv_id="HBO Family - Eastern Feed.us">HBO Family - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1216" xmltv_id="HBO Family - Pacific Feed.us">HBO Family - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7102" xmltv_id="HBO Zone HD - East.us">HBO Zone HD - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/631" xmltv_id="HBO Latino (HBO 7) - Eastern.us">HBO Latino (HBO 7) - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/632" xmltv_id="Cinemax - Eastern Feed.us">Cinemax - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1215" xmltv_id="Cinemax - Pacific Feed.us">Cinemax - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/634" xmltv_id="MoreMax  Eastern.us">MoreMax  Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1377" xmltv_id="ActionMax - Eastern.us">ActionMax - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/636" xmltv_id="5 Star Max - Eastern.us">5 Star Max - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1653" xmltv_id="MovieMax (Max 6) - East.us">MovieMax (Max 6) - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1652" xmltv_id="ThrillerMax - East.us">ThrillerMax - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3567" xmltv_id="Cinemax - Eastern HD.us">Cinemax - Eastern HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/583" xmltv_id="Starz - Eastern.us">Starz - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1217" xmltv_id="Starz - Pacific.us">Starz - Pacific</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1194" xmltv_id="Starz Kids &amp; Family - Eastern.us">Starz Kids &amp; Family - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7088" xmltv_id="Starz Comedy HD.us">Starz Comedy HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2120" xmltv_id="Starz Edge - Eastern.us">Starz Edge - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1957" xmltv_id="Starz In Black - Eastern.us">Starz In Black - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7087" xmltv_id="Starz Cinema HD.us">Starz Cinema HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/667" xmltv_id="Starz Encore - Eastern.us">Starz Encore - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1218" xmltv_id="Starz Encore - Pacific.us">Starz Encore - Pacific</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2080" xmltv_id="Starz Encore Classics - Eastern.us">Starz Encore Classics - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1959" xmltv_id="Starz Encore Westerns - Eastern.us">Starz Encore Westerns - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1958" xmltv_id="Starz Encore Suspense - Eastern.us">Starz Encore Suspense - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4206" xmltv_id="Starz Encore Black - Eastern.us">Starz Encore Black - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2078" xmltv_id="Starz Encore Action - Eastern.us">Starz Encore Action - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2128" xmltv_id="Starz Encore Family - Eastern.us">Starz Encore Family - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/665" xmltv_id="Showtime - Eastern Feed.us">Showtime - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10734" xmltv_id="Showtime West.us">Showtime West</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1387" xmltv_id="Showtime 2 - Eastern.us">Showtime 2 - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2077" xmltv_id="Showtime Showcase - Eastern.us">Showtime Showcase - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1615" xmltv_id="Showtime Extreme - Eastern.us">Showtime Extreme - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7106" xmltv_id="Showtime Beyond HD - East.us">Showtime Beyond HD - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7109" xmltv_id="Showtime Next HD - Eastern.us">Showtime Next HD - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7112" xmltv_id="Showtime Women HD - Eastern.us">Showtime Women HD - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/666" xmltv_id="TMC (US) - Eastern Feed.us">TMC (US) - Eastern Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1222" xmltv_id="TMC (US) - Pacific Feed.us">TMC (US) - Pacific Feed</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7113" xmltv_id="TMC Xtra HD - Eastern.us">TMC Xtra HD - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1399" xmltv_id="FLIX - Eastern.us">FLIX - Eastern</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1848" xmltv_id="SundanceTV USA - East.us">SundanceTV USA - East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1966" xmltv_id="Independent Film Channel US.us">Independent Film Channel US</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6214" xmltv_id="Hallmark Movies &amp; Mysteries Eastern - HD.us">Hallmark Movies &amp; Mysteries Eastern - HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18876" xmltv_id="HDNet Movies HD.us">HDNet Movies HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6107" xmltv_id="MGM HD (USA).us">MGM HD (USA)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2086" xmltv_id="Olympic Channel.us">Olympic Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6237" xmltv_id="Smithsonian Channel USA HD.us">Smithsonian Channel USA HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6216" xmltv_id="Crime &amp; Investigation Network USA HD.us">Crime &amp; Investigation Network USA HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6081" xmltv_id="MTV Live HD.us">MTV Live HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10170" xmltv_id="Playboy Interactive.us">Playboy Interactive</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10712" xmltv_id="Playboy HD.us">Playboy HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/242" xmltv_id="Playboy.us">Playboy</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10171" xmltv_id="Hustler TV USA On Demand.us">Hustler TV USA On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/14986" xmltv_id="TVG - Television Games Network.us">TVG - Television Games Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2075" xmltv_id="Sportsman Channel.us">Sportsman Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1086" xmltv_id="Outdoor Channel US.us">Outdoor Channel US</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3352" xmltv_id="Fox College Sports - Atlantic.us">Fox College Sports - Atlantic</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3351" xmltv_id="Fox College Sports - Central.us">Fox College Sports - Central</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3350" xmltv_id="Fox College Sports - Pacific.us">Fox College Sports - Pacific</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4499" xmltv_id="Big Ten Network.us">Big Ten Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/8822" xmltv_id="Big Ten Network Overflow 1.us">Big Ten Network Overflow 1</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/8824" xmltv_id="Big Ten Network Overflow 3.us">Big Ten Network Overflow 3</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/8825" xmltv_id="Big Ten Network Overflow 4.us">Big Ten Network Overflow 4</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/13711" xmltv_id="SEC Network.us">SEC Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/13759" xmltv_id="SEC Network Alternate.us">SEC Network Alternate</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1077" xmltv_id="ESPN Classics USA.us">ESPN Classics USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2114" xmltv_id="Fox Sports 2.us">Fox Sports 2</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10853" xmltv_id="beIN Sport USA.us">beIN Sport USA</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7538" xmltv_id="FOX Soccer Plus.us">FOX Soccer Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11551" xmltv_id="FOX Soccer Plus HD.us">FOX Soccer Plus HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/13463" xmltv_id="Eleven Sports.us">Eleven Sports</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1015" xmltv_id="New England Sports Network.us">New England Sports Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/14779" xmltv_id="New England Sports Network Plus.us">New England Sports Network Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4529" xmltv_id="NBC Sports Boston.us">NBC Sports Boston</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1953" xmltv_id="YES Network.us">YES Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1649" xmltv_id="MSG (Madison Square Gardens).us">MSG (Madison Square Gardens)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1088" xmltv_id="MSG Plus.us">MSG Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/12612" xmltv_id="MSG - Syracuse.us">MSG - Syracuse</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/12616" xmltv_id="MSG Plus - Syracuse.us">MSG Plus - Syracuse</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4186" xmltv_id="SNY: SportsNet New York (Comcast).us">SNY: SportsNet New York (Comcast)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4551" xmltv_id="Mid-Atlantic Sports Network.us">Mid-Atlantic Sports Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7232" xmltv_id="Mid-Atlantic Sports Network 2.us">Mid-Atlantic Sports Network 2</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1564" xmltv_id="NBC Sports Washington.us">NBC Sports Washington</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/8742" xmltv_id="NBC Sports Washington Plus.us">NBC Sports Washington Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1107" xmltv_id="Fox Sports South.us">Fox Sports South</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4531" xmltv_id="Fox Sports South - Carolinas.us">Fox Sports South - Carolinas</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/8025" xmltv_id="Fox Sports South - TN Nashville.us">Fox Sports South - TN Nashville</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1352" xmltv_id="Fox Sports Southeast.us">Fox Sports Southeast</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10127" xmltv_id="Fox Sports Southeast - North Carolina.us">Fox Sports Southeast - North Carolina</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10131" xmltv_id="Fox Sports Southeast - Tennessee East.us">Fox Sports Southeast - Tennessee East</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10132" xmltv_id="Fox Sports Southeast - Tennessee.us">Fox Sports Southeast - Tennessee</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10130" xmltv_id="Fox Sports Southeast - South Carolina.us">Fox Sports Southeast - South Carolina</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10126" xmltv_id="Fox Sports Southeast - Georgia.us">Fox Sports Southeast - Georgia</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10128" xmltv_id="Fox Sports Southeast - Tennessee Nashville.us">Fox Sports Southeast - Tennessee Nashville</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4816" xmltv_id="Fox Sports Sun - Lightening\/Magic.us">Fox Sports Sun - Lightening\/Magic</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4817" xmltv_id="Fox Sports Sun - Lightening\/Magic HD.us">Fox Sports Sun - Lightening\/Magic HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/31557" xmltv_id="Fox Sports Florida 1.us">Fox Sports Florida 1</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1114" xmltv_id="Fox Sports Florida.us">Fox Sports Florida</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/31559" xmltv_id="Fox Sports Florida 2.us">Fox Sports Florida 2</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/31558" xmltv_id="Fox Sports Florida 1 HD.us">Fox Sports Florida 1 HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1084" xmltv_id="AT&amp;T Sportsnet  Pittsburgh.us">AT&amp;T Sportsnet  Pittsburgh</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4302" xmltv_id="Fox Sports Ohio - Cleveland.us">Fox Sports Ohio - Cleveland</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7414" xmltv_id="Fox Sports Ohio - Cleveland HD.us">Fox Sports Ohio - Cleveland HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11128" xmltv_id="Fox Sports Ohio - Cincinnati (2).us">Fox Sports Ohio - Cincinnati (2)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16261" xmltv_id="Fox Sports Ohio - Cincinnati (2) HD.us">Fox Sports Ohio - Cincinnati (2) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3242" xmltv_id="Sportstime Ohio.us">Sportstime Ohio</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1115" xmltv_id="Fox Sports Detroit.us">Fox Sports Detroit</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6020" xmltv_id="Fox Sports Detroit +.us">Fox Sports Detroit +</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4020" xmltv_id="NBC Sports Chicago.us">NBC Sports Chicago</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/9969" xmltv_id="NBC Sports Chicago Plus.us">NBC Sports Chicago Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/31655" xmltv_id="NBC Sports Chicago Plus 2.us">NBC Sports Chicago Plus 2</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1234" xmltv_id="Fox Sports North.us">Fox Sports North</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6760" xmltv_id="Fox Sports Wisconsin.us">Fox Sports Wisconsin</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19544" xmltv_id="Fox Sports Midwest - St. Louis.us">Fox Sports Midwest - St. Louis</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19545" xmltv_id="Fox Sports Midwest - Nebraska.us">Fox Sports Midwest - Nebraska</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19541" xmltv_id="Fox Sports Midwest - Kansas State.us">Fox Sports Midwest - Kansas State</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1112" xmltv_id="Fox Sports Indiana.us">Fox Sports Indiana</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/8799" xmltv_id="AT&amp;T Sportsnet Southwest - Houston.us">AT&amp;T Sportsnet Southwest - Houston</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11576" xmltv_id="Fox Sports Southwest - OK2.us">Fox Sports Southwest - OK2</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/31585" xmltv_id="Fox Sports Southwest - OK2 HD Southwest Plus.us">Fox Sports Southwest - OK2 HD Southwest Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1106" xmltv_id="Fox Sports Southwest.us">Fox Sports Southwest</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/9534" xmltv_id="Fox Sports Southwest - San Antonio.us">Fox Sports Southwest - San Antonio</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7513" xmltv_id="FOX Sports Southwest - Houston.us">FOX Sports Southwest - Houston</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/12558" xmltv_id="Fox Sports New Orleans.us">Fox Sports New Orleans</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10315" xmltv_id="Fox Sports Oklahoma.us">Fox Sports Oklahoma</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/11516" xmltv_id="Longhorn Network.us">Longhorn Network</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3342" xmltv_id="Altitude Sports.us">Altitude Sports</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/5864" xmltv_id="Altitude 2.us">Altitude 2</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1108" xmltv_id="AT&amp;T Sportsnet Rocky Mountains.us">AT&amp;T Sportsnet Rocky Mountains</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10059" xmltv_id="AT&amp;T Sportsnet Rocky Mountain - Utah.us">AT&amp;T Sportsnet Rocky Mountain - Utah</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1118" xmltv_id="Fox Sports Arizona.us">Fox Sports Arizona</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/31547" xmltv_id="Fox Sports Arizona Plus.us">Fox Sports Arizona Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4390" xmltv_id="Fox Sports Arizona - N.NM.us">Fox Sports Arizona - N.NM</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/31944" xmltv_id="Fox Sports Arizona - Alt B..us">Fox Sports Arizona - Alt B.</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7283" xmltv_id="Root Sports Northwest.us">Root Sports Northwest</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4165" xmltv_id="Root Sports Northwest - Seattle.us">Root Sports Northwest - Seattle</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10852" xmltv_id="Spectrum SportsNet.us">Spectrum SportsNet</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1105" xmltv_id="Fox Sports West.us">Fox Sports West</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2592" xmltv_id="Fox Sports West Prime Ticket.us">Fox Sports West Prime Ticket</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10272" xmltv_id="Fox Sports San Diego.us">Fox Sports San Diego</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1117" xmltv_id="NBC Sports Bay Area.us">NBC Sports Bay Area</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/9362" xmltv_id="NBC Sports Bay Area\/California Plus.us">NBC Sports Bay Area\/California Plus</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2836" xmltv_id="NBC Sports California.us">NBC Sports California</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/9363" xmltv_id="NBC Sports Bay Area\/California Plus HD.us">NBC Sports Bay Area\/California Plus HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6921" xmltv_id="NFL Red Zone.us">NFL Red Zone</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19983" xmltv_id="DirecTV Sports 701.us">DirecTV Sports 701</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19985" xmltv_id="DirecTV Sports 702.us">DirecTV Sports 702</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19987" xmltv_id="DirecTV Sports 703.us">DirecTV Sports 703</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16849" xmltv_id="DirecTV Sports 704.us">DirecTV Sports 704</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16852" xmltv_id="DirecTV Sports 705.us">DirecTV Sports 705</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16853" xmltv_id="DirecTV Sports 706.us">DirecTV Sports 706</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16856" xmltv_id="DirecTV Sports 707.us">DirecTV Sports 707</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16857" xmltv_id="DirecTV Sports 708.us">DirecTV Sports 708</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16859" xmltv_id="DirecTV Sports 709.us">DirecTV Sports 709</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16862" xmltv_id="DirecTV Sports 710.us">DirecTV Sports 710</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16863" xmltv_id="DirecTV Sports 711.us">DirecTV Sports 711</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16866" xmltv_id="DirecTV Sports 712.us">DirecTV Sports 712</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16867" xmltv_id="DirecTV Sports 713.us">DirecTV Sports 713</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16869" xmltv_id="DirecTV Sports 714.us">DirecTV Sports 714</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16871" xmltv_id="DirecTV Sports 715.us">DirecTV Sports 715</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16873" xmltv_id="DirecTV Sports 716.us">DirecTV Sports 716</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16875" xmltv_id="DirecTV Sports 717.us">DirecTV Sports 717</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/16877" xmltv_id="DirecTV Sports 718.us">DirecTV Sports 718</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/30952" xmltv_id="DirecTV Sports 719.us">DirecTV Sports 719</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/32374" xmltv_id="DirecTV Sports 720.us">DirecTV Sports 720</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19280" xmltv_id="DirecTV MLB Extra Innings (721).us">DirecTV MLB Extra Innings (721)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19281" xmltv_id="DirecTV MLB Extra Innings HD (721).us">DirecTV MLB Extra Innings HD (721)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19283" xmltv_id="DirecTV MLB Extra Innings HD (722).us">DirecTV MLB Extra Innings HD (722)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19282" xmltv_id="DirecTV MLB Extra Innings (722).us">DirecTV MLB Extra Innings (722)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19284" xmltv_id="DirecTV MLB Extra Innings (723).us">DirecTV MLB Extra Innings (723)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19285" xmltv_id="DirecTV MLB Extra Innings HD (723).us">DirecTV MLB Extra Innings HD (723)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19286" xmltv_id="DirecTV MLB Extra Innings (724).us">DirecTV MLB Extra Innings (724)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19287" xmltv_id="DirecTV MLB Extra Innings HD (724).us">DirecTV MLB Extra Innings HD (724)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19288" xmltv_id="DirecTV MLB Extra Innings (725).us">DirecTV MLB Extra Innings (725)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19289" xmltv_id="DirecTV MLB Extra Innings HD (725).us">DirecTV MLB Extra Innings HD (725)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19290" xmltv_id="DirecTV MLB Extra Innings (726).us">DirecTV MLB Extra Innings (726)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19291" xmltv_id="DirecTV MLB Extra Innings HD (726).us">DirecTV MLB Extra Innings HD (726)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19293" xmltv_id="DirecTV MLB Extra Innings HD (727).us">DirecTV MLB Extra Innings HD (727)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19292" xmltv_id="DirecTV MLB Extra Innings (727).us">DirecTV MLB Extra Innings (727)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19294" xmltv_id="DirecTV MLB Extra Innings (728).us">DirecTV MLB Extra Innings (728)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19295" xmltv_id="DirecTV MLB Extra Innings HD (728).us">DirecTV MLB Extra Innings HD (728)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19296" xmltv_id="DirecTV MLB Extra Innings (729).us">DirecTV MLB Extra Innings (729)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19297" xmltv_id="DirecTV MLB Extra Innings HD (729).us">DirecTV MLB Extra Innings HD (729)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19299" xmltv_id="DirecTV MLB Extra Innings HD (730).us">DirecTV MLB Extra Innings HD (730)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19298" xmltv_id="DirecTV MLB Extra Innings (730).us">DirecTV MLB Extra Innings (730)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19301" xmltv_id="DirecTV MLB Extra Innings HD (731).us">DirecTV MLB Extra Innings HD (731)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19300" xmltv_id="DirecTV MLB Extra Innings (731).us">DirecTV MLB Extra Innings (731)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19303" xmltv_id="DirecTV MLB Extra Innings HD (732).us">DirecTV MLB Extra Innings HD (732)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19302" xmltv_id="DirecTV MLB Extra Innings (732).us">DirecTV MLB Extra Innings (732)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19305" xmltv_id="DirecTV MLB Extra Innings HD (733).us">DirecTV MLB Extra Innings HD (733)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19304" xmltv_id="DirecTV MLB Extra Innings (733).us">DirecTV MLB Extra Innings (733)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19306" xmltv_id="DirecTV MLB Extra Innings (734).us">DirecTV MLB Extra Innings (734)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19307" xmltv_id="DirecTV MLB Extra Innings HD (734).us">DirecTV MLB Extra Innings HD (734)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19309" xmltv_id="DirecTV MLB Extra Innings HD (735).us">DirecTV MLB Extra Innings HD (735)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19308" xmltv_id="DirecTV MLB Extra Innings (735).us">DirecTV MLB Extra Innings (735)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19311" xmltv_id="DirecTV MLB Extra Innings HD (736).us">DirecTV MLB Extra Innings HD (736)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19310" xmltv_id="DirecTV MLB Extra Innings (736).us">DirecTV MLB Extra Innings (736)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19312" xmltv_id="DirecTV MLB Extra Innings (737).us">DirecTV MLB Extra Innings (737)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19313" xmltv_id="DirecTV MLB Extra Innings HD (737).us">DirecTV MLB Extra Innings HD (737)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19314" xmltv_id="DirecTV MLB Extra Innings (738).us">DirecTV MLB Extra Innings (738)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19317" xmltv_id="DirecTV MLB Extra Innings HD (739).us">DirecTV MLB Extra Innings HD (739)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19316" xmltv_id="DirecTV MLB Extra Innings (739).us">DirecTV MLB Extra Innings (739)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19319" xmltv_id="DirecTV MLB Extra Innings HD (740).us">DirecTV MLB Extra Innings HD (740)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19318" xmltv_id="DirecTV MLB Extra Innings (740).us">DirecTV MLB Extra Innings (740)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19320" xmltv_id="DirecTV MLB Extra Innings (741).us">DirecTV MLB Extra Innings (741)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19321" xmltv_id="DirecTV MLB Extra Innings HD (741).us">DirecTV MLB Extra Innings HD (741)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19323" xmltv_id="DirecTV MLB Extra Innings (742) HD.us">DirecTV MLB Extra Innings (742) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19322" xmltv_id="DirecTV MLB Extra Innings (742).us">DirecTV MLB Extra Innings (742)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19325" xmltv_id="DirecTV MLB Extra Innings HD (743).us">DirecTV MLB Extra Innings HD (743)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19324" xmltv_id="DirecTV MLB Extra Innings (743).us">DirecTV MLB Extra Innings (743)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19327" xmltv_id="DirecTV MLB Extra Innings HD (744).us">DirecTV MLB Extra Innings HD (744)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19326" xmltv_id="DirecTV MLB Extra Innings (744).us">DirecTV MLB Extra Innings (744)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19329" xmltv_id="DirecTV MLB Extra Innings HD (745).us">DirecTV MLB Extra Innings HD (745)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19328" xmltv_id="DirecTV MLB Extra Innings (745).us">DirecTV MLB Extra Innings (745)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19330" xmltv_id="DirecTV MLB Extra Innings (746).us">DirecTV MLB Extra Innings (746)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19331" xmltv_id="DirecTV MLB Extra Innings HD (746).us">DirecTV MLB Extra Innings HD (746)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19333" xmltv_id="DirecTV MLB Extra Innings HD (747).us">DirecTV MLB Extra Innings HD (747)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19332" xmltv_id="DirecTV MLB Extra Innings (747).us">DirecTV MLB Extra Innings (747)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19335" xmltv_id="DirecTV MLB Extra Innings HD (748).us">DirecTV MLB Extra Innings HD (748)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19334" xmltv_id="DirecTV MLB Extra Innings (748).us">DirecTV MLB Extra Innings (748)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19337" xmltv_id="DirecTV MLB Extra Innings HD (749).us">DirecTV MLB Extra Innings HD (749)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19336" xmltv_id="DirecTV MLB Extra Innings (749).us">DirecTV MLB Extra Innings (749)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18926" xmltv_id="DirecTV NBA League Pass (750) HD.us">DirecTV NBA League Pass (750) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18925" xmltv_id="DirecTV NBA League Pass (750).us">DirecTV NBA League Pass (750)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18927" xmltv_id="DirecTV NBA League Pass (751).us">DirecTV NBA League Pass (751)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18928" xmltv_id="DirecTV NBA League Pass (751) HD.us">DirecTV NBA League Pass (751) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18929" xmltv_id="DirecTV NBA League Pass (752).us">DirecTV NBA League Pass (752)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18930" xmltv_id="DirecTV NBA League Pass (752) HD.us">DirecTV NBA League Pass (752) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18931" xmltv_id="DirecTV NBA League Pass (753).us">DirecTV NBA League Pass (753)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18932" xmltv_id="DirecTV NBA League Pass (753) HD.us">DirecTV NBA League Pass (753) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18934" xmltv_id="DirecTV NBA League Pass (754) HD.us">DirecTV NBA League Pass (754) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18933" xmltv_id="DirecTV NBA League Pass (754).us">DirecTV NBA League Pass (754)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18936" xmltv_id="DirecTV NBA League Pass (755) HD.us">DirecTV NBA League Pass (755) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18935" xmltv_id="DirecTV NBA League Pass (755).us">DirecTV NBA League Pass (755)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18937" xmltv_id="DirecTV NBA League Pass (756).us">DirecTV NBA League Pass (756)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18938" xmltv_id="DirecTV NBA League Pass (756) HD.us">DirecTV NBA League Pass (756) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18940" xmltv_id="DirecTV NBA League Pass (757) HD.us">DirecTV NBA League Pass (757) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18939" xmltv_id="DirecTV NBA League Pass (757).us">DirecTV NBA League Pass (757)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18942" xmltv_id="DirecTV NBA League Pass (758) HD.us">DirecTV NBA League Pass (758) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18941" xmltv_id="DirecTV NBA League Pass (758).us">DirecTV NBA League Pass (758)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18944" xmltv_id="DirecTV NBA League Pass (759) HD.us">DirecTV NBA League Pass (759) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18943" xmltv_id="DirecTV NBA League Pass (759).us">DirecTV NBA League Pass (759)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18946" xmltv_id="DirecTV NBA League Pass (760) HD.us">DirecTV NBA League Pass (760) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18945" xmltv_id="DirecTV NBA League Pass (760).us">DirecTV NBA League Pass (760)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18948" xmltv_id="DirecTV NBA League Pass (761) HD.us">DirecTV NBA League Pass (761) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18947" xmltv_id="DirecTV NBA League Pass (761).us">DirecTV NBA League Pass (761)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18950" xmltv_id="DirecTV NBA League Pass (762) HD.us">DirecTV NBA League Pass (762) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18949" xmltv_id="DirecTV NBA League Pass (762).us">DirecTV NBA League Pass (762)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18952" xmltv_id="DirecTV NBA League Pass (763) HD.us">DirecTV NBA League Pass (763) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18951" xmltv_id="DirecTV NBA League Pass (763).us">DirecTV NBA League Pass (763)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18954" xmltv_id="DirecTV NBA League Pass (764) HD.us">DirecTV NBA League Pass (764) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18953" xmltv_id="DirecTV NBA League Pass (764).us">DirecTV NBA League Pass (764)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18956" xmltv_id="DirecTV NBA League Pass (765) HD.us">DirecTV NBA League Pass (765) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18955" xmltv_id="DirecTV NBA League Pass (765).us">DirecTV NBA League Pass (765)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18957" xmltv_id="DirecTV NBA League Pass (766).us">DirecTV NBA League Pass (766)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18958" xmltv_id="DirecTV NBA League Pass (766) HD.us">DirecTV NBA League Pass (766) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18960" xmltv_id="DirecTV NBA League Pass (767) HD.us">DirecTV NBA League Pass (767) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18959" xmltv_id="DirecTV NBA League Pass (767).us">DirecTV NBA League Pass (767)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18961" xmltv_id="DirecTV NBA League Pass (768).us">DirecTV NBA League Pass (768)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18962" xmltv_id="DirecTV NBA League Pass (768) HD.us">DirecTV NBA League Pass (768) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18964" xmltv_id="DirecTV NHL Center Ice (769).us">DirecTV NHL Center Ice (769)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18963" xmltv_id="DirecTV NHL Center Ice (769) HD.us">DirecTV NHL Center Ice (769) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18965" xmltv_id="DirecTV NHL Center Ice (770).us">DirecTV NHL Center Ice (770)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18966" xmltv_id="DirecTV NHL Center Ice (770) HD.us">DirecTV NHL Center Ice (770) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18967" xmltv_id="DirecTV NHL Center Ice (771).us">DirecTV NHL Center Ice (771)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18968" xmltv_id="DirecTV NHL Center Ice (771) HD.us">DirecTV NHL Center Ice (771) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18969" xmltv_id="DirecTV NHL Center Ice (772).us">DirecTV NHL Center Ice (772)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18970" xmltv_id="DirecTV NHL Center Ice (772) HD.us">DirecTV NHL Center Ice (772) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18971" xmltv_id="DirecTV NHL Center Ice (773).us">DirecTV NHL Center Ice (773)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18972" xmltv_id="DirecTV NHL Center Ice (773) HD.us">DirecTV NHL Center Ice (773) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18973" xmltv_id="DirecTV NHL Center Ice (774).us">DirecTV NHL Center Ice (774)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18974" xmltv_id="DirecTV NHL Center Ice (774) HD.us">DirecTV NHL Center Ice (774) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18975" xmltv_id="DirecTV NHL Center Ice (775).us">DirecTV NHL Center Ice (775)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18976" xmltv_id="DirecTV NHL Center Ice (775) HD.us">DirecTV NHL Center Ice (775) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18977" xmltv_id="DirecTV NHL Center Ice (776).us">DirecTV NHL Center Ice (776)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18978" xmltv_id="DirecTV NHL Center Ice (776) HD.us">DirecTV NHL Center Ice (776) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18979" xmltv_id="DirecTV NHL Center Ice (777).us">DirecTV NHL Center Ice (777)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18980" xmltv_id="DirecTV NHL Center Ice (777) HD.us">DirecTV NHL Center Ice (777) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18981" xmltv_id="DirecTV NHL Center Ice (778).us">DirecTV NHL Center Ice (778)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18982" xmltv_id="DirecTV NHL Center Ice (778) HD.us">DirecTV NHL Center Ice (778) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18983" xmltv_id="DirecTV NHL Center Ice (779).us">DirecTV NHL Center Ice (779)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18984" xmltv_id="DirecTV NHL Center Ice (779) HD.us">DirecTV NHL Center Ice (779) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18985" xmltv_id="DirecTV NHL Center Ice (780).us">DirecTV NHL Center Ice (780)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18986" xmltv_id="DirecTV NHL Center Ice (780) HD.us">DirecTV NHL Center Ice (780) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18987" xmltv_id="DirecTV NHL Center Ice (781).us">DirecTV NHL Center Ice (781)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18988" xmltv_id="DirecTV NHL Center Ice (781) HD.us">DirecTV NHL Center Ice (781) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18989" xmltv_id="DirecTV NHL Center Ice (782).us">DirecTV NHL Center Ice (782)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18990" xmltv_id="DirecTV NHL Center Ice (782) HD.us">DirecTV NHL Center Ice (782) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18991" xmltv_id="DirecTV NHL Center Ice (783).us">DirecTV NHL Center Ice (783)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18992" xmltv_id="DirecTV NHL Center Ice (783) HD.us">DirecTV NHL Center Ice (783) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18993" xmltv_id="DirecTV NHL Center Ice (784).us">DirecTV NHL Center Ice (784)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18994" xmltv_id="DirecTV NHL Center Ice (784) HD.us">DirecTV NHL Center Ice (784) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18995" xmltv_id="DirecTV NHL Center Ice (785).us">DirecTV NHL Center Ice (785)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18996" xmltv_id="DirecTV NHL Center Ice (785) HD.us">DirecTV NHL Center Ice (785) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18998" xmltv_id="DirecTV NHL Center Ice (786) HD.us">DirecTV NHL Center Ice (786) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18997" xmltv_id="DirecTV NHL Center Ice (786).us">DirecTV NHL Center Ice (786)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/18999" xmltv_id="DirecTV NHL Center Ice (787).us">DirecTV NHL Center Ice (787)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/19000" xmltv_id="DirecTV NHL Center Ice (787) HD.us">DirecTV NHL Center Ice (787) HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/9982" xmltv_id="ESPN College Extra 1.us">ESPN College Extra 1</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/15433" xmltv_id="ESPN College Extra 2.us">ESPN College Extra 2</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/15435" xmltv_id="ESPN College Extra 3.us">ESPN College Extra 3</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/15437" xmltv_id="ESPN College Extra 4.us">ESPN College Extra 4</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/15439" xmltv_id="ESPN College Extra 5.us">ESPN College Extra 5</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/15441" xmltv_id="ESPN College Extra 6.us">ESPN College Extra 6</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/15352" xmltv_id="ESPN College Extra 7.us">ESPN College Extra 7</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/15445" xmltv_id="ESPN College Extra 8.us">ESPN College Extra 8</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/15436" xmltv_id="ESPN College Extra 3 HD.us">ESPN College Extra 3 HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/15438" xmltv_id="ESPN College Extra 4 HD.us">ESPN College Extra 4 HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/15440" xmltv_id="ESPN College Extra 5 HD.us">ESPN College Extra 5 HD</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4690" xmltv_id="CNN on demand.us">CNN on demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6665" xmltv_id="ESPN On Demand.us">ESPN On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6666" xmltv_id="ESPNU On Demand.us">ESPNU On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4666" xmltv_id="TruTV on Demand.us">TruTV on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4781" xmltv_id="Comedy Central on Demand.us">Comedy Central on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4782" xmltv_id="Discovery Channel (US) on demand.us">Discovery Channel (US) on demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/5260" xmltv_id="Disney on Demand.us">Disney on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6796" xmltv_id="Boomerang On Demand.us">Boomerang On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7945" xmltv_id="Nickelodeon USA On Demand.us">Nickelodeon USA On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6669" xmltv_id="Freeform On Demand.us">Freeform On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/7948" xmltv_id="CMT US On Demand.us">CMT US On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4788" xmltv_id="Fuse On Demand.us">Fuse On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6667" xmltv_id="ESPN Deportes On Demand.us">ESPN Deportes On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3479" xmltv_id="HBO On Demand.us">HBO On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4657" xmltv_id="Cinemax on Demand.us">Cinemax on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3476" xmltv_id="Starz On Demand.us">Starz On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6199" xmltv_id="Starz Encore on Demand.us">Starz Encore on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4658" xmltv_id="Showtime on Demand.us">Showtime on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4659" xmltv_id="TMC on Demand.us">TMC on Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/9340" xmltv_id="HDNet Movies On Dmenad.us">HDNet Movies On Dmenad</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3630" xmltv_id="Playboy On Demand.us">Playboy On Demand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6848" xmltv_id="Big Ten Network OnDemand.us">Big Ten Network OnDemand</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10671" xmltv_id="CGTN (CCTV4).us">CGTN (CCTV4)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/4216" xmltv_id="CCTV-4 America.us">CCTV-4 America</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/9604" xmltv_id="TFC - The Filipino Channel.us">TFC - The Filipino Channel</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/6954" xmltv_id="GMA\/Pinoy TV.us">GMA\/Pinoy TV</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/2937" xmltv_id="SBTN (Saigon Broadcasting Television Network).us">SBTN (Saigon Broadcasting Television Network)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/8675" xmltv_id="SBS (Korean).us">SBS (Korean)</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/10575" xmltv_id="Arirang TV.us">Arirang TV</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/8671" xmltv_id="TV Globo.us">TV Globo</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/3257" xmltv_id="RTVi.us">RTVi</channel>
+    <channel update="i" site="tvtv.us" site_id="36212D/1561" xmltv_id="MHz Worldview.us">MHz Worldview</channel>
+  </channels>
+</site>

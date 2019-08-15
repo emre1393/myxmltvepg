@@ -1,0 +1,809 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" site="klack.de">
+  <channels>
+    <channel update="i" site="klack.de" site_id="5/das-erste" xmltv_id="Das Erste.de">Das Erste</channel>
+    <channel update="i" site="klack.de" site_id="129/zdf" xmltv_id="ZDF.de">ZDF</channel>
+    <channel update="i" site="klack.de" site_id="86/rtl" xmltv_id="RTL.de">RTL</channel>
+    <channel update="i" site="klack.de" site_id="92/sat-1" xmltv_id="SAT.1.de">SAT.1</channel>
+    <channel update="i" site="klack.de" site_id="79/prosieben" xmltv_id="ProSieben.de">ProSieben</channel>
+    <channel update="i" site="klack.de" site_id="87/rtl-2" xmltv_id="RTL 2.de">RTL 2</channel>
+    <channel update="i" site="klack.de" site_id="126/vox" xmltv_id="VOX.de">VOX</channel>
+    <channel update="i" site="klack.de" site_id="51/kabel-eins" xmltv_id="Kabel eins.de">Kabel eins</channel>
+    <channel update="i" site="klack.de" site_id="118/tele-5" xmltv_id="TELE 5.de">TELE 5</channel>
+    <channel update="i" site="klack.de" site_id="6/arte" xmltv_id="ARTE.de">ARTE</channel>
+    <channel update="i" site="klack.de" site_id="1/3sat" xmltv_id="3sat.de">3sat</channel>
+    <channel update="i" site="klack.de" site_id="113/super-rtl" xmltv_id="Super RTL.de">Super RTL</channel>
+    <channel update="i" site="klack.de" site_id="127/wdr" xmltv_id="WDR.de">WDR</channel>
+    <channel update="i" site="klack.de" site_id="67/ndr" xmltv_id="NDR.de">NDR</channel>
+    <channel update="i" site="klack.de" site_id="12/br" xmltv_id="BR.de">BR</channel>
+    <channel update="i" site="klack.de" site_id="90/swr-bw" xmltv_id="SWR BW.de">SWR BW</channel>
+    <channel update="i" site="klack.de" site_id="49/hr" xmltv_id="HR.de">HR</channel>
+    <channel update="i" site="klack.de" site_id="55/mdr" xmltv_id="MDR.de">MDR</channel>
+    <channel update="i" site="klack.de" site_id="83/rbb" xmltv_id="RBB.de">RBB</channel>
+    <channel update="i" site="klack.de" site_id="172/swr-rp" xmltv_id="SWR RP.de">SWR RP</channel>
+    <channel update="i" site="klack.de" site_id="2/ard-alpha" xmltv_id="ARD ALPHA.de">ARD ALPHA</channel>
+    <channel update="i" site="klack.de" site_id="111/spreekanal" xmltv_id="Spreekanal.de">Spreekanal</channel>
+    <channel update="i" site="klack.de" site_id="58/muenchen-tv" xmltv_id="München TV.de">München TV</channel>
+    <channel update="i" site="klack.de" site_id="117/tide-tv" xmltv_id="Tide TV.de">Tide TV</channel>
+    <channel update="i" site="klack.de" site_id="123/tv-berlin" xmltv_id="TV Berlin.de">TV Berlin</channel>
+    <channel update="i" site="klack.de" site_id="39/franken-tv" xmltv_id="Franken TV.de">Franken TV</channel>
+    <channel update="i" site="klack.de" site_id="148/hamburg-1" xmltv_id="Hamburg 1.de">Hamburg 1</channel>
+    <channel update="i" site="klack.de" site_id="131/zdfneo" xmltv_id="ZDFneo.de">ZDFneo</channel>
+    <channel update="i" site="klack.de" site_id="133/sixx" xmltv_id="sixx.de">sixx</channel>
+    <channel update="i" site="klack.de" site_id="153/prosieben-maxx" xmltv_id="ProSieben Maxx.de">ProSieben Maxx</channel>
+    <channel update="i" site="klack.de" site_id="142/nitro" xmltv_id="NITRO.de">NITRO</channel>
+    <channel update="i" site="klack.de" site_id="179/rtl-plus" xmltv_id="RTL plus.de">RTL plus</channel>
+    <channel update="i" site="klack.de" site_id="151/sat-1-gold" xmltv_id="SAT.1 Gold.de">SAT.1 Gold</channel>
+    <channel update="i" site="klack.de" site_id="135/servus-tv" xmltv_id="Servus TV.de">Servus TV</channel>
+    <channel update="i" site="klack.de" site_id="4/anixe-hd" xmltv_id="Anixe HD.de">Anixe HD</channel>
+    <channel update="i" site="klack.de" site_id="64/nick" xmltv_id="NICK.de">NICK</channel>
+    <channel update="i" site="klack.de" site_id="54/kika" xmltv_id="KiKa.de">KiKa</channel>
+    <channel update="i" site="klack.de" site_id="180/toggo-plus" xmltv_id="Toggo Plus.de">Toggo Plus</channel>
+    <channel update="i" site="klack.de" site_id="23/comedy-central" xmltv_id="Comedy Central.de">Comedy Central</channel>
+    <channel update="i" site="klack.de" site_id="183/kabel-1-doku" xmltv_id="Kabel 1 Doku.de">Kabel 1 Doku</channel>
+    <channel update="i" site="klack.de" site_id="186/n24-doku" xmltv_id="N24 Doku.de">N24 Doku</channel>
+    <channel update="i" site="klack.de" site_id="25/disney-channel" xmltv_id="Disney Channel.de">Disney Channel</channel>
+    <channel update="i" site="klack.de" site_id="182/zee-one" xmltv_id="Zee One.de">Zee One</channel>
+    <channel update="i" site="klack.de" site_id="77/phoenix" xmltv_id="Phoenix.de">Phoenix</channel>
+    <channel update="i" site="klack.de" site_id="30/dmax" xmltv_id="DMAX.de">DMAX</channel>
+    <channel update="i" site="klack.de" site_id="155/tlc" xmltv_id="TLC.de">TLC</channel>
+    <channel update="i" site="klack.de" site_id="60/welt" xmltv_id="WELT.de">WELT</channel>
+    <channel update="i" site="klack.de" site_id="38/one" xmltv_id="ONE.de">ONE</channel>
+    <channel update="i" site="klack.de" site_id="68/n-tv" xmltv_id="N-TV.de">N-TV</channel>
+    <channel update="i" site="klack.de" site_id="14/bbc-world" xmltv_id="BBC World.de">BBC World</channel>
+    <channel update="i" site="klack.de" site_id="37/tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
+    <channel update="i" site="klack.de" site_id="35/euronews" xmltv_id="Euronews.de">Euronews</channel>
+    <channel update="i" site="klack.de" site_id="130/zdfinfo" xmltv_id="ZDFinfo.de">ZDFinfo</channel>
+    <channel update="i" site="klack.de" site_id="34/dw-english" xmltv_id="DW English.de">DW English</channel>
+    <channel update="i" site="klack.de" site_id="22/cnn" xmltv_id="CNN.de">CNN</channel>
+    <channel update="i" site="klack.de" site_id="16/bibel-tv" xmltv_id="Bibel TV.de">Bibel TV</channel>
+    <channel update="i" site="klack.de" site_id="48/hse24" xmltv_id="HSE24.de">HSE24</channel>
+    <channel update="i" site="klack.de" site_id="81/qvc" xmltv_id="QVC.de">QVC</channel>
+    <channel update="i" site="klack.de" site_id="109/sonnenklar-tv" xmltv_id="Sonnenklar TV.de">Sonnenklar TV</channel>
+    <channel update="i" site="klack.de" site_id="190/welt-der-wunder" xmltv_id="Welt der Wunder.de">Welt der Wunder</channel>
+    <channel update="i" site="klack.de" site_id="191/home-garden-tv" xmltv_id="Home &amp; Garden TV.de">Home &amp; Garden TV</channel>
+    <channel update="i" site="klack.de" site_id="71/orf-1" xmltv_id="ORF 1.de">ORF 1</channel>
+    <channel update="i" site="klack.de" site_id="72/orf-2" xmltv_id="ORF 2.de">ORF 2</channel>
+    <channel update="i" site="klack.de" site_id="137/orf-3" xmltv_id="ORF 3.de">ORF 3</channel>
+    <channel update="i" site="klack.de" site_id="7/atv" xmltv_id="ATV.de">ATV</channel>
+    <channel update="i" site="klack.de" site_id="138/atv-2" xmltv_id="ATV 2.de">ATV 2</channel>
+    <channel update="i" site="klack.de" site_id="80/puls-4" xmltv_id="Puls 4.de">Puls 4</channel>
+    <channel update="i" site="klack.de" site_id="32/srf-1" xmltv_id="SRF 1.de">SRF 1</channel>
+    <channel update="i" site="klack.de" site_id="144/srf-2" xmltv_id="SRF 2.de">SRF 2</channel>
+    <channel update="i" site="klack.de" site_id="145/france-2" xmltv_id="France 2.de">France 2</channel>
+    <channel update="i" site="klack.de" site_id="42/france-3" xmltv_id="France 3.de">France 3</channel>
+    <channel update="i" site="klack.de" site_id="15/bbc-entertainment" xmltv_id="BBC Entertainment.de">BBC Entertainment</channel>
+    <channel update="i" site="klack.de" site_id="96/sky-cinema" xmltv_id="Sky Cinema.de">Sky Cinema</channel>
+    <channel update="i" site="klack.de" site_id="97/sky-cinema-1" xmltv_id="Sky Cinema +1.de">Sky Cinema +1</channel>
+    <channel update="i" site="klack.de" site_id="98/sky-cinema-24" xmltv_id="Sky Cinema +24.de">Sky Cinema +24</channel>
+    <channel update="i" site="klack.de" site_id="99/sky-cinema-hits" xmltv_id="Sky Cinema Hits.de">Sky Cinema Hits</channel>
+    <channel update="i" site="klack.de" site_id="94/sky-cinema-action" xmltv_id="Sky Cinema Action.de">Sky Cinema Action</channel>
+    <channel update="i" site="klack.de" site_id="100/sky-cinema-comedy" xmltv_id="Sky Cinema Comedy.de">Sky Cinema Comedy</channel>
+    <channel update="i" site="klack.de" site_id="101/sky-cinema-emotion" xmltv_id="Sky Cinema Emotion.de">Sky Cinema Emotion</channel>
+    <channel update="i" site="klack.de" site_id="103/sky-cinema-nostalgie" xmltv_id="Sky Cinema Nostalgie.de">Sky Cinema Nostalgie</channel>
+    <channel update="i" site="klack.de" site_id="184/sky-cinema-family" xmltv_id="Sky Cinema Family.de">Sky Cinema Family</channel>
+    <channel update="i" site="klack.de" site_id="185/sky-1" xmltv_id="Sky 1.de">Sky 1</channel>
+    <channel update="i" site="klack.de" site_id="102/sky-krimi" xmltv_id="Sky Krimi.de">Sky Krimi</channel>
+    <channel update="i" site="klack.de" site_id="95/sky-fussball-bundesliga" xmltv_id="Sky Fußball Bundesliga.de">Sky Fußball Bundesliga</channel>
+    <channel update="i" site="klack.de" site_id="104/sky-sport-1" xmltv_id="Sky Sport 1.de">Sky Sport 1</channel>
+    <channel update="i" site="klack.de" site_id="105/sky-sport-2" xmltv_id="Sky Sport 2.de">Sky Sport 2</channel>
+    <channel update="i" site="klack.de" site_id="106/sky-sport-austria" xmltv_id="Sky Sport Austria.de">Sky Sport Austria</channel>
+    <channel update="i" site="klack.de" site_id="188/sky-sport-news-hd" xmltv_id="Sky Sport News HD.de">Sky Sport News HD</channel>
+    <channel update="i" site="klack.de" site_id="136/tnt-film" xmltv_id="TNT Film.de">TNT Film</channel>
+    <channel update="i" site="klack.de" site_id="173/tnt-comedy" xmltv_id="TNT Comedy.de">TNT Comedy</channel>
+    <channel update="i" site="klack.de" site_id="52/kabel-eins-classics" xmltv_id="Kabel eins Classics.de">Kabel eins Classics</channel>
+    <channel update="i" site="klack.de" site_id="41/fox" xmltv_id="FOX.de">FOX</channel>
+    <channel update="i" site="klack.de" site_id="120/tnt-serie" xmltv_id="TNT Serie.de">TNT Serie</channel>
+    <channel update="i" site="klack.de" site_id="88/rtl-crime" xmltv_id="RTL Crime.de">RTL Crime</channel>
+    <channel update="i" site="klack.de" site_id="162/sky-atlantic-hd" xmltv_id="Sky Atlantic HD.de">Sky Atlantic HD</channel>
+    <channel update="i" site="klack.de" site_id="53/kinowelt" xmltv_id="Kinowelt.de">Kinowelt</channel>
+    <channel update="i" site="klack.de" site_id="9/axn" xmltv_id="AXN.de">AXN</channel>
+    <channel update="i" site="klack.de" site_id="170/crime-investigation" xmltv_id="Crime + Investigation.de">Crime + Investigation</channel>
+    <channel update="i" site="klack.de" site_id="112/13th-street" xmltv_id="13th Street.de">13th Street</channel>
+    <channel update="i" site="klack.de" site_id="75/syfy" xmltv_id="Syfy.de">Syfy</channel>
+    <channel update="i" site="klack.de" site_id="164/universal-tv" xmltv_id="Universal TV.de">Universal TV</channel>
+    <channel update="i" site="klack.de" site_id="73/animal-planet" xmltv_id="Animal Planet.de">Animal Planet</channel>
+    <channel update="i" site="klack.de" site_id="62/national-geographic" xmltv_id="National Geographic.de">National Geographic</channel>
+    <channel update="i" site="klack.de" site_id="149/national-geograpic-wild" xmltv_id="National Geograpic Wild.de">National Geograpic Wild</channel>
+    <channel update="i" site="klack.de" site_id="27/discovery-channel" xmltv_id="Discovery Channel.de">Discovery Channel</channel>
+    <channel update="i" site="klack.de" site_id="128/spiegel-tv-wissen" xmltv_id="Spiegel TV Wissen.de">Spiegel TV Wissen</channel>
+    <channel update="i" site="klack.de" site_id="152/spiegel-geschichte" xmltv_id="Spiegel Geschichte.de">Spiegel Geschichte</channel>
+    <channel update="i" site="klack.de" site_id="47/history" xmltv_id="History.de">History</channel>
+    <channel update="i" site="klack.de" site_id="174/planet" xmltv_id="Planet.de">Planet</channel>
+    <channel update="i" site="klack.de" site_id="26/disney-cinemagic" xmltv_id="Disney Cinemagic.de">Disney Cinemagic</channel>
+    <channel update="i" site="klack.de" site_id="28/disney-xd" xmltv_id="Disney XD.de">Disney XD</channel>
+    <channel update="i" site="klack.de" site_id="178/disney-junior" xmltv_id="Disney Junior.de">Disney Junior</channel>
+    <channel update="i" site="klack.de" site_id="50/junior" xmltv_id="Junior.de">Junior</channel>
+    <channel update="i" site="klack.de" site_id="175/boomerang" xmltv_id="Boomerang.de">Boomerang</channel>
+    <channel update="i" site="klack.de" site_id="150/sat-1-emotions" xmltv_id="SAT.1 emotions.de">SAT.1 emotions</channel>
+    <channel update="i" site="klack.de" site_id="134/rtl-passion" xmltv_id="RTL Passion.de">RTL Passion</channel>
+    <channel update="i" site="klack.de" site_id="45/heimatkanal" xmltv_id="Heimatkanal.de">Heimatkanal</channel>
+    <channel update="i" site="klack.de" site_id="93/silverline" xmltv_id="Silverline.de">Silverline</channel>
+    <channel update="i" site="klack.de" site_id="57/mtv" xmltv_id="MTV.de">MTV</channel>
+    <channel update="i" site="klack.de" site_id="21/stingray-classica" xmltv_id="Stingray Classica.de">Stingray Classica</channel>
+    <channel update="i" site="klack.de" site_id="157/prosieben-fun" xmltv_id="ProSieben Fun.de">ProSieben Fun</channel>
+    <channel update="i" site="klack.de" site_id="158/romance-tv" xmltv_id="Romance TV.de">Romance TV</channel>
+    <channel update="i" site="klack.de" site_id="159/rtl-living" xmltv_id="RTL Living.de">RTL Living</channel>
+    <channel update="i" site="klack.de" site_id="156/cartoon-network" xmltv_id="Cartoon Network.de">Cartoon Network</channel>
+    <channel update="i" site="klack.de" site_id="44/goldstar-tv" xmltv_id="Goldstar TV.de">Goldstar TV</channel>
+    <channel update="i" site="klack.de" site_id="176/e" xmltv_id="E!.de">E!</channel>
+    <channel update="i" site="klack.de" site_id="74/playboy-tv" xmltv_id="Playboy TV.de">Playboy TV</channel>
+    <channel update="i" site="klack.de" site_id="18/beate-uhse-tv" xmltv_id="Beate Uhse TV.de">Beate Uhse TV</channel>
+    <channel update="i" site="klack.de" site_id="36/eurosport-1" xmltv_id="Eurosport 1.de">Eurosport 1</channel>
+    <channel update="i" site="klack.de" site_id="33/sport1" xmltv_id="Sport1.de">Sport1</channel>
+    <channel update="i" site="klack.de" site_id="177/sport1" xmltv_id="Sport1+.de">Sport1+</channel>
+    <channel update="i" site="klack.de" site_id="143/eurosport-2" xmltv_id="Eurosport 2.de">Eurosport 2</channel>
+    <channel update="i" site="klack.de" site_id="139/orf-sport" xmltv_id="ORF Sport +.de">ORF Sport +</channel>
+    <channel update="i" site="klack.de" site_id="189/esports1" xmltv_id="eSPORTS1.de">eSPORTS1</channel>
+    <channel update="i" site="klack.de" site_id="5/das-erste" xmltv_id="Das Erste.de">Das Erste</channel>
+    <channel update="i" site="klack.de" site_id="129/zdf" xmltv_id="ZDF.de">ZDF</channel>
+    <channel update="i" site="klack.de" site_id="86/rtl" xmltv_id="RTL.de">RTL</channel>
+    <channel update="i" site="klack.de" site_id="92/sat-1" xmltv_id="SAT.1.de">SAT.1</channel>
+    <channel update="i" site="klack.de" site_id="79/prosieben" xmltv_id="ProSieben.de">ProSieben</channel>
+    <channel update="i" site="klack.de" site_id="87/rtl-2" xmltv_id="RTL 2.de">RTL 2</channel>
+    <channel update="i" site="klack.de" site_id="126/vox" xmltv_id="VOX.de">VOX</channel>
+    <channel update="i" site="klack.de" site_id="51/kabel-eins" xmltv_id="Kabel eins.de">Kabel eins</channel>
+    <channel update="i" site="klack.de" site_id="118/tele-5" xmltv_id="TELE 5.de">TELE 5</channel>
+    <channel update="i" site="klack.de" site_id="6/arte" xmltv_id="ARTE.de">ARTE</channel>
+    <channel update="i" site="klack.de" site_id="1/3sat" xmltv_id="3sat.de">3sat</channel>
+    <channel update="i" site="klack.de" site_id="113/super-rtl" xmltv_id="Super RTL.de">Super RTL</channel>
+    <channel update="i" site="klack.de" site_id="127/wdr" xmltv_id="WDR.de">WDR</channel>
+    <channel update="i" site="klack.de" site_id="67/ndr" xmltv_id="NDR.de">NDR</channel>
+    <channel update="i" site="klack.de" site_id="12/br" xmltv_id="BR.de">BR</channel>
+    <channel update="i" site="klack.de" site_id="90/swr-bw" xmltv_id="SWR BW.de">SWR BW</channel>
+    <channel update="i" site="klack.de" site_id="49/hr" xmltv_id="HR.de">HR</channel>
+    <channel update="i" site="klack.de" site_id="55/mdr" xmltv_id="MDR.de">MDR</channel>
+    <channel update="i" site="klack.de" site_id="83/rbb" xmltv_id="RBB.de">RBB</channel>
+    <channel update="i" site="klack.de" site_id="172/swr-rp" xmltv_id="SWR RP.de">SWR RP</channel>
+    <channel update="i" site="klack.de" site_id="2/ard-alpha" xmltv_id="ARD ALPHA.de">ARD ALPHA</channel>
+    <channel update="i" site="klack.de" site_id="111/spreekanal" xmltv_id="Spreekanal.de">Spreekanal</channel>
+    <channel update="i" site="klack.de" site_id="58/muenchen-tv" xmltv_id="München TV.de">München TV</channel>
+    <channel update="i" site="klack.de" site_id="117/tide-tv" xmltv_id="Tide TV.de">Tide TV</channel>
+    <channel update="i" site="klack.de" site_id="123/tv-berlin" xmltv_id="TV Berlin.de">TV Berlin</channel>
+    <channel update="i" site="klack.de" site_id="39/franken-tv" xmltv_id="Franken TV.de">Franken TV</channel>
+    <channel update="i" site="klack.de" site_id="148/hamburg-1" xmltv_id="Hamburg 1.de">Hamburg 1</channel>
+    <channel update="i" site="klack.de" site_id="131/zdfneo" xmltv_id="ZDFneo.de">ZDFneo</channel>
+    <channel update="i" site="klack.de" site_id="133/sixx" xmltv_id="sixx.de">sixx</channel>
+    <channel update="i" site="klack.de" site_id="153/prosieben-maxx" xmltv_id="ProSieben Maxx.de">ProSieben Maxx</channel>
+    <channel update="i" site="klack.de" site_id="142/nitro" xmltv_id="NITRO.de">NITRO</channel>
+    <channel update="i" site="klack.de" site_id="179/rtl-plus" xmltv_id="RTL plus.de">RTL plus</channel>
+    <channel update="i" site="klack.de" site_id="151/sat-1-gold" xmltv_id="SAT.1 Gold.de">SAT.1 Gold</channel>
+    <channel update="i" site="klack.de" site_id="135/servus-tv" xmltv_id="Servus TV.de">Servus TV</channel>
+    <channel update="i" site="klack.de" site_id="4/anixe-hd" xmltv_id="Anixe HD.de">Anixe HD</channel>
+    <channel update="i" site="klack.de" site_id="64/nick" xmltv_id="NICK.de">NICK</channel>
+    <channel update="i" site="klack.de" site_id="54/kika" xmltv_id="KiKa.de">KiKa</channel>
+    <channel update="i" site="klack.de" site_id="180/toggo-plus" xmltv_id="Toggo Plus.de">Toggo Plus</channel>
+    <channel update="i" site="klack.de" site_id="23/comedy-central" xmltv_id="Comedy Central.de">Comedy Central</channel>
+    <channel update="i" site="klack.de" site_id="183/kabel-1-doku" xmltv_id="Kabel 1 Doku.de">Kabel 1 Doku</channel>
+    <channel update="i" site="klack.de" site_id="186/n24-doku" xmltv_id="N24 Doku.de">N24 Doku</channel>
+    <channel update="i" site="klack.de" site_id="25/disney-channel" xmltv_id="Disney Channel.de">Disney Channel</channel>
+    <channel update="i" site="klack.de" site_id="182/zee-one" xmltv_id="Zee One.de">Zee One</channel>
+    <channel update="i" site="klack.de" site_id="77/phoenix" xmltv_id="Phoenix.de">Phoenix</channel>
+    <channel update="i" site="klack.de" site_id="30/dmax" xmltv_id="DMAX.de">DMAX</channel>
+    <channel update="i" site="klack.de" site_id="155/tlc" xmltv_id="TLC.de">TLC</channel>
+    <channel update="i" site="klack.de" site_id="60/welt" xmltv_id="WELT.de">WELT</channel>
+    <channel update="i" site="klack.de" site_id="38/one" xmltv_id="ONE.de">ONE</channel>
+    <channel update="i" site="klack.de" site_id="68/n-tv" xmltv_id="N-TV.de">N-TV</channel>
+    <channel update="i" site="klack.de" site_id="14/bbc-world" xmltv_id="BBC World.de">BBC World</channel>
+    <channel update="i" site="klack.de" site_id="37/tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
+    <channel update="i" site="klack.de" site_id="35/euronews" xmltv_id="Euronews.de">Euronews</channel>
+    <channel update="i" site="klack.de" site_id="130/zdfinfo" xmltv_id="ZDFinfo.de">ZDFinfo</channel>
+    <channel update="i" site="klack.de" site_id="22/cnn" xmltv_id="CNN.de">CNN</channel>
+    <channel update="i" site="klack.de" site_id="34/dw-english" xmltv_id="DW English.de">DW English</channel>
+    <channel update="i" site="klack.de" site_id="16/bibel-tv" xmltv_id="Bibel TV.de">Bibel TV</channel>
+    <channel update="i" site="klack.de" site_id="48/hse24" xmltv_id="HSE24.de">HSE24</channel>
+    <channel update="i" site="klack.de" site_id="81/qvc" xmltv_id="QVC.de">QVC</channel>
+    <channel update="i" site="klack.de" site_id="109/sonnenklar-tv" xmltv_id="Sonnenklar TV.de">Sonnenklar TV</channel>
+    <channel update="i" site="klack.de" site_id="190/welt-der-wunder" xmltv_id="Welt der Wunder.de">Welt der Wunder</channel>
+    <channel update="i" site="klack.de" site_id="191/home-garden-tv" xmltv_id="Home &amp; Garden TV.de">Home &amp; Garden TV</channel>
+    <channel update="i" site="klack.de" site_id="71/orf-1" xmltv_id="ORF 1.de">ORF 1</channel>
+    <channel update="i" site="klack.de" site_id="72/orf-2" xmltv_id="ORF 2.de">ORF 2</channel>
+    <channel update="i" site="klack.de" site_id="137/orf-3" xmltv_id="ORF 3.de">ORF 3</channel>
+    <channel update="i" site="klack.de" site_id="7/atv" xmltv_id="ATV.de">ATV</channel>
+    <channel update="i" site="klack.de" site_id="138/atv-2" xmltv_id="ATV 2.de">ATV 2</channel>
+    <channel update="i" site="klack.de" site_id="80/puls-4" xmltv_id="Puls 4.de">Puls 4</channel>
+    <channel update="i" site="klack.de" site_id="32/srf-1" xmltv_id="SRF 1.de">SRF 1</channel>
+    <channel update="i" site="klack.de" site_id="144/srf-2" xmltv_id="SRF 2.de">SRF 2</channel>
+    <channel update="i" site="klack.de" site_id="145/france-2" xmltv_id="France 2.de">France 2</channel>
+    <channel update="i" site="klack.de" site_id="42/france-3" xmltv_id="France 3.de">France 3</channel>
+    <channel update="i" site="klack.de" site_id="15/bbc-entertainment" xmltv_id="BBC Entertainment.de">BBC Entertainment</channel>
+    <channel update="i" site="klack.de" site_id="96/sky-cinema" xmltv_id="Sky Cinema.de">Sky Cinema</channel>
+    <channel update="i" site="klack.de" site_id="97/sky-cinema-1" xmltv_id="Sky Cinema +1.de">Sky Cinema +1</channel>
+    <channel update="i" site="klack.de" site_id="98/sky-cinema-24" xmltv_id="Sky Cinema +24.de">Sky Cinema +24</channel>
+    <channel update="i" site="klack.de" site_id="99/sky-cinema-hits" xmltv_id="Sky Cinema Hits.de">Sky Cinema Hits</channel>
+    <channel update="i" site="klack.de" site_id="94/sky-cinema-action" xmltv_id="Sky Cinema Action.de">Sky Cinema Action</channel>
+    <channel update="i" site="klack.de" site_id="100/sky-cinema-comedy" xmltv_id="Sky Cinema Comedy.de">Sky Cinema Comedy</channel>
+    <channel update="i" site="klack.de" site_id="101/sky-cinema-emotion" xmltv_id="Sky Cinema Emotion.de">Sky Cinema Emotion</channel>
+    <channel update="i" site="klack.de" site_id="103/sky-cinema-nostalgie" xmltv_id="Sky Cinema Nostalgie.de">Sky Cinema Nostalgie</channel>
+    <channel update="i" site="klack.de" site_id="184/sky-cinema-family" xmltv_id="Sky Cinema Family.de">Sky Cinema Family</channel>
+    <channel update="i" site="klack.de" site_id="185/sky-1" xmltv_id="Sky 1.de">Sky 1</channel>
+    <channel update="i" site="klack.de" site_id="102/sky-krimi" xmltv_id="Sky Krimi.de">Sky Krimi</channel>
+    <channel update="i" site="klack.de" site_id="95/sky-fussball-bundesliga" xmltv_id="Sky Fußball Bundesliga.de">Sky Fußball Bundesliga</channel>
+    <channel update="i" site="klack.de" site_id="104/sky-sport-1" xmltv_id="Sky Sport 1.de">Sky Sport 1</channel>
+    <channel update="i" site="klack.de" site_id="105/sky-sport-2" xmltv_id="Sky Sport 2.de">Sky Sport 2</channel>
+    <channel update="i" site="klack.de" site_id="106/sky-sport-austria" xmltv_id="Sky Sport Austria.de">Sky Sport Austria</channel>
+    <channel update="i" site="klack.de" site_id="188/sky-sport-news-hd" xmltv_id="Sky Sport News HD.de">Sky Sport News HD</channel>
+    <channel update="i" site="klack.de" site_id="136/tnt-film" xmltv_id="TNT Film.de">TNT Film</channel>
+    <channel update="i" site="klack.de" site_id="173/tnt-comedy" xmltv_id="TNT Comedy.de">TNT Comedy</channel>
+    <channel update="i" site="klack.de" site_id="52/kabel-eins-classics" xmltv_id="Kabel eins Classics.de">Kabel eins Classics</channel>
+    <channel update="i" site="klack.de" site_id="41/fox" xmltv_id="FOX.de">FOX</channel>
+    <channel update="i" site="klack.de" site_id="120/tnt-serie" xmltv_id="TNT Serie.de">TNT Serie</channel>
+    <channel update="i" site="klack.de" site_id="88/rtl-crime" xmltv_id="RTL Crime.de">RTL Crime</channel>
+    <channel update="i" site="klack.de" site_id="162/sky-atlantic-hd" xmltv_id="Sky Atlantic HD.de">Sky Atlantic HD</channel>
+    <channel update="i" site="klack.de" site_id="53/kinowelt" xmltv_id="Kinowelt.de">Kinowelt</channel>
+    <channel update="i" site="klack.de" site_id="9/axn" xmltv_id="AXN.de">AXN</channel>
+    <channel update="i" site="klack.de" site_id="170/crime-investigation" xmltv_id="Crime + Investigation.de">Crime + Investigation</channel>
+    <channel update="i" site="klack.de" site_id="112/13th-street" xmltv_id="13th Street.de">13th Street</channel>
+    <channel update="i" site="klack.de" site_id="75/syfy" xmltv_id="Syfy.de">Syfy</channel>
+    <channel update="i" site="klack.de" site_id="164/universal-tv" xmltv_id="Universal TV.de">Universal TV</channel>
+    <channel update="i" site="klack.de" site_id="73/animal-planet" xmltv_id="Animal Planet.de">Animal Planet</channel>
+    <channel update="i" site="klack.de" site_id="62/national-geographic" xmltv_id="National Geographic.de">National Geographic</channel>
+    <channel update="i" site="klack.de" site_id="149/national-geograpic-wild" xmltv_id="National Geograpic Wild.de">National Geograpic Wild</channel>
+    <channel update="i" site="klack.de" site_id="27/discovery-channel" xmltv_id="Discovery Channel.de">Discovery Channel</channel>
+    <channel update="i" site="klack.de" site_id="128/spiegel-tv-wissen" xmltv_id="Spiegel TV Wissen.de">Spiegel TV Wissen</channel>
+    <channel update="i" site="klack.de" site_id="152/spiegel-geschichte" xmltv_id="Spiegel Geschichte.de">Spiegel Geschichte</channel>
+    <channel update="i" site="klack.de" site_id="47/history" xmltv_id="History.de">History</channel>
+    <channel update="i" site="klack.de" site_id="174/planet" xmltv_id="Planet.de">Planet</channel>
+    <channel update="i" site="klack.de" site_id="26/disney-cinemagic" xmltv_id="Disney Cinemagic.de">Disney Cinemagic</channel>
+    <channel update="i" site="klack.de" site_id="28/disney-xd" xmltv_id="Disney XD.de">Disney XD</channel>
+    <channel update="i" site="klack.de" site_id="178/disney-junior" xmltv_id="Disney Junior.de">Disney Junior</channel>
+    <channel update="i" site="klack.de" site_id="50/junior" xmltv_id="Junior.de">Junior</channel>
+    <channel update="i" site="klack.de" site_id="175/boomerang" xmltv_id="Boomerang.de">Boomerang</channel>
+    <channel update="i" site="klack.de" site_id="150/sat-1-emotions" xmltv_id="SAT.1 emotions.de">SAT.1 emotions</channel>
+    <channel update="i" site="klack.de" site_id="134/rtl-passion" xmltv_id="RTL Passion.de">RTL Passion</channel>
+    <channel update="i" site="klack.de" site_id="45/heimatkanal" xmltv_id="Heimatkanal.de">Heimatkanal</channel>
+    <channel update="i" site="klack.de" site_id="93/silverline" xmltv_id="Silverline.de">Silverline</channel>
+    <channel update="i" site="klack.de" site_id="57/mtv" xmltv_id="MTV.de">MTV</channel>
+    <channel update="i" site="klack.de" site_id="21/stingray-classica" xmltv_id="Stingray Classica.de">Stingray Classica</channel>
+    <channel update="i" site="klack.de" site_id="157/prosieben-fun" xmltv_id="ProSieben Fun.de">ProSieben Fun</channel>
+    <channel update="i" site="klack.de" site_id="158/romance-tv" xmltv_id="Romance TV.de">Romance TV</channel>
+    <channel update="i" site="klack.de" site_id="159/rtl-living" xmltv_id="RTL Living.de">RTL Living</channel>
+    <channel update="i" site="klack.de" site_id="156/cartoon-network" xmltv_id="Cartoon Network.de">Cartoon Network</channel>
+    <channel update="i" site="klack.de" site_id="44/goldstar-tv" xmltv_id="Goldstar TV.de">Goldstar TV</channel>
+    <channel update="i" site="klack.de" site_id="176/e" xmltv_id="E!.de">E!</channel>
+    <channel update="i" site="klack.de" site_id="74/playboy-tv" xmltv_id="Playboy TV.de">Playboy TV</channel>
+    <channel update="i" site="klack.de" site_id="18/beate-uhse-tv" xmltv_id="Beate Uhse TV.de">Beate Uhse TV</channel>
+    <channel update="i" site="klack.de" site_id="36/eurosport-1" xmltv_id="Eurosport 1.de">Eurosport 1</channel>
+    <channel update="i" site="klack.de" site_id="33/sport1" xmltv_id="Sport1.de">Sport1</channel>
+    <channel update="i" site="klack.de" site_id="177/sport1" xmltv_id="Sport1+.de">Sport1+</channel>
+    <channel update="i" site="klack.de" site_id="143/eurosport-2" xmltv_id="Eurosport 2.de">Eurosport 2</channel>
+    <channel update="i" site="klack.de" site_id="139/orf-sport" xmltv_id="ORF Sport +.de">ORF Sport +</channel>
+    <channel update="i" site="klack.de" site_id="189/esports1" xmltv_id="eSPORTS1.de">eSPORTS1</channel>
+    <channel update="i" site="klack.de" site_id="5/das-erste" xmltv_id="Das Erste.de">Das Erste</channel>
+    <channel update="i" site="klack.de" site_id="129/zdf" xmltv_id="ZDF.de">ZDF</channel>
+    <channel update="i" site="klack.de" site_id="86/rtl" xmltv_id="RTL.de">RTL</channel>
+    <channel update="i" site="klack.de" site_id="92/sat-1" xmltv_id="SAT.1.de">SAT.1</channel>
+    <channel update="i" site="klack.de" site_id="79/prosieben" xmltv_id="ProSieben.de">ProSieben</channel>
+    <channel update="i" site="klack.de" site_id="87/rtl-2" xmltv_id="RTL 2.de">RTL 2</channel>
+    <channel update="i" site="klack.de" site_id="126/vox" xmltv_id="VOX.de">VOX</channel>
+    <channel update="i" site="klack.de" site_id="51/kabel-eins" xmltv_id="Kabel eins.de">Kabel eins</channel>
+    <channel update="i" site="klack.de" site_id="118/tele-5" xmltv_id="TELE 5.de">TELE 5</channel>
+    <channel update="i" site="klack.de" site_id="6/arte" xmltv_id="ARTE.de">ARTE</channel>
+    <channel update="i" site="klack.de" site_id="1/3sat" xmltv_id="3sat.de">3sat</channel>
+    <channel update="i" site="klack.de" site_id="113/super-rtl" xmltv_id="Super RTL.de">Super RTL</channel>
+    <channel update="i" site="klack.de" site_id="127/wdr" xmltv_id="WDR.de">WDR</channel>
+    <channel update="i" site="klack.de" site_id="67/ndr" xmltv_id="NDR.de">NDR</channel>
+    <channel update="i" site="klack.de" site_id="12/br" xmltv_id="BR.de">BR</channel>
+    <channel update="i" site="klack.de" site_id="90/swr-bw" xmltv_id="SWR BW.de">SWR BW</channel>
+    <channel update="i" site="klack.de" site_id="49/hr" xmltv_id="HR.de">HR</channel>
+    <channel update="i" site="klack.de" site_id="55/mdr" xmltv_id="MDR.de">MDR</channel>
+    <channel update="i" site="klack.de" site_id="83/rbb" xmltv_id="RBB.de">RBB</channel>
+    <channel update="i" site="klack.de" site_id="172/swr-rp" xmltv_id="SWR RP.de">SWR RP</channel>
+    <channel update="i" site="klack.de" site_id="2/ard-alpha" xmltv_id="ARD ALPHA.de">ARD ALPHA</channel>
+    <channel update="i" site="klack.de" site_id="111/spreekanal" xmltv_id="Spreekanal.de">Spreekanal</channel>
+    <channel update="i" site="klack.de" site_id="58/muenchen-tv" xmltv_id="München TV.de">München TV</channel>
+    <channel update="i" site="klack.de" site_id="117/tide-tv" xmltv_id="Tide TV.de">Tide TV</channel>
+    <channel update="i" site="klack.de" site_id="123/tv-berlin" xmltv_id="TV Berlin.de">TV Berlin</channel>
+    <channel update="i" site="klack.de" site_id="39/franken-tv" xmltv_id="Franken TV.de">Franken TV</channel>
+    <channel update="i" site="klack.de" site_id="148/hamburg-1" xmltv_id="Hamburg 1.de">Hamburg 1</channel>
+    <channel update="i" site="klack.de" site_id="131/zdfneo" xmltv_id="ZDFneo.de">ZDFneo</channel>
+    <channel update="i" site="klack.de" site_id="133/sixx" xmltv_id="sixx.de">sixx</channel>
+    <channel update="i" site="klack.de" site_id="153/prosieben-maxx" xmltv_id="ProSieben Maxx.de">ProSieben Maxx</channel>
+    <channel update="i" site="klack.de" site_id="142/nitro" xmltv_id="NITRO.de">NITRO</channel>
+    <channel update="i" site="klack.de" site_id="179/rtl-plus" xmltv_id="RTL plus.de">RTL plus</channel>
+    <channel update="i" site="klack.de" site_id="151/sat-1-gold" xmltv_id="SAT.1 Gold.de">SAT.1 Gold</channel>
+    <channel update="i" site="klack.de" site_id="135/servus-tv" xmltv_id="Servus TV.de">Servus TV</channel>
+    <channel update="i" site="klack.de" site_id="4/anixe-hd" xmltv_id="Anixe HD.de">Anixe HD</channel>
+    <channel update="i" site="klack.de" site_id="64/nick" xmltv_id="NICK.de">NICK</channel>
+    <channel update="i" site="klack.de" site_id="54/kika" xmltv_id="KiKa.de">KiKa</channel>
+    <channel update="i" site="klack.de" site_id="180/toggo-plus" xmltv_id="Toggo Plus.de">Toggo Plus</channel>
+    <channel update="i" site="klack.de" site_id="23/comedy-central" xmltv_id="Comedy Central.de">Comedy Central</channel>
+    <channel update="i" site="klack.de" site_id="183/kabel-1-doku" xmltv_id="Kabel 1 Doku.de">Kabel 1 Doku</channel>
+    <channel update="i" site="klack.de" site_id="186/n24-doku" xmltv_id="N24 Doku.de">N24 Doku</channel>
+    <channel update="i" site="klack.de" site_id="25/disney-channel" xmltv_id="Disney Channel.de">Disney Channel</channel>
+    <channel update="i" site="klack.de" site_id="182/zee-one" xmltv_id="Zee One.de">Zee One</channel>
+    <channel update="i" site="klack.de" site_id="77/phoenix" xmltv_id="Phoenix.de">Phoenix</channel>
+    <channel update="i" site="klack.de" site_id="30/dmax" xmltv_id="DMAX.de">DMAX</channel>
+    <channel update="i" site="klack.de" site_id="155/tlc" xmltv_id="TLC.de">TLC</channel>
+    <channel update="i" site="klack.de" site_id="60/welt" xmltv_id="WELT.de">WELT</channel>
+    <channel update="i" site="klack.de" site_id="38/one" xmltv_id="ONE.de">ONE</channel>
+    <channel update="i" site="klack.de" site_id="68/n-tv" xmltv_id="N-TV.de">N-TV</channel>
+    <channel update="i" site="klack.de" site_id="14/bbc-world" xmltv_id="BBC World.de">BBC World</channel>
+    <channel update="i" site="klack.de" site_id="37/tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
+    <channel update="i" site="klack.de" site_id="35/euronews" xmltv_id="Euronews.de">Euronews</channel>
+    <channel update="i" site="klack.de" site_id="130/zdfinfo" xmltv_id="ZDFinfo.de">ZDFinfo</channel>
+    <channel update="i" site="klack.de" site_id="22/cnn" xmltv_id="CNN.de">CNN</channel>
+    <channel update="i" site="klack.de" site_id="34/dw-english" xmltv_id="DW English.de">DW English</channel>
+    <channel update="i" site="klack.de" site_id="16/bibel-tv" xmltv_id="Bibel TV.de">Bibel TV</channel>
+    <channel update="i" site="klack.de" site_id="48/hse24" xmltv_id="HSE24.de">HSE24</channel>
+    <channel update="i" site="klack.de" site_id="81/qvc" xmltv_id="QVC.de">QVC</channel>
+    <channel update="i" site="klack.de" site_id="109/sonnenklar-tv" xmltv_id="Sonnenklar TV.de">Sonnenklar TV</channel>
+    <channel update="i" site="klack.de" site_id="190/welt-der-wunder" xmltv_id="Welt der Wunder.de">Welt der Wunder</channel>
+    <channel update="i" site="klack.de" site_id="191/home-garden-tv" xmltv_id="Home &amp; Garden TV.de">Home &amp; Garden TV</channel>
+    <channel update="i" site="klack.de" site_id="71/orf-1" xmltv_id="ORF 1.de">ORF 1</channel>
+    <channel update="i" site="klack.de" site_id="72/orf-2" xmltv_id="ORF 2.de">ORF 2</channel>
+    <channel update="i" site="klack.de" site_id="137/orf-3" xmltv_id="ORF 3.de">ORF 3</channel>
+    <channel update="i" site="klack.de" site_id="7/atv" xmltv_id="ATV.de">ATV</channel>
+    <channel update="i" site="klack.de" site_id="138/atv-2" xmltv_id="ATV 2.de">ATV 2</channel>
+    <channel update="i" site="klack.de" site_id="80/puls-4" xmltv_id="Puls 4.de">Puls 4</channel>
+    <channel update="i" site="klack.de" site_id="32/srf-1" xmltv_id="SRF 1.de">SRF 1</channel>
+    <channel update="i" site="klack.de" site_id="144/srf-2" xmltv_id="SRF 2.de">SRF 2</channel>
+    <channel update="i" site="klack.de" site_id="145/france-2" xmltv_id="France 2.de">France 2</channel>
+    <channel update="i" site="klack.de" site_id="42/france-3" xmltv_id="France 3.de">France 3</channel>
+    <channel update="i" site="klack.de" site_id="15/bbc-entertainment" xmltv_id="BBC Entertainment.de">BBC Entertainment</channel>
+    <channel update="i" site="klack.de" site_id="96/sky-cinema" xmltv_id="Sky Cinema.de">Sky Cinema</channel>
+    <channel update="i" site="klack.de" site_id="97/sky-cinema-1" xmltv_id="Sky Cinema +1.de">Sky Cinema +1</channel>
+    <channel update="i" site="klack.de" site_id="98/sky-cinema-24" xmltv_id="Sky Cinema +24.de">Sky Cinema +24</channel>
+    <channel update="i" site="klack.de" site_id="99/sky-cinema-hits" xmltv_id="Sky Cinema Hits.de">Sky Cinema Hits</channel>
+    <channel update="i" site="klack.de" site_id="94/sky-cinema-action" xmltv_id="Sky Cinema Action.de">Sky Cinema Action</channel>
+    <channel update="i" site="klack.de" site_id="100/sky-cinema-comedy" xmltv_id="Sky Cinema Comedy.de">Sky Cinema Comedy</channel>
+    <channel update="i" site="klack.de" site_id="101/sky-cinema-emotion" xmltv_id="Sky Cinema Emotion.de">Sky Cinema Emotion</channel>
+    <channel update="i" site="klack.de" site_id="103/sky-cinema-nostalgie" xmltv_id="Sky Cinema Nostalgie.de">Sky Cinema Nostalgie</channel>
+    <channel update="i" site="klack.de" site_id="184/sky-cinema-family" xmltv_id="Sky Cinema Family.de">Sky Cinema Family</channel>
+    <channel update="i" site="klack.de" site_id="185/sky-1" xmltv_id="Sky 1.de">Sky 1</channel>
+    <channel update="i" site="klack.de" site_id="102/sky-krimi" xmltv_id="Sky Krimi.de">Sky Krimi</channel>
+    <channel update="i" site="klack.de" site_id="95/sky-fussball-bundesliga" xmltv_id="Sky Fußball Bundesliga.de">Sky Fußball Bundesliga</channel>
+    <channel update="i" site="klack.de" site_id="104/sky-sport-1" xmltv_id="Sky Sport 1.de">Sky Sport 1</channel>
+    <channel update="i" site="klack.de" site_id="105/sky-sport-2" xmltv_id="Sky Sport 2.de">Sky Sport 2</channel>
+    <channel update="i" site="klack.de" site_id="106/sky-sport-austria" xmltv_id="Sky Sport Austria.de">Sky Sport Austria</channel>
+    <channel update="i" site="klack.de" site_id="188/sky-sport-news-hd" xmltv_id="Sky Sport News HD.de">Sky Sport News HD</channel>
+    <channel update="i" site="klack.de" site_id="136/tnt-film" xmltv_id="TNT Film.de">TNT Film</channel>
+    <channel update="i" site="klack.de" site_id="173/tnt-comedy" xmltv_id="TNT Comedy.de">TNT Comedy</channel>
+    <channel update="i" site="klack.de" site_id="52/kabel-eins-classics" xmltv_id="Kabel eins Classics.de">Kabel eins Classics</channel>
+    <channel update="i" site="klack.de" site_id="41/fox" xmltv_id="FOX.de">FOX</channel>
+    <channel update="i" site="klack.de" site_id="120/tnt-serie" xmltv_id="TNT Serie.de">TNT Serie</channel>
+    <channel update="i" site="klack.de" site_id="88/rtl-crime" xmltv_id="RTL Crime.de">RTL Crime</channel>
+    <channel update="i" site="klack.de" site_id="162/sky-atlantic-hd" xmltv_id="Sky Atlantic HD.de">Sky Atlantic HD</channel>
+    <channel update="i" site="klack.de" site_id="53/kinowelt" xmltv_id="Kinowelt.de">Kinowelt</channel>
+    <channel update="i" site="klack.de" site_id="9/axn" xmltv_id="AXN.de">AXN</channel>
+    <channel update="i" site="klack.de" site_id="170/crime-investigation" xmltv_id="Crime + Investigation.de">Crime + Investigation</channel>
+    <channel update="i" site="klack.de" site_id="112/13th-street" xmltv_id="13th Street.de">13th Street</channel>
+    <channel update="i" site="klack.de" site_id="75/syfy" xmltv_id="Syfy.de">Syfy</channel>
+    <channel update="i" site="klack.de" site_id="164/universal-tv" xmltv_id="Universal TV.de">Universal TV</channel>
+    <channel update="i" site="klack.de" site_id="73/animal-planet" xmltv_id="Animal Planet.de">Animal Planet</channel>
+    <channel update="i" site="klack.de" site_id="62/national-geographic" xmltv_id="National Geographic.de">National Geographic</channel>
+    <channel update="i" site="klack.de" site_id="149/national-geograpic-wild" xmltv_id="National Geograpic Wild.de">National Geograpic Wild</channel>
+    <channel update="i" site="klack.de" site_id="27/discovery-channel" xmltv_id="Discovery Channel.de">Discovery Channel</channel>
+    <channel update="i" site="klack.de" site_id="128/spiegel-tv-wissen" xmltv_id="Spiegel TV Wissen.de">Spiegel TV Wissen</channel>
+    <channel update="i" site="klack.de" site_id="152/spiegel-geschichte" xmltv_id="Spiegel Geschichte.de">Spiegel Geschichte</channel>
+    <channel update="i" site="klack.de" site_id="47/history" xmltv_id="History.de">History</channel>
+    <channel update="i" site="klack.de" site_id="174/planet" xmltv_id="Planet.de">Planet</channel>
+    <channel update="i" site="klack.de" site_id="26/disney-cinemagic" xmltv_id="Disney Cinemagic.de">Disney Cinemagic</channel>
+    <channel update="i" site="klack.de" site_id="28/disney-xd" xmltv_id="Disney XD.de">Disney XD</channel>
+    <channel update="i" site="klack.de" site_id="178/disney-junior" xmltv_id="Disney Junior.de">Disney Junior</channel>
+    <channel update="i" site="klack.de" site_id="50/junior" xmltv_id="Junior.de">Junior</channel>
+    <channel update="i" site="klack.de" site_id="175/boomerang" xmltv_id="Boomerang.de">Boomerang</channel>
+    <channel update="i" site="klack.de" site_id="150/sat-1-emotions" xmltv_id="SAT.1 emotions.de">SAT.1 emotions</channel>
+    <channel update="i" site="klack.de" site_id="134/rtl-passion" xmltv_id="RTL Passion.de">RTL Passion</channel>
+    <channel update="i" site="klack.de" site_id="45/heimatkanal" xmltv_id="Heimatkanal.de">Heimatkanal</channel>
+    <channel update="i" site="klack.de" site_id="93/silverline" xmltv_id="Silverline.de">Silverline</channel>
+    <channel update="i" site="klack.de" site_id="57/mtv" xmltv_id="MTV.de">MTV</channel>
+    <channel update="i" site="klack.de" site_id="21/stingray-classica" xmltv_id="Stingray Classica.de">Stingray Classica</channel>
+    <channel update="i" site="klack.de" site_id="157/prosieben-fun" xmltv_id="ProSieben Fun.de">ProSieben Fun</channel>
+    <channel update="i" site="klack.de" site_id="158/romance-tv" xmltv_id="Romance TV.de">Romance TV</channel>
+    <channel update="i" site="klack.de" site_id="159/rtl-living" xmltv_id="RTL Living.de">RTL Living</channel>
+    <channel update="i" site="klack.de" site_id="156/cartoon-network" xmltv_id="Cartoon Network.de">Cartoon Network</channel>
+    <channel update="i" site="klack.de" site_id="44/goldstar-tv" xmltv_id="Goldstar TV.de">Goldstar TV</channel>
+    <channel update="i" site="klack.de" site_id="176/e" xmltv_id="E!.de">E!</channel>
+    <channel update="i" site="klack.de" site_id="74/playboy-tv" xmltv_id="Playboy TV.de">Playboy TV</channel>
+    <channel update="i" site="klack.de" site_id="18/beate-uhse-tv" xmltv_id="Beate Uhse TV.de">Beate Uhse TV</channel>
+    <channel update="i" site="klack.de" site_id="36/eurosport-1" xmltv_id="Eurosport 1.de">Eurosport 1</channel>
+    <channel update="i" site="klack.de" site_id="33/sport1" xmltv_id="Sport1.de">Sport1</channel>
+    <channel update="i" site="klack.de" site_id="177/sport1" xmltv_id="Sport1+.de">Sport1+</channel>
+    <channel update="i" site="klack.de" site_id="143/eurosport-2" xmltv_id="Eurosport 2.de">Eurosport 2</channel>
+    <channel update="i" site="klack.de" site_id="139/orf-sport" xmltv_id="ORF Sport +.de">ORF Sport +</channel>
+    <channel update="i" site="klack.de" site_id="189/esports1" xmltv_id="eSPORTS1.de">eSPORTS1</channel>
+    <channel update="i" site="klack.de" site_id="5/das-erste" xmltv_id="Das Erste.de">Das Erste</channel>
+    <channel update="i" site="klack.de" site_id="129/zdf" xmltv_id="ZDF.de">ZDF</channel>
+    <channel update="i" site="klack.de" site_id="86/rtl" xmltv_id="RTL.de">RTL</channel>
+    <channel update="i" site="klack.de" site_id="92/sat-1" xmltv_id="SAT.1.de">SAT.1</channel>
+    <channel update="i" site="klack.de" site_id="79/prosieben" xmltv_id="ProSieben.de">ProSieben</channel>
+    <channel update="i" site="klack.de" site_id="87/rtl-2" xmltv_id="RTL 2.de">RTL 2</channel>
+    <channel update="i" site="klack.de" site_id="126/vox" xmltv_id="VOX.de">VOX</channel>
+    <channel update="i" site="klack.de" site_id="51/kabel-eins" xmltv_id="Kabel eins.de">Kabel eins</channel>
+    <channel update="i" site="klack.de" site_id="118/tele-5" xmltv_id="TELE 5.de">TELE 5</channel>
+    <channel update="i" site="klack.de" site_id="6/arte" xmltv_id="ARTE.de">ARTE</channel>
+    <channel update="i" site="klack.de" site_id="1/3sat" xmltv_id="3sat.de">3sat</channel>
+    <channel update="i" site="klack.de" site_id="113/super-rtl" xmltv_id="Super RTL.de">Super RTL</channel>
+    <channel update="i" site="klack.de" site_id="127/wdr" xmltv_id="WDR.de">WDR</channel>
+    <channel update="i" site="klack.de" site_id="67/ndr" xmltv_id="NDR.de">NDR</channel>
+    <channel update="i" site="klack.de" site_id="12/br" xmltv_id="BR.de">BR</channel>
+    <channel update="i" site="klack.de" site_id="90/swr-bw" xmltv_id="SWR BW.de">SWR BW</channel>
+    <channel update="i" site="klack.de" site_id="49/hr" xmltv_id="HR.de">HR</channel>
+    <channel update="i" site="klack.de" site_id="55/mdr" xmltv_id="MDR.de">MDR</channel>
+    <channel update="i" site="klack.de" site_id="83/rbb" xmltv_id="RBB.de">RBB</channel>
+    <channel update="i" site="klack.de" site_id="172/swr-rp" xmltv_id="SWR RP.de">SWR RP</channel>
+    <channel update="i" site="klack.de" site_id="2/ard-alpha" xmltv_id="ARD ALPHA.de">ARD ALPHA</channel>
+    <channel update="i" site="klack.de" site_id="111/spreekanal" xmltv_id="Spreekanal.de">Spreekanal</channel>
+    <channel update="i" site="klack.de" site_id="58/muenchen-tv" xmltv_id="München TV.de">München TV</channel>
+    <channel update="i" site="klack.de" site_id="117/tide-tv" xmltv_id="Tide TV.de">Tide TV</channel>
+    <channel update="i" site="klack.de" site_id="123/tv-berlin" xmltv_id="TV Berlin.de">TV Berlin</channel>
+    <channel update="i" site="klack.de" site_id="39/franken-tv" xmltv_id="Franken TV.de">Franken TV</channel>
+    <channel update="i" site="klack.de" site_id="148/hamburg-1" xmltv_id="Hamburg 1.de">Hamburg 1</channel>
+    <channel update="i" site="klack.de" site_id="131/zdfneo" xmltv_id="ZDFneo.de">ZDFneo</channel>
+    <channel update="i" site="klack.de" site_id="133/sixx" xmltv_id="sixx.de">sixx</channel>
+    <channel update="i" site="klack.de" site_id="153/prosieben-maxx" xmltv_id="ProSieben Maxx.de">ProSieben Maxx</channel>
+    <channel update="i" site="klack.de" site_id="142/nitro" xmltv_id="NITRO.de">NITRO</channel>
+    <channel update="i" site="klack.de" site_id="179/rtl-plus" xmltv_id="RTL plus.de">RTL plus</channel>
+    <channel update="i" site="klack.de" site_id="151/sat-1-gold" xmltv_id="SAT.1 Gold.de">SAT.1 Gold</channel>
+    <channel update="i" site="klack.de" site_id="135/servus-tv" xmltv_id="Servus TV.de">Servus TV</channel>
+    <channel update="i" site="klack.de" site_id="4/anixe-hd" xmltv_id="Anixe HD.de">Anixe HD</channel>
+    <channel update="i" site="klack.de" site_id="64/nick" xmltv_id="NICK.de">NICK</channel>
+    <channel update="i" site="klack.de" site_id="54/kika" xmltv_id="KiKa.de">KiKa</channel>
+    <channel update="i" site="klack.de" site_id="180/toggo-plus" xmltv_id="Toggo Plus.de">Toggo Plus</channel>
+    <channel update="i" site="klack.de" site_id="23/comedy-central" xmltv_id="Comedy Central.de">Comedy Central</channel>
+    <channel update="i" site="klack.de" site_id="183/kabel-1-doku" xmltv_id="Kabel 1 Doku.de">Kabel 1 Doku</channel>
+    <channel update="i" site="klack.de" site_id="186/n24-doku" xmltv_id="N24 Doku.de">N24 Doku</channel>
+    <channel update="i" site="klack.de" site_id="25/disney-channel" xmltv_id="Disney Channel.de">Disney Channel</channel>
+    <channel update="i" site="klack.de" site_id="182/zee-one" xmltv_id="Zee One.de">Zee One</channel>
+    <channel update="i" site="klack.de" site_id="77/phoenix" xmltv_id="Phoenix.de">Phoenix</channel>
+    <channel update="i" site="klack.de" site_id="30/dmax" xmltv_id="DMAX.de">DMAX</channel>
+    <channel update="i" site="klack.de" site_id="155/tlc" xmltv_id="TLC.de">TLC</channel>
+    <channel update="i" site="klack.de" site_id="60/welt" xmltv_id="WELT.de">WELT</channel>
+    <channel update="i" site="klack.de" site_id="38/one" xmltv_id="ONE.de">ONE</channel>
+    <channel update="i" site="klack.de" site_id="68/n-tv" xmltv_id="N-TV.de">N-TV</channel>
+    <channel update="i" site="klack.de" site_id="14/bbc-world" xmltv_id="BBC World.de">BBC World</channel>
+    <channel update="i" site="klack.de" site_id="37/tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
+    <channel update="i" site="klack.de" site_id="35/euronews" xmltv_id="Euronews.de">Euronews</channel>
+    <channel update="i" site="klack.de" site_id="130/zdfinfo" xmltv_id="ZDFinfo.de">ZDFinfo</channel>
+    <channel update="i" site="klack.de" site_id="34/dw-english" xmltv_id="DW English.de">DW English</channel>
+    <channel update="i" site="klack.de" site_id="22/cnn" xmltv_id="CNN.de">CNN</channel>
+    <channel update="i" site="klack.de" site_id="16/bibel-tv" xmltv_id="Bibel TV.de">Bibel TV</channel>
+    <channel update="i" site="klack.de" site_id="48/hse24" xmltv_id="HSE24.de">HSE24</channel>
+    <channel update="i" site="klack.de" site_id="81/qvc" xmltv_id="QVC.de">QVC</channel>
+    <channel update="i" site="klack.de" site_id="109/sonnenklar-tv" xmltv_id="Sonnenklar TV.de">Sonnenklar TV</channel>
+    <channel update="i" site="klack.de" site_id="190/welt-der-wunder" xmltv_id="Welt der Wunder.de">Welt der Wunder</channel>
+    <channel update="i" site="klack.de" site_id="191/home-garden-tv" xmltv_id="Home &amp; Garden TV.de">Home &amp; Garden TV</channel>
+    <channel update="i" site="klack.de" site_id="71/orf-1" xmltv_id="ORF 1.de">ORF 1</channel>
+    <channel update="i" site="klack.de" site_id="72/orf-2" xmltv_id="ORF 2.de">ORF 2</channel>
+    <channel update="i" site="klack.de" site_id="137/orf-3" xmltv_id="ORF 3.de">ORF 3</channel>
+    <channel update="i" site="klack.de" site_id="7/atv" xmltv_id="ATV.de">ATV</channel>
+    <channel update="i" site="klack.de" site_id="138/atv-2" xmltv_id="ATV 2.de">ATV 2</channel>
+    <channel update="i" site="klack.de" site_id="80/puls-4" xmltv_id="Puls 4.de">Puls 4</channel>
+    <channel update="i" site="klack.de" site_id="32/srf-1" xmltv_id="SRF 1.de">SRF 1</channel>
+    <channel update="i" site="klack.de" site_id="144/srf-2" xmltv_id="SRF 2.de">SRF 2</channel>
+    <channel update="i" site="klack.de" site_id="145/france-2" xmltv_id="France 2.de">France 2</channel>
+    <channel update="i" site="klack.de" site_id="42/france-3" xmltv_id="France 3.de">France 3</channel>
+    <channel update="i" site="klack.de" site_id="15/bbc-entertainment" xmltv_id="BBC Entertainment.de">BBC Entertainment</channel>
+    <channel update="i" site="klack.de" site_id="96/sky-cinema" xmltv_id="Sky Cinema.de">Sky Cinema</channel>
+    <channel update="i" site="klack.de" site_id="97/sky-cinema-1" xmltv_id="Sky Cinema +1.de">Sky Cinema +1</channel>
+    <channel update="i" site="klack.de" site_id="98/sky-cinema-24" xmltv_id="Sky Cinema +24.de">Sky Cinema +24</channel>
+    <channel update="i" site="klack.de" site_id="99/sky-cinema-hits" xmltv_id="Sky Cinema Hits.de">Sky Cinema Hits</channel>
+    <channel update="i" site="klack.de" site_id="94/sky-cinema-action" xmltv_id="Sky Cinema Action.de">Sky Cinema Action</channel>
+    <channel update="i" site="klack.de" site_id="100/sky-cinema-comedy" xmltv_id="Sky Cinema Comedy.de">Sky Cinema Comedy</channel>
+    <channel update="i" site="klack.de" site_id="101/sky-cinema-emotion" xmltv_id="Sky Cinema Emotion.de">Sky Cinema Emotion</channel>
+    <channel update="i" site="klack.de" site_id="103/sky-cinema-nostalgie" xmltv_id="Sky Cinema Nostalgie.de">Sky Cinema Nostalgie</channel>
+    <channel update="i" site="klack.de" site_id="184/sky-cinema-family" xmltv_id="Sky Cinema Family.de">Sky Cinema Family</channel>
+    <channel update="i" site="klack.de" site_id="185/sky-1" xmltv_id="Sky 1.de">Sky 1</channel>
+    <channel update="i" site="klack.de" site_id="102/sky-krimi" xmltv_id="Sky Krimi.de">Sky Krimi</channel>
+    <channel update="i" site="klack.de" site_id="95/sky-fussball-bundesliga" xmltv_id="Sky Fußball Bundesliga.de">Sky Fußball Bundesliga</channel>
+    <channel update="i" site="klack.de" site_id="104/sky-sport-1" xmltv_id="Sky Sport 1.de">Sky Sport 1</channel>
+    <channel update="i" site="klack.de" site_id="105/sky-sport-2" xmltv_id="Sky Sport 2.de">Sky Sport 2</channel>
+    <channel update="i" site="klack.de" site_id="106/sky-sport-austria" xmltv_id="Sky Sport Austria.de">Sky Sport Austria</channel>
+    <channel update="i" site="klack.de" site_id="188/sky-sport-news-hd" xmltv_id="Sky Sport News HD.de">Sky Sport News HD</channel>
+    <channel update="i" site="klack.de" site_id="136/tnt-film" xmltv_id="TNT Film.de">TNT Film</channel>
+    <channel update="i" site="klack.de" site_id="173/tnt-comedy" xmltv_id="TNT Comedy.de">TNT Comedy</channel>
+    <channel update="i" site="klack.de" site_id="52/kabel-eins-classics" xmltv_id="Kabel eins Classics.de">Kabel eins Classics</channel>
+    <channel update="i" site="klack.de" site_id="41/fox" xmltv_id="FOX.de">FOX</channel>
+    <channel update="i" site="klack.de" site_id="120/tnt-serie" xmltv_id="TNT Serie.de">TNT Serie</channel>
+    <channel update="i" site="klack.de" site_id="88/rtl-crime" xmltv_id="RTL Crime.de">RTL Crime</channel>
+    <channel update="i" site="klack.de" site_id="162/sky-atlantic-hd" xmltv_id="Sky Atlantic HD.de">Sky Atlantic HD</channel>
+    <channel update="i" site="klack.de" site_id="53/kinowelt" xmltv_id="Kinowelt.de">Kinowelt</channel>
+    <channel update="i" site="klack.de" site_id="9/axn" xmltv_id="AXN.de">AXN</channel>
+    <channel update="i" site="klack.de" site_id="170/crime-investigation" xmltv_id="Crime + Investigation.de">Crime + Investigation</channel>
+    <channel update="i" site="klack.de" site_id="112/13th-street" xmltv_id="13th Street.de">13th Street</channel>
+    <channel update="i" site="klack.de" site_id="75/syfy" xmltv_id="Syfy.de">Syfy</channel>
+    <channel update="i" site="klack.de" site_id="164/universal-tv" xmltv_id="Universal TV.de">Universal TV</channel>
+    <channel update="i" site="klack.de" site_id="73/animal-planet" xmltv_id="Animal Planet.de">Animal Planet</channel>
+    <channel update="i" site="klack.de" site_id="62/national-geographic" xmltv_id="National Geographic.de">National Geographic</channel>
+    <channel update="i" site="klack.de" site_id="149/national-geograpic-wild" xmltv_id="National Geograpic Wild.de">National Geograpic Wild</channel>
+    <channel update="i" site="klack.de" site_id="27/discovery-channel" xmltv_id="Discovery Channel.de">Discovery Channel</channel>
+    <channel update="i" site="klack.de" site_id="128/spiegel-tv-wissen" xmltv_id="Spiegel TV Wissen.de">Spiegel TV Wissen</channel>
+    <channel update="i" site="klack.de" site_id="152/spiegel-geschichte" xmltv_id="Spiegel Geschichte.de">Spiegel Geschichte</channel>
+    <channel update="i" site="klack.de" site_id="47/history" xmltv_id="History.de">History</channel>
+    <channel update="i" site="klack.de" site_id="174/planet" xmltv_id="Planet.de">Planet</channel>
+    <channel update="i" site="klack.de" site_id="26/disney-cinemagic" xmltv_id="Disney Cinemagic.de">Disney Cinemagic</channel>
+    <channel update="i" site="klack.de" site_id="28/disney-xd" xmltv_id="Disney XD.de">Disney XD</channel>
+    <channel update="i" site="klack.de" site_id="178/disney-junior" xmltv_id="Disney Junior.de">Disney Junior</channel>
+    <channel update="i" site="klack.de" site_id="50/junior" xmltv_id="Junior.de">Junior</channel>
+    <channel update="i" site="klack.de" site_id="175/boomerang" xmltv_id="Boomerang.de">Boomerang</channel>
+    <channel update="i" site="klack.de" site_id="150/sat-1-emotions" xmltv_id="SAT.1 emotions.de">SAT.1 emotions</channel>
+    <channel update="i" site="klack.de" site_id="134/rtl-passion" xmltv_id="RTL Passion.de">RTL Passion</channel>
+    <channel update="i" site="klack.de" site_id="45/heimatkanal" xmltv_id="Heimatkanal.de">Heimatkanal</channel>
+    <channel update="i" site="klack.de" site_id="93/silverline" xmltv_id="Silverline.de">Silverline</channel>
+    <channel update="i" site="klack.de" site_id="57/mtv" xmltv_id="MTV.de">MTV</channel>
+    <channel update="i" site="klack.de" site_id="21/stingray-classica" xmltv_id="Stingray Classica.de">Stingray Classica</channel>
+    <channel update="i" site="klack.de" site_id="157/prosieben-fun" xmltv_id="ProSieben Fun.de">ProSieben Fun</channel>
+    <channel update="i" site="klack.de" site_id="158/romance-tv" xmltv_id="Romance TV.de">Romance TV</channel>
+    <channel update="i" site="klack.de" site_id="159/rtl-living" xmltv_id="RTL Living.de">RTL Living</channel>
+    <channel update="i" site="klack.de" site_id="156/cartoon-network" xmltv_id="Cartoon Network.de">Cartoon Network</channel>
+    <channel update="i" site="klack.de" site_id="44/goldstar-tv" xmltv_id="Goldstar TV.de">Goldstar TV</channel>
+    <channel update="i" site="klack.de" site_id="176/e" xmltv_id="E!.de">E!</channel>
+    <channel update="i" site="klack.de" site_id="74/playboy-tv" xmltv_id="Playboy TV.de">Playboy TV</channel>
+    <channel update="i" site="klack.de" site_id="18/beate-uhse-tv" xmltv_id="Beate Uhse TV.de">Beate Uhse TV</channel>
+    <channel update="i" site="klack.de" site_id="36/eurosport-1" xmltv_id="Eurosport 1.de">Eurosport 1</channel>
+    <channel update="i" site="klack.de" site_id="33/sport1" xmltv_id="Sport1.de">Sport1</channel>
+    <channel update="i" site="klack.de" site_id="177/sport1" xmltv_id="Sport1+.de">Sport1+</channel>
+    <channel update="i" site="klack.de" site_id="143/eurosport-2" xmltv_id="Eurosport 2.de">Eurosport 2</channel>
+    <channel update="i" site="klack.de" site_id="139/orf-sport" xmltv_id="ORF Sport +.de">ORF Sport +</channel>
+    <channel update="i" site="klack.de" site_id="189/esports1" xmltv_id="eSPORTS1.de">eSPORTS1</channel>
+    <channel update="i" site="klack.de" site_id="5/das-erste" xmltv_id="Das Erste.de">Das Erste</channel>
+    <channel update="i" site="klack.de" site_id="129/zdf" xmltv_id="ZDF.de">ZDF</channel>
+    <channel update="i" site="klack.de" site_id="86/rtl" xmltv_id="RTL.de">RTL</channel>
+    <channel update="i" site="klack.de" site_id="92/sat-1" xmltv_id="SAT.1.de">SAT.1</channel>
+    <channel update="i" site="klack.de" site_id="79/prosieben" xmltv_id="ProSieben.de">ProSieben</channel>
+    <channel update="i" site="klack.de" site_id="87/rtl-2" xmltv_id="RTL 2.de">RTL 2</channel>
+    <channel update="i" site="klack.de" site_id="126/vox" xmltv_id="VOX.de">VOX</channel>
+    <channel update="i" site="klack.de" site_id="51/kabel-eins" xmltv_id="Kabel eins.de">Kabel eins</channel>
+    <channel update="i" site="klack.de" site_id="118/tele-5" xmltv_id="TELE 5.de">TELE 5</channel>
+    <channel update="i" site="klack.de" site_id="6/arte" xmltv_id="ARTE.de">ARTE</channel>
+    <channel update="i" site="klack.de" site_id="1/3sat" xmltv_id="3sat.de">3sat</channel>
+    <channel update="i" site="klack.de" site_id="113/super-rtl" xmltv_id="Super RTL.de">Super RTL</channel>
+    <channel update="i" site="klack.de" site_id="127/wdr" xmltv_id="WDR.de">WDR</channel>
+    <channel update="i" site="klack.de" site_id="67/ndr" xmltv_id="NDR.de">NDR</channel>
+    <channel update="i" site="klack.de" site_id="12/br" xmltv_id="BR.de">BR</channel>
+    <channel update="i" site="klack.de" site_id="90/swr-bw" xmltv_id="SWR BW.de">SWR BW</channel>
+    <channel update="i" site="klack.de" site_id="49/hr" xmltv_id="HR.de">HR</channel>
+    <channel update="i" site="klack.de" site_id="55/mdr" xmltv_id="MDR.de">MDR</channel>
+    <channel update="i" site="klack.de" site_id="83/rbb" xmltv_id="RBB.de">RBB</channel>
+    <channel update="i" site="klack.de" site_id="172/swr-rp" xmltv_id="SWR RP.de">SWR RP</channel>
+    <channel update="i" site="klack.de" site_id="2/ard-alpha" xmltv_id="ARD ALPHA.de">ARD ALPHA</channel>
+    <channel update="i" site="klack.de" site_id="111/spreekanal" xmltv_id="Spreekanal.de">Spreekanal</channel>
+    <channel update="i" site="klack.de" site_id="58/muenchen-tv" xmltv_id="München TV.de">München TV</channel>
+    <channel update="i" site="klack.de" site_id="117/tide-tv" xmltv_id="Tide TV.de">Tide TV</channel>
+    <channel update="i" site="klack.de" site_id="123/tv-berlin" xmltv_id="TV Berlin.de">TV Berlin</channel>
+    <channel update="i" site="klack.de" site_id="39/franken-tv" xmltv_id="Franken TV.de">Franken TV</channel>
+    <channel update="i" site="klack.de" site_id="148/hamburg-1" xmltv_id="Hamburg 1.de">Hamburg 1</channel>
+    <channel update="i" site="klack.de" site_id="131/zdfneo" xmltv_id="ZDFneo.de">ZDFneo</channel>
+    <channel update="i" site="klack.de" site_id="133/sixx" xmltv_id="sixx.de">sixx</channel>
+    <channel update="i" site="klack.de" site_id="153/prosieben-maxx" xmltv_id="ProSieben Maxx.de">ProSieben Maxx</channel>
+    <channel update="i" site="klack.de" site_id="142/nitro" xmltv_id="NITRO.de">NITRO</channel>
+    <channel update="i" site="klack.de" site_id="179/rtl-plus" xmltv_id="RTL plus.de">RTL plus</channel>
+    <channel update="i" site="klack.de" site_id="151/sat-1-gold" xmltv_id="SAT.1 Gold.de">SAT.1 Gold</channel>
+    <channel update="i" site="klack.de" site_id="135/servus-tv" xmltv_id="Servus TV.de">Servus TV</channel>
+    <channel update="i" site="klack.de" site_id="4/anixe-hd" xmltv_id="Anixe HD.de">Anixe HD</channel>
+    <channel update="i" site="klack.de" site_id="64/nick" xmltv_id="NICK.de">NICK</channel>
+    <channel update="i" site="klack.de" site_id="54/kika" xmltv_id="KiKa.de">KiKa</channel>
+    <channel update="i" site="klack.de" site_id="180/toggo-plus" xmltv_id="Toggo Plus.de">Toggo Plus</channel>
+    <channel update="i" site="klack.de" site_id="23/comedy-central" xmltv_id="Comedy Central.de">Comedy Central</channel>
+    <channel update="i" site="klack.de" site_id="183/kabel-1-doku" xmltv_id="Kabel 1 Doku.de">Kabel 1 Doku</channel>
+    <channel update="i" site="klack.de" site_id="186/n24-doku" xmltv_id="N24 Doku.de">N24 Doku</channel>
+    <channel update="i" site="klack.de" site_id="25/disney-channel" xmltv_id="Disney Channel.de">Disney Channel</channel>
+    <channel update="i" site="klack.de" site_id="182/zee-one" xmltv_id="Zee One.de">Zee One</channel>
+    <channel update="i" site="klack.de" site_id="77/phoenix" xmltv_id="Phoenix.de">Phoenix</channel>
+    <channel update="i" site="klack.de" site_id="30/dmax" xmltv_id="DMAX.de">DMAX</channel>
+    <channel update="i" site="klack.de" site_id="155/tlc" xmltv_id="TLC.de">TLC</channel>
+    <channel update="i" site="klack.de" site_id="60/welt" xmltv_id="WELT.de">WELT</channel>
+    <channel update="i" site="klack.de" site_id="38/one" xmltv_id="ONE.de">ONE</channel>
+    <channel update="i" site="klack.de" site_id="68/n-tv" xmltv_id="N-TV.de">N-TV</channel>
+    <channel update="i" site="klack.de" site_id="14/bbc-world" xmltv_id="BBC World.de">BBC World</channel>
+    <channel update="i" site="klack.de" site_id="37/tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
+    <channel update="i" site="klack.de" site_id="35/euronews" xmltv_id="Euronews.de">Euronews</channel>
+    <channel update="i" site="klack.de" site_id="130/zdfinfo" xmltv_id="ZDFinfo.de">ZDFinfo</channel>
+    <channel update="i" site="klack.de" site_id="22/cnn" xmltv_id="CNN.de">CNN</channel>
+    <channel update="i" site="klack.de" site_id="34/dw-english" xmltv_id="DW English.de">DW English</channel>
+    <channel update="i" site="klack.de" site_id="16/bibel-tv" xmltv_id="Bibel TV.de">Bibel TV</channel>
+    <channel update="i" site="klack.de" site_id="48/hse24" xmltv_id="HSE24.de">HSE24</channel>
+    <channel update="i" site="klack.de" site_id="81/qvc" xmltv_id="QVC.de">QVC</channel>
+    <channel update="i" site="klack.de" site_id="109/sonnenklar-tv" xmltv_id="Sonnenklar TV.de">Sonnenklar TV</channel>
+    <channel update="i" site="klack.de" site_id="190/welt-der-wunder" xmltv_id="Welt der Wunder.de">Welt der Wunder</channel>
+    <channel update="i" site="klack.de" site_id="191/home-garden-tv" xmltv_id="Home &amp; Garden TV.de">Home &amp; Garden TV</channel>
+    <channel update="i" site="klack.de" site_id="71/orf-1" xmltv_id="ORF 1.de">ORF 1</channel>
+    <channel update="i" site="klack.de" site_id="72/orf-2" xmltv_id="ORF 2.de">ORF 2</channel>
+    <channel update="i" site="klack.de" site_id="137/orf-3" xmltv_id="ORF 3.de">ORF 3</channel>
+    <channel update="i" site="klack.de" site_id="7/atv" xmltv_id="ATV.de">ATV</channel>
+    <channel update="i" site="klack.de" site_id="138/atv-2" xmltv_id="ATV 2.de">ATV 2</channel>
+    <channel update="i" site="klack.de" site_id="80/puls-4" xmltv_id="Puls 4.de">Puls 4</channel>
+    <channel update="i" site="klack.de" site_id="32/srf-1" xmltv_id="SRF 1.de">SRF 1</channel>
+    <channel update="i" site="klack.de" site_id="144/srf-2" xmltv_id="SRF 2.de">SRF 2</channel>
+    <channel update="i" site="klack.de" site_id="145/france-2" xmltv_id="France 2.de">France 2</channel>
+    <channel update="i" site="klack.de" site_id="42/france-3" xmltv_id="France 3.de">France 3</channel>
+    <channel update="i" site="klack.de" site_id="15/bbc-entertainment" xmltv_id="BBC Entertainment.de">BBC Entertainment</channel>
+    <channel update="i" site="klack.de" site_id="96/sky-cinema" xmltv_id="Sky Cinema.de">Sky Cinema</channel>
+    <channel update="i" site="klack.de" site_id="97/sky-cinema-1" xmltv_id="Sky Cinema +1.de">Sky Cinema +1</channel>
+    <channel update="i" site="klack.de" site_id="98/sky-cinema-24" xmltv_id="Sky Cinema +24.de">Sky Cinema +24</channel>
+    <channel update="i" site="klack.de" site_id="99/sky-cinema-hits" xmltv_id="Sky Cinema Hits.de">Sky Cinema Hits</channel>
+    <channel update="i" site="klack.de" site_id="94/sky-cinema-action" xmltv_id="Sky Cinema Action.de">Sky Cinema Action</channel>
+    <channel update="i" site="klack.de" site_id="100/sky-cinema-comedy" xmltv_id="Sky Cinema Comedy.de">Sky Cinema Comedy</channel>
+    <channel update="i" site="klack.de" site_id="101/sky-cinema-emotion" xmltv_id="Sky Cinema Emotion.de">Sky Cinema Emotion</channel>
+    <channel update="i" site="klack.de" site_id="103/sky-cinema-nostalgie" xmltv_id="Sky Cinema Nostalgie.de">Sky Cinema Nostalgie</channel>
+    <channel update="i" site="klack.de" site_id="184/sky-cinema-family" xmltv_id="Sky Cinema Family.de">Sky Cinema Family</channel>
+    <channel update="i" site="klack.de" site_id="185/sky-1" xmltv_id="Sky 1.de">Sky 1</channel>
+    <channel update="i" site="klack.de" site_id="102/sky-krimi" xmltv_id="Sky Krimi.de">Sky Krimi</channel>
+    <channel update="i" site="klack.de" site_id="95/sky-fussball-bundesliga" xmltv_id="Sky Fußball Bundesliga.de">Sky Fußball Bundesliga</channel>
+    <channel update="i" site="klack.de" site_id="104/sky-sport-1" xmltv_id="Sky Sport 1.de">Sky Sport 1</channel>
+    <channel update="i" site="klack.de" site_id="105/sky-sport-2" xmltv_id="Sky Sport 2.de">Sky Sport 2</channel>
+    <channel update="i" site="klack.de" site_id="106/sky-sport-austria" xmltv_id="Sky Sport Austria.de">Sky Sport Austria</channel>
+    <channel update="i" site="klack.de" site_id="188/sky-sport-news-hd" xmltv_id="Sky Sport News HD.de">Sky Sport News HD</channel>
+    <channel update="i" site="klack.de" site_id="136/tnt-film" xmltv_id="TNT Film.de">TNT Film</channel>
+    <channel update="i" site="klack.de" site_id="173/tnt-comedy" xmltv_id="TNT Comedy.de">TNT Comedy</channel>
+    <channel update="i" site="klack.de" site_id="52/kabel-eins-classics" xmltv_id="Kabel eins Classics.de">Kabel eins Classics</channel>
+    <channel update="i" site="klack.de" site_id="41/fox" xmltv_id="FOX.de">FOX</channel>
+    <channel update="i" site="klack.de" site_id="120/tnt-serie" xmltv_id="TNT Serie.de">TNT Serie</channel>
+    <channel update="i" site="klack.de" site_id="88/rtl-crime" xmltv_id="RTL Crime.de">RTL Crime</channel>
+    <channel update="i" site="klack.de" site_id="162/sky-atlantic-hd" xmltv_id="Sky Atlantic HD.de">Sky Atlantic HD</channel>
+    <channel update="i" site="klack.de" site_id="53/kinowelt" xmltv_id="Kinowelt.de">Kinowelt</channel>
+    <channel update="i" site="klack.de" site_id="9/axn" xmltv_id="AXN.de">AXN</channel>
+    <channel update="i" site="klack.de" site_id="170/crime-investigation" xmltv_id="Crime + Investigation.de">Crime + Investigation</channel>
+    <channel update="i" site="klack.de" site_id="112/13th-street" xmltv_id="13th Street.de">13th Street</channel>
+    <channel update="i" site="klack.de" site_id="75/syfy" xmltv_id="Syfy.de">Syfy</channel>
+    <channel update="i" site="klack.de" site_id="164/universal-tv" xmltv_id="Universal TV.de">Universal TV</channel>
+    <channel update="i" site="klack.de" site_id="73/animal-planet" xmltv_id="Animal Planet.de">Animal Planet</channel>
+    <channel update="i" site="klack.de" site_id="62/national-geographic" xmltv_id="National Geographic.de">National Geographic</channel>
+    <channel update="i" site="klack.de" site_id="149/national-geograpic-wild" xmltv_id="National Geograpic Wild.de">National Geograpic Wild</channel>
+    <channel update="i" site="klack.de" site_id="27/discovery-channel" xmltv_id="Discovery Channel.de">Discovery Channel</channel>
+    <channel update="i" site="klack.de" site_id="128/spiegel-tv-wissen" xmltv_id="Spiegel TV Wissen.de">Spiegel TV Wissen</channel>
+    <channel update="i" site="klack.de" site_id="152/spiegel-geschichte" xmltv_id="Spiegel Geschichte.de">Spiegel Geschichte</channel>
+    <channel update="i" site="klack.de" site_id="47/history" xmltv_id="History.de">History</channel>
+    <channel update="i" site="klack.de" site_id="174/planet" xmltv_id="Planet.de">Planet</channel>
+    <channel update="i" site="klack.de" site_id="26/disney-cinemagic" xmltv_id="Disney Cinemagic.de">Disney Cinemagic</channel>
+    <channel update="i" site="klack.de" site_id="28/disney-xd" xmltv_id="Disney XD.de">Disney XD</channel>
+    <channel update="i" site="klack.de" site_id="178/disney-junior" xmltv_id="Disney Junior.de">Disney Junior</channel>
+    <channel update="i" site="klack.de" site_id="50/junior" xmltv_id="Junior.de">Junior</channel>
+    <channel update="i" site="klack.de" site_id="175/boomerang" xmltv_id="Boomerang.de">Boomerang</channel>
+    <channel update="i" site="klack.de" site_id="150/sat-1-emotions" xmltv_id="SAT.1 emotions.de">SAT.1 emotions</channel>
+    <channel update="i" site="klack.de" site_id="134/rtl-passion" xmltv_id="RTL Passion.de">RTL Passion</channel>
+    <channel update="i" site="klack.de" site_id="45/heimatkanal" xmltv_id="Heimatkanal.de">Heimatkanal</channel>
+    <channel update="i" site="klack.de" site_id="93/silverline" xmltv_id="Silverline.de">Silverline</channel>
+    <channel update="i" site="klack.de" site_id="57/mtv" xmltv_id="MTV.de">MTV</channel>
+    <channel update="i" site="klack.de" site_id="21/stingray-classica" xmltv_id="Stingray Classica.de">Stingray Classica</channel>
+    <channel update="i" site="klack.de" site_id="157/prosieben-fun" xmltv_id="ProSieben Fun.de">ProSieben Fun</channel>
+    <channel update="i" site="klack.de" site_id="158/romance-tv" xmltv_id="Romance TV.de">Romance TV</channel>
+    <channel update="i" site="klack.de" site_id="159/rtl-living" xmltv_id="RTL Living.de">RTL Living</channel>
+    <channel update="i" site="klack.de" site_id="156/cartoon-network" xmltv_id="Cartoon Network.de">Cartoon Network</channel>
+    <channel update="i" site="klack.de" site_id="44/goldstar-tv" xmltv_id="Goldstar TV.de">Goldstar TV</channel>
+    <channel update="i" site="klack.de" site_id="176/e" xmltv_id="E!.de">E!</channel>
+    <channel update="i" site="klack.de" site_id="74/playboy-tv" xmltv_id="Playboy TV.de">Playboy TV</channel>
+    <channel update="i" site="klack.de" site_id="18/beate-uhse-tv" xmltv_id="Beate Uhse TV.de">Beate Uhse TV</channel>
+    <channel update="i" site="klack.de" site_id="36/eurosport-1" xmltv_id="Eurosport 1.de">Eurosport 1</channel>
+    <channel update="i" site="klack.de" site_id="33/sport1" xmltv_id="Sport1.de">Sport1</channel>
+    <channel update="i" site="klack.de" site_id="177/sport1" xmltv_id="Sport1+.de">Sport1+</channel>
+    <channel update="i" site="klack.de" site_id="143/eurosport-2" xmltv_id="Eurosport 2.de">Eurosport 2</channel>
+    <channel update="i" site="klack.de" site_id="139/orf-sport" xmltv_id="ORF Sport +.de">ORF Sport +</channel>
+    <channel update="i" site="klack.de" site_id="189/esports1" xmltv_id="eSPORTS1.de">eSPORTS1</channel>
+    <channel update="i" site="klack.de" site_id="5/das-erste" xmltv_id="Das Erste.de">Das Erste</channel>
+    <channel update="i" site="klack.de" site_id="129/zdf" xmltv_id="ZDF.de">ZDF</channel>
+    <channel update="i" site="klack.de" site_id="86/rtl" xmltv_id="RTL.de">RTL</channel>
+    <channel update="i" site="klack.de" site_id="92/sat-1" xmltv_id="SAT.1.de">SAT.1</channel>
+    <channel update="i" site="klack.de" site_id="79/prosieben" xmltv_id="ProSieben.de">ProSieben</channel>
+    <channel update="i" site="klack.de" site_id="87/rtl-2" xmltv_id="RTL 2.de">RTL 2</channel>
+    <channel update="i" site="klack.de" site_id="126/vox" xmltv_id="VOX.de">VOX</channel>
+    <channel update="i" site="klack.de" site_id="51/kabel-eins" xmltv_id="Kabel eins.de">Kabel eins</channel>
+    <channel update="i" site="klack.de" site_id="118/tele-5" xmltv_id="TELE 5.de">TELE 5</channel>
+    <channel update="i" site="klack.de" site_id="6/arte" xmltv_id="ARTE.de">ARTE</channel>
+    <channel update="i" site="klack.de" site_id="1/3sat" xmltv_id="3sat.de">3sat</channel>
+    <channel update="i" site="klack.de" site_id="113/super-rtl" xmltv_id="Super RTL.de">Super RTL</channel>
+    <channel update="i" site="klack.de" site_id="127/wdr" xmltv_id="WDR.de">WDR</channel>
+    <channel update="i" site="klack.de" site_id="67/ndr" xmltv_id="NDR.de">NDR</channel>
+    <channel update="i" site="klack.de" site_id="12/br" xmltv_id="BR.de">BR</channel>
+    <channel update="i" site="klack.de" site_id="90/swr-bw" xmltv_id="SWR BW.de">SWR BW</channel>
+    <channel update="i" site="klack.de" site_id="49/hr" xmltv_id="HR.de">HR</channel>
+    <channel update="i" site="klack.de" site_id="55/mdr" xmltv_id="MDR.de">MDR</channel>
+    <channel update="i" site="klack.de" site_id="83/rbb" xmltv_id="RBB.de">RBB</channel>
+    <channel update="i" site="klack.de" site_id="172/swr-rp" xmltv_id="SWR RP.de">SWR RP</channel>
+    <channel update="i" site="klack.de" site_id="2/ard-alpha" xmltv_id="ARD ALPHA.de">ARD ALPHA</channel>
+    <channel update="i" site="klack.de" site_id="111/spreekanal" xmltv_id="Spreekanal.de">Spreekanal</channel>
+    <channel update="i" site="klack.de" site_id="58/muenchen-tv" xmltv_id="München TV.de">München TV</channel>
+    <channel update="i" site="klack.de" site_id="117/tide-tv" xmltv_id="Tide TV.de">Tide TV</channel>
+    <channel update="i" site="klack.de" site_id="123/tv-berlin" xmltv_id="TV Berlin.de">TV Berlin</channel>
+    <channel update="i" site="klack.de" site_id="39/franken-tv" xmltv_id="Franken TV.de">Franken TV</channel>
+    <channel update="i" site="klack.de" site_id="148/hamburg-1" xmltv_id="Hamburg 1.de">Hamburg 1</channel>
+    <channel update="i" site="klack.de" site_id="131/zdfneo" xmltv_id="ZDFneo.de">ZDFneo</channel>
+    <channel update="i" site="klack.de" site_id="133/sixx" xmltv_id="sixx.de">sixx</channel>
+    <channel update="i" site="klack.de" site_id="153/prosieben-maxx" xmltv_id="ProSieben Maxx.de">ProSieben Maxx</channel>
+    <channel update="i" site="klack.de" site_id="142/nitro" xmltv_id="NITRO.de">NITRO</channel>
+    <channel update="i" site="klack.de" site_id="179/rtl-plus" xmltv_id="RTL plus.de">RTL plus</channel>
+    <channel update="i" site="klack.de" site_id="151/sat-1-gold" xmltv_id="SAT.1 Gold.de">SAT.1 Gold</channel>
+    <channel update="i" site="klack.de" site_id="135/servus-tv" xmltv_id="Servus TV.de">Servus TV</channel>
+    <channel update="i" site="klack.de" site_id="4/anixe-hd" xmltv_id="Anixe HD.de">Anixe HD</channel>
+    <channel update="i" site="klack.de" site_id="64/nick" xmltv_id="NICK.de">NICK</channel>
+    <channel update="i" site="klack.de" site_id="54/kika" xmltv_id="KiKa.de">KiKa</channel>
+    <channel update="i" site="klack.de" site_id="180/toggo-plus" xmltv_id="Toggo Plus.de">Toggo Plus</channel>
+    <channel update="i" site="klack.de" site_id="23/comedy-central" xmltv_id="Comedy Central.de">Comedy Central</channel>
+    <channel update="i" site="klack.de" site_id="183/kabel-1-doku" xmltv_id="Kabel 1 Doku.de">Kabel 1 Doku</channel>
+    <channel update="i" site="klack.de" site_id="186/n24-doku" xmltv_id="N24 Doku.de">N24 Doku</channel>
+    <channel update="i" site="klack.de" site_id="25/disney-channel" xmltv_id="Disney Channel.de">Disney Channel</channel>
+    <channel update="i" site="klack.de" site_id="182/zee-one" xmltv_id="Zee One.de">Zee One</channel>
+    <channel update="i" site="klack.de" site_id="77/phoenix" xmltv_id="Phoenix.de">Phoenix</channel>
+    <channel update="i" site="klack.de" site_id="30/dmax" xmltv_id="DMAX.de">DMAX</channel>
+    <channel update="i" site="klack.de" site_id="155/tlc" xmltv_id="TLC.de">TLC</channel>
+    <channel update="i" site="klack.de" site_id="60/welt" xmltv_id="WELT.de">WELT</channel>
+    <channel update="i" site="klack.de" site_id="38/one" xmltv_id="ONE.de">ONE</channel>
+    <channel update="i" site="klack.de" site_id="68/n-tv" xmltv_id="N-TV.de">N-TV</channel>
+    <channel update="i" site="klack.de" site_id="14/bbc-world" xmltv_id="BBC World.de">BBC World</channel>
+    <channel update="i" site="klack.de" site_id="37/tagesschau24" xmltv_id="Tagesschau24.de">Tagesschau24</channel>
+    <channel update="i" site="klack.de" site_id="35/euronews" xmltv_id="Euronews.de">Euronews</channel>
+    <channel update="i" site="klack.de" site_id="130/zdfinfo" xmltv_id="ZDFinfo.de">ZDFinfo</channel>
+    <channel update="i" site="klack.de" site_id="34/dw-english" xmltv_id="DW English.de">DW English</channel>
+    <channel update="i" site="klack.de" site_id="22/cnn" xmltv_id="CNN.de">CNN</channel>
+    <channel update="i" site="klack.de" site_id="16/bibel-tv" xmltv_id="Bibel TV.de">Bibel TV</channel>
+    <channel update="i" site="klack.de" site_id="48/hse24" xmltv_id="HSE24.de">HSE24</channel>
+    <channel update="i" site="klack.de" site_id="81/qvc" xmltv_id="QVC.de">QVC</channel>
+    <channel update="i" site="klack.de" site_id="109/sonnenklar-tv" xmltv_id="Sonnenklar TV.de">Sonnenklar TV</channel>
+    <channel update="i" site="klack.de" site_id="190/welt-der-wunder" xmltv_id="Welt der Wunder.de">Welt der Wunder</channel>
+    <channel update="i" site="klack.de" site_id="191/home-garden-tv" xmltv_id="Home &amp; Garden TV.de">Home &amp; Garden TV</channel>
+    <channel update="i" site="klack.de" site_id="71/orf-1" xmltv_id="ORF 1.de">ORF 1</channel>
+    <channel update="i" site="klack.de" site_id="72/orf-2" xmltv_id="ORF 2.de">ORF 2</channel>
+    <channel update="i" site="klack.de" site_id="137/orf-3" xmltv_id="ORF 3.de">ORF 3</channel>
+    <channel update="i" site="klack.de" site_id="7/atv" xmltv_id="ATV.de">ATV</channel>
+    <channel update="i" site="klack.de" site_id="138/atv-2" xmltv_id="ATV 2.de">ATV 2</channel>
+    <channel update="i" site="klack.de" site_id="80/puls-4" xmltv_id="Puls 4.de">Puls 4</channel>
+    <channel update="i" site="klack.de" site_id="32/srf-1" xmltv_id="SRF 1.de">SRF 1</channel>
+    <channel update="i" site="klack.de" site_id="144/srf-2" xmltv_id="SRF 2.de">SRF 2</channel>
+    <channel update="i" site="klack.de" site_id="145/france-2" xmltv_id="France 2.de">France 2</channel>
+    <channel update="i" site="klack.de" site_id="42/france-3" xmltv_id="France 3.de">France 3</channel>
+    <channel update="i" site="klack.de" site_id="15/bbc-entertainment" xmltv_id="BBC Entertainment.de">BBC Entertainment</channel>
+    <channel update="i" site="klack.de" site_id="96/sky-cinema" xmltv_id="Sky Cinema.de">Sky Cinema</channel>
+    <channel update="i" site="klack.de" site_id="97/sky-cinema-1" xmltv_id="Sky Cinema +1.de">Sky Cinema +1</channel>
+    <channel update="i" site="klack.de" site_id="98/sky-cinema-24" xmltv_id="Sky Cinema +24.de">Sky Cinema +24</channel>
+    <channel update="i" site="klack.de" site_id="99/sky-cinema-hits" xmltv_id="Sky Cinema Hits.de">Sky Cinema Hits</channel>
+    <channel update="i" site="klack.de" site_id="94/sky-cinema-action" xmltv_id="Sky Cinema Action.de">Sky Cinema Action</channel>
+    <channel update="i" site="klack.de" site_id="100/sky-cinema-comedy" xmltv_id="Sky Cinema Comedy.de">Sky Cinema Comedy</channel>
+    <channel update="i" site="klack.de" site_id="101/sky-cinema-emotion" xmltv_id="Sky Cinema Emotion.de">Sky Cinema Emotion</channel>
+    <channel update="i" site="klack.de" site_id="103/sky-cinema-nostalgie" xmltv_id="Sky Cinema Nostalgie.de">Sky Cinema Nostalgie</channel>
+    <channel update="i" site="klack.de" site_id="184/sky-cinema-family" xmltv_id="Sky Cinema Family.de">Sky Cinema Family</channel>
+    <channel update="i" site="klack.de" site_id="185/sky-1" xmltv_id="Sky 1.de">Sky 1</channel>
+    <channel update="i" site="klack.de" site_id="102/sky-krimi" xmltv_id="Sky Krimi.de">Sky Krimi</channel>
+    <channel update="i" site="klack.de" site_id="95/sky-fussball-bundesliga" xmltv_id="Sky Fußball Bundesliga.de">Sky Fußball Bundesliga</channel>
+    <channel update="i" site="klack.de" site_id="104/sky-sport-1" xmltv_id="Sky Sport 1.de">Sky Sport 1</channel>
+    <channel update="i" site="klack.de" site_id="105/sky-sport-2" xmltv_id="Sky Sport 2.de">Sky Sport 2</channel>
+    <channel update="i" site="klack.de" site_id="106/sky-sport-austria" xmltv_id="Sky Sport Austria.de">Sky Sport Austria</channel>
+    <channel update="i" site="klack.de" site_id="188/sky-sport-news-hd" xmltv_id="Sky Sport News HD.de">Sky Sport News HD</channel>
+    <channel update="i" site="klack.de" site_id="136/tnt-film" xmltv_id="TNT Film.de">TNT Film</channel>
+    <channel update="i" site="klack.de" site_id="173/tnt-comedy" xmltv_id="TNT Comedy.de">TNT Comedy</channel>
+    <channel update="i" site="klack.de" site_id="52/kabel-eins-classics" xmltv_id="Kabel eins Classics.de">Kabel eins Classics</channel>
+    <channel update="i" site="klack.de" site_id="41/fox" xmltv_id="FOX.de">FOX</channel>
+    <channel update="i" site="klack.de" site_id="120/tnt-serie" xmltv_id="TNT Serie.de">TNT Serie</channel>
+    <channel update="i" site="klack.de" site_id="88/rtl-crime" xmltv_id="RTL Crime.de">RTL Crime</channel>
+    <channel update="i" site="klack.de" site_id="162/sky-atlantic-hd" xmltv_id="Sky Atlantic HD.de">Sky Atlantic HD</channel>
+    <channel update="i" site="klack.de" site_id="53/kinowelt" xmltv_id="Kinowelt.de">Kinowelt</channel>
+    <channel update="i" site="klack.de" site_id="9/axn" xmltv_id="AXN.de">AXN</channel>
+    <channel update="i" site="klack.de" site_id="170/crime-investigation" xmltv_id="Crime + Investigation.de">Crime + Investigation</channel>
+    <channel update="i" site="klack.de" site_id="112/13th-street" xmltv_id="13th Street.de">13th Street</channel>
+    <channel update="i" site="klack.de" site_id="75/syfy" xmltv_id="Syfy.de">Syfy</channel>
+    <channel update="i" site="klack.de" site_id="164/universal-tv" xmltv_id="Universal TV.de">Universal TV</channel>
+    <channel update="i" site="klack.de" site_id="73/animal-planet" xmltv_id="Animal Planet.de">Animal Planet</channel>
+    <channel update="i" site="klack.de" site_id="62/national-geographic" xmltv_id="National Geographic.de">National Geographic</channel>
+    <channel update="i" site="klack.de" site_id="149/national-geograpic-wild" xmltv_id="National Geograpic Wild.de">National Geograpic Wild</channel>
+    <channel update="i" site="klack.de" site_id="27/discovery-channel" xmltv_id="Discovery Channel.de">Discovery Channel</channel>
+    <channel update="i" site="klack.de" site_id="128/spiegel-tv-wissen" xmltv_id="Spiegel TV Wissen.de">Spiegel TV Wissen</channel>
+    <channel update="i" site="klack.de" site_id="152/spiegel-geschichte" xmltv_id="Spiegel Geschichte.de">Spiegel Geschichte</channel>
+    <channel update="i" site="klack.de" site_id="47/history" xmltv_id="History.de">History</channel>
+    <channel update="i" site="klack.de" site_id="174/planet" xmltv_id="Planet.de">Planet</channel>
+    <channel update="i" site="klack.de" site_id="26/disney-cinemagic" xmltv_id="Disney Cinemagic.de">Disney Cinemagic</channel>
+    <channel update="i" site="klack.de" site_id="28/disney-xd" xmltv_id="Disney XD.de">Disney XD</channel>
+    <channel update="i" site="klack.de" site_id="178/disney-junior" xmltv_id="Disney Junior.de">Disney Junior</channel>
+    <channel update="i" site="klack.de" site_id="50/junior" xmltv_id="Junior.de">Junior</channel>
+    <channel update="i" site="klack.de" site_id="175/boomerang" xmltv_id="Boomerang.de">Boomerang</channel>
+    <channel update="i" site="klack.de" site_id="150/sat-1-emotions" xmltv_id="SAT.1 emotions.de">SAT.1 emotions</channel>
+    <channel update="i" site="klack.de" site_id="134/rtl-passion" xmltv_id="RTL Passion.de">RTL Passion</channel>
+    <channel update="i" site="klack.de" site_id="45/heimatkanal" xmltv_id="Heimatkanal.de">Heimatkanal</channel>
+    <channel update="i" site="klack.de" site_id="93/silverline" xmltv_id="Silverline.de">Silverline</channel>
+    <channel update="i" site="klack.de" site_id="57/mtv" xmltv_id="MTV.de">MTV</channel>
+    <channel update="i" site="klack.de" site_id="21/stingray-classica" xmltv_id="Stingray Classica.de">Stingray Classica</channel>
+    <channel update="i" site="klack.de" site_id="157/prosieben-fun" xmltv_id="ProSieben Fun.de">ProSieben Fun</channel>
+    <channel update="i" site="klack.de" site_id="158/romance-tv" xmltv_id="Romance TV.de">Romance TV</channel>
+    <channel update="i" site="klack.de" site_id="159/rtl-living" xmltv_id="RTL Living.de">RTL Living</channel>
+    <channel update="i" site="klack.de" site_id="156/cartoon-network" xmltv_id="Cartoon Network.de">Cartoon Network</channel>
+    <channel update="i" site="klack.de" site_id="44/goldstar-tv" xmltv_id="Goldstar TV.de">Goldstar TV</channel>
+    <channel update="i" site="klack.de" site_id="176/e" xmltv_id="E!.de">E!</channel>
+    <channel update="i" site="klack.de" site_id="74/playboy-tv" xmltv_id="Playboy TV.de">Playboy TV</channel>
+    <channel update="i" site="klack.de" site_id="18/beate-uhse-tv" xmltv_id="Beate Uhse TV.de">Beate Uhse TV</channel>
+    <channel update="i" site="klack.de" site_id="36/eurosport-1" xmltv_id="Eurosport 1.de">Eurosport 1</channel>
+    <channel update="i" site="klack.de" site_id="33/sport1" xmltv_id="Sport1.de">Sport1</channel>
+    <channel update="i" site="klack.de" site_id="177/sport1" xmltv_id="Sport1+.de">Sport1+</channel>
+    <channel update="i" site="klack.de" site_id="143/eurosport-2" xmltv_id="Eurosport 2.de">Eurosport 2</channel>
+    <channel update="i" site="klack.de" site_id="139/orf-sport" xmltv_id="ORF Sport +.de">ORF Sport +</channel>
+    <channel update="i" site="klack.de" site_id="189/esports1" xmltv_id="eSPORTS1.de">eSPORTS1</channel>
+  </channels>
+</site>

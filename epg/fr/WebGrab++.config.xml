@@ -10,7 +10,7 @@
   <logging>on</logging>
   <retry time-out="5">4</retry>
   <timespan>0</timespan>
-  <update>f</update>
+  <update>s</update>
  
   <!--
             Replace the next dummy channel entry with the channels you want.
@@ -20,7 +20,7 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
   
-<channel update="i" site="canalsat.fr" site_id="312" xmltv_id="TF1.fr">TF1</channel>
+    <channel update="i" site="canalsat.fr" site_id="312" xmltv_id="TF1.fr">TF1</channel>
     <channel update="i" site="canalsat.fr" site_id="26" xmltv_id="FRANCE 2.fr">FRANCE 2</channel>
     <channel update="i" site="canalsat.fr" site_id="543" xmltv_id="FRANCE 3.fr">FRANCE 3</channel>
     <channel update="i" site="canalsat.fr" site_id="545" xmltv_id="FRANCE 5.fr">FRANCE 5</channel>

@@ -1,26 +1,7 @@
-﻿<?xml version="1.0"?>
-<settings>
-   
-  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-   
-  <filename>xmltv.de.xml</filename>
-  <mode></mode>
-  <postprocess grab="y" run="n">mdb</postprocess>
-  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
-  <logging>on</logging>
-  <retry time-out="5">4</retry>
-  <timespan>0</timespan>
-  <update>f</update>
- 
-  <!--
-            Replace the next dummy channel entry with the channels you want.
-			You can look into the installed siteini.pack folder on your computer
-  
-            For the latest version,
-            see http://webgrabplus.com/epg-channels for the available sites/channels
-  -->
-  
-   <channel update="i" site="vodafone.de" site_id="1566" xmltv_id="Vodafone Infochannel.de">Vodafone Infochannel</channel>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" site="vodafone.de">
+  <channels>
+    <channel update="i" site="vodafone.de" site_id="1566" xmltv_id="Vodafone Infochannel.de">Vodafone Infochannel</channel>
     <channel update="i" site="vodafone.de" site_id="1" xmltv_id="Das Erste.de">Das Erste</channel>
     <channel update="i" site="vodafone.de" site_id="2" xmltv_id="ZDF.de">ZDF</channel>
     <channel update="i" site="vodafone.de" site_id="4" xmltv_id="RTL.de">RTL</channel>
@@ -116,6 +97,7 @@
     <channel update="i" site="vodafone.de" site_id="23944" xmltv_id="HSE24 EXTRA.de">HSE24 EXTRA</channel>
     <channel update="i" site="vodafone.de" site_id="23942" xmltv_id="QVC2.de">QVC2</channel>
     <channel update="i" site="vodafone.de" site_id="3865" xmltv_id="13th Street.de">13th Street</channel>
+    <channel update="i" site="vodafone.de" site_id="3866" xmltv_id="SYFY.de">SYFY</channel>
     <channel update="i" site="vodafone.de" site_id="16021" xmltv_id="eoTV.de">eoTV</channel>
     <channel update="i" site="vodafone.de" site_id="844" xmltv_id="KinoweltTV.de">KinoweltTV</channel>
     <channel update="i" site="vodafone.de" site_id="847" xmltv_id="AXN.de">AXN</channel>
@@ -159,6 +141,7 @@
     <channel update="i" site="vodafone.de" site_id="16023" xmltv_id="health tv.de">health tv</channel>
     <channel update="i" site="vodafone.de" site_id="854" xmltv_id="HISTORY.de">HISTORY</channel>
     <channel update="i" site="vodafone.de" site_id="721" xmltv_id="A&amp;E.de">A&amp;E</channel>
+    <channel update="i" site="vodafone.de" site_id="845" xmltv_id="National Geographic.de">National Geographic</channel>
     <channel update="i" site="vodafone.de" site_id="4723" xmltv_id="SPIEGEL TV WISSEN.de">SPIEGEL TV WISSEN</channel>
     <channel update="i" site="vodafone.de" site_id="5445" xmltv_id="DMAX HD.de">DMAX HD</channel>
     <channel update="i" site="vodafone.de" site_id="4619" xmltv_id="National Geographic HD.de">National Geographic HD</channel>
@@ -265,15 +248,20 @@
     <channel update="i" site="vodafone.de" site_id="4736" xmltv_id="NatGeo Wild HD.de">NatGeo Wild HD</channel>
     <channel update="i" site="vodafone.de" site_id="895" xmltv_id="Discovery HD.de">Discovery HD</channel>
     <channel update="i" site="vodafone.de" site_id="16004" xmltv_id="Sky1.de">Sky1</channel>
+    <channel update="i" site="vodafone.de" site_id="9376" xmltv_id="TNT Serie HD.de">TNT Serie HD</channel>
     <channel update="i" site="vodafone.de" site_id="936" xmltv_id="Sky Krimi.de">Sky Krimi</channel>
+    <channel update="i" site="vodafone.de" site_id="913" xmltv_id="13th Street.de">13th Street</channel>
     <channel update="i" site="vodafone.de" site_id="719" xmltv_id="RTL Crime.de">RTL Crime</channel>
     <channel update="i" site="vodafone.de" site_id="720" xmltv_id="RTL Passion.de">RTL Passion</channel>
     <channel update="i" site="vodafone.de" site_id="27323" xmltv_id="Fox Serie.de">Fox Serie</channel>
+    <channel update="i" site="vodafone.de" site_id="3908" xmltv_id="TNT Serie.de">TNT Serie</channel>
     <channel update="i" site="vodafone.de" site_id="934" xmltv_id="SYFY.de">SYFY</channel>
     <channel update="i" site="vodafone.de" site_id="944" xmltv_id="Beate-Uhse.TV.de">Beate-Uhse.TV</channel>
     <channel update="i" site="vodafone.de" site_id="916" xmltv_id="Heimatkanal.de">Heimatkanal</channel>
     <channel update="i" site="vodafone.de" site_id="975" xmltv_id="Goldstar TV.de">Goldstar TV</channel>
     <channel update="i" site="vodafone.de" site_id="3980" xmltv_id="Classica.de">Classica</channel>
+    <channel update="i" site="vodafone.de" site_id="4951" xmltv_id="Disney XD.de">Disney XD</channel>
+    <channel update="i" site="vodafone.de" site_id="853" xmltv_id="Disney Junior.de">Disney Junior</channel>
     <channel update="i" site="vodafone.de" site_id="930" xmltv_id="Junior.de">Junior</channel>
     <channel update="i" site="vodafone.de" site_id="933" xmltv_id="Discovery Channel.de">Discovery Channel</channel>
     <channel update="i" site="vodafone.de" site_id="3869" xmltv_id="National Geographic.de">National Geographic</channel>
@@ -299,6 +287,5 @@
     <channel update="i" site="vodafone.de" site_id="4117" xmltv_id="Sky Sport 2.de">Sky Sport 2</channel>
     <channel update="i" site="vodafone.de" site_id="4105" xmltv_id="Sky Sport Austria.de">Sky Sport Austria</channel>
     <channel update="i" site="vodafone.de" site_id="2129" xmltv_id="Zee.One.de">Zee.One</channel>
-
- 
-</settings>
+  </channels>
+</site>

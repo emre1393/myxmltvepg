@@ -10,7 +10,7 @@
   <logging>on</logging>
   <retry time-out="5">4</retry>
   <timespan>0</timespan>
-  <update>s</update>
+  <update>f</update>
 
   <!--
             Replace the next dummy channel entry with the channels you want.
@@ -20,17 +20,6 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-   <channel update="i" site="vodafone.de" site_id="1566" xmltv_id="Vodafone Infochannel.de">Vodafone Infochannel</channel>
-    <channel update="i" site="vodafone.de" site_id="1" xmltv_id="Das Erste.de">Das Erste</channel>
-    <channel update="i" site="vodafone.de" site_id="2" xmltv_id="ZDF.de">ZDF</channel>
-    <channel update="i" site="vodafone.de" site_id="4" xmltv_id="RTL.de">RTL</channel>
-    <channel update="i" site="vodafone.de" site_id="5" xmltv_id="SAT.1.de">SAT.1</channel>
-    <channel update="i" site="vodafone.de" site_id="6" xmltv_id="ProSieben.de">ProSieben</channel>
-    <channel update="i" site="vodafone.de" site_id="11" xmltv_id="VOX.de">VOX</channel>
-    <channel update="i" site="vodafone.de" site_id="9" xmltv_id="RTL II.de">RTL II</channel>
-    <channel update="i" site="vodafone.de" site_id="8" xmltv_id="kabel eins.de">kabel eins</channel>
-    <channel update="i" site="vodafone.de" site_id="118" xmltv_id="3sat.de">3sat</channel>
-    <channel update="i" site="vodafone.de" site_id="10" xmltv_id="ARTE.de">ARTE</channel>
     <channel update="i" site="vodafone.de" site_id="4162" xmltv_id="Das Erste HD.de">Das Erste HD</channel>
     <channel update="i" site="vodafone.de" site_id="4163" xmltv_id="ZDF HD.de">ZDF HD</channel>
     <channel update="i" site="vodafone.de" site_id="4224" xmltv_id="RTL HD.de">RTL HD</channel>
@@ -41,13 +30,11 @@
     <channel update="i" site="vodafone.de" site_id="4227" xmltv_id="kabel eins HD.de">kabel eins HD</channel>
     <channel update="i" site="vodafone.de" site_id="3832" xmltv_id="ARTE HD.de">ARTE HD</channel>
     <channel update="i" site="vodafone.de" site_id="4965" xmltv_id="3sat HD.de">3sat HD</channel>
-    <channel update="i" site="vodafone.de" site_id="4119" xmltv_id="ServusTV.de">ServusTV</channel>
     <channel update="i" site="vodafone.de" site_id="4726" xmltv_id="ServusTV HD.de">ServusTV HD</channel>
     <channel update="i" site="vodafone.de" site_id="3520" xmltv_id="MDR S-Anhalt.de">MDR S-Anhalt</channel>
     <channel update="i" site="vodafone.de" site_id="3521" xmltv_id="MDR Sachsen.de">MDR Sachsen</channel>
     <channel update="i" site="vodafone.de" site_id="3522" xmltv_id="MDR Thüringen.de">MDR Thüringen</channel>
     <channel update="i" site="vodafone.de" site_id="3525" xmltv_id="NDR FS MV.de">NDR FS MV</channel>
-    <channel update="i" site="vodafone.de" site_id="3524" xmltv_id="NDR FS HH.de">NDR FS HH</channel>
     <channel update="i" site="vodafone.de" site_id="19" xmltv_id="NDR FS NDS.de">NDR FS NDS</channel>
     <channel update="i" site="vodafone.de" site_id="3526" xmltv_id="NDR FS SH.de">NDR FS SH</channel>
     <channel update="i" site="vodafone.de" site_id="35" xmltv_id="rbb Brandenburg.de">rbb Brandenburg</channel>
@@ -79,8 +66,6 @@
     <channel update="i" site="vodafone.de" site_id="4130" xmltv_id="ZDFneo.de">ZDFneo</channel>
     <channel update="i" site="vodafone.de" site_id="1562" xmltv_id="AstroTV.de">AstroTV</channel>
     <channel update="i" site="vodafone.de" site_id="30774" xmltv_id="RTLplus.de">RTLplus</channel>
-    <channel update="i" site="vodafone.de" site_id="4947" xmltv_id="RTL NITRO.de">RTL NITRO</channel>
-    <channel update="i" site="vodafone.de" site_id="4218" xmltv_id="sixx.de">sixx</channel>
     <channel update="i" site="vodafone.de" site_id="5602" xmltv_id="SAT.1 Gold.de">SAT.1 Gold</channel>
     <channel update="i" site="vodafone.de" site_id="9159" xmltv_id="ProSieben MAXX.de">ProSieben MAXX</channel>
     <channel update="i" site="vodafone.de" site_id="23939" xmltv_id="TLC.de">TLC</channel>
@@ -124,7 +109,6 @@
     <channel update="i" site="vodafone.de" site_id="4945" xmltv_id="TNT Comedy.de">TNT Comedy</channel>
     <channel update="i" site="vodafone.de" site_id="717" xmltv_id="TNT Film.de">TNT Film</channel>
     <channel update="i" site="vodafone.de" site_id="3906" xmltv_id="TNT Serie.de">TNT Serie</channel>
-    <channel update="i" site="vodafone.de" site_id="3823" xmltv_id="FOX.de">FOX</channel>
     <channel update="i" site="vodafone.de" site_id="3805" xmltv_id="Romance TV.de">Romance TV</channel>
     <channel update="i" site="vodafone.de" site_id="4277" xmltv_id="TNT Film HD.de">TNT Film HD</channel>
     <channel update="i" site="vodafone.de" site_id="4276" xmltv_id="TNT Serie HD.de">TNT Serie HD</channel>
@@ -139,12 +123,6 @@
     <channel update="i" site="vodafone.de" site_id="10096" xmltv_id="Sony Entertainment TV HD.de">Sony Entertainment TV HD</channel>
     <channel update="i" site="vodafone.de" site_id="5478" xmltv_id="kabel eins CLASSICS HD.de">kabel eins CLASSICS HD</channel>
     <channel update="i" site="vodafone.de" site_id="16017" xmltv_id="RTL Crime HD.de">RTL Crime HD</channel>
-    <channel update="i" site="vodafone.de" site_id="12" xmltv_id="SPORT1.de">SPORT1</channel>
-    <channel update="i" site="vodafone.de" site_id="107" xmltv_id="Eurosport 1.de">Eurosport 1</channel>
-    <channel update="i" site="vodafone.de" site_id="865" xmltv_id="Eurosport 2.de">Eurosport 2</channel>
-    <channel update="i" site="vodafone.de" site_id="4250" xmltv_id="SPORT1+.de">SPORT1+</channel>
-    <channel update="i" site="vodafone.de" site_id="9160" xmltv_id="Sport1 US.de">Sport1 US</channel>
-    <channel update="i" site="vodafone.de" site_id="3802" xmltv_id="sportdigital.de">sportdigital</channel>
     <channel update="i" site="vodafone.de" site_id="4128" xmltv_id="Eurosport 1 HD.de">Eurosport 1 HD</channel>
     <channel update="i" site="vodafone.de" site_id="16016" xmltv_id="Eurosport 2 HD.de">Eurosport 2 HD</channel>
     <channel update="i" site="vodafone.de" site_id="4639" xmltv_id="SPORT1 HD.de">SPORT1 HD</channel>
@@ -185,12 +163,7 @@
     <channel update="i" site="vodafone.de" site_id="9615" xmltv_id="Bibel TV HD.de">Bibel TV HD</channel>
     <channel update="i" site="vodafone.de" site_id="179" xmltv_id="SUPER RTL.de">SUPER RTL</channel>
     <channel update="i" site="vodafone.de" site_id="63" xmltv_id="KiKA.de">KiKA</channel>
-    <channel update="i" site="vodafone.de" site_id="882" xmltv_id="Nickelodeon.de">Nickelodeon</channel>
-    <channel update="i" site="vodafone.de" site_id="976" xmltv_id="Disney XD.de">Disney XD</channel>
     <channel update="i" site="vodafone.de" site_id="16001" xmltv_id="TOGGO plus.de">TOGGO plus</channel>
-    <channel update="i" site="vodafone.de" site_id="4114" xmltv_id="Disney Junior.de">Disney Junior</channel>
-    <channel update="i" site="vodafone.de" site_id="1511" xmltv_id="Boomerang.de">Boomerang</channel>
-    <channel update="i" site="vodafone.de" site_id="902" xmltv_id="Cartoon Network.de">Cartoon Network</channel>
     <channel update="i" site="vodafone.de" site_id="4942" xmltv_id="SUPER RTL HD.de">SUPER RTL HD</channel>
     <channel update="i" site="vodafone.de" site_id="4641" xmltv_id="Nickelodeon HD.de">Nickelodeon HD</channel>
     <channel update="i" site="vodafone.de" site_id="4940" xmltv_id="Cartoon Network HD.de">Cartoon Network HD</channel>
@@ -251,9 +224,7 @@
     <channel update="i" site="vodafone.de" site_id="4638" xmltv_id="Sky Cinema Luc Besson HD.de">Sky Cinema Luc Besson HD</channel>
     <channel update="i" site="vodafone.de" site_id="4274" xmltv_id="Sky Cinema Action HD.de">Sky Cinema Action HD</channel>
     <channel update="i" site="vodafone.de" site_id="4221" xmltv_id="Disney Cinemagic HD.de">Disney Cinemagic HD</channel>
-    <channel update="i" site="vodafone.de" site_id="9708" xmltv_id="Sky Atlantic.de">Sky Atlantic</channel>
-    <channel update="i" site="vodafone.de" site_id="910" xmltv_id="Sky Cinema.de">Sky Cinema</channel>
-    <channel update="i" site="vodafone.de" site_id="983" xmltv_id="Sky Cinema +1.de">Sky Cinema +1</channel>
+   <channel update="i" site="vodafone.de" site_id="983" xmltv_id="Sky Cinema +1.de">Sky Cinema +1</channel>
     <channel update="i" site="vodafone.de" site_id="984" xmltv_id="Sky Cinema +24.de">Sky Cinema +24</channel>
     <channel update="i" site="vodafone.de" site_id="911" xmltv_id="Sky Cinema Luc Besson.de">Sky Cinema Luc Besson</channel>
     <channel update="i" site="vodafone.de" site_id="4095" xmltv_id="Sky Cinema Action.de">Sky Cinema Action</channel>
@@ -275,9 +246,6 @@
     <channel update="i" site="vodafone.de" site_id="975" xmltv_id="Goldstar TV.de">Goldstar TV</channel>
     <channel update="i" site="vodafone.de" site_id="3980" xmltv_id="Classica.de">Classica</channel>
     <channel update="i" site="vodafone.de" site_id="930" xmltv_id="Junior.de">Junior</channel>
-    <channel update="i" site="vodafone.de" site_id="933" xmltv_id="Discovery Channel.de">Discovery Channel</channel>
-    <channel update="i" site="vodafone.de" site_id="3869" xmltv_id="National Geographic.de">National Geographic</channel>
-    <channel update="i" site="vodafone.de" site_id="4100" xmltv_id="NatGeo Wild.de">NatGeo Wild</channel>
     <channel update="i" site="vodafone.de" site_id="4101" xmltv_id="Spiegel Geschichte.de">Spiegel Geschichte</channel>
     <channel update="i" site="vodafone.de" site_id="16006" xmltv_id="Sky Cinema Family.de">Sky Cinema Family</channel>
     <channel update="i" site="vodafone.de" site_id="4739" xmltv_id="Sky Sport News HD.de">Sky Sport News HD</channel>
@@ -294,9 +262,6 @@
     <channel update="i" site="vodafone.de" site_id="9307" xmltv_id="Eurosport360 HD2.de">Eurosport360 HD2</channel>
     <channel update="i" site="vodafone.de" site_id="9308" xmltv_id="Eurosport360 HD3.de">Eurosport360 HD3</channel>
     <channel update="i" site="vodafone.de" site_id="4738" xmltv_id="Sky Sport News.de">Sky Sport News</channel>
-    <channel update="i" site="vodafone.de" site_id="4118" xmltv_id="Sky Sport Bundesliga 1.de">Sky Sport Bundesliga 1</channel>
-    <channel update="i" site="vodafone.de" site_id="4116" xmltv_id="Sky Sport 1.de">Sky Sport 1</channel>
-    <channel update="i" site="vodafone.de" site_id="4117" xmltv_id="Sky Sport 2.de">Sky Sport 2</channel>
     <channel update="i" site="vodafone.de" site_id="4105" xmltv_id="Sky Sport Austria.de">Sky Sport Austria</channel>
     <channel update="i" site="vodafone.de" site_id="2129" xmltv_id="Zee.One.de">Zee.One</channel>
 

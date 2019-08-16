@@ -10,7 +10,7 @@
   <logging>on</logging>
   <retry time-out="5">4</retry>
   <timespan>0</timespan>
-  <update>s</update>
+  <update>f</update>
 
   <!--
             Replace the next dummy channel entry with the channels you want.

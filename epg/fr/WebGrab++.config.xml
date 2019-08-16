@@ -10,7 +10,7 @@
   <logging>on</logging>
   <retry time-out="5">4</retry>
   <timespan>0</timespan>
-  <update>s</update>
+  <update>f</update>
 
   <!--
             Replace the next dummy channel entry with the channels you want.
@@ -172,14 +172,6 @@
     <channel update="i" site="canalsat.fr" site_id="551" xmltv_id="INFOSPORT+.fr">INFOSPORT+</channel>
     <channel update="i" site="canalsat.fr" site_id="101" xmltv_id="EUROSPORT 1.fr">EUROSPORT 1</channel>
     <channel update="i" site="canalsat.fr" site_id="436" xmltv_id="EUROSPORT 2.fr">EUROSPORT 2</channel>
-    <channel update="i" site="canalsat.fr" site_id="381" xmltv_id="BEIN SPORTS 1.fr">BEIN SPORTS 1</channel>
-    <channel update="i" site="canalsat.fr" site_id="384" xmltv_id="BEIN SPORTS 2.fr">BEIN SPORTS 2</channel>
-    <channel update="i" site="canalsat.fr" site_id="516" xmltv_id="BEIN SPORTS 3.fr">BEIN SPORTS 3</channel>
-    <channel update="i" site="canalsat.fr" site_id="732" xmltv_id="RMC SPORT 1.fr">RMC SPORT 1</channel>
-    <channel update="i" site="canalsat.fr" site_id="733" xmltv_id="RMC SPORT 2.fr">RMC SPORT 2</channel>
-    <channel update="i" site="canalsat.fr" site_id="734" xmltv_id="RMC SPORT 3.fr">RMC SPORT 3</channel>
-    <channel update="i" site="canalsat.fr" site_id="735" xmltv_id="RMC SPORT 4.fr">RMC SPORT 4</channel>
-    <channel update="i" site="canalsat.fr" site_id="736" xmltv_id="RMC SPORT NEWS.fr">RMC SPORT NEWS</channel>
     <channel update="i" site="canalsat.fr" site_id="574" xmltv_id="ONZEO.fr">ONZEO</channel>
     <channel update="i" site="canalsat.fr" site_id="572" xmltv_id="OL TV.fr">OL TV</channel>
     <channel update="i" site="canalsat.fr" site_id="612" xmltv_id="AUTOMOTO LA CHAINE.fr">AUTOMOTO LA CHAINE</channel>
@@ -202,6 +194,9 @@
     <channel update="i" site="canalsat.fr" site_id="651" xmltv_id="EUROSPORT 360 6.fr">EUROSPORT 360 6</channel>
     <channel update="i" site="canalsat.fr" site_id="652" xmltv_id="EUROSPORT 360 7.fr">EUROSPORT 360 7</channel>
     <channel update="i" site="canalsat.fr" site_id="653" xmltv_id="EUROSPORT 360 8.fr">EUROSPORT 360 8</channel>
+    <channel update="i" site="canalsat.fr" site_id="381" xmltv_id="BEIN SPORTS 1.fr">BEIN SPORTS 1</channel>
+    <channel update="i" site="canalsat.fr" site_id="384" xmltv_id="BEIN SPORTS 2.fr">BEIN SPORTS 2</channel>
+    <channel update="i" site="canalsat.fr" site_id="516" xmltv_id="BEIN SPORTS 3.fr">BEIN SPORTS 3</channel>
     <channel update="i" site="canalsat.fr" site_id="596" xmltv_id="BEIN SPORTS MAX 4.fr">BEIN SPORTS MAX 4</channel>
     <channel update="i" site="canalsat.fr" site_id="597" xmltv_id="BEIN SPORTS MAX 5.fr">BEIN SPORTS MAX 5</channel>
     <channel update="i" site="canalsat.fr" site_id="598" xmltv_id="BEIN SPORTS MAX 6.fr">BEIN SPORTS MAX 6</channel>
@@ -209,6 +204,11 @@
     <channel update="i" site="canalsat.fr" site_id="603" xmltv_id="BEIN SPORTS MAX 8.fr">BEIN SPORTS MAX 8</channel>
     <channel update="i" site="canalsat.fr" site_id="604" xmltv_id="BEIN SPORTS MAX 9.fr">BEIN SPORTS MAX 9</channel>
     <channel update="i" site="canalsat.fr" site_id="605" xmltv_id="BEIN SPORTS MAX 10.fr">BEIN SPORTS MAX 10</channel>
+    <channel update="i" site="canalsat.fr" site_id="736" xmltv_id="RMC SPORT NEWS.fr">RMC SPORT NEWS</channel>
+    <channel update="i" site="canalsat.fr" site_id="732" xmltv_id="RMC SPORT 1.fr">RMC SPORT 1</channel>
+    <channel update="i" site="canalsat.fr" site_id="733" xmltv_id="RMC SPORT 2.fr">RMC SPORT 2</channel>
+    <channel update="i" site="canalsat.fr" site_id="734" xmltv_id="RMC SPORT 3.fr">RMC SPORT 3</channel>
+    <channel update="i" site="canalsat.fr" site_id="735" xmltv_id="RMC SPORT 4.fr">RMC SPORT 4</channel>
     <channel update="i" site="canalsat.fr" site_id="756" xmltv_id="RMC SPORT LIVE 5.fr">RMC SPORT LIVE 5</channel>
     <channel update="i" site="canalsat.fr" site_id="757" xmltv_id="RMC SPORT LIVE 6.fr">RMC SPORT LIVE 6</channel>
     <channel update="i" site="canalsat.fr" site_id="758" xmltv_id="RMC SPORT LIVE 7.fr">RMC SPORT LIVE 7</channel>

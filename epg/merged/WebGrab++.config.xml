@@ -10,7 +10,7 @@
   <logging>on</logging>
   <retry time-out="5">4</retry>
   <timespan>0</timespan>
-  <update>l</update>
+  <update>s</update>
 
   <!--
   this is my config for my channel list, you can use all.countries.xml for yourself.

@@ -1,0 +1,979 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Jednotka HD.sk">
+    <display-name lang="en">Jednotka HD</display-name>
+    <icon src="https://wp9-images-cz-dynamic.horizon.tv/Logos/8090.f.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Dvojka HD.sk">
+    <display-name lang="en">Dvojka HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Markiza HD.sk">
+    <display-name lang="en">Markiza HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Doma.sk">
+    <display-name lang="en">Doma</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="JOJ HD.sk">
+    <display-name lang="en">JOJ HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="JOJ Plus HD.sk">
+    <display-name lang="en">JOJ Plus HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="JOJ Cinema HD.sk">
+    <display-name lang="en">JOJ Cinema HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Dajto HD.sk">
+    <display-name lang="en">Dajto HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="WAU.sk">
+    <display-name lang="en">WAU</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RiK HD.sk">
+    <display-name lang="en">RiK HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TA3.sk">
+    <display-name lang="en">TA3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV LUX.sk">
+    <display-name lang="en">TV LUX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV8 HD.sk">
+    <display-name lang="en">TV8 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SENZI.sk">
+    <display-name lang="en">SENZI</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CT 1 HD.sk">
+    <display-name lang="en">CT 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CT 2 HD.sk">
+    <display-name lang="en">CT 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CT D HD  CT art HD.sk">
+    <display-name lang="en">CT D HD  CT art HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CT 24 HD.sk">
+    <display-name lang="en">CT 24 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nova International HD.sk">
+    <display-name lang="en">Nova International HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima PLUS HD.sk">
+    <display-name lang="en">Prima PLUS HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AMC HD.sk">
+    <display-name lang="en">AMC HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="UPC show HD.sk">
+    <display-name lang="en">UPC show HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima Comedy Central.sk">
+    <display-name lang="en">Prima Comedy Central</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima COOL.sk">
+    <display-name lang="en">Prima COOL</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima love.sk">
+    <display-name lang="en">Prima love</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima ZOOM.sk">
+    <display-name lang="en">Prima ZOOM</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Barrandov TV HD.sk">
+    <display-name lang="en">Barrandov TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Barrandov Family.sk">
+    <display-name lang="en">Barrandov Family</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Barrandov Plus.sk">
+    <display-name lang="en">Barrandov Plus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kino Barrandov.sk">
+    <display-name lang="en">Kino Barrandov</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Noe TV.sk">
+    <display-name lang="en">Noe TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mnam TV.sk">
+    <display-name lang="en">Mnam TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mnau TV.sk">
+    <display-name lang="en">Mnau TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Raj.sk">
+    <display-name lang="en">TV Raj</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Ruzinov HD.sk">
+    <display-name lang="en">TV Ruzinov HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AMC.sk">
+    <display-name lang="en">AMC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN.sk">
+    <display-name lang="en">AXN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN White.sk">
+    <display-name lang="en">AXN White</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN Black.sk">
+    <display-name lang="en">AXN Black</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film HD CZ.sk">
+    <display-name lang="en">Film HD CZ</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox.sk">
+    <display-name lang="en">FilmBox</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Family.sk">
+    <display-name lang="en">FilmBox Family</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CS mini  CS film  Horor film.sk">
+    <display-name lang="en">CS mini  CS film  Horor film</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kino Svet.sk">
+    <display-name lang="en">Kino Svet</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet HD.sk">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CBS Reality.sk">
+    <display-name lang="en">CBS Reality</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Crime and Investigation.sk">
+    <display-name lang="en">Crime and Investigation</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery HD.sk">
+    <display-name lang="en">Discovery HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Showcase HD.sk">
+    <display-name lang="en">Discovery Showcase HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Science HD.sk">
+    <display-name lang="en">Discovery Science HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DTX HD.sk">
+    <display-name lang="en">DTX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="IDX HD.sk">
+    <display-name lang="en">IDX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fine Living HD.sk">
+    <display-name lang="en">Fine Living HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Food Network HD.sk">
+    <display-name lang="en">Food Network HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="History HD.sk">
+    <display-name lang="en">History HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="National Geographic HD.sk">
+    <display-name lang="en">National Geographic HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild HD.sk">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Spektrum HD.sk">
+    <display-name lang="en">Spektrum HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Spektrum home.sk">
+    <display-name lang="en">Spektrum home</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TLC.sk">
+    <display-name lang="en">TLC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Paprika.sk">
+    <display-name lang="en">TV Paprika</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Travel Channel HD.sk">
+    <display-name lang="en">Travel Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viasat Explore.sk">
+    <display-name lang="en">Viasat Explore</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viasat History.sk">
+    <display-name lang="en">Viasat History</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viasat NH HD.sk">
+    <display-name lang="en">Viasat NH HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="WAR.sk">
+    <display-name lang="en">WAR</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fishing and Hunting.sk">
+    <display-name lang="en">Fishing and Hunting</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 HD.sk">
+    <display-name lang="en">Eurosport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 2 HD.sk">
+    <display-name lang="en">Eurosport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sport 1 HD.sk">
+    <display-name lang="en">Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sport 2 HD.sk">
+    <display-name lang="en">Sport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sport 5.sk">
+    <display-name lang="en">Sport 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="arena sport 1 HD.sk">
+    <display-name lang="en">arena sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="arena sport 2.sk">
+    <display-name lang="en">arena sport 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Auto Motor Sport.sk">
+    <display-name lang="en">Auto Motor Sport</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Golf Channel HD.sk">
+    <display-name lang="en">Golf Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Extreme Sports.sk">
+    <display-name lang="en">Extreme Sports</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nova Sport 1 HD.sk">
+    <display-name lang="en">Nova Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nova Sport 2 HD.sk">
+    <display-name lang="en">Nova Sport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Spartak TV.sk">
+    <display-name lang="en">Spartak TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ducktv.sk">
+    <display-name lang="en">ducktv</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Minimax.sk">
+    <display-name lang="en">Minimax</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Megamax.sk">
+    <display-name lang="en">Megamax</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Channel.sk">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="JimJam.sk">
+    <display-name lang="en">JimJam</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nickelodeon.sk">
+    <display-name lang="en">Nickelodeon</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nick Jr.sk">
+    <display-name lang="en">Nick Jr</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TuTy HD.sk">
+    <display-name lang="en">TuTy HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoon Network HD.sk">
+    <display-name lang="en">Cartoon Network HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Europe.sk">
+    <display-name lang="en">MTV Europe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Live HD.sk">
+    <display-name lang="en">MTV Live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Dance.sk">
+    <display-name lang="en">MTV Dance</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Rocks.sk">
+    <display-name lang="en">MTV Rocks</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH 1.sk">
+    <display-name lang="en">VH 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH 1 Classic.sk">
+    <display-name lang="en">VH 1 Classic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Retro Music TV.sk">
+    <display-name lang="en">Retro Music TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Slagr TV.sk">
+    <display-name lang="en">Slagr TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="C Music.sk">
+    <display-name lang="en">C Music</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Slusnej kanal.sk">
+    <display-name lang="en">Slusnej kanal</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mezzo.sk">
+    <display-name lang="en">Mezzo</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fashion TV HD.sk">
+    <display-name lang="en">Fashion TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RELAX.sk">
+    <display-name lang="en">RELAX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mezzo live HD.sk">
+    <display-name lang="en">Mezzo live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC World News.sk">
+    <display-name lang="en">BBC World News</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN.sk">
+    <display-name lang="en">CNN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Deutsche Welle.sk">
+    <display-name lang="en">Deutsche Welle</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNBC Europe.sk">
+    <display-name lang="en">CNBC Europe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Euronews HD.sk">
+    <display-name lang="en">Euronews HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 24.sk">
+    <display-name lang="en">France 24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Russia Today HD.sk">
+    <display-name lang="en">Russia Today HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV5 Monde.sk">
+    <display-name lang="en">TV5 Monde</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Channel One Russia.sk">
+    <display-name lang="en">Channel One Russia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 1.sk">
+    <display-name lang="en">ORF 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2.sk">
+    <display-name lang="en">ORF 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO.sk">
+    <display-name lang="en">HBO</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO HD.sk">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO 2 HD.sk">
+    <display-name lang="en">HBO 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO 3 HD.sk">
+    <display-name lang="en">HBO 3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cinemax HD.sk">
+    <display-name lang="en">Cinemax HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cinemax 2 HD.sk">
+    <display-name lang="en">Cinemax 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Extra HD.sk">
+    <display-name lang="en">FilmBox Extra HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Premium HD.sk">
+    <display-name lang="en">FilmBox Premium HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Plus.sk">
+    <display-name lang="en">FilmBox Plus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fightbox HD.sk">
+    <display-name lang="en">Fightbox HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Docubox HD.sk">
+    <display-name lang="en">Docubox HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fast  Fun HD.sk">
+    <display-name lang="en">Fast  Fun HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="EroXXX HD.sk">
+    <display-name lang="en">EroXXX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Hustler HD.sk">
+    <display-name lang="en">Hustler HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Hustler TV.sk">
+    <display-name lang="en">Hustler TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Extasy  Leo TV.sk">
+    <display-name lang="en">Extasy  Leo TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Private TV.sk">
+    <display-name lang="en">Private TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HirTV.sk">
+    <display-name lang="en">HirTV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="M1.sk">
+    <display-name lang="en">M1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="m2.sk">
+    <display-name lang="en">m2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="M3.sk">
+    <display-name lang="en">M3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="M4 Sport.sk">
+    <display-name lang="en">M4 Sport</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Klub.sk">
+    <display-name lang="en">RTL Klub</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 2 HUN.sk">
+    <display-name lang="en">RTL 2 HUN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Filmbox HU.sk">
+    <display-name lang="en">Filmbox HU</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viasat 3.sk">
+    <display-name lang="en">Viasat 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Duna World.sk">
+    <display-name lang="en">Duna World</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Duna.sk">
+    <display-name lang="en">Duna</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Magyar ATV.sk">
+    <display-name lang="en">Magyar ATV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV2.sk">
+    <display-name lang="en">TV2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cool TV.sk">
+    <display-name lang="en">Cool TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Story 4.sk">
+    <display-name lang="en">Story 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Slager TV.sk">
+    <display-name lang="en">Slager TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Euronews.sk">
+    <display-name lang="en">Euronews</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kabel eins.sk">
+    <display-name lang="en">Kabel eins</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="N24.sk">
+    <display-name lang="en">N24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ProSieben.sk">
+    <display-name lang="en">ProSieben</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL.sk">
+    <display-name lang="en">RTL</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 2 GER.sk">
+    <display-name lang="en">RTL 2 GER</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Super RTL.sk">
+    <display-name lang="en">Super RTL</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SAT 1.sk">
+    <display-name lang="en">SAT 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VOX.sk">
+    <display-name lang="en">VOX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="National Geographic.sk">
+    <display-name lang="en">National Geographic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ducktv HD.sk">
+    <display-name lang="en">ducktv HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Region.sk">
+    <display-name lang="en">TV Region</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <programme start="20190815005000 +0000" stop="20190815014500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Polnočné slnko</title>
+    <desc lang="en">Kriminálny thriller od tvorcov známeho švédsko-dánskeho seriálu Bron/Broen, Mansa Marlinda a Björna Steina.. Švédsko, Francúzsko.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Dráma</category>
+    <category lang="en">Detektívka</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-cz-dynamic.horizon.tv/EventImages/20731373532.p.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="SK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20190815014500 +0000" stop="20190815024500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Ostrovy na konci sveta</title>
+    <desc lang="en">Dokumentárna séria. Veľká Británia.(n)</desc>
+    <category lang="en">Vzdelávací</category>
+    <category lang="en">Príroda</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-cz-dynamic.horizon.tv/EventImages/239039051.p.7b7ea212c6aaa84d6f7a84816e04489b8f58e1fc.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="SK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815024500 +0000" stop="20190815033500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Správy RTVS</title>
+    <desc lang="en">Aktuálne spravodajstvo.(n)</desc>
+    <category lang="en">Správy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-cz-dynamic.horizon.tv/EventImages/96447100.p.8d3053bb5877cb1ac90394c423c7530afb2c6151.jpg" />
+  </programme>
+  <programme start="20190815033500 +0000" stop="20190815040500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Duel</title>
+    <desc lang="en">Vedomostná súťaž s jedným moderátorom a dvoma hráčmi.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-cz-dynamic.horizon.tv/EventImages/96464005.p.dfd34471f3e7f7ad6926d0152569a43ef4f85fe7.jpg" />
+  </programme>
+  <programme start="20190815040500 +0000" stop="20190815045500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Správy RTVS</title>
+    <desc lang="en">Aktuálne spravodajstvo.(n)</desc>
+    <category lang="en">Správy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-cz-dynamic.horizon.tv/EventImages/96447100.p.8d3053bb5877cb1ac90394c423c7530afb2c6151.jpg" />
+  </programme>
+  <programme start="20190815045500 +0000" stop="20190815050000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Počasie</title>
+    <desc lang="en">Predpoveď počasia.(n)</desc>
+    <category lang="en">Správy</category>
+    <category lang="en">Počasie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-cz-dynamic.horizon.tv/EventImages/96447096.p.90b7a3f08a7ed7c201cca885fde4818adfe9388b.jpg" />
+  </programme>
+  <programme start="20190815050000 +0000" stop="20190815053000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Folklorika</title>
+    <desc lang="en">Magazín o našej histórii,tradíciách a koreňoch s Barborou Krajčírovou.(n)</desc>
+    <category lang="en">Vzdelávací</category>
+    <category lang="en">Ďalšie Vzdelávanie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-cz-dynamic.horizon.tv/EventImages/20731373356.p.jpg" />
+    <rating system="SK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815053000 +0000" stop="20190815063000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Ranné správy RTVS</title>
+    <desc lang="en">Aktuálne spravodajstvo.(n)</desc>
+    <category lang="en">Správy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-cz-dynamic.horizon.tv/EventImages/180872219.p.7eb637dc4f57adcc92c700d70172fc689fafa0d6.jpg" />
+  </programme>
+  <programme start="20190815063000 +0000" stop="20190815070500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Svet z vtáčej perspektívy</title>
+    <sub-title lang="en">Lime Rock Park a Faulknerov maják, USA</sub-title>
+    <desc lang="en">Dokumentárna séria. Veľká Británia, Spojené štáty americké.(n)</desc>
+    <category lang="en">Správy</category>
+    <category lang="en">Dokumentárny</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-cz-dynamic.horizon.tv/EventImages/20731372783.p.jpg" />
+  </programme>
+  <programme start="20190815070500 +0000" stop="20190815075500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Rodina doktora Kleista</title>
+    <sub-title lang="en">Odvaha povedať pravdu</sub-title>
+    <desc lang="en">Nemecký rodinný seriál. Spolková republika Nemecko.(n)</desc>
+    <date>2004</date>
+    <category lang="en">Dráma</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-cz-dynamic.horizon.tv/EventImages/337861233.p.9f22cf827523346813c47af4a90d67e120442cc5.jpg" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="SK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815075500 +0000" stop="20190815085500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Nash Bridges</title>
+    <sub-title lang="en">Ťažké rozhodnutie</sub-title>
+    <desc lang="en">Americký kriminálny seriál. Spojené štáty americké.(n)</desc>
+    <date>1999</date>
+    <category lang="en">Dráma</category>
+    <category lang="en">Detektívka</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp11-images-cz-dynamic.horizon.tv/EventImages/124743693.p.60912481d211aa56d7b6003c357c1eb2f013fe04.jpg" />
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="SK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20190815085500 +0000" stop="20190815092500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Duel</title>
+    <desc lang="en">Vedomostná súťaž s jedným moderátorom a dvoma hráčmi.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-cz-dynamic.horizon.tv/EventImages/96464005.p.dfd34471f3e7f7ad6926d0152569a43ef4f85fe7.jpg" />
+  </programme>
+  <programme start="20190815092500 +0000" stop="20190815100000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">5 proti 5</title>
+    <desc lang="en">Rodinná zábavná súťaž s moderátorom Andrejom Bičanom, v ktorej súťažiaci hľadajú najčastejšie odpovede stovky Slovákov na tie najjednoduchšie otázky.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-cz-dynamic.horizon.tv/EventImages/96464007.p.c1e25e866b16ca5d9d5116b8f457ec25d163fa54.jpg" />
+    <rating system="SK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815100000 +0000" stop="20190815102000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Správy RTVS</title>
+    <desc lang="en">Aktuálne spravodajstvo.(n)</desc>
+    <category lang="en">Správy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp8-images-cz-dynamic.horizon.tv/EventImages/96447100.p.8d3053bb5877cb1ac90394c423c7530afb2c6151.jpg" />
+  </programme>
+  <programme start="20190815102000 +0000" stop="20190815111500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Profesionáli</title>
+    <sub-title lang="en">Vojna agentov</sub-title>
+    <desc lang="en">Na policajnej stanici vmalom meste sa pracovný deň nezačal šťastne. Namiesto hľadanej delikventky policajti zatkli ich novú kolegyňu, nadporučíčku Balážikovú. Referentka, ktorá v súčasnosti zaskakuje na poste hovorkyne krajského oddelenia, si totiž zabudla doklady ajpeňaženku anemala čím zaplatiť vMiňovej krčme...Na policajnej stanici v malom slovenskom meste dôjde k zatknutiu - príslušníci zadržia nadporučíčku Scarlet Balážikovú ako hľadanú delikventku. Tú sem priviedol krčmár Miňo Demovič, lebo nemala čím zaplatiť. Do výsluchu sa pustia Alexander Vyšný-Riefenstahl a Fero Boborovský. Kapitánovi Marošovi Nagyovi sa zrazu ozve nadriadený...(n)</desc>
+    <date>1982</date>
+    <category lang="en">Dráma</category>
+    <category lang="en">Akčný</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-cz-dynamic.horizon.tv/EventImages/98552407.p.fd44fc516c77986bdee1271eeb8444251e0ec8e4.jpg" />
+    <episode-num system="onscreen">S5 E6</episode-num>
+    <rating system="SK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815111500 +0000" stop="20190815115000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Postav dom, zasaď strom</title>
+    <desc lang="en">Magazín na voľný čas.(n)</desc>
+    <category lang="en">Voľný Čas</category>
+    <category lang="en">Životný Štýl</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-cz-dynamic.horizon.tv/EventImages/20731373423.p.jpg" />
+  </programme>
+  <programme start="20190815115000 +0000" stop="20190815122000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Folklorika</title>
+    <desc lang="en">Magazín o našej histórii,tradíciách a koreňoch s Barborou Krajčírovou.(n)</desc>
+    <category lang="en">Vzdelávací</category>
+    <category lang="en">Ďalšie Vzdelávanie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-cz-dynamic.horizon.tv/EventImages/20731373356.p.jpg" />
+    <rating system="SK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815122000 +0000" stop="20190815130500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Doktor z hôr - Nové osudy</title>
+    <sub-title lang="en">Iná žena (2/2)</sub-title>
+    <desc lang="en">Nemecko-rakúsky seriál z lekárskeho prostredia.. Spolková republika Nemecko, Rakúsko.(n)</desc>
+    <category lang="en">Dráma</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp27-images-cz-dynamic.horizon.tv/EventImages/231726988.p.bf52df5df7430c2282385c37ab80c5b24ada4062.jpg" />
+    <episode-num system="onscreen">S9 E12</episode-num>
+    <rating system="SK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20190815130500 +0000" stop="20190815133500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Svetové dedičstvo UNESCO na Slovensku</title>
+    <sub-title lang="en">Karpatské bukové pralesy</sub-title>
+    <desc lang="en">Dokumentárny film.(n)</desc>
+    <category lang="en">Film</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp11-images-cz-dynamic.horizon.tv/EventImages/251083251.p.c303de7c91d08d878d1e172ffb35f23e574362a8.jpg" />
+  </programme>
+  <programme start="20190815133500 +0000" stop="20190815140000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Slovensko s Tiposom</title>
+    <desc lang="en">Zábavno-súťažná relácia s Ivetou Malachovskou.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-cz-dynamic.horizon.tv/EventImages/20731372799.p.jpg" />
+    <rating system="SK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815140000 +0000" stop="20190815142500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Správy RTVS</title>
+    <desc lang="en">Aktuálne spravodajstvo.(n)</desc>
+    <category lang="en">Správy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-cz-dynamic.horizon.tv/EventImages/96447100.p.8d3053bb5877cb1ac90394c423c7530afb2c6151.jpg" />
+  </programme>
+  <programme start="20190815142500 +0000" stop="20190815145500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Svet z vtáčej perspektívy</title>
+    <sub-title lang="en">Ilha do Mel, Paraty - Brazília</sub-title>
+    <desc lang="en">Dokuemntárna séria. Veľká Británia, Spojené štáty americké.(n)</desc>
+    <category lang="en">Správy</category>
+    <category lang="en">Dokumentárny</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-cz-dynamic.horizon.tv/EventImages/20731372783.p.jpg" />
+  </programme>
+  <programme start="20190815145500 +0000" stop="20190815154500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Rodina doktora Kleista</title>
+    <sub-title lang="en">Na vlastnú päsť</sub-title>
+    <desc lang="en">Nemecký rodinný seriál. Spolková republika Nemecko.(n)</desc>
+    <date>2004</date>
+    <category lang="en">Dráma</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-cz-dynamic.horizon.tv/EventImages/337861233.p.9f22cf827523346813c47af4a90d67e120442cc5.jpg" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="SK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815154500 +0000" stop="20190815161000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Duel</title>
+    <desc lang="en">Vedomostná súťaž s jedným moderátorom a dvoma hráčmi.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-cz-dynamic.horizon.tv/EventImages/96464005.p.dfd34471f3e7f7ad6926d0152569a43ef4f85fe7.jpg" />
+  </programme>
+  <programme start="20190815161000 +0000" stop="20190815162000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Krátke správy RTVS</title>
+    <desc lang="en">Aktuálne spravodajstvo.(n)</desc>
+    <category lang="en">Správy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-cz-dynamic.horizon.tv/EventImages/180872221.p.e3affa5849d6dbe58a31479daf3c81cc1533cb87.jpg" />
+  </programme>
+  <programme start="20190815162000 +0000" stop="20190815170000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">5 proti 5</title>
+    <desc lang="en">Rodinná zábavná súťaž s moderátorom Andrejom Bičanom, v ktorej súťažiaci hľadajú najčastejšie odpovede stovky Slovákov na tie najjednoduchšie otázky.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-cz-dynamic.horizon.tv/EventImages/96464007.p.c1e25e866b16ca5d9d5116b8f457ec25d163fa54.jpg" />
+    <rating system="SK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815170000 +0000" stop="20190815175500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Správy RTVS</title>
+    <desc lang="en">Aktuálne spravodajstvo.(n)</desc>
+    <category lang="en">Správy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-cz-dynamic.horizon.tv/EventImages/96447100.p.8d3053bb5877cb1ac90394c423c7530afb2c6151.jpg" />
+  </programme>
+  <programme start="20190815175500 +0000" stop="20190815182000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Góly - body - sekundy</title>
+    <desc lang="en">Športové spravodajstvo.(n)</desc>
+    <category lang="en">Šport</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-cz-dynamic.horizon.tv/EventImages/96447104.p.ed7e6e87b685d378fabc7280dd7680a96669fe4f.jpg" />
+  </programme>
+  <programme start="20190815182000 +0000" stop="20190815183000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Počasie</title>
+    <desc lang="en">Predpoveď počasia.(n)</desc>
+    <category lang="en">Správy</category>
+    <category lang="en">Počasie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-cz-dynamic.horizon.tv/EventImages/96447096.p.90b7a3f08a7ed7c201cca885fde4818adfe9388b.jpg" />
+  </programme>
+  <programme start="20190815183000 +0000" stop="20190815192500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Mediciovci: Vládcovia Florencie</title>
+    <desc lang="en">Veľkolepá rodinná sága o jednom z najvplyvnejších a najbohatších rodov talianskej histórie, Mediciovcoch.. Taliansko, Veľká Británia, Francúzsko.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Dráma</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-cz-dynamic.horizon.tv/EventImages/242664836.p.98496eb7b383a6e71d5b7b292860a62b4da5e79d.jpg" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="SK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20190815192500 +0000" stop="20190815201000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Kráľovná Viktória</title>
+    <sub-title lang="en">Srdečná dohoda</sub-title>
+    <desc lang="en">Britský historický seriál.. Veľká Británia.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Dráma</category>
+    <category lang="en">Historický</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp11-images-cz-dynamic.horizon.tv/EventImages/305072191.p.3af7357c57d32d3942769074fc4cf5aed4424f60.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="SK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815201000 +0000" stop="20190815210000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Kráľovná Viktória</title>
+    <sub-title lang="en">Viera, nádej, láska</sub-title>
+    <desc lang="en">Britský historický seriál.. Veľká Británia.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Dráma</category>
+    <category lang="en">Historický</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-cz-dynamic.horizon.tv/EventImages/270448808.p.b16fdc6e97bbb8eb1cd5948737794436607b0534.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="SK">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815210000 +0000" stop="20190815214500 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Doktor z hôr - Nové osudy</title>
+    <sub-title lang="en">Iná žena (2/2)</sub-title>
+    <desc lang="en">Nemecko-rakúsky seriál z lekárskeho prostredia.. Spolková republika Nemecko, Rakúsko.(n)</desc>
+    <category lang="en">Dráma</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp27-images-cz-dynamic.horizon.tv/EventImages/231726988.p.bf52df5df7430c2282385c37ab80c5b24ada4062.jpg" />
+    <episode-num system="onscreen">S9 E12</episode-num>
+    <rating system="SK">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20190815214500 +0000" stop="20190815223000 +0000" channel="Jednotka HD.sk">
+    <title lang="en">Nash Bridges</title>
+    <sub-title lang="en">Ťažké rozhodnutie</sub-title>
+    <desc lang="en">Americký kriminálny seriál. Spojené štáty americké.(n)</desc>
+    <date>1999</date>
+    <category lang="en">Dráma</category>
+    <category lang="en">Detektívka</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp11-images-cz-dynamic.horizon.tv/EventImages/124743693.p.60912481d211aa56d7b6003c357c1eb2f013fe04.jpg" />
+    <episode-num system="onscreen">S5 E7</episode-num>
+    <rating system="SK">
+      <value>15</value>
+    </rating>
+  </programme>
+</tv>

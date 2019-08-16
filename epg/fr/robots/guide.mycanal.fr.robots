@@ -1,0 +1,7 @@
+﻿User-agent: *
+Allow: /
+Disallow: /secure/  
+
+User-agent: sistrix
+Disallow: /
+

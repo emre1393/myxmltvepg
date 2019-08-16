@@ -1,0 +1,13 @@
+﻿User-agent: *
+Disallow: /search/
+Disallow: /mylist/
+Disallow: /feedback/
+Disallow: /event/
+Disallow: /go-web/
+Disallow: /go-mobile/
+Disallow: /*/favorite/
+Disallow: /ext/
+Disallow: /*phone_notify
+Disallow: /*/channel/*/*/$
+
+

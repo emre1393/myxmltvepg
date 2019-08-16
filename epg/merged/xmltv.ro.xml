@@ -1,0 +1,1103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TVR 1.ro">
+    <display-name lang="en">TVR 1</display-name>
+    <icon src="https://wp19-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10001_c_0796235930ec9dccdb96fc1dbd0e82ab.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PRO TV.ro">
+    <display-name lang="en">PRO TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Antena 1.ro">
+    <display-name lang="en">Antena 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Antena Stars.ro">
+    <display-name lang="en">Antena Stars</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima TV.ro">
+    <display-name lang="en">Prima TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kanal D.ro">
+    <display-name lang="en">Kanal D</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Look Plus.ro">
+    <display-name lang="en">Look Plus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Look TV.ro">
+    <display-name lang="en">Look TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVR 2.ro">
+    <display-name lang="en">TVR 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Naţional TV.ro">
+    <display-name lang="en">Naţional TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVR 3.ro">
+    <display-name lang="en">TVR 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Top Shop TV.ro">
+    <display-name lang="en">Top Shop TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Neptun TV.ro">
+    <display-name lang="en">Neptun TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Naţional 24 Plus.ro">
+    <display-name lang="en">Naţional 24 Plus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PRO GOLD.ro">
+    <display-name lang="en">PRO GOLD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PRO 2.ro">
+    <display-name lang="en">PRO 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Filmcafe.ro">
+    <display-name lang="en">Filmcafe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Happy Channel.ro">
+    <display-name lang="en">Happy Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="E Entertainment.ro">
+    <display-name lang="en">E Entertainment</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fine Living.ro">
+    <display-name lang="en">Fine Living</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fashion TV.ro">
+    <display-name lang="en">Fashion TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TLC.ro">
+    <display-name lang="en">TLC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Paprika.ro">
+    <display-name lang="en">TV Paprika</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Food TV.ro">
+    <display-name lang="en">Food TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PRO CINEMA.ro">
+    <display-name lang="en">PRO CINEMA</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Diva Universal.ro">
+    <display-name lang="en">Diva Universal</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN.ro">
+    <display-name lang="en">AXN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN White.ro">
+    <display-name lang="en">AXN White</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN Black.ro">
+    <display-name lang="en">AXN Black</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AMC.ro">
+    <display-name lang="en">AMC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TNT.ro">
+    <display-name lang="en">TNT</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV 1000.ro">
+    <display-name lang="en">TV 1000</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox.ro">
+    <display-name lang="en">FilmBox</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sundance.ro">
+    <display-name lang="en">Sundance</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Paramount Channel.ro">
+    <display-name lang="en">Paramount Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Comedy Central.ro">
+    <display-name lang="en">Comedy Central</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Romance TV.ro">
+    <display-name lang="en">Romance TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Axn Spin.ro">
+    <display-name lang="en">Axn Spin</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO.ro">
+    <display-name lang="en">HBO</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO 2.ro">
+    <display-name lang="en">HBO 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO 3.ro">
+    <display-name lang="en">HBO 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cinemax.ro">
+    <display-name lang="en">Cinemax</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cinemax 2.ro">
+    <display-name lang="en">Cinemax 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bollywood TV Film.ro">
+    <display-name lang="en">Bollywood TV Film</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bollywood Clasic.ro">
+    <display-name lang="en">Bollywood Clasic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bollywood TV.ro">
+    <display-name lang="en">Bollywood TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Extra HDSD.ro">
+    <display-name lang="en">FilmBox Extra HDSD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Family.ro">
+    <display-name lang="en">FilmBox Family</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Plus.ro">
+    <display-name lang="en">FilmBox Plus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Premium.ro">
+    <display-name lang="en">FilmBox Premium</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO HD.ro">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Extra HD.ro">
+    <display-name lang="en">FilmBox Extra HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sundance HD.ro">
+    <display-name lang="en">Sundance HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bollywood HD.ro">
+    <display-name lang="en">Bollywood HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cinemax HD.ro">
+    <display-name lang="en">Cinemax HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO 2 HD.ro">
+    <display-name lang="en">HBO 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO 3 HD.ro">
+    <display-name lang="en">HBO 3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 HD.ro">
+    <display-name lang="en">Eurosport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 2 HD.ro">
+    <display-name lang="en">Eurosport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PRO X HD.ro">
+    <display-name lang="en">PRO X HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Auto Motor Sport HD.ro">
+    <display-name lang="en">Auto Motor Sport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Look Plus HD.ro">
+    <display-name lang="en">Look Plus HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Look HD.ro">
+    <display-name lang="en">Look HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Trace Sport Stars HD.ro">
+    <display-name lang="en">Trace Sport Stars HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Trace Urban HD.ro">
+    <display-name lang="en">Trace Urban HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MyZen HD.ro">
+    <display-name lang="en">MyZen HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Motorvision HD.ro">
+    <display-name lang="en">Motorvision HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVR HD.ro">
+    <display-name lang="en">TVR HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PRO TV HD.ro">
+    <display-name lang="en">PRO TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kanal D HD.ro">
+    <display-name lang="en">Kanal D HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Antena 1 HD.ro">
+    <display-name lang="en">Antena 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Antena 3 HD.ro">
+    <display-name lang="en">Antena 3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PRO 2 HD.ro">
+    <display-name lang="en">PRO 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Happy Channel HD.ro">
+    <display-name lang="en">Happy Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="History HD.ro">
+    <display-name lang="en">History HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="National Geographic HD.ro">
+    <display-name lang="en">National Geographic HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild HD.ro">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disc Showcase HD.ro">
+    <display-name lang="en">Disc Showcase HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet HD.ro">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Travel HD.ro">
+    <display-name lang="en">Travel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viasat NatureHistory HD.ro">
+    <display-name lang="en">Viasat NatureHistory HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fashion TV HD.ro">
+    <display-name lang="en">Fashion TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Golf Channel.ro">
+    <display-name lang="en">Golf Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Taraf HD.ro">
+    <display-name lang="en">Taraf HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Live HD.ro">
+    <display-name lang="en">MTV Live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Etno HD.ro">
+    <display-name lang="en">Etno HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mooz Dance HD.ro">
+    <display-name lang="en">Mooz Dance HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mezzo HD.ro">
+    <display-name lang="en">Mezzo HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Arte HD.ro">
+    <display-name lang="en">Arte HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PRO X.ro">
+    <display-name lang="en">PRO X</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1.ro">
+    <display-name lang="en">Eurosport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Motorsport TV.ro">
+    <display-name lang="en">Motorsport TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Extreme Sports.ro">
+    <display-name lang="en">Extreme Sports</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nautical Channel.ro">
+    <display-name lang="en">Nautical Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 2.ro">
+    <display-name lang="en">Eurosport 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FishingHunting.ro">
+    <display-name lang="en">FishingHunting</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Trace Sport Stars.ro">
+    <display-name lang="en">Trace Sport Stars</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Motorvision SD.ro">
+    <display-name lang="en">Motorvision SD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Channel.ro">
+    <display-name lang="en">Discovery Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="National Geographic.ro">
+    <display-name lang="en">National Geographic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CBS Reality.ro">
+    <display-name lang="en">CBS Reality</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ID.ro">
+    <display-name lang="en">ID</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CrimeInvestigation Network.ro">
+    <display-name lang="en">CrimeInvestigation Network</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet.ro">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DTX.ro">
+    <display-name lang="en">DTX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Science.ro">
+    <display-name lang="en">Discovery Science</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Travel Mix.ro">
+    <display-name lang="en">Travel Mix</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Travel Channel.ro">
+    <display-name lang="en">Travel Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild.ro">
+    <display-name lang="en">Nat Geo Wild</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="History Channel.ro">
+    <display-name lang="en">History Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Da Vinci Learning.ro">
+    <display-name lang="en">Da Vinci Learning</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viasat Explore.ro">
+    <display-name lang="en">Viasat Explore</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viasat History.ro">
+    <display-name lang="en">Viasat History</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viasat Nature.ro">
+    <display-name lang="en">Viasat Nature</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DoQ.ro">
+    <display-name lang="en">DoQ</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Realitatea TV.ro">
+    <display-name lang="en">Realitatea TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Antena 3.ro">
+    <display-name lang="en">Antena 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="România Tv.ro">
+    <display-name lang="en">România Tv</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="B1.ro">
+    <display-name lang="en">B1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Digi24.ro">
+    <display-name lang="en">Digi24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Naşul TV.ro">
+    <display-name lang="en">Naşul TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Euronews.ro">
+    <display-name lang="en">Euronews</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN.ro">
+    <display-name lang="en">CNN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 24.ro">
+    <display-name lang="en">France 24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNBC.ro">
+    <display-name lang="en">CNBC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bloomberg.ro">
+    <display-name lang="en">Bloomberg</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Russia Today.ro">
+    <display-name lang="en">Russia Today</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CGTN.ro">
+    <display-name lang="en">CGTN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Al Jazeera English.ro">
+    <display-name lang="en">Al Jazeera English</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Al Jazeera Arabic.ro">
+    <display-name lang="en">Al Jazeera Arabic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Minimax.ro">
+    <display-name lang="en">Minimax</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoon Network.ro">
+    <display-name lang="en">Cartoon Network</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Channel.ro">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Megamax.ro">
+    <display-name lang="en">Megamax</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Boomerang.ro">
+    <display-name lang="en">Boomerang</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nickelodeon.ro">
+    <display-name lang="en">Nickelodeon</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="JimJam.ro">
+    <display-name lang="en">JimJam</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Junior.ro">
+    <display-name lang="en">Disney Junior</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Baby TV.ro">
+    <display-name lang="en">Baby TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nickelodeon Jr.ro">
+    <display-name lang="en">Nickelodeon Jr</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kiss TV.ro">
+    <display-name lang="en">Kiss TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH1 Channel.ro">
+    <display-name lang="en">VH1 Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH1 Classic.ro">
+    <display-name lang="en">VH1 Classic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Rocks.ro">
+    <display-name lang="en">MTV Rocks</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Hits.ro">
+    <display-name lang="en">MTV Hits</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Dance.ro">
+    <display-name lang="en">MTV Dance</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZU TV.ro">
+    <display-name lang="en">ZU TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="U TV.ro">
+    <display-name lang="en">U TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Music Channel.ro">
+    <display-name lang="en">Music Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HT Music.ro">
+    <display-name lang="en">HT Music</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mooz SD.ro">
+    <display-name lang="en">Mooz SD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rock TV.ro">
+    <display-name lang="en">Rock TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Magic TV.ro">
+    <display-name lang="en">Magic TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mezzo.ro">
+    <display-name lang="en">Mezzo</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Favorit.ro">
+    <display-name lang="en">Favorit</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Etno.ro">
+    <display-name lang="en">Etno</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Inedit TV.ro">
+    <display-name lang="en">Inedit TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Taraf TV.ro">
+    <display-name lang="en">Taraf TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Balkanika MTV.ro">
+    <display-name lang="en">Balkanika MTV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="KBS HD.ro">
+    <display-name lang="en">KBS HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV5 Monde.ro">
+    <display-name lang="en">TV5 Monde</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DW.ro">
+    <display-name lang="en">DW</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Channel.ro">
+    <display-name lang="en">RTL Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PRO 7.ro">
+    <display-name lang="en">PRO 7</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SAT1.ro">
+    <display-name lang="en">SAT1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Duna TV.ro">
+    <display-name lang="en">Duna TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="M2.ro">
+    <display-name lang="en">M2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV2.ro">
+    <display-name lang="en">TV2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ATV.ro">
+    <display-name lang="en">ATV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Hír TV.ro">
+    <display-name lang="en">Hír TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="M1.ro">
+    <display-name lang="en">M1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL II.ro">
+    <display-name lang="en">RTL II</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="M4 Sport HD.ro">
+    <display-name lang="en">M4 Sport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="M4 Sport SD.ro">
+    <display-name lang="en">M4 Sport SD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVE.ro">
+    <display-name lang="en">TVE</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai Uno.ro">
+    <display-name lang="en">Rai Uno</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film.ro">
+    <display-name lang="en">Film</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Gold.ro">
+    <display-name lang="en">RTL Gold</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL .ro">
+    <display-name lang="en">RTL </display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sorozat.ro">
+    <display-name lang="en">Sorozat</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cool TV.ro">
+    <display-name lang="en">Cool TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Klub.ro">
+    <display-name lang="en">RTL Klub</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Slager TV.ro">
+    <display-name lang="en">Slager TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Muzsika TV.ro">
+    <display-name lang="en">Muzsika TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Erdély TV.ro">
+    <display-name lang="en">Erdély TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVH.ro">
+    <display-name lang="en">TVH</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Estrada TV.ro">
+    <display-name lang="en">Estrada TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Trinitas TV.ro">
+    <display-name lang="en">Trinitas TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Speranţa TV.ro">
+    <display-name lang="en">Speranţa TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Alfa Omega TV.ro">
+    <display-name lang="en">Alfa Omega TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Credo TV.ro">
+    <display-name lang="en">Credo TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Agro TV.ro">
+    <display-name lang="en">Agro TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Hustler TV.ro">
+    <display-name lang="en">Hustler TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Private TV.ro">
+    <display-name lang="en">Private TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Penthouse HD.ro">
+    <display-name lang="en">Penthouse HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Hustler HD.ro">
+    <display-name lang="en">Hustler HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Penthouse HD1.ro">
+    <display-name lang="en">Penthouse HD1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <programme start="20190815004000 +0000" stop="20190815004500 +0000" channel="TVR 1.ro">
+    <title lang="en">Vorbeşte corect!</title>
+    <desc lang="en">Echipa care ne-a învăţat mai mult de un deceniu să vorbim Corect (prezentatoarea Ruxandra Gheorghe-Negrea şi realizatorii Cristina Dănilă şi Radu Dănilă) revine cu un format nou: scurt, dinamic şi interactiv."Vorbeşte corect! este îndemnul adresat tuturor românilor. Într-o epocă în care totul se petrece cu mare viteză, oamenii nu mai au timpul necesar pentru a se informa suficient. Citesc ziare, se uită la televizor, se întâlnesc cu alţi oameni, dar nu sunt atenţi la felul cum este folosită limba română de către cei din jurul lor. Şi, de multe ori, nu sesizează că ei înşişi vorbesc incorect\.(n)</desc>
+    <category lang="en">Arte</category>
+    <category lang="en">Cultura</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_70.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815004500 +0000" stop="20190815013500 +0000" channel="TVR 1.ro">
+    <title lang="en">Telejurnal</title>
+    <desc lang="en">Află ce s-a întâmplat relevant pentru viaţa ta, în ţară şi în lume, de la Telejurnal.În fiecare zi, pe TVR 1, Telejurnalul îţi oferă un pachet informativ complet, care conţine ştiri, analize şi dezbateri.Evenimentele sunt acoperite prin intervenţii live de la faţa locului, pentru a-ţi oferi informaţiile direct de la sursă, iar subiectul principal al zilei este anunţat în cadrul dezbaterii Telejurnalului.În mijlocul zilei, de la ora 14:00, Telejurnalul, prezentat de Teodora Popa îţi oferă prima imagine completă asupra evenimentelor zilei. Timp de 50 de minute, primeşti cele mai importante ştiri ale momentului, unde nu ţi se prezintă doar ce se întâmplă, ci şi de ce.De la ora 20:00, esenţa informaţiilor din toate domeniile în care s-au desfăşurat evenimente de relevanţă şi impact public va fi cuprinsă în principala emisiune informativă a zilei. Această ediţie este prezentată de Mihai Constantin şi Ligia Munteanu. În fiecare seară, românii vor afla tot ce s-a întâmplat important în ţară şi în lume.În weekend, la pupitrul ştirilor principalului canal al Televiziunii Române, se află Radu Tudor.(n)</desc>
+    <category lang="en">Stiri</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_20.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815013500 +0000" stop="20190815020000 +0000" channel="TVR 1.ro">
+    <title lang="en">M.A.I. aproape de tine</title>
+    <desc lang="en">O emisiune realizată împreună cu Ministerul Administraţiei şi Internelor cu imagini exclusive din culisele operaţiunilor structurilor M.A.I.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_80.jpg" />
+    <rating system="RO">
+      <value>AP 12</value>
+    </rating>
+  </programme>
+  <programme start="20190815020000 +0000" stop="20190815023000 +0000" channel="TVR 1.ro">
+    <title lang="en">Levintza prezintă</title>
+    <desc lang="en">Vă propunem o incursiune în lumea eleganţei şi a modei, semnată Doina Levintza. Noile tendinţe în fashion, ce propuneri au creatorii internaţionali pentru anul 2019, care sunt piesele vestimentare ce nu trebuie să lipsească dintr-o garderobă, iată doar câteva dintre subiectele pe care le vom descoperi în această emisiune.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp28-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_80.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815023000 +0000" stop="20190815025500 +0000" channel="TVR 1.ro">
+    <title lang="en">Cooltura</title>
+    <desc lang="en">Pentru după-amiezele de vineri, Mirela Nagâţ e decisă să convingă telespectatorii că o emisiune culturală poate fi altfel decât plictisitoare. De fapt, poate fi chiar... cool.La "Cooltura" aflăm totul despre concerte, spectacole, artişti, expoziiţii, teatre şi cunoaştem oameni excepţionali.(n)</desc>
+    <category lang="en">Spectacol</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_30.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815025500 +0000" stop="20190815030000 +0000" channel="TVR 1.ro">
+    <title lang="en">Imnul României</title>
+    <desc lang="en">"Deşteaptă-te, române!" este, din 1990, imnul naţional al României. Muzica are autor necunoscut. Versurile şi aranjamentul aparţin lui Andrei Mureşanu (1816 – 1863), poet de factură romantică, ziarist, traducător, un adevărat tribun al epocii marcate de Revoluţia de la 1848.Imnul de stat al României este alcătuit din unsprezece strofe. La ocazii festive se interpretează strofele 1, 2, 4 şi 11. Deşteaptă-te, române, din somnul cel de moarte, În care te-adânciră barbarii de tirani Acum ori niciodată croieşte-ţi altă soarte, La care să se-nchine şi cruzii tăi duşmani. Acum ori niciodată să dăm dovezi în lume Că-n aste mâni mai curge un sânge de roman, Şi că-n a noastre piepturi păstrăm cu fală-un nume Triumfător în lupte, un nume de Traian. Înalţă-ţi lata frunte şi cată-n giur de tine, Cum stau ca brazi în munte voinicii sute de mii; Un glas ei mai aşteaptă şi sar ca lupi în stâne, Bătrâni, bărbaţi, juni, tineri, din munţi şi din câmpii. Priviţi, măreţe umbre, Mihai, Ştefan, Corvine, Româna naţiune, ai voştri strănepoţi, Cu braţele armate, cu focul vostru-n vine, "Viaţă-n libertate ori moarte" strigă toţi. Pre voi vă nimiciră a pizmei răutate Şi oarba neunire la Milcov şi Carpaţi Dar noi, pătrunşi la suflet de sfânta libertate, Jurăm că vom da mâna, să fim pururea fraţi. O mamă văduvită de la Mihai cel Mare Pretinde de la fii-şi azi mână d-ajutori, Şi blastămă cu lacrămi în ochi pe orişicare, În astfel de pericul s-ar face vânzători. De fulgere să piară, de trăsnet şi pucioasă, Oricare s-ar retrage din gloriosul loc, Când patria sau mama, cu inima duioasă, Va cere ca să trecem prin sabie şi foc. N-ajunge iataganul barbarei semilune, A cărui plăgi fatale şi azi le mai simţim; Acum se vâră cnuta în vetrele străbune, Dar martor ne e Domnul că vii nu o primim. N-ajunge despotismul cu-ntreaga lui orbie, Al cărui jug de seculi ca vitele-l purtăm; Acum se-ncearcă cruzii, cu oarba lor trufie, Să ne răpească limba, dar morţi numai o dăm. Români din patru unghiuri, acum ori niciodată Uniţi-vă în cuget, uniţi-vă-n simţiri. Strigaţi în lumea largă că Dunărea-i furată Prin intrigă şi silă, viclene uneltiri. Preoţi, cu crucea-n frunte căci oastea e creştină, Deviza-i libertate şi scopul ei preasfânt. Murim mai bine-n luptă, cu glorie deplină, Decât să fim sclavi iarăşi în vechiul nost'pământ.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_80.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815030000 +0000" stop="20190815040000 +0000" channel="TVR 1.ro">
+    <title lang="en">România 9</title>
+    <desc lang="en">TVR 1 lansează talk-show-ul "România 9\.(n)</desc>
+    <category lang="en">Spectacol</category>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_33.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815040000 +0000" stop="20190815050000 +0000" channel="TVR 1.ro">
+    <title lang="en">Telejurnal matinal</title>
+    <desc lang="en">Telejurnal matinal este un news magazine cu informaţii relevante pentru public, în timp real, ce aduce, în acelaşi timp, o stare tonică, pozitivă, pentru tot restul zilei, cu Dorina Florea şi Mihai Melinescu la pupitru, dar şi cu alţi reporteri care vin cu noutăţi din diferite domenii.Program complex şi dinamic de ştiri şi informaţii utilitare, Telejurnalul matinal este mai mult decât un jurnal de ştiri, ce "lansează" ziua din perspectiva interesului publicului. Pe lângă ştirile momentului, prezentate clar şi echilibrat, programul va aduce şi informaţiile oricărei dimineţi: starea meteo şi a traficului din Bucureşti şi din ţară, horoscop, sport, evoluţii financiare, evenimente culturale, de lifestyle, travel etc. Alături de cei doi prezentatori, îi mai vedem, la Telejurnal matinal, pe Lavinia Adam, Albertina Ionescu sau Eugen Rusu, cu rubrici punctuale.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_80.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815050000 +0000" stop="20190815060000 +0000" channel="TVR 1.ro">
+    <title lang="en">Telejurnal matinal</title>
+    <desc lang="en">Telejurnal matinal este un news magazine cu informaţii relevante pentru public, în timp real, ce aduce, în acelaşi timp, o stare tonică, pozitivă, pentru tot restul zilei, cu Dorina Florea şi Mihai Melinescu la pupitru, dar şi cu alţi reporteri care vin cu noutăţi din diferite domenii.Program complex şi dinamic de ştiri şi informaţii utilitare, Telejurnalul matinal este mai mult decât un jurnal de ştiri, ce "lansează" ziua din perspectiva interesului publicului. Pe lângă ştirile momentului, prezentate clar şi echilibrat, programul va aduce şi informaţiile oricărei dimineţi: starea meteo şi a traficului din Bucureşti şi din ţară, horoscop, sport, evoluţii financiare, evenimente culturale, de lifestyle, travel etc. Alături de cei doi prezentatori, îi mai vedem, la Telejurnal matinal, pe Lavinia Adam, Albertina Ionescu sau Eugen Rusu, cu rubrici punctuale.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_80.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815060000 +0000" stop="20190815070000 +0000" channel="TVR 1.ro">
+    <title lang="en">Telejurnal matinal</title>
+    <desc lang="en">Telejurnal matinal este un news magazine cu informaţii relevante pentru public, în timp real, ce aduce, în acelaşi timp, o stare tonică, pozitivă, pentru tot restul zilei, cu Dorina Florea şi Mihai Melinescu la pupitru, dar şi cu alţi reporteri care vin cu noutăţi din diferite domenii.Program complex şi dinamic de ştiri şi informaţii utilitare, Telejurnalul matinal este mai mult decât un jurnal de ştiri, ce "lansează" ziua din perspectiva interesului publicului. Pe lângă ştirile momentului, prezentate clar şi echilibrat, programul va aduce şi informaţiile oricărei dimineţi: starea meteo şi a traficului din Bucureşti şi din ţară, horoscop, sport, evoluţii financiare, evenimente culturale, de lifestyle, travel etc. Alături de cei doi prezentatori, îi mai vedem, la Telejurnal matinal, pe Lavinia Adam, Albertina Ionescu sau Eugen Rusu, cu rubrici punctuale.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_80.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815070000 +0000" stop="20190815092000 +0000" channel="TVR 1.ro">
+    <title lang="en">Ediţie specială</title>
+    <desc lang="en">Ediţie specială.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_80.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815092000 +0000" stop="20190815102000 +0000" channel="TVR 1.ro">
+    <title lang="en">Legendele palatului: Regele Geunchogo</title>
+    <desc lang="en">"Cel care va cuceri râul Han,va conduce peninsula Han. Iar cel care va cuceri Marea Vestică, va putea visa la China." Acestea sunt cuvintele pe care regele Bilyoo i le-a spus fiului său, Buyeogu (viitorul rege Geunchogo), când a decis să îl facă pe acesta, cel de-al patrulea său fiu, următorul rege, chiar dacă primul său fiu fusese pregătit de mult timp să fie încoronat. Regele Geunchogo preia tronul regatului Baekje, în puterea luptei dintre facţiuni şi luptă pentru restaurarea regatului Baekje, care, sub conducerea sa, devine cel mai puternic regat din istoria sa. Sub conducerea lui Geunchogo, regatul cunoaşte zile glorioase, prosperitate şi faimă, atât prin cuceririle militare, cât şi prin cultură. Dar, de neînvins ca o stâncă, pe câmpul de luptă, războinicul rege Geunchogo, a trăit o iubire predestinată, care i-a topit inima! Serial inspirat de romanul "Resentment of Continent\.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Seriale</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-ro-dynamic.horizon.tv/RO/Images/bc_cf5bc90e6461d11aad80f59ad5bb792f5eeb3105.jpg" />
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="RO">
+      <value>AP 12</value>
+    </rating>
+  </programme>
+  <programme start="20190815102000 +0000" stop="20190815103000 +0000" channel="TVR 1.ro">
+    <title lang="en">100 de poveşti despre Marea Unire</title>
+    <desc lang="en">Pagini din istoria contemporană a României, de la Primul Război Mondial la Constituţia din 1923, de la agonia luptelor până la dramatismul tratativelor de pace. Începutul României Mari rămâne o fascinantă pagină de trecut. Istoria este cea mai frumoasă poveste, iar unirea se construieşte zi de zi.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Documentar</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_81.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815103000 +0000" stop="20190815110000 +0000" channel="TVR 1.ro">
+    <title lang="en">Vizită de lucru</title>
+    <desc lang="en">În anul Centenarului Marii Uniri, simpatica vedetă vrea să ne arate că românii pot fi cu adevărat uniţi prin muncă. Şi ne asigură că nu este un clişeu! "În România există o rată a şomajului destul de mare, concomitent cu o nevoie acută de forţă de muncă. De aceea, un demers care să arate ce înseamnă să fii angajat sau antreprenor şi care, în plus, să ne ajute să intrăm în culisele muncii românilor, în culisele unor meserii, cred că nu este de neglijat. Dacă există români care lucrează şi sunt mulţumiţi, pasionaţi şi mândri de munca lor, noi îi vom găsi\.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_80.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815110000 +0000" stop="20190815115500 +0000" channel="TVR 1.ro">
+    <title lang="en">Telejurnal</title>
+    <desc lang="en">Află ce s-a întâmplat relevant pentru viaţa ta, în ţară şi în lume, de la Telejurnal.În fiecare zi, pe TVR 1, Telejurnalul îţi oferă un pachet informativ complet, care conţine ştiri, analize şi dezbateri.Evenimentele sunt acoperite prin intervenţii live de la faţa locului, pentru a-ţi oferi informaţiile direct de la sursă, iar subiectul principal al zilei este anunţat în cadrul dezbaterii Telejurnalului.În mijlocul zilei, de la ora 14:00, Telejurnalul, prezentat de Teodora Popa îţi oferă prima imagine completă asupra evenimentelor zilei. Timp de 50 de minute, primeşti cele mai importante ştiri ale momentului, unde nu ţi se prezintă doar ce se întâmplă, ci şi de ce.De la ora 20:00, esenţa informaţiilor din toate domeniile în care s-au desfăşurat evenimente de relevanţă şi impact public va fi cuprinsă în principala emisiune informativă a zilei. Această ediţie este prezentată de Mihai Constantin şi Ligia Munteanu. În fiecare seară, românii vor afla tot ce s-a întâmplat important în ţară şi în lume.În weekend, la pupitrul ştirilor principalului canal al Televiziunii Române, se află Radu Tudor.(n)</desc>
+    <category lang="en">Stiri</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_20.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815115500 +0000" stop="20190815121000 +0000" channel="TVR 1.ro">
+    <title lang="en">Vorbeşte corect!</title>
+    <desc lang="en">Echipa care ne-a învăţat mai mult de un deceniu să vorbim Corect (prezentatoarea Ruxandra Gheorghe-Negrea şi realizatorii Cristina Dănilă şi Radu Dănilă) revine cu un format nou: scurt, dinamic şi interactiv."Vorbeşte corect! este îndemnul adresat tuturor românilor. Într-o epocă în care totul se petrece cu mare viteză, oamenii nu mai au timpul necesar pentru a se informa suficient. Citesc ziare, se uită la televizor, se întâlnesc cu alţi oameni, dar nu sunt atenţi la felul cum este folosită limba română de către cei din jurul lor. Şi, de multe ori, nu sesizează că ei înşişi vorbesc incorect\.(n)</desc>
+    <category lang="en">Arte</category>
+    <category lang="en">Cultura</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_70.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815121000 +0000" stop="20190815135000 +0000" channel="TVR 1.ro">
+    <title lang="en">Akzente</title>
+    <desc lang="en">"Akzente" e puntea pe care TVR a ridicat-o pentru a-i ajuta pe etnicii germani din interiorul şi din afara graniţelor ţării noastre să păstreze legătura.Akzente este o expresie a normalităţii, este gestul firesc pe care televiziunea publică îl face săptămânal pentru toţi cei interesaţi de limba şi cultura germană, indiferent de naţionalitatea sau de rădăcinile lor.Fie că e vorba de saşii transilvăneni, de şvabii bănăţeni şi sătmăreni, ori de germanii din Bucovina sau Dobrogea, redacţia Emisiuni în limba germană e alături de ei, încercând să le afle problemele şi nevoile şi implicându-se în viaţa lor socială şi culturală. Niciun eveniment important pentru comunitatea germanilor din România nu scapă nesemnalat, iar acest lucru se întâmplă pentru că echipa Akzente colaborează strâns cu toate asociaţiile şi publicaţiile germanilor din România, cu reprezentanţele oficiale ale statului german în ţara noastră, cu postul public Deutsche Welle, dar şi cu diverse organizaţii şi centre culturale din Germania.Producţiile realizate de redacţia germană sunt deopotrivă emisiuni de actualitate, cu ştiri şi o revistă a presei de limbă germană, dar şi emisiuni de tip magazin în care sunt incluse reportaje şi documentare, rubrici culturale şi de divertisment.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Documentar</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_81.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815135000 +0000" stop="20190815145000 +0000" channel="TVR 1.ro">
+    <title lang="en">Legendele palatului: Regele Geunchogo</title>
+    <desc lang="en">"Cel care va cuceri râul Han,va conduce peninsula Han. Iar cel care va cuceri Marea Vestică, va putea visa la China." Acestea sunt cuvintele pe care regele Bilyoo i le-a spus fiului său, Buyeogu (viitorul rege Geunchogo), când a decis să îl facă pe acesta, cel de-al patrulea său fiu, următorul rege, chiar dacă primul său fiu fusese pregătit de mult timp să fie încoronat. Regele Geunchogo preia tronul regatului Baekje, în puterea luptei dintre facţiuni şi luptă pentru restaurarea regatului Baekje, care, sub conducerea sa, devine cel mai puternic regat din istoria sa. Sub conducerea lui Geunchogo, regatul cunoaşte zile glorioase, prosperitate şi faimă, atât prin cuceririle militare, cât şi prin cultură. Dar, de neînvins ca o stâncă, pe câmpul de luptă, războinicul rege Geunchogo, a trăit o iubire predestinată, care i-a topit inima! Serial inspirat de romanul "Resentment of Continent\.(n)</desc>
+    <date>2011</date>
+    <category lang="en">Seriale</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-ro-dynamic.horizon.tv/RO/Images/bc_7b074c7c2b4ac0eaa1a5513e76887bc0ac892039.jpg" />
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="RO">
+      <value>AP 12</value>
+    </rating>
+  </programme>
+  <programme start="20190815145000 +0000" stop="20190815150000 +0000" channel="TVR 1.ro">
+    <title lang="en">Vorbeşte corect!</title>
+    <desc lang="en">Echipa care ne-a învăţat mai mult de un deceniu să vorbim Corect (prezentatoarea Ruxandra Gheorghe-Negrea şi realizatorii Cristina Dănilă şi Radu Dănilă) revine cu un format nou: scurt, dinamic şi interactiv."Vorbeşte corect! este îndemnul adresat tuturor românilor. Într-o epocă în care totul se petrece cu mare viteză, oamenii nu mai au timpul necesar pentru a se informa suficient. Citesc ziare, se uită la televizor, se întâlnesc cu alţi oameni, dar nu sunt atenţi la felul cum este folosită limba română de către cei din jurul lor. Şi, de multe ori, nu sesizează că ei înşişi vorbesc incorect\.(n)</desc>
+    <category lang="en">Arte</category>
+    <category lang="en">Cultura</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_70.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815150000 +0000" stop="20190815160000 +0000" channel="TVR 1.ro">
+    <title lang="en">Lumini şi umbre</title>
+    <desc lang="en">Lumini şi umbre.(n)</desc>
+    <date>1982</date>
+    <category lang="en">Seriale</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_E0.jpg" />
+    <rating system="RO">
+      <value>AP 12</value>
+    </rating>
+  </programme>
+  <programme start="20190815160000 +0000" stop="20190815163000 +0000" channel="TVR 1.ro">
+    <title lang="en">Povestea Cerbului de Aur</title>
+    <desc lang="en">Povestea Cerbului de Aur.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Documentar</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_81.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815163000 +0000" stop="20190815164000 +0000" channel="TVR 1.ro">
+    <title lang="en">100 de poveşti despre Marea Unire</title>
+    <desc lang="en">Pagini din istoria contemporană a României, de la Primul Război Mondial la Constituţia din 1923, de la agonia luptelor până la dramatismul tratativelor de pace. Începutul României Mari rămâne o fascinantă pagină de trecut. Istoria este cea mai frumoasă poveste, iar unirea se construieşte zi de zi.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Documentar</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_81.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815164000 +0000" stop="20190815170000 +0000" channel="TVR 1.ro">
+    <title lang="en">Sport</title>
+    <desc lang="en">Sport.(n)</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_40.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815170000 +0000" stop="20190815180000 +0000" channel="TVR 1.ro">
+    <title lang="en">Telejurnal</title>
+    <desc lang="en">Află ce s-a întâmplat relevant pentru viaţa ta, în ţară şi în lume, de la Telejurnal.În fiecare zi, pe TVR 1, Telejurnalul îţi oferă un pachet informativ complet, care conţine ştiri, analize şi dezbateri.Evenimentele sunt acoperite prin intervenţii live de la faţa locului, pentru a-ţi oferi informaţiile direct de la sursă, iar subiectul principal al zilei este anunţat în cadrul dezbaterii Telejurnalului.În mijlocul zilei, de la ora 14:00, Telejurnalul, prezentat de Teodora Popa îţi oferă prima imagine completă asupra evenimentelor zilei. Timp de 50 de minute, primeşti cele mai importante ştiri ale momentului, unde nu ţi se prezintă doar ce se întâmplă, ci şi de ce.De la ora 20:00, esenţa informaţiilor din toate domeniile în care s-au desfăşurat evenimente de relevanţă şi impact public va fi cuprinsă în principala emisiune informativă a zilei. Această ediţie este prezentată de Mihai Constantin şi Ligia Munteanu. În fiecare seară, românii vor afla tot ce s-a întâmplat important în ţară şi în lume.În weekend, la pupitrul ştirilor principalului canal al Televiziunii Române, se află Radu Tudor.(n)</desc>
+    <category lang="en">Stiri</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_20.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815180000 +0000" stop="20190815190000 +0000" channel="TVR 1.ro">
+    <title lang="en">România 9</title>
+    <desc lang="en">TVR 1 lansează talk-show-ul "România 9\.(n)</desc>
+    <category lang="en">Spectacol</category>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_33.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+  <programme start="20190815190000 +0000" stop="20190815200000 +0000" channel="TVR 1.ro">
+    <title lang="en">Moştenirea clandestină</title>
+    <desc lang="en">Moştenirea clandestină.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Documentar</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_81.jpg" />
+    <rating system="RO">
+      <value>AP 12</value>
+    </rating>
+  </programme>
+  <programme start="20190815200000 +0000" stop="20190815210000 +0000" channel="TVR 1.ro">
+    <title lang="en">Arheologia crimelor comunismului</title>
+    <sub-title lang="en">În căutarea altor prieteni</sub-title>
+    <desc lang="en">Echipa de arheologi a IICCMER este pe urmele altor eroi din rezistenţa armată anticomunistă ucişi de seuritate. De data aceasta ei caută osemintele a trei luptători îngropaţi în zona muntelui Piatra Craivii, lângă Alba Iulia şi pe cele ale lui Ioan Andreşel, un susţinător al grupului Dabija, ucis şi îngropat la Poarta între Căi, lângă comuna Bistra.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Politic</category>
+    <category lang="en">Documentar</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_81.jpg" />
+    <rating system="RO">
+      <value>AP 12</value>
+    </rating>
+  </programme>
+  <programme start="20190815210000 +0000" stop="20190815213000 +0000" channel="TVR 1.ro">
+    <title lang="en">Telejurnal</title>
+    <desc lang="en">Află ce s-a întâmplat relevant pentru viaţa ta, în ţară şi în lume, de la Telejurnal.În fiecare zi, pe TVR 1, Telejurnalul îţi oferă un pachet informativ complet, care conţine ştiri, analize şi dezbateri.Evenimentele sunt acoperite prin intervenţii live de la faţa locului, pentru a-ţi oferi informaţiile direct de la sursă, iar subiectul principal al zilei este anunţat în cadrul dezbaterii Telejurnalului.În mijlocul zilei, de la ora 14:00, Telejurnalul, prezentat de Teodora Popa îţi oferă prima imagine completă asupra evenimentelor zilei. Timp de 50 de minute, primeşti cele mai importante ştiri ale momentului, unde nu ţi se prezintă doar ce se întâmplă, ci şi de ce.De la ora 20:00, esenţa informaţiilor din toate domeniile în care s-au desfăşurat evenimente de relevanţă şi impact public va fi cuprinsă în principala emisiune informativă a zilei. Această ediţie este prezentată de Mihai Constantin şi Ligia Munteanu. În fiecare seară, românii vor afla tot ce s-a întâmplat important în ţară şi în lume.În weekend, la pupitrul ştirilor principalului canal al Televiziunii Române, se află Radu Tudor.(n)</desc>
+    <category lang="en">Stiri</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-ro-dynamic.horizon.tv/RO/Images/upcgenre_20.jpg" />
+    <rating system="RO">
+      <value>AG</value>
+    </rating>
+  </programme>
+</tv>

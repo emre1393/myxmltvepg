@@ -1,8 +1,9 @@
 nl-hollanda
-ch-isviçre
-ie-irlanda
+ch-isviçre (deu, fra, ita)
+de-almanya
+ie/eng-irlanda
 pl-polonya
-at-avusturya
+at/deu-avusturya
 cz-çek
 ro-romanya
 hu-macaristan

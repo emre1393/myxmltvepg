@@ -1,0 +1,1146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="NPO 1 HD.nl">
+    <display-name lang="en">NPO 1 HD</display-name>
+    <icon src="https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo1.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NPO 2 HD.nl">
+    <display-name lang="en">NPO 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NPO 3 HD.nl">
+    <display-name lang="en">NPO 3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 4 HD.nl">
+    <display-name lang="en">RTL 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 5 HD.nl">
+    <display-name lang="en">RTL 5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SBS6 HD.nl">
+    <display-name lang="en">SBS6 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 7 HD.nl">
+    <display-name lang="en">RTL 7 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Veronica HD  Disney XD.nl">
+    <display-name lang="en">Veronica HD  Disney XD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Net5 HD.nl">
+    <display-name lang="en">Net5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 8 HD.nl">
+    <display-name lang="en">RTL 8 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX HD.nl">
+    <display-name lang="en">FOX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Z HD.nl">
+    <display-name lang="en">RTL Z HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ziggo TV HD.nl">
+    <display-name lang="en">Ziggo TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ziggo Sport HD.nl">
+    <display-name lang="en">Ziggo Sport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Comedy Central HD.nl">
+    <display-name lang="en">Comedy Central HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Spike HD.nl">
+    <display-name lang="en">Spike HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery HD.nl">
+    <display-name lang="en">Discovery HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="National Geographic Channel HD.nl">
+    <display-name lang="en">National Geographic Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SBS9 HD.nl">
+    <display-name lang="en">SBS9 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 HD.nl">
+    <display-name lang="en">Eurosport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TLC HD.nl">
+    <display-name lang="en">TLC HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC First HD.nl">
+    <display-name lang="en">BBC First HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV HD.nl">
+    <display-name lang="en">MTV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="24Kitchen HD.nl">
+    <display-name lang="en">24Kitchen HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="XITE HD.nl">
+    <display-name lang="en">XITE HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viceland HD.nl">
+    <display-name lang="en">Viceland HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Channel HD.nl">
+    <display-name lang="en">Disney Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HISTORY HD.nl">
+    <display-name lang="en">HISTORY HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nickelodeon HD.nl">
+    <display-name lang="en">Nickelodeon HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ONS.nl">
+    <display-name lang="en">ONS</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="één HD.nl">
+    <display-name lang="en">één HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Canvas HD.nl">
+    <display-name lang="en">Canvas HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ketnet.nl">
+    <display-name lang="en">Ketnet</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ARD HD.nl">
+    <display-name lang="en">ARD HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZDF HD.nl">
+    <display-name lang="en">ZDF HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="WDR.nl">
+    <display-name lang="en">WDR</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NDR.nl">
+    <display-name lang="en">NDR</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL.nl">
+    <display-name lang="en">RTL</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sat 1.nl">
+    <display-name lang="en">Sat 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC One HD.nl">
+    <display-name lang="en">BBC One HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC Two HD.nl">
+    <display-name lang="en">BBC Two HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC Three  CBBC.nl">
+    <display-name lang="en">BBC Three  CBBC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC Four  Cbeebies.nl">
+    <display-name lang="en">BBC Four  Cbeebies</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC Entertainment.nl">
+    <display-name lang="en">BBC Entertainment</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV5 Monde.nl">
+    <display-name lang="en">TV5 Monde</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Arte.nl">
+    <display-name lang="en">Arte</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVE.nl">
+    <display-name lang="en">TVE</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mediaset Italia.nl">
+    <display-name lang="en">Mediaset Italia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTV7.nl">
+    <display-name lang="en">RTV7</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TRT Türk.nl">
+    <display-name lang="en">TRT Türk</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="2M.nl">
+    <display-name lang="en">2M</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film1 Premiere HD.nl">
+    <display-name lang="en">Film1 Premiere HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film1 Action HD.nl">
+    <display-name lang="en">Film1 Action HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film1 Family HD.nl">
+    <display-name lang="en">Film1 Family HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film1 Drama HD.nl">
+    <display-name lang="en">Film1 Drama HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film1 On Demand.nl">
+    <display-name lang="en">Film1 On Demand</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Crime HD.nl">
+    <display-name lang="en">RTL Crime HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CI.nl">
+    <display-name lang="en">CI</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ID HD.nl">
+    <display-name lang="en">ID HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Comedy Central Extra.nl">
+    <display-name lang="en">Comedy Central Extra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Shorts TV.nl">
+    <display-name lang="en">Shorts TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="E HD.nl">
+    <display-name lang="en">E HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Comedy Central Family.nl">
+    <display-name lang="en">Comedy Central Family</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NPO 3 Extra.nl">
+    <display-name lang="en">NPO 3 Extra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="OUTTV HD.nl">
+    <display-name lang="en">OUTTV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AMC HD.nl">
+    <display-name lang="en">AMC HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CBS Reality.nl">
+    <display-name lang="en">CBS Reality</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fashion TV HD.nl">
+    <display-name lang="en">Fashion TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MyZen HD.nl">
+    <display-name lang="en">MyZen HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Horse  Country TV.nl">
+    <display-name lang="en">Horse  Country TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Food Network HD.nl">
+    <display-name lang="en">Food Network HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fine Living HD.nl">
+    <display-name lang="en">Fine Living HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Lounge HD.nl">
+    <display-name lang="en">RTL Lounge HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Netflix.nl">
+    <display-name lang="en">Netflix</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Videoland.nl">
+    <display-name lang="en">Videoland</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Science HD.nl">
+    <display-name lang="en">Discovery Science HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery World.nl">
+    <display-name lang="en">Discovery World</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild HD.nl">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet HD.nl">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Travel Channel HD.nl">
+    <display-name lang="en">Travel Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NPO 2 Extra.nl">
+    <display-name lang="en">NPO 2 Extra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Family7.nl">
+    <display-name lang="en">Family7</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney XD.nl">
+    <display-name lang="en">Disney XD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Junior.nl">
+    <display-name lang="en">Disney Junior</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nicktoons.nl">
+    <display-name lang="en">Nicktoons</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nick Music.nl">
+    <display-name lang="en">Nick Music</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Pebble TV.nl">
+    <display-name lang="en">Pebble TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nick Jr.nl">
+    <display-name lang="en">Nick Jr</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoon Network.nl">
+    <display-name lang="en">Cartoon Network</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Boomerang.nl">
+    <display-name lang="en">Boomerang</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Baby TV.nl">
+    <display-name lang="en">Baby TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NPO 1 Extra  NPO Zapp Xtra.nl">
+    <display-name lang="en">NPO 1 Extra  NPO Zapp Xtra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Telekids HD.nl">
+    <display-name lang="en">RTL Telekids HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ziggo Sport Select HD.nl">
+    <display-name lang="en">Ziggo Sport Select HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ziggo Sport Voetbal HD.nl">
+    <display-name lang="en">Ziggo Sport Voetbal HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ziggo Sport Golf HD.nl">
+    <display-name lang="en">Ziggo Sport Golf HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ziggo Sport Racing HD.nl">
+    <display-name lang="en">Ziggo Sport Racing HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ziggo Sport Extra1.nl">
+    <display-name lang="en">Ziggo Sport Extra1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ziggo Sport Extra2.nl">
+    <display-name lang="en">Ziggo Sport Extra2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 2 HD.nl">
+    <display-name lang="en">Eurosport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Extreme Sports Channel.nl">
+    <display-name lang="en">Extreme Sports Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Motorsport TV HD.nl">
+    <display-name lang="en">Motorsport TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX Sports Info.nl">
+    <display-name lang="en">FOX Sports Info</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX Sports 1 Eredivisie HD.nl">
+    <display-name lang="en">FOX Sports 1 Eredivisie HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX Sports 2 HD.nl">
+    <display-name lang="en">FOX Sports 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX Sports 3 Eredivisie HD.nl">
+    <display-name lang="en">FOX Sports 3 Eredivisie HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX Sports 4 HD.nl">
+    <display-name lang="en">FOX Sports 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX Sports 5 Eredivisie HD.nl">
+    <display-name lang="en">FOX Sports 5 Eredivisie HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX Sports 6 HD.nl">
+    <display-name lang="en">FOX Sports 6 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ziggo Live Events.nl">
+    <display-name lang="en">Ziggo Live Events</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ziggo Live Events FOX Sports.nl">
+    <display-name lang="en">Ziggo Live Events FOX Sports</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NPO Nieuws.nl">
+    <display-name lang="en">NPO Nieuws</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NPO Politiek.nl">
+    <display-name lang="en">NPO Politiek</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN.nl">
+    <display-name lang="en">CNN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC World News.nl">
+    <display-name lang="en">BBC World News</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Euronews.nl">
+    <display-name lang="en">Euronews</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Aljazeera English.nl">
+    <display-name lang="en">Aljazeera English</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNBC Europe.nl">
+    <display-name lang="en">CNBC Europe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CGTN.nl">
+    <display-name lang="en">CGTN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RT.nl">
+    <display-name lang="en">RT</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV538.nl">
+    <display-name lang="en">TV538</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Music 24.nl">
+    <display-name lang="en">MTV Music 24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DanceTrippin HD.nl">
+    <display-name lang="en">DanceTrippin HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SLAM.nl">
+    <display-name lang="en">SLAM</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Brand New.nl">
+    <display-name lang="en">MTV Brand New</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Stingray LiteTV.nl">
+    <display-name lang="en">Stingray LiteTV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH1 Classic.nl">
+    <display-name lang="en">VH1 Classic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Brava.nl">
+    <display-name lang="en">Brava</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mezzo.nl">
+    <display-name lang="en">Mezzo</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DJAZZ.nl">
+    <display-name lang="en">DJAZZ</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Oranje.nl">
+    <display-name lang="en">TV Oranje</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="100 NL TV.nl">
+    <display-name lang="en">100 NL TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="192TV.nl">
+    <display-name lang="en">192TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Live HD.nl">
+    <display-name lang="en">MTV Live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Noord.nl">
+    <display-name lang="en">TV Noord</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Omrop Fryslân.nl">
+    <display-name lang="en">Omrop Fryslân</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Drenthe.nl">
+    <display-name lang="en">TV Drenthe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Oost.nl">
+    <display-name lang="en">TV Oost</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Gelderland.nl">
+    <display-name lang="en">TV Gelderland</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Omroep Flevoland.nl">
+    <display-name lang="en">Omroep Flevoland</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NH.nl">
+    <display-name lang="en">NH</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTV Utrecht.nl">
+    <display-name lang="en">RTV Utrecht</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV West.nl">
+    <display-name lang="en">TV West</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Rijnmond.nl">
+    <display-name lang="en">TV Rijnmond</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Omroep Zeeland.nl">
+    <display-name lang="en">Omroep Zeeland</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Omroep Brabant.nl">
+    <display-name lang="en">Omroep Brabant</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="L1 TV.nl">
+    <display-name lang="en">L1 TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AT5.nl">
+    <display-name lang="en">AT5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="STAR Plus.nl">
+    <display-name lang="en">STAR Plus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="STAR Gold.nl">
+    <display-name lang="en">STAR Gold</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Zee TV.nl">
+    <display-name lang="en">Zee TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Zee Cinema.nl">
+    <display-name lang="en">Zee Cinema</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Zing.nl">
+    <display-name lang="en">Zing</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SET Asia.nl">
+    <display-name lang="en">SET Asia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Show TV.nl">
+    <display-name lang="en">Show TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Euro D.nl">
+    <display-name lang="en">Euro D</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurostar.nl">
+    <display-name lang="en">Eurostar</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Habertürk.nl">
+    <display-name lang="en">Habertürk</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV 8.nl">
+    <display-name lang="en">TV 8</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TRT 1.nl">
+    <display-name lang="en">TRT 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TRT Çocuk.nl">
+    <display-name lang="en">TRT Çocuk</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ATV Avrupa.nl">
+    <display-name lang="en">ATV Avrupa</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TRT Müzik.nl">
+    <display-name lang="en">TRT Müzik</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Al Arabiya.nl">
+    <display-name lang="en">Al Arabiya</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MBC.nl">
+    <display-name lang="en">MBC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVM Europe.nl">
+    <display-name lang="en">TVM Europe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Aljazeera.nl">
+    <display-name lang="en">Aljazeera</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Erotiek Pakket info.nl">
+    <display-name lang="en">Erotiek Pakket info</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Secret Circle.nl">
+    <display-name lang="en">Secret Circle</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Penthouse.nl">
+    <display-name lang="en">Penthouse</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Evil Angel.nl">
+    <display-name lang="en">Evil Angel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PassieXXX.nl">
+    <display-name lang="en">PassieXXX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DUSK.nl">
+    <display-name lang="en">DUSK</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MvH Hard.nl">
+    <display-name lang="en">MvH Hard</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="XMO.nl">
+    <display-name lang="en">XMO</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Zender van de Maand.nl">
+    <display-name lang="en">Zender van de Maand</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Testbeeld.nl">
+    <display-name lang="en">Testbeeld</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ziggo Zenderoverzicht HD.nl">
+    <display-name lang="en">Ziggo Zenderoverzicht HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eventkanaal.nl">
+    <display-name lang="en">Eventkanaal</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <programme start="20190815000000 +0000" stop="20190815001000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/36652793.p.df7b7ebef54a63d8abe85fcc5f7822cdb7c2cf86.jpg" />
+  </programme>
+  <programme start="20190815001000 +0000" stop="20190815002500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/36652793.p.df7b7ebef54a63d8abe85fcc5f7822cdb7c2cf86.jpg" />
+  </programme>
+  <programme start="20190815002500 +0000" stop="20190815035500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/36652793.p.df7b7ebef54a63d8abe85fcc5f7822cdb7c2cf86.jpg" />
+  </programme>
+  <programme start="20190815035500 +0000" stop="20190815041000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">Nederland in Beweging</title>
+    <desc lang="en">Wilt u investeren in uw gezondheid? Meedoen betekent dat u al een kwartier beweegt van het aanbevolen dagelijkse half uur. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Vrije Tijd</category>
+    <category lang="en">Gezondheid</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-nl-dynamic.horizon.tv/EventImages/37394960.p.f3da0edf59b8c257554c00b14f72e5b86740d2e3.jpg" />
+    <episode-num system="onscreen">E161</episode-num>
+  </programme>
+  <programme start="20190815041000 +0000" stop="20190815043000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">MAX Geheugentrainer</title>
+    <desc lang="en">Train uw brein. Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden. Dit programma geeft u de kans om het geheugen te trainen. Met eenvoudige oefeningen en opdrachten leert u binnen de kortste keren weer meer te onthouden dan u gewend was. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-nl-dynamic.horizon.tv/EventImages/37395678.p.a77b738de8f4b7e4c949043e2a04d46c4ffc2b19.jpg" />
+  </programme>
+  <programme start="20190815043000 +0000" stop="20190815043500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-nl-dynamic.horizon.tv/EventImages/46614724.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190815043500 +0000" stop="20190815044000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-nl-dynamic.horizon.tv/EventImages/46614724.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190815044000 +0000" stop="20190815044500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-nl-dynamic.horizon.tv/EventImages/46614724.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190815044500 +0000" stop="20190815045000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-nl-dynamic.horizon.tv/EventImages/46614724.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190815045000 +0000" stop="20190815050000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-nl-dynamic.horizon.tv/EventImages/46614724.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190815050000 +0000" stop="20190815051500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-nl-dynamic.horizon.tv/EventImages/36654318.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190815051500 +0000" stop="20190815052500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/46614930.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190815052500 +0000" stop="20190815053500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-nl-dynamic.horizon.tv/EventImages/36654318.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190815053500 +0000" stop="20190815060000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-nl-dynamic.horizon.tv/EventImages/36654318.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190815060000 +0000" stop="20190815061500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-nl-dynamic.horizon.tv/EventImages/43694599.p.d198802b330a57c781641b0c678fdf17de2ce007.jpg" />
+  </programme>
+  <programme start="20190815061500 +0000" stop="20190815062500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-nl-dynamic.horizon.tv/EventImages/43694599.p.d198802b330a57c781641b0c678fdf17de2ce007.jpg" />
+  </programme>
+  <programme start="20190815062500 +0000" stop="20190815064000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-nl-dynamic.horizon.tv/EventImages/43694599.p.d198802b330a57c781641b0c678fdf17de2ce007.jpg" />
+  </programme>
+  <programme start="20190815064000 +0000" stop="20190815070000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-nl-dynamic.horizon.tv/EventImages/46615113.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190815070000 +0000" stop="20190815071500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-nl-dynamic.horizon.tv/EventImages/36654453.p.13319f11e3bf0ce95fd988e6388c532539abde7d.jpg" />
+  </programme>
+  <programme start="20190815071500 +0000" stop="20190815073000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">Nederland in Beweging</title>
+    <desc lang="en">Beweeg mee met Nederland in Beweging! Kijkers kunnen door mee te doen aan de oefeningen al de helft van de dagelijkse norm van 30 minuten gezond bewegen behalen. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Vrije Tijd</category>
+    <category lang="en">Gezondheid</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-nl-dynamic.horizon.tv/EventImages/37394960.p.f3da0edf59b8c257554c00b14f72e5b86740d2e3.jpg" />
+    <episode-num system="onscreen">E162</episode-num>
+  </programme>
+  <programme start="20190815073000 +0000" stop="20190815074000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-nl-dynamic.horizon.tv/EventImages/36654453.p.13319f11e3bf0ce95fd988e6388c532539abde7d.jpg" />
+  </programme>
+  <programme start="20190815074000 +0000" stop="20190815080000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">MAX Geheugentrainer</title>
+    <desc lang="en">Train uw brein. Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden. Dit programma geeft u de kans om het geheugen te trainen. Met eenvoudige oefeningen en opdrachten leert u binnen de kortste keren weer meer te onthouden dan u gewend was. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/37395678.p.a77b738de8f4b7e4c949043e2a04d46c4ffc2b19.jpg" />
+  </programme>
+  <programme start="20190815080000 +0000" stop="20190815081500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-nl-dynamic.horizon.tv/EventImages/36654497.p.13319f11e3bf0ce95fd988e6388c532539abde7d.jpg" />
+  </programme>
+  <programme start="20190815081500 +0000" stop="20190815082500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-nl-dynamic.horizon.tv/EventImages/36654497.p.13319f11e3bf0ce95fd988e6388c532539abde7d.jpg" />
+  </programme>
+  <programme start="20190815082500 +0000" stop="20190815083500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-nl-dynamic.horizon.tv/EventImages/36654497.p.13319f11e3bf0ce95fd988e6388c532539abde7d.jpg" />
+  </programme>
+  <programme start="20190815083500 +0000" stop="20190815084500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp28-images-nl-dynamic.horizon.tv/EventImages/36654497.p.13319f11e3bf0ce95fd988e6388c532539abde7d.jpg" />
+  </programme>
+  <programme start="20190815084500 +0000" stop="20190815090000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-nl-dynamic.horizon.tv/EventImages/36654497.p.13319f11e3bf0ce95fd988e6388c532539abde7d.jpg" />
+  </programme>
+  <programme start="20190815090000 +0000" stop="20190815092000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <sub-title lang="en">Persconferentie Pensioenakkoord</sub-title>
+    <desc lang="en">Met het laatste nieuws en de weersverwachting.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-nl-dynamic.horizon.tv/EventImages/38319985.p.c7409e3137ccb3f9af1fc9c1310bfa7a25bde03b.jpg" />
+  </programme>
+  <programme start="20190815092000 +0000" stop="20190815100000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS De oorlog van acteur Eric Schneider</title>
+    <desc lang="en">Dit jaar herdachten we op 5 mei voor de zeventigste keer de bevrijding van Nederland; er kwam echter pas echt een einde aan de Tweede Wereldoorlog toen ook Japan op 15 augustus capituleerde in voormalig Nederlands-Indië. Acteur Eric Schneider (1934) en zijn zoons Beau (1988), eveneens acteur en bekend van onder meer GTST, en Olivier (1981) werken mee aan een documentaire in het kader van de Indië-herdenking. Vader Eric was acht jaar toen de Japanners Nederlands-Indië letterlijk binnen fietsten en elf toen de oorlog afgelopen was. Hij kwam met zijn moeder en broertjes in een Jappenkamp terecht. Nu, zeventig jaar later, is Eric Schneider bereid om voor het eerst de 'reis' door het verleden aan te gaan. In een documentaire van 45 minuten reizen vader en zoons naar Indonesië. Eric figuurlijk, door het delen van herinneringen, zijn twee zoons letterlijk: Beau en Olivier bezoeken in Indonesië de plekken uit hun vaders jeugd.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Documentaire</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-nl-dynamic.horizon.tv/EventImages/338466470.p.1c69446dbde8d5960e8453ec96d306240a18d4ba.jpg" />
+  </programme>
+  <programme start="20190815100000 +0000" stop="20190815101500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-nl-dynamic.horizon.tv/EventImages/36653775.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190815101500 +0000" stop="20190815113500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Indië-herdenking</title>
+    <desc lang="en">De herdenkingsplechtigheid bij het Indisch Monument in Den Haag, waarbij wordt stilgestaan bij de Japanse capitulatie in Zuidoost-Azië. Bij het Indisch Monument in Den Haag legt premier Rutte een krans namens de regering, wordt de Indische Klok geluid en houdt dichter, columnist en presentator Ellen Deckwitz een toespraak. Ook is er muziek, van Sjors van der Panne, en namens drie generaties Indische Nederlanders legt Monique Klemann van Loïs Lane een krans. Na afloop spreekt Jeroen Overbeek met haar. Ook te gast is Yvonne van Genugten, één van de directeuren van een nieuw museum over de cultuur en geschiedenis van Indische en Molukse Nederlanders, het Museum Sophiahof in Den Haag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Discussie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-nl-dynamic.horizon.tv/EventImages/335782368.p.3ab6c114da942c0b29625cfe43e5a58d032df977.jpg" />
+  </programme>
+  <programme start="20190815113500 +0000" stop="20190815120000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-nl-dynamic.horizon.tv/EventImages/36652625.p.d198802b330a57c781641b0c678fdf17de2ce007.jpg" />
+  </programme>
+  <programme start="20190815120000 +0000" stop="20190815121500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-nl-dynamic.horizon.tv/EventImages/92016397.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190815121500 +0000" stop="20190815122500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">Kook mee met MAX</title>
+    <sub-title lang="en">Venkellasagne met gerookte zalm</sub-title>
+    <desc lang="en">Wat eet ik vanavond? Topkoks Sandra Ysbrandy en Mounir Toub geven antwoord op die ene moeilijke vraag. Ze nemen de kijker aan de hand bij het maken van makkelijke en verrassende gerechten. De recepten blinken uit in eenvoud en diversiteit en er zijn geen ingewikkelde apparaten voor nodig. De chefs blijven weg van dure ingrediënten en werken zoveel mogelijk met seizoensproducten en ingrediënten van eigen bodem: zo duurzaam mogelijk. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Vrije Tijd</category>
+    <category lang="en">Koken</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-nl-dynamic.horizon.tv/EventImages/313591302.p.e57ea75d5312ab21cea367f94388bc60a24ec697.jpg" />
+    <episode-num system="onscreen">E130</episode-num>
+  </programme>
+  <programme start="20190815122500 +0000" stop="20190815124500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-nl-dynamic.horizon.tv/EventImages/92016397.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190815124500 +0000" stop="20190815130000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-nl-dynamic.horizon.tv/EventImages/92016397.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190815130000 +0000" stop="20190815150000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Sport</title>
+    <sub-title lang="en">Wielrennen Binck Bank Tour</sub-title>
+    <desc lang="en">Rechtstreeks verslag van de Binck Bank Tour.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-nl-dynamic.horizon.tv/EventImages/254657623.p.bba47d03b870c4f93554f039253e21c7f2318214.jpg" />
+  </programme>
+  <programme start="20190815150000 +0000" stop="20190815151500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-nl-dynamic.horizon.tv/EventImages/114159621.p.5b1ae9d32ee3bd3dccfa2eca5e3e995232ab39c2.jpg" />
+  </programme>
+  <programme start="20190815151500 +0000" stop="20190815155600 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">Denkend aan Holland</title>
+    <sub-title lang="en">Giethoorn - Weerribben/Wierden</sub-title>
+    <desc lang="en">Voor hun eerste tocht door Waterrijk Nederland zijn André en Janny afgereisd naar de kop van Overijssel. Daar varen ze door het prachtige Natuurgebied Weeribben-Wieden. Ze gaan van start in een uitdagende boot: een punter. Daarmee bezoeken ze het Venetië van de lage landen: Giethoorn, dat dagelijks overspoeld wordt door duizenden toeristen. De tocht gaat verder over de Wieden, waar een boswachter ze meeneemt naar een bijzonder stiltegebied. De stadse André verbaast en verwondert zich, terwijl Janny niet raakt uitgepraat over het prachtige natuurschoon. Met een tussenstop in het pittoreske dorpje Blokzijl varen ze richting het eindpunt Kalenberg.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Vrije Tijd</category>
+    <category lang="en">Reizen</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-nl-dynamic.horizon.tv/EventImages/338343648.p.72cb1a8158314ece21eb155073ebc030ff9fa2f1.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20190815155600 +0000" stop="20190815160000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">Socutera</title>
+    <sub-title lang="en">Alzheimer Nederland</sub-title>
+    <desc lang="en">Alzheimer Nederland werkt aan een toekomst zonder dementie door te investeren in wetenschappelijk onderzoek. En biedt ondersteuning en komt op voor betere zorg aan mensen met dementie en hun naasten.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-nl-dynamic.horizon.tv/EventImages/38048739.p.ffc2f466837860abedb9f500a11eafc3c04ac6eb.jpg" />
+    <episode-num system="onscreen">E32</episode-num>
+  </programme>
+  <programme start="20190815160000 +0000" stop="20190815161500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-nl-dynamic.horizon.tv/EventImages/36653945.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190815161500 +0000" stop="20190815165000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">EenVandaag</title>
+    <desc lang="en">Raad van State velt oordeel over gaswinning in Smallingerland. In de ZomerKever: Quote-hoofdredacteur Sander Schimmelpenninck. Nepalese overheid wil strengere voorwaarden voor klimmers Mount Everest. Monique rijdt ouderen rond in een elektrisch wagentje tegen eenzaamheid.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Discussie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-nl-dynamic.horizon.tv/EventImages/36652653.p.f44df1bffd9671952acd86d719b51af9d7451d45.jpg" />
+  </programme>
+  <programme start="20190815165000 +0000" stop="20190815170500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Sportjournaal</title>
+    <desc lang="en">Met het belangrijkste sportnieuws van vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-nl-dynamic.horizon.tv/EventImages/37520411.p.3c92ce99efd21d98dc55cbc750692da70b57dc9d.jpg" />
+  </programme>
+  <programme start="20190815170500 +0000" stop="20190815180000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">Bed &amp; Breakfast</title>
+    <desc lang="en">Er wordt gelogeerd in Gelderland, waar de schuur in de tuin eigenhandig werd verbouwd tot bed &amp; breakfast. In Groningen verblijven de gasten in bijzondere kamers die twee daken hebben. En in de vleugel van de villa uit de jaren 50 in Hengelo zorgen de bed &amp; breakfast-eigenaren dat het hun gasten aan niks ontbreekt.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Show</category>
+    <category lang="en">Variete</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-nl-dynamic.horizon.tv/EventImages/280498022.p.84750802a53ca8ec1db318ebc24be029fcfb0f70.jpg" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme start="20190815180000 +0000" stop="20190815183500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp11-images-nl-dynamic.horizon.tv/EventImages/36652741.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190815183500 +0000" stop="20190815193500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">The Great British Bake Off</title>
+    <sub-title lang="en">Patisserieweek - Halve Finale</sub-title>
+    <desc lang="en">Het is de halve finale en de overgebleven bakkers willen allemaal wanhopig graag een plaatsje in de finale veroveren. De fantastische vier weten dat ze nog maar drie patisserieopdrachten verwijderd zijn van de belangrijkste dag in hun bakleven. Eerst krijgen ze de signatuuropdracht, die bedrieglijk simpel lijkt maar waarbij Paul en Prue perfectie verlangen. Prue legt de bakkers het vuur na aan de schenen met haar ingewikkelde, gelaagde technische opdracht die ze tot het uiterste op de proef stelt. En de halve finalisten voelen de druk, want er is ze gevraagd een adembenemend spektakelstuk te creëren dat niet zou misstaan in de etalage van een Parijse patisserie. Wie heeft de talenten om de Bake Off-finale te bereiken en wie kan de laatste horde niet nemen? Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Vrije Tijd</category>
+    <category lang="en">Koken</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp27-images-nl-dynamic.horizon.tv/EventImages/314091926.p.6ab73539c006acbef3d06c841867eb4eaafca0d6.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme start="20190815193500 +0000" stop="20190815202500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">Droomhuis Gezocht</title>
+    <sub-title lang="en">Zuid-Afrika Westkaap</sub-title>
+    <desc lang="en">Peter organiseert coachingreizen naar de woestijnen van Zuid-Afrika, Namibië en Botswana. Hij is op zoek naar een prachtig plekje als uitvalbasis en startpunt van deze reizen, waarbij hij hoopt de stilte en ruimte te vinden die in Nederland zo schaars is. Zijn studerende dochter gaat met hem mee. Terwijl Sybrand, Peter en Vera huizen zoeken, neemt Carrie ten Napel een kijkje bij de afstammelingen van een van de oudste stammen van Zuid-Afrika; De Sanbevolking. De San bestond eeuwenlang uit kleine gemeenschappen, waarbij de mannen op jacht gingen en de vrouwen verzamelden. Tegenwoordig ziet hun leven er heel anders uit, maar zijn de tradities nog altijd speciaal gebleven.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Vrije Tijd</category>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-nl-dynamic.horizon.tv/EventImages/313606506.p.9e1a753053c41b3d7750eb257940edadd710a39a.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20190815202500 +0000" stop="20190815210500 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">Kanniewaarzijn</title>
+    <desc lang="en">Astrid Joosten lost consumentenproblemen op en stelt vreemde situaties aan de kaak. Ze wordt bijgestaan door Plien van Bennekom, Annick Boer, Leo Alkemade en Pierre Bokma. In deze aflevering aandacht voor een meubelzaak die er maar niet in slaagt de juiste bestelling te leveren, Belgisch-Nederlandse spraakverwarring over een diploma en fraude via WhatsApp. Weggegooid Geld bezoekt een tropisch regenwoud in Zeeland. De Kanniecolumn is deze week van Milouska Meulens, en we zien vreemdsoortige advertenties, onleesbare bijsluiters en rare verkeersborden in Kla(a)re Taal. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Show</category>
+    <category lang="en">Variete</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-nl-dynamic.horizon.tv/EventImages/309495799.p.22609d218e3046c5894ad8a3778b005fe45488ee.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20190815210500 +0000" stop="20190815220000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">Jinek</title>
+    <desc lang="en">Komende zaterdag staan vader en zoon Hans en Steven Kazàn op Lowlands. Hans Kazàn weet het Nederlandse publiek al jarenlang te betoveren met zijn magische acts. Ook zijn oudste zoons Renzo en Oscar, bekend van Magic Unlimited, zijn een gevestigde naam in de wereld van verdwijnen en misleiden. Jongste zoon Steven legt de focus toch meer op de humoristische kant van het geheel. En samen met de magie van zijn vader zorgt dat voor een hilarische combinatie. Goud halen op de Olympische Spelen van Tokyo in 2020. Dat is hét doel van veelbelovend skateboarder Roos Zwetsloot en baanwielrenkampioen Harrie Lavreysen. Samen met tien andere topsporters werden ze gevolgd voor het VPRO programma De beloften. Vanavond schuiven Harrie en Roos aan om te praten over alle uitdagingen, teleurstellingen en successen die daar bij komen kijken. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-nl-dynamic.horizon.tv/EventImages/95348481.p.a23def8253e44a2fdeaf06ceed416480ddcb5b52.jpg" />
+  </programme>
+  <programme start="20190815220000 +0000" stop="20190815222000 +0000" channel="NPO 1 HD.nl">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/36652793.p.df7b7ebef54a63d8abe85fcc5f7822cdb7c2cf86.jpg" />
+  </programme>
+</tv>

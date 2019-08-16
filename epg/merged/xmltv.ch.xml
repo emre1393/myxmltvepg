@@ -1,0 +1,3507 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SRF 1 HD.deu">
+    <display-name lang="en">SRF 1 HD</display-name>
+    <icon src="https://wp11-images-ch-dynamic.horizon.tv/channellogos/02/srf_1_hd.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SRF zwei HD.deu">
+    <display-name lang="en">SRF zwei HD</display-name>
+    <icon src="https://wp7-images-ch-dynamic.horizon.tv/channellogos/02/srf_zwei_hd.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SRF info HD.deu">
+    <display-name lang="en">SRF info HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="3 HD.deu">
+    <display-name lang="en">3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV24 HD.deu">
+    <display-name lang="en">TV24 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="S1 HD.deu">
+    <display-name lang="en">S1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Star TV HD.deu">
+    <display-name lang="en">Star TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TeleZüri HD.deu">
+    <display-name lang="en">TeleZüri HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports HD D.deu">
+    <display-name lang="en">MySports HD D</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Das Erste HD.deu">
+    <display-name lang="en">Das Erste HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZDF HD.deu">
+    <display-name lang="en">ZDF HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF eins HD.deu">
+    <display-name lang="en">ORF eins HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 HD.deu">
+    <display-name lang="en">ORF 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL HD.deu">
+    <display-name lang="en">RTL HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SAT1 HD.deu">
+    <display-name lang="en">SAT1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ProSieben HD.deu">
+    <display-name lang="en">ProSieben HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 2 HD.deu">
+    <display-name lang="en">RTL 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="4 HD.deu">
+    <display-name lang="en">4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="5 HD.deu">
+    <display-name lang="en">5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Puls 8 HD.deu">
+    <display-name lang="en">Puls 8 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VOX HD.deu">
+    <display-name lang="en">VOX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="kabel eins HD.deu">
+    <display-name lang="en">kabel eins HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tele Bärn HD.deu">
+    <display-name lang="en">Tele Bärn HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TeleBielingue HD.deu">
+    <display-name lang="en">TeleBielingue HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Telebasel HD.deu">
+    <display-name lang="en">Telebasel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tele M1 HD.deu">
+    <display-name lang="en">Tele M1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tele 1 HD.deu">
+    <display-name lang="en">Tele 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tele Top HD.deu">
+    <display-name lang="en">Tele Top HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVO HD.deu">
+    <display-name lang="en">TVO HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Südostschweiz HD.deu">
+    <display-name lang="en">TV Südostschweiz HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV25 HD.deu">
+    <display-name lang="en">TV25 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nick HD.deu">
+    <display-name lang="en">Nick HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="KiKA HD.deu">
+    <display-name lang="en">KiKA HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Super RTL HD.deu">
+    <display-name lang="en">Super RTL HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Channel.deu">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TOGGO plus.deu">
+    <display-name lang="en">TOGGO plus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Vorschau On Demand.deu">
+    <display-name lang="en">Vorschau On Demand</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nitro HD.deu">
+    <display-name lang="en">Nitro HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ProSieben MAXX HD.deu">
+    <display-name lang="en">ProSieben MAXX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DMAX HD.deu">
+    <display-name lang="en">DMAX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TLC HD.deu">
+    <display-name lang="en">TLC HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sixx HD.deu">
+    <display-name lang="en">Sixx HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="zdf_neo HD.deu">
+    <display-name lang="en">zdf_neo HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SAT1 Gold HD.deu">
+    <display-name lang="en">SAT1 Gold HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL plus.deu">
+    <display-name lang="en">RTL plus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="kabel eins Doku HD.deu">
+    <display-name lang="en">kabel eins Doku HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SWISS 1.deu">
+    <display-name lang="en">SWISS 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tele 5 HD.deu">
+    <display-name lang="en">Tele 5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Comedy HDVIVA HD.deu">
+    <display-name lang="en">Comedy HDVIVA HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ONE HD.deu">
+    <display-name lang="en">ONE HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV HD.deu">
+    <display-name lang="en">MTV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="gotv.deu">
+    <display-name lang="en">gotv</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Channel 55.deu">
+    <display-name lang="en">Channel 55</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="wettertv.deu">
+    <display-name lang="en">wettertv</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Melodie TV.deu">
+    <display-name lang="en">Melodie TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Servus TV HD.deu">
+    <display-name lang="en">Servus TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="arte HD.deu">
+    <display-name lang="en">arte HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="3sat HD.deu">
+    <display-name lang="en">3sat HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SWR BW HD.deu">
+    <display-name lang="en">SWR BW HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BR Fernsehen Süd HD.deu">
+    <display-name lang="en">BR Fernsehen Süd HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="WDR Fernsehen HD.deu">
+    <display-name lang="en">WDR Fernsehen HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MDR Sachsen HD.deu">
+    <display-name lang="en">MDR Sachsen HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NDR FS NDS HD.deu">
+    <display-name lang="en">NDR FS NDS HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="hrfernsehen HD.deu">
+    <display-name lang="en">hrfernsehen HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="rbb Berlin HD.deu">
+    <display-name lang="en">rbb Berlin HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ntv HD.deu">
+    <display-name lang="en">ntv HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="WELT.deu">
+    <display-name lang="en">WELT</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="tagesschau24 HD.deu">
+    <display-name lang="en">tagesschau24 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZDFinfo HD.deu">
+    <display-name lang="en">ZDFinfo HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PHOENIX HD.deu">
+    <display-name lang="en">PHOENIX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ARDalpha.deu">
+    <display-name lang="en">ARDalpha</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="euronews D.deu">
+    <display-name lang="en">euronews D</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HSE24.deu">
+    <display-name lang="en">HSE24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HSE24 Extra.deu">
+    <display-name lang="en">HSE24 Extra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SCHWEIZ5.deu">
+    <display-name lang="en">SCHWEIZ5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tele Z HD.deu">
+    <display-name lang="en">Tele Z HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tele D HD.deu">
+    <display-name lang="en">Tele D HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bibel TV.deu">
+    <display-name lang="en">Bibel TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="KTV.deu">
+    <display-name lang="en">KTV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports Ticket.deu">
+    <display-name lang="en">MySports Ticket</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports_HD_D.deu">
+    <display-name lang="en">MySports_HD_D</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 1.deu">
+    <display-name lang="en">MySports 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 1.deu">
+    <display-name lang="en">Sky Bundesliga 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 2Sky 2.deu">
+    <display-name lang="en">MySports 2Sky 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 3Sky 3.deu">
+    <display-name lang="en">MySports 3Sky 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 4Sky 4.deu">
+    <display-name lang="en">MySports 4Sky 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 5Sky 5.deu">
+    <display-name lang="en">MySports 5Sky 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 6Sky 6.deu">
+    <display-name lang="en">MySports 6Sky 6</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 7Sky 7.deu">
+    <display-name lang="en">MySports 7Sky 7</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 8Sky 8.deu">
+    <display-name lang="en">MySports 8Sky 8</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 9Sky 9.deu">
+    <display-name lang="en">MySports 9Sky 9</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport.deu">
+    <display-name lang="en">Sky Sport</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1.deu">
+    <display-name lang="en">Eurosport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 HD.deu">
+    <display-name lang="en">Eurosport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 2 HD.deu">
+    <display-name lang="en">Eurosport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SPORT1 HD.deu">
+    <display-name lang="en">SPORT1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SPORT1 US HD.deu">
+    <display-name lang="en">SPORT1 US HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="sportdigital HD.deu">
+    <display-name lang="en">sportdigital HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Motorvision TV HD.deu">
+    <display-name lang="en">Motorvision TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="motorsporttv HD.deu">
+    <display-name lang="en">motorsporttv HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Extreme Sports.deu">
+    <display-name lang="en">Extreme Sports</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport News HD.deu">
+    <display-name lang="en">Sky Sport News HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 1 F.deu">
+    <display-name lang="en">MySports 1 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports_HD_F.deu">
+    <display-name lang="en">MySports_HD_F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 1 HD.deu">
+    <display-name lang="en">SFR Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 2 HD.deu">
+    <display-name lang="en">SFR Sport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 4 HD.deu">
+    <display-name lang="en">SFR Sport 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 5 HD.deu">
+    <display-name lang="en">SFR Sport 5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Netflix.deu">
+    <display-name lang="en">Netflix</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fox HD.deu">
+    <display-name lang="en">Fox HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Crime HD.deu">
+    <display-name lang="en">RTL Crime HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="13th Street HD.deu">
+    <display-name lang="en">13th Street HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Universal Channel HD.deu">
+    <display-name lang="en">Universal Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Romance TV HD.deu">
+    <display-name lang="en">Romance TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TNT Film HD.deu">
+    <display-name lang="en">TNT Film HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TNT Serie HD.deu">
+    <display-name lang="en">TNT Serie HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TNT Comedy HD.deu">
+    <display-name lang="en">TNT Comedy HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ProSieben FUN HD.deu">
+    <display-name lang="en">ProSieben FUN HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="E HD.deu">
+    <display-name lang="en">E HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Passion HD.deu">
+    <display-name lang="en">RTL Passion HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Syfy HD.deu">
+    <display-name lang="en">Syfy HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN HD.deu">
+    <display-name lang="en">AXN HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kinowelt HD.deu">
+    <display-name lang="en">Kinowelt HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="kabel eins classics HD.deu">
+    <display-name lang="en">kabel eins classics HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Heimatkanal.deu">
+    <display-name lang="en">Heimatkanal</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo HD.deu">
+    <display-name lang="en">Nat Geo HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild HD.deu">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="History HD.deu">
+    <display-name lang="en">History HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery HD.deu">
+    <display-name lang="en">Discovery HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet HD.deu">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AE HD.deu">
+    <display-name lang="en">AE HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Planet HD.deu">
+    <display-name lang="en">Planet HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Living HD.deu">
+    <display-name lang="en">RTL Living HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Travel Channel HD.deu">
+    <display-name lang="en">Travel Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bon Gusto HD.deu">
+    <display-name lang="en">Bon Gusto HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Auto Motor  Sport HD.deu">
+    <display-name lang="en">Auto Motor  Sport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Wettercom.deu">
+    <display-name lang="en">Wettercom</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nick Jr HD.deu">
+    <display-name lang="en">Nick Jr HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoon Network HD.deu">
+    <display-name lang="en">Cartoon Network HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Boomerang HD.deu">
+    <display-name lang="en">Boomerang HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney XD HD.deu">
+    <display-name lang="en">Disney XD HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Junior HD.deu">
+    <display-name lang="en">Disney Junior HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Junior.deu">
+    <display-name lang="en">Junior</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Live HD.deu">
+    <display-name lang="en">MTV Live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Brand New.deu">
+    <display-name lang="en">MTV Brand New</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Music.deu">
+    <display-name lang="en">MTV Music</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Dance.deu">
+    <display-name lang="en">MTV Dance</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH1 Classic.deu">
+    <display-name lang="en">VH1 Classic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Gute Laune TV.deu">
+    <display-name lang="en">Gute Laune TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Stingray Classica.deu">
+    <display-name lang="en">Stingray Classica</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Blue Hustler.deu">
+    <display-name lang="en">Blue Hustler</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC One.deu">
+    <display-name lang="en">BBC One</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC One HD.deu">
+    <display-name lang="en">BBC One HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC Two HD.deu">
+    <display-name lang="en">BBC Two HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CBBC HD.deu">
+    <display-name lang="en">CBBC HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC FourCbeebies HD.deu">
+    <display-name lang="en">BBC FourCbeebies HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV HD.deu">
+    <display-name lang="en">ITV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV 2.deu">
+    <display-name lang="en">ITV 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV 3.deu">
+    <display-name lang="en">ITV 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV 4.deu">
+    <display-name lang="en">ITV 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PBS America.deu">
+    <display-name lang="en">PBS America</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Channel 4 HD.deu">
+    <display-name lang="en">Channel 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="E4.deu">
+    <display-name lang="en">E4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="More 4.deu">
+    <display-name lang="en">More 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film 4.deu">
+    <display-name lang="en">Film 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Channel 5.deu">
+    <display-name lang="en">Channel 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fashion TV.deu">
+    <display-name lang="en">Fashion TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN Money Switzerland.deu">
+    <display-name lang="en">CNN Money Switzerland</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN Int.deu">
+    <display-name lang="en">CNN Int</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC World News.deu">
+    <display-name lang="en">BBC World News</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Al Jazeera English.deu">
+    <display-name lang="en">Al Jazeera English</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CGTN.deu">
+    <display-name lang="en">CGTN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Russia Today.deu">
+    <display-name lang="en">Russia Today</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNBC.deu">
+    <display-name lang="en">CNBC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bloomberg TV.deu">
+    <display-name lang="en">Bloomberg TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RSI LA 1 HD.deu">
+    <display-name lang="en">RSI LA 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RSI LA 2 HD.deu">
+    <display-name lang="en">RSI LA 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 1 HD.deu">
+    <display-name lang="en">Rai 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 2 HD.deu">
+    <display-name lang="en">Rai 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 3 HD.deu">
+    <display-name lang="en">Rai 3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Canale 5 HD.deu">
+    <display-name lang="en">Canale 5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Italia 1 HD.deu">
+    <display-name lang="en">Italia 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rete 4.deu">
+    <display-name lang="en">Rete 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TeleTicino HD.deu">
+    <display-name lang="en">TeleTicino HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai_4.deu">
+    <display-name lang="en">Rai_4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="La 7.deu">
+    <display-name lang="en">La 7</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai Sport.deu">
+    <display-name lang="en">Rai Sport</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 I.deu">
+    <display-name lang="en">Eurosport 1 I</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo I.deu">
+    <display-name lang="en">Nat Geo I</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai_News_24.deu">
+    <display-name lang="en">Rai_News_24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Video Italia HD.deu">
+    <display-name lang="en">Video Italia HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mediaset_Extra.deu">
+    <display-name lang="en">Mediaset_Extra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTS Un HD.deu">
+    <display-name lang="en">RTS Un HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTS Deux HD.deu">
+    <display-name lang="en">RTS Deux HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TF 1 HD.deu">
+    <display-name lang="en">TF 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 2 HD.deu">
+    <display-name lang="en">France 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 3 Alsace HD.deu">
+    <display-name lang="en">France 3 Alsace HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 4 HD.deu">
+    <display-name lang="en">France 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 5 HD.deu">
+    <display-name lang="en">France 5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="M6 HD.deu">
+    <display-name lang="en">M6 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports HD F.deu">
+    <display-name lang="en">MySports HD F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="W9 HD.deu">
+    <display-name lang="en">W9 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 9 HD.deu">
+    <display-name lang="en">RTL 9 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TMC Monte Carlo HD.deu">
+    <display-name lang="en">TMC Monte Carlo HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TFX.deu">
+    <display-name lang="en">TFX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV5MONDE.deu">
+    <display-name lang="en">TV5MONDE</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 24.deu">
+    <display-name lang="en">France 24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Gulli HD.deu">
+    <display-name lang="en">Gulli HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Cinema.deu">
+    <display-name lang="en">TC Cinema</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Star.deu">
+    <display-name lang="en">TC Star</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Prime.deu">
+    <display-name lang="en">TC Prime</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky 1.deu">
+    <display-name lang="en">Sky 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="13th Street.deu">
+    <display-name lang="en">13th Street</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Atlantic.deu">
+    <display-name lang="en">Sky Atlantic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fox.deu">
+    <display-name lang="en">Fox</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Krimi.deu">
+    <display-name lang="en">Krimi</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery.deu">
+    <display-name lang="en">Discovery</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Romance TV.deu">
+    <display-name lang="en">Romance TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet.deu">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Cinemagic.deu">
+    <display-name lang="en">Disney Cinemagic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney XD.deu">
+    <display-name lang="en">Disney XD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Sport 1.deu">
+    <display-name lang="en">TC Sport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Sky Sport 2.deu">
+    <display-name lang="en">TC Sky Sport 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 1.deu">
+    <display-name lang="en">Sky Sport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Zoom.deu">
+    <display-name lang="en">TC Zoom</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Cinema HD.deu">
+    <display-name lang="en">TC Cinema HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Star HD.deu">
+    <display-name lang="en">TC Star HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Prime HD.deu">
+    <display-name lang="en">TC Prime HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Sport 1 HD.deu">
+    <display-name lang="en">TC Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Sky Sport 2 HD.deu">
+    <display-name lang="en">TC Sky Sport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 1 HD.deu">
+    <display-name lang="en">Sky Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Zoom HD.deu">
+    <display-name lang="en">TC Zoom HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC SFR Sport 1 HD.deu">
+    <display-name lang="en">TC SFR Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Atlantic HD.deu">
+    <display-name lang="en">Sky Atlantic HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="13th Street HD TC.deu">
+    <display-name lang="en">13th Street HD TC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Syfy HD TC.deu">
+    <display-name lang="en">Syfy HD TC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX HD TC.deu">
+    <display-name lang="en">FOX HD TC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TNT Serie HD TC.deu">
+    <display-name lang="en">TNT Serie HD TC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TNT Film HD TC.deu">
+    <display-name lang="en">TNT Film HD TC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TNT Comedy HD TC.deu">
+    <display-name lang="en">TNT Comedy HD TC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Cinemagic HD.deu">
+    <display-name lang="en">Disney Cinemagic HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoon Network HD TC.deu">
+    <display-name lang="en">Cartoon Network HD TC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery HD TC.deu">
+    <display-name lang="en">Discovery HD TC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo HD TC.deu">
+    <display-name lang="en">Nat Geo HD TC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild HD TC.deu">
+    <display-name lang="en">Nat Geo Wild HD TC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="History HD TC.deu">
+    <display-name lang="en">History HD TC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Hustler TV HD.deu">
+    <display-name lang="en">Hustler TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Evil Angel TV.deu">
+    <display-name lang="en">Evil Angel TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Dorcel TV.deu">
+    <display-name lang="en">Dorcel TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TRTTÜRK.deu">
+    <display-name lang="en">TRTTÜRK</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Euro D.deu">
+    <display-name lang="en">Euro D</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Show Türk.deu">
+    <display-name lang="en">Show Türk</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kanal 7 Avrupa.deu">
+    <display-name lang="en">Kanal 7 Avrupa</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="atv Avrupa.deu">
+    <display-name lang="en">atv Avrupa</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TGRT Haber.deu">
+    <display-name lang="en">TGRT Haber</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BVN TV.deu">
+    <display-name lang="en">BVN TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTS Un HD.fra">
+    <display-name lang="en">RTS Un HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTS Deux HD.fra">
+    <display-name lang="en">RTS Deux HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TF 1 HD.fra">
+    <display-name lang="en">TF 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 2 HD.fra">
+    <display-name lang="en">France 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 3 HD.fra">
+    <display-name lang="en">France 3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 4 HD.fra">
+    <display-name lang="en">France 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 5 HD.fra">
+    <display-name lang="en">France 5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="M6 HD.fra">
+    <display-name lang="en">M6 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports HD F.fra">
+    <display-name lang="en">MySports HD F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="W9 HD.fra">
+    <display-name lang="en">W9 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 9 HD.fra">
+    <display-name lang="en">RTL 9 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TMC Monte Carlo HD.fra">
+    <display-name lang="en">TMC Monte Carlo HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rouge TV HD.fra">
+    <display-name lang="en">Rouge TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="léman bleu HD.fra">
+    <display-name lang="en">léman bleu HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="la télé HD.fra">
+    <display-name lang="en">la télé HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Canal 9 HD.fra">
+    <display-name lang="en">Canal 9 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Canal Alpha HD.fra">
+    <display-name lang="en">Canal Alpha HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Canal Alpha JU HD.fra">
+    <display-name lang="en">Canal Alpha JU HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TeleBielingue HD.fra">
+    <display-name lang="en">TeleBielingue HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ARTE F HD.fra">
+    <display-name lang="en">ARTE F HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL8 HD.fra">
+    <display-name lang="en">CANAL8 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANALSTAR HD.fra">
+    <display-name lang="en">CANALSTAR HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AB1 HD.fra">
+    <display-name lang="en">AB1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TFX HD.fra">
+    <display-name lang="en">TFX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NRJ 12 HD.fra">
+    <display-name lang="en">NRJ 12 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL en clair HD.fra">
+    <display-name lang="en">CANAL en clair HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="6ter.fra">
+    <display-name lang="en">6ter</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV5MONDE FBS HD.fra">
+    <display-name lang="en">TV5MONDE FBS HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France Ô.fra">
+    <display-name lang="en">France Ô</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TF1 Séries Films.fra">
+    <display-name lang="en">TF1 Séries Films</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Be Curious TV HD.fra">
+    <display-name lang="en">Be Curious TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Numéro 23.fra">
+    <display-name lang="en">Numéro 23</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Chérie 25.fra">
+    <display-name lang="en">Chérie 25</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV8 MontBlanc HD.fra">
+    <display-name lang="en">TV8 MontBlanc HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Max TV.fra">
+    <display-name lang="en">Max TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AB3 HD.fra">
+    <display-name lang="en">AB3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV5MONDE.fra">
+    <display-name lang="en">TV5MONDE</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="One TV.fra">
+    <display-name lang="en">One TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="LFM TV.fra">
+    <display-name lang="en">LFM TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVM3 HD.fra">
+    <display-name lang="en">TVM3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Booster TV.fra">
+    <display-name lang="en">Booster TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polar.fra">
+    <display-name lang="en">Polar</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL HD.fra">
+    <display-name lang="en">CANAL HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL Cinéma HD.fra">
+    <display-name lang="en">CANAL Cinéma HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL Décalé HD.fra">
+    <display-name lang="en">CANAL Décalé HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL Sport HD.fra">
+    <display-name lang="en">CANAL Sport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL Family HD.fra">
+    <display-name lang="en">CANAL Family HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL Series HD.fra">
+    <display-name lang="en">CANAL Series HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Golf HD.fra">
+    <display-name lang="en">Golf HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ciné Premier HD.fra">
+    <display-name lang="en">Ciné Premier HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ciné Emotion HD.fra">
+    <display-name lang="en">Ciné Emotion HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ciné Frisson HD.fra">
+    <display-name lang="en">Ciné Frisson HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ciné Club HD.fra">
+    <display-name lang="en">Ciné Club HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ciné Famiz HD.fra">
+    <display-name lang="en">Ciné Famiz HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ciné Classic HD.fra">
+    <display-name lang="en">Ciné Classic HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Télétoon HD.fra">
+    <display-name lang="en">Télétoon HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Piwi HD.fra">
+    <display-name lang="en">Piwi HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Seasons HD.fra">
+    <display-name lang="en">Seasons HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Infosport HD.fra">
+    <display-name lang="en">Infosport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BFM TV HD.fra">
+    <display-name lang="en">BFM TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANALNEWS HD.fra">
+    <display-name lang="en">CANALNEWS HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="LCI HD.fra">
+    <display-name lang="en">LCI HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="euronews F.fra">
+    <display-name lang="en">euronews F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FranceInfo.fra">
+    <display-name lang="en">FranceInfo</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 24.fra">
+    <display-name lang="en">France 24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="KTO.fra">
+    <display-name lang="en">KTO</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animaux HD.fra">
+    <display-name lang="en">Animaux HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RMC Découverte.fra">
+    <display-name lang="en">RMC Découverte</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Planète HD.fra">
+    <display-name lang="en">Planète HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Planète AE HD.fra">
+    <display-name lang="en">Planète AE HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Planète CI HD.fra">
+    <display-name lang="en">Planète CI HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo F HD.fra">
+    <display-name lang="en">Nat Geo F HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild France HD.fra">
+    <display-name lang="en">Nat Geo Wild France HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery France HD.fra">
+    <display-name lang="en">Discovery France HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Science HD.fra">
+    <display-name lang="en">Discovery Science HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Science  Vie HD.fra">
+    <display-name lang="en">Science  Vie HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Crime District HD.fra">
+    <display-name lang="en">Crime District HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Trek.fra">
+    <display-name lang="en">Trek</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Histoire HD.fra">
+    <display-name lang="en">Histoire HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Voyage HD.fra">
+    <display-name lang="en">Voyage HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ushuaia TV HD.fra">
+    <display-name lang="en">Ushuaia TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Equidia.fra">
+    <display-name lang="en">Equidia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports Ticket.fra">
+    <display-name lang="en">MySports Ticket</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports_HD_F.fra">
+    <display-name lang="en">MySports_HD_F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 1 F.fra">
+    <display-name lang="en">MySports 1 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 1.fra">
+    <display-name lang="en">Sky Bundesliga 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 2Sky 2 F.fra">
+    <display-name lang="en">MySports 2Sky 2 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 3Sky 3 F.fra">
+    <display-name lang="en">MySports 3Sky 3 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 4Sky 4 F.fra">
+    <display-name lang="en">MySports 4Sky 4 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 5Sky 5 F.fra">
+    <display-name lang="en">MySports 5Sky 5 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 6Sky 6 F.fra">
+    <display-name lang="en">MySports 6Sky 6 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 7Sky 7 F.fra">
+    <display-name lang="en">MySports 7Sky 7 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 8Sky 8 F.fra">
+    <display-name lang="en">MySports 8Sky 8 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 9Sky 9 F.fra">
+    <display-name lang="en">MySports 9Sky 9 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport.fra">
+    <display-name lang="en">Sky Sport</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 F.fra">
+    <display-name lang="en">Eurosport 1 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="LEquipe HD.fra">
+    <display-name lang="en">LEquipe HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 F HD.fra">
+    <display-name lang="en">Eurosport 1 F HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 2 F HD.fra">
+    <display-name lang="en">Eurosport 2 F HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SPORT1 HD.fra">
+    <display-name lang="en">SPORT1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SPORT1 US HD.fra">
+    <display-name lang="en">SPORT1 US HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="sportdigital HD.fra">
+    <display-name lang="en">sportdigital HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Golf Channel France HD.fra">
+    <display-name lang="en">Golf Channel France HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="motorsporttv HD.fra">
+    <display-name lang="en">motorsporttv HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Extreme Sports.fra">
+    <display-name lang="en">Extreme Sports</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 1.fra">
+    <display-name lang="en">MySports 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports_HD_D.fra">
+    <display-name lang="en">MySports_HD_D</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 1 HD.fra">
+    <display-name lang="en">SFR Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 2 HD.fra">
+    <display-name lang="en">SFR Sport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 4 HD.fra">
+    <display-name lang="en">SFR Sport 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 5 HD.fra">
+    <display-name lang="en">SFR Sport 5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Netflix.fra">
+    <display-name lang="en">Netflix</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Comédie HD.fra">
+    <display-name lang="en">Comédie HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Syfy HD f.fra">
+    <display-name lang="en">Syfy HD f</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="13ème Rue HD.fra">
+    <display-name lang="en">13ème Rue HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Cinema HD f.fra">
+    <display-name lang="en">Disney Cinema HD f</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Breizh HD.fra">
+    <display-name lang="en">TV Breizh HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TCM Cinéma HD.fra">
+    <display-name lang="en">TCM Cinéma HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Paramount Channel HD.fra">
+    <display-name lang="en">Paramount Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ciné Polar HD.fra">
+    <display-name lang="en">Ciné Polar HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ciné FX HD.fra">
+    <display-name lang="en">Ciné FX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Action HD.fra">
+    <display-name lang="en">Action HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="E France HD.fra">
+    <display-name lang="en">E France HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="June HD.fra">
+    <display-name lang="en">June HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Gulli HD.fra">
+    <display-name lang="en">Gulli HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoon Network F HD.fra">
+    <display-name lang="en">Cartoon Network F HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Channel HD f.fra">
+    <display-name lang="en">Disney Channel HD f</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Junior HD f.fra">
+    <display-name lang="en">Disney Junior HD f</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney XD HD f.fra">
+    <display-name lang="en">Disney XD HD f</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="nickelodeon f HD.fra">
+    <display-name lang="en">nickelodeon f HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nickelodeon Jr F.fra">
+    <display-name lang="en">Nickelodeon Jr F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TiJi HD.fra">
+    <display-name lang="en">TiJi HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Canal J HD.fra">
+    <display-name lang="en">Canal J HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Boomerang France HD.fra">
+    <display-name lang="en">Boomerang France HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Boing France HD.fra">
+    <display-name lang="en">Boing France HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mangas HD.fra">
+    <display-name lang="en">Mangas HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV France HD.fra">
+    <display-name lang="en">MTV France HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Hits France HD.fra">
+    <display-name lang="en">MTV Hits France HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Live HD.fra">
+    <display-name lang="en">MTV Live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BET France HD.fra">
+    <display-name lang="en">BET France HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Trace Urban HD.fra">
+    <display-name lang="en">Trace Urban HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MCM France HD.fra">
+    <display-name lang="en">MCM France HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Game One HD.fra">
+    <display-name lang="en">Game One HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MCM Top HD.fra">
+    <display-name lang="en">MCM Top HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RFM TV HD.fra">
+    <display-name lang="en">RFM TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Dance.fra">
+    <display-name lang="en">MTV Dance</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH1 Classic.fra">
+    <display-name lang="en">VH1 Classic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mezzo.fra">
+    <display-name lang="en">Mezzo</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mezzo Live HD.fra">
+    <display-name lang="en">Mezzo Live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Stingray Classica.fra">
+    <display-name lang="en">Stingray Classica</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Blue Hustler.fra">
+    <display-name lang="en">Blue Hustler</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC One.fra">
+    <display-name lang="en">BBC One</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC One HD.fra">
+    <display-name lang="en">BBC One HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC Two HD.fra">
+    <display-name lang="en">BBC Two HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CBBC HD.fra">
+    <display-name lang="en">CBBC HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC FourCbeebies HD.fra">
+    <display-name lang="en">BBC FourCbeebies HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV HD.fra">
+    <display-name lang="en">ITV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV 2.fra">
+    <display-name lang="en">ITV 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV 3.fra">
+    <display-name lang="en">ITV 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV 4.fra">
+    <display-name lang="en">ITV 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PBS America.fra">
+    <display-name lang="en">PBS America</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Channel 4 HD.fra">
+    <display-name lang="en">Channel 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="E4.fra">
+    <display-name lang="en">E4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="More 4.fra">
+    <display-name lang="en">More 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film 4.fra">
+    <display-name lang="en">Film 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Channel 5.fra">
+    <display-name lang="en">Channel 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fashion TV.fra">
+    <display-name lang="en">Fashion TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN Money Switzerland.fra">
+    <display-name lang="en">CNN Money Switzerland</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN Int.fra">
+    <display-name lang="en">CNN Int</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC World News.fra">
+    <display-name lang="en">BBC World News</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Al Jazeera English.fra">
+    <display-name lang="en">Al Jazeera English</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CGTN.fra">
+    <display-name lang="en">CGTN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Russia Today.fra">
+    <display-name lang="en">Russia Today</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SkyNews.fra">
+    <display-name lang="en">SkyNews</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNBC.fra">
+    <display-name lang="en">CNBC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bloomberg TV.fra">
+    <display-name lang="en">Bloomberg TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SRF 1 HD.fra">
+    <display-name lang="en">SRF 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SRF zwei HD.fra">
+    <display-name lang="en">SRF zwei HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SRF info HD.fra">
+    <display-name lang="en">SRF info HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Das Erste HD.fra">
+    <display-name lang="en">Das Erste HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZDF HD.fra">
+    <display-name lang="en">ZDF HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF eins HD.fra">
+    <display-name lang="en">ORF eins HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 HD.fra">
+    <display-name lang="en">ORF 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL.fra">
+    <display-name lang="en">RTL</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SAT1.fra">
+    <display-name lang="en">SAT1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ProSieben.fra">
+    <display-name lang="en">ProSieben</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 2.fra">
+    <display-name lang="en">RTL 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VOX.fra">
+    <display-name lang="en">VOX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="kabel eins.fra">
+    <display-name lang="en">kabel eins</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Super RTL.fra">
+    <display-name lang="en">Super RTL</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports HD D.fra">
+    <display-name lang="en">MySports HD D</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Star TV F HD.fra">
+    <display-name lang="en">Star TV F HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="3sat HD.fra">
+    <display-name lang="en">3sat HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SWR BW HD.fra">
+    <display-name lang="en">SWR BW HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BR Fernsehen Süd HD.fra">
+    <display-name lang="en">BR Fernsehen Süd HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tele Bärn HD.fra">
+    <display-name lang="en">Tele Bärn HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Telebasel HD.fra">
+    <display-name lang="en">Telebasel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tele M1 HD.fra">
+    <display-name lang="en">Tele M1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tele 1 HD.fra">
+    <display-name lang="en">Tele 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ntv HD.fra">
+    <display-name lang="en">ntv HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RSI LA 1 HD.fra">
+    <display-name lang="en">RSI LA 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RSI LA 2 HD.fra">
+    <display-name lang="en">RSI LA 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 1 HD.fra">
+    <display-name lang="en">Rai 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 2 HD.fra">
+    <display-name lang="en">Rai 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 3 HD.fra">
+    <display-name lang="en">Rai 3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Canale 5 HD.fra">
+    <display-name lang="en">Canale 5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Italia 1 HD.fra">
+    <display-name lang="en">Italia 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rete 4.fra">
+    <display-name lang="en">Rete 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TeleTicino HD.fra">
+    <display-name lang="en">TeleTicino HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai_4.fra">
+    <display-name lang="en">Rai_4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="La 7.fra">
+    <display-name lang="en">La 7</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai Sport.fra">
+    <display-name lang="en">Rai Sport</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 I.fra">
+    <display-name lang="en">Eurosport 1 I</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo I.fra">
+    <display-name lang="en">Nat Geo I</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai_News_24.fra">
+    <display-name lang="en">Rai_News_24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Video Italia HD.fra">
+    <display-name lang="en">Video Italia HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mediaset_Extra.fra">
+    <display-name lang="en">Mediaset_Extra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TRTTÜRK.fra">
+    <display-name lang="en">TRTTÜRK</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Euro D.fra">
+    <display-name lang="en">Euro D</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Show Türk.fra">
+    <display-name lang="en">Show Türk</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kanal 7 Avrupa.fra">
+    <display-name lang="en">Kanal 7 Avrupa</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="atv Avrupa.fra">
+    <display-name lang="en">atv Avrupa</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TGRT Haber.fra">
+    <display-name lang="en">TGRT Haber</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Al Jazeera.fra">
+    <display-name lang="en">Al Jazeera</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BVN TV.fra">
+    <display-name lang="en">BVN TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Cinema.fra">
+    <display-name lang="en">TC Cinema</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Star.fra">
+    <display-name lang="en">TC Star</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Prime.fra">
+    <display-name lang="en">TC Prime</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky 1.fra">
+    <display-name lang="en">Sky 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="13th Street.fra">
+    <display-name lang="en">13th Street</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Atlantic.fra">
+    <display-name lang="en">Sky Atlantic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fox.fra">
+    <display-name lang="en">Fox</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Krimi.fra">
+    <display-name lang="en">Krimi</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery.fra">
+    <display-name lang="en">Discovery</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Romance TV.fra">
+    <display-name lang="en">Romance TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet.fra">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Cinemagic.fra">
+    <display-name lang="en">Disney Cinemagic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney XD.fra">
+    <display-name lang="en">Disney XD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Sport 1.fra">
+    <display-name lang="en">TC Sport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Sky Sport 2.fra">
+    <display-name lang="en">TC Sky Sport 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 1.fra">
+    <display-name lang="en">Sky Sport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Zoom.fra">
+    <display-name lang="en">TC Zoom</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Hustler TV HD.fra">
+    <display-name lang="en">Hustler TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Evil Angel TV.fra">
+    <display-name lang="en">Evil Angel TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Dorcel TV.fra">
+    <display-name lang="en">Dorcel TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTI 1.fra">
+    <display-name lang="en">RTI 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Yanga TV.fra">
+    <display-name lang="en">Yanga TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RSI LA 1 HD.ita">
+    <display-name lang="en">RSI LA 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RSI LA 2 HD.ita">
+    <display-name lang="en">RSI LA 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TeleTicino HD.ita">
+    <display-name lang="en">TeleTicino HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 1 HD.ita">
+    <display-name lang="en">Rai 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 2 HD.ita">
+    <display-name lang="en">Rai 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 3 HD.ita">
+    <display-name lang="en">Rai 3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 3 Lombardia.ita">
+    <display-name lang="en">Rai 3 Lombardia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 4.ita">
+    <display-name lang="en">Rai 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai 5.ita">
+    <display-name lang="en">Rai 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Canale 5 HD.ita">
+    <display-name lang="en">Canale 5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Italia 1 HD.ita">
+    <display-name lang="en">Italia 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rete 4.ita">
+    <display-name lang="en">Rete 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="La 5.ita">
+    <display-name lang="en">La 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Italia 2.ita">
+    <display-name lang="en">Italia 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="La 7 HD.ita">
+    <display-name lang="en">La 7 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="La 7d HD.ita">
+    <display-name lang="en">La 7d HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Telelombardia.ita">
+    <display-name lang="en">Telelombardia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Antenna Tre Lombardia.ita">
+    <display-name lang="en">Antenna Tre Lombardia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Video Italia HD.ita">
+    <display-name lang="en">Video Italia HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai News 24.ita">
+    <display-name lang="en">Rai News 24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TGCOM24.ita">
+    <display-name lang="en">TGCOM24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="euronews I.ita">
+    <display-name lang="en">euronews I</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoon Network I.ita">
+    <display-name lang="en">Cartoon Network I</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Boing.ita">
+    <display-name lang="en">Boing</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai Gulp.ita">
+    <display-name lang="en">Rai Gulp</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai yoyo.ita">
+    <display-name lang="en">Rai yoyo</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoonito.ita">
+    <display-name lang="en">Cartoonito</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="frisbee.ita">
+    <display-name lang="en">frisbee</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="K2.ita">
+    <display-name lang="en">K2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Super.ita">
+    <display-name lang="en">Super</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney XD i.ita">
+    <display-name lang="en">Disney XD i</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nick Jr HD.ita">
+    <display-name lang="en">Nick Jr HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mediaset 20.ita">
+    <display-name lang="en">Mediaset 20</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV8.ita">
+    <display-name lang="en">TV8</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cielo.ita">
+    <display-name lang="en">Cielo</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="IRIS.ita">
+    <display-name lang="en">IRIS</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai Movie.ita">
+    <display-name lang="en">Rai Movie</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai Premium.ita">
+    <display-name lang="en">Rai Premium</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cine Sony.ita">
+    <display-name lang="en">Cine Sony</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mediaset Extra.ita">
+    <display-name lang="en">Mediaset Extra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TOPcrime.ita">
+    <display-name lang="en">TOPcrime</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="GIALLO.ita">
+    <display-name lang="en">GIALLO</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Paramount Channel Italy.ita">
+    <display-name lang="en">Paramount Channel Italy</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="E Europe.ita">
+    <display-name lang="en">E Europe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai Storia.ita">
+    <display-name lang="en">Rai Storia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Motor Trend.ita">
+    <display-name lang="en">Motor Trend</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DMAX Italy.ita">
+    <display-name lang="en">DMAX Italy</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Real Time.ita">
+    <display-name lang="en">Real Time</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo Italy HD.ita">
+    <display-name lang="en">Nat Geo Italy HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild Italy HD.ita">
+    <display-name lang="en">Nat Geo Wild Italy HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo People Italy HD.ita">
+    <display-name lang="en">Nat Geo People Italy HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="History I.ita">
+    <display-name lang="en">History I</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery I HD.ita">
+    <display-name lang="en">Discovery I HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet i.ita">
+    <display-name lang="en">Animal Planet i</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Sci HD.ita">
+    <display-name lang="en">Discovery Sci HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery TL HD.ita">
+    <display-name lang="en">Discovery TL HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NOVE HD.ita">
+    <display-name lang="en">NOVE HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Alice.ita">
+    <display-name lang="en">Alice</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Marcopolo.ita">
+    <display-name lang="en">Marcopolo</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rai Sport  HD.ita">
+    <display-name lang="en">Rai Sport  HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sportitalia.ita">
+    <display-name lang="en">Sportitalia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 I.ita">
+    <display-name lang="en">Eurosport 1 I</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 I HD.ita">
+    <display-name lang="en">Eurosport 1 I HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 2 I HD.ita">
+    <display-name lang="en">Eurosport 2 I HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SuperTennis HD.ita">
+    <display-name lang="en">SuperTennis HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports Ticket.ita">
+    <display-name lang="en">MySports Ticket</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports_HD_D.ita">
+    <display-name lang="en">MySports_HD_D</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 1.ita">
+    <display-name lang="en">MySports 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 1.ita">
+    <display-name lang="en">Sky Bundesliga 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 2Sky 2.ita">
+    <display-name lang="en">MySports 2Sky 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 3Sky 3.ita">
+    <display-name lang="en">MySports 3Sky 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 4Sky 4.ita">
+    <display-name lang="en">MySports 4Sky 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 5Sky 5.ita">
+    <display-name lang="en">MySports 5Sky 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 6Sky 6.ita">
+    <display-name lang="en">MySports 6Sky 6</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 7Sky 7.ita">
+    <display-name lang="en">MySports 7Sky 7</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 8Sky 8.ita">
+    <display-name lang="en">MySports 8Sky 8</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 9Sky 9.ita">
+    <display-name lang="en">MySports 9Sky 9</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport.ita">
+    <display-name lang="en">Sky Sport</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1.ita">
+    <display-name lang="en">Eurosport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SPORT1 HD.ita">
+    <display-name lang="en">SPORT1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SPORT1 US HD.ita">
+    <display-name lang="en">SPORT1 US HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="sportdigital HD.ita">
+    <display-name lang="en">sportdigital HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="motorsporttv HD.ita">
+    <display-name lang="en">motorsporttv HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Extreme Sports.ita">
+    <display-name lang="en">Extreme Sports</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport News HD.ita">
+    <display-name lang="en">Sky Sport News HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports 1 F.ita">
+    <display-name lang="en">MySports 1 F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports_HD_F.ita">
+    <display-name lang="en">MySports_HD_F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 1 HD.ita">
+    <display-name lang="en">SFR Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 2 HD.ita">
+    <display-name lang="en">SFR Sport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 4 HD.ita">
+    <display-name lang="en">SFR Sport 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SFR Sport 5 HD.ita">
+    <display-name lang="en">SFR Sport 5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Netflix.ita">
+    <display-name lang="en">Netflix</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH1 Classic.ita">
+    <display-name lang="en">VH1 Classic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Live HD.ita">
+    <display-name lang="en">MTV Live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Brand New.ita">
+    <display-name lang="en">MTV Brand New</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Music.ita">
+    <display-name lang="en">MTV Music</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Dance.ita">
+    <display-name lang="en">MTV Dance</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Stingray Classica.ita">
+    <display-name lang="en">Stingray Classica</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Blue Hustler.ita">
+    <display-name lang="en">Blue Hustler</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC One.ita">
+    <display-name lang="en">BBC One</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC One HD.ita">
+    <display-name lang="en">BBC One HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC Two HD.ita">
+    <display-name lang="en">BBC Two HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CBBC HD.ita">
+    <display-name lang="en">CBBC HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC FourCbeebies HD.ita">
+    <display-name lang="en">BBC FourCbeebies HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV HD.ita">
+    <display-name lang="en">ITV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV 2.ita">
+    <display-name lang="en">ITV 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV 3.ita">
+    <display-name lang="en">ITV 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ITV 4.ita">
+    <display-name lang="en">ITV 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PBS America.ita">
+    <display-name lang="en">PBS America</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Channel 4 HD.ita">
+    <display-name lang="en">Channel 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="E4.ita">
+    <display-name lang="en">E4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="More 4.ita">
+    <display-name lang="en">More 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film 4.ita">
+    <display-name lang="en">Film 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Channel 5.ita">
+    <display-name lang="en">Channel 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fashion TV.ita">
+    <display-name lang="en">Fashion TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN Money Switzerland.ita">
+    <display-name lang="en">CNN Money Switzerland</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN Int.ita">
+    <display-name lang="en">CNN Int</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC World News.ita">
+    <display-name lang="en">BBC World News</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Al Jazeera English.ita">
+    <display-name lang="en">Al Jazeera English</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CGTN.ita">
+    <display-name lang="en">CGTN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Russia Today.ita">
+    <display-name lang="en">Russia Today</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNBC.ita">
+    <display-name lang="en">CNBC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bloomberg TV.ita">
+    <display-name lang="en">Bloomberg TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTS Un HD.ita">
+    <display-name lang="en">RTS Un HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTS Deux HD.ita">
+    <display-name lang="en">RTS Deux HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TF 1 HD.ita">
+    <display-name lang="en">TF 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 2 HD.ita">
+    <display-name lang="en">France 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 3 Alsace HD.ita">
+    <display-name lang="en">France 3 Alsace HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 4 HD.ita">
+    <display-name lang="en">France 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 5 HD.ita">
+    <display-name lang="en">France 5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="M6 HD.ita">
+    <display-name lang="en">M6 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MySports HD F.ita">
+    <display-name lang="en">MySports HD F</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="W9 HD.ita">
+    <display-name lang="en">W9 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 9 HD.ita">
+    <display-name lang="en">RTL 9 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TMC Monte Carlo HD.ita">
+    <display-name lang="en">TMC Monte Carlo HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV5MONDE.ita">
+    <display-name lang="en">TV5MONDE</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TFX.ita">
+    <display-name lang="en">TFX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Gulli HD.ita">
+    <display-name lang="en">Gulli HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 24.ita">
+    <display-name lang="en">France 24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SRF 1 HD.ita">
+    <display-name lang="en">SRF 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SRF zwei HD.ita">
+    <display-name lang="en">SRF zwei HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SRF info HD.ita">
+    <display-name lang="en">SRF info HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Das Erste HD.ita">
+    <display-name lang="en">Das Erste HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZDF HD.ita">
+    <display-name lang="en">ZDF HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF eins HD.ita">
+    <display-name lang="en">ORF eins HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 HD.ita">
+    <display-name lang="en">ORF 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL HD.ita">
+    <display-name lang="en">RTL HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL 2 HD.ita">
+    <display-name lang="en">RTL 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VOX HD.ita">
+    <display-name lang="en">VOX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SAT1 HD.ita">
+    <display-name lang="en">SAT1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ProSieben HD.ita">
+    <display-name lang="en">ProSieben HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="kabel eins HD.ita">
+    <display-name lang="en">kabel eins HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TeleZüri HD.ita">
+    <display-name lang="en">TeleZüri HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Star TV HD.ita">
+    <display-name lang="en">Star TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nick HD.ita">
+    <display-name lang="en">Nick HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Super RTL HD.ita">
+    <display-name lang="en">Super RTL HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="KiKA HD.ita">
+    <display-name lang="en">KiKA HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="3 HD.ita">
+    <display-name lang="en">3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV HD.ita">
+    <display-name lang="en">MTV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="arte HD.ita">
+    <display-name lang="en">arte HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="3sat HD.ita">
+    <display-name lang="en">3sat HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SWR BW HD.ita">
+    <display-name lang="en">SWR BW HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BR Fernsehen Süd HD.ita">
+    <display-name lang="en">BR Fernsehen Süd HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="WDR Fernsehen HD.ita">
+    <display-name lang="en">WDR Fernsehen HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MDR Sachsen HD.ita">
+    <display-name lang="en">MDR Sachsen HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NDR FS NDS HD.ita">
+    <display-name lang="en">NDR FS NDS HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="hrfernsehen HD.ita">
+    <display-name lang="en">hrfernsehen HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="rbb Berlin HD.ita">
+    <display-name lang="en">rbb Berlin HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="WELT.ita">
+    <display-name lang="en">WELT</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ntv HD.ita">
+    <display-name lang="en">ntv HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HSE24.ita">
+    <display-name lang="en">HSE24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sixx HD.ita">
+    <display-name lang="en">Sixx HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Servus TV HD.ita">
+    <display-name lang="en">Servus TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="wettertv.ita">
+    <display-name lang="en">wettertv</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HSE24 Extra.ita">
+    <display-name lang="en">HSE24 Extra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fox HD.ita">
+    <display-name lang="en">Fox HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Cinema.ita">
+    <display-name lang="en">TC Cinema</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Star.ita">
+    <display-name lang="en">TC Star</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Prime.ita">
+    <display-name lang="en">TC Prime</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky 1.ita">
+    <display-name lang="en">Sky 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="13th Street.ita">
+    <display-name lang="en">13th Street</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Atlantic.ita">
+    <display-name lang="en">Sky Atlantic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fox.ita">
+    <display-name lang="en">Fox</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Krimi.ita">
+    <display-name lang="en">Krimi</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery.ita">
+    <display-name lang="en">Discovery</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Romance TV.ita">
+    <display-name lang="en">Romance TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet.ita">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Cinemagic.ita">
+    <display-name lang="en">Disney Cinemagic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney XD.ita">
+    <display-name lang="en">Disney XD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Sport 1.ita">
+    <display-name lang="en">TC Sport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Sky Sport 2.ita">
+    <display-name lang="en">TC Sky Sport 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 1.ita">
+    <display-name lang="en">Sky Sport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TC Zoom.ita">
+    <display-name lang="en">TC Zoom</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Hustler TV HD.ita">
+    <display-name lang="en">Hustler TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Evil Angel TV.ita">
+    <display-name lang="en">Evil Angel TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Dorcel TV.ita">
+    <display-name lang="en">Dorcel TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Pink O TV.ita">
+    <display-name lang="en">Pink O TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TRTTÜRK.ita">
+    <display-name lang="en">TRTTÜRK</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Euro D.ita">
+    <display-name lang="en">Euro D</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Show Türk.ita">
+    <display-name lang="en">Show Türk</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kanal 7 Avrupa.ita">
+    <display-name lang="en">Kanal 7 Avrupa</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="atv Avrupa.ita">
+    <display-name lang="en">atv Avrupa</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TGRT Haber.ita">
+    <display-name lang="en">TGRT Haber</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BVN TV.ita">
+    <display-name lang="en">BVN TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <programme start="20190815001000 +0000" stop="20190815010000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Morgen sind wir König</title>
+    <sub-title lang="en">Rückschläge im Ring</sub-title>
+    <desc lang="en">Lars, Matthias und Christian steuern ein großes sportliches Ziel an: die Teilnahme am ENST, dem Eidgenössischen Nachwuchsschwingertag, in Landquart. Alle rechnen sich Chancen aus, dort vorne mit dabei zu sein - einige von ihnen träumen gar vom Sieg. Doch Träume können unvermittelt platzen: Matthias verletzt sich beim Training schwer, und Christian erleidet an einem Schwingtag einen Rippenbruch. Die Teilnahme in Landquart ist praktisch ausgeschlossen. Doch die beiden Verletzten genesen verblüffend schnell und steigen in Landquart in die Hosen. Mit: Lars Hugentobler, Christian Kneubühl und Matthias Imobersteg.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Dokumentation</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-ch-dynamic.horizon.tv/linear_images/337821997.p.de46ef64bf8f3c6cbde597e4fb4fd7471482b129.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20190815010000 +0000" stop="20190815014500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Morgen sind wir König</title>
+    <sub-title lang="en">Auf zu den Bösen</sub-title>
+    <desc lang="en">Das nächste große Ziel zeichnet sich ab: Das Eidgenössische Schwing- und Älplerfest, das größte Ereignis im Schwingsport und der größte Sportevent der Schweiz überhaupt. Christian will sich auf seine Lehre konzentrieren, aber die Nachwuchstalente Matthias und Lars geben alles, um sich für den Anlass zu qualifizieren. Und auch der Sieger von Landquart im vergangenen Jahr, Adrian Walther, bereitet sich intensiv vor. Was geschieht mit den jungen Schwingern in diesem Jahr? Hilft ihnen der sportliche Wettkampf, persönlich zu wachsen? Schwingsport als Lebensschule - Werbespruch oder Realität? Schaffen sie die Qualifikation für das Eidgenössische? Mit: Lars Hugentobler, Matthias Imobersteg und Adrian Walther.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Dokumentation</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-ch-dynamic.horizon.tv/linear_images/337821997.p.de46ef64bf8f3c6cbde597e4fb4fd7471482b129.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190815014500 +0000" stop="20190815030000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Medienclub</title>
+    <sub-title lang="en">TV ist tot - es lebe das TV!</sub-title>
+    <desc lang="en">Vorbei sind die Zeiten, als fernsehen noch ein gemeinsames Familienerlebnis war. Heute konsumieren Jung und Alt auf unterschiedlichen Geräten unterschiedliche Kanäle. Netflix, YouTube und andere Online-Angebote konkurrenzieren das lineare Fernsehen. Sendungen zu fixen Zeiten sind vor allem bei den Jungen out. Was heißt das für die TV-Macherinnen und -Macher? Welche Inhalte setzen sich durch? Primär Quotenbringendes wie Sport und Unterhaltung? Was ist mit der Information? Welche neuen Angebote und Plattformen werden noch kommen? Und wohin entwickelt sich die Fernsehlandschaft Schweiz? Unter der Leitung von Franz Fischlin diskutieren: - Jonas Projer, Chefredaktor Blick TV, - Cédric Schild, Online-Star Izzy, - Bea Knecht, Gründerin Zattoo, - Dominik Kaiser, TV-Unternehmer 3+, - Irène Abt-Durrer, Forschungsleiterin Goldbach Media und - Bakel Walden, Direktor Entwicklung und Angebot SRG.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-ch-dynamic.horizon.tv/linear_images/83365060.p.0225aaa5705bcb312a3bb23f615f098f53a0fbbc.jpg" />
+  </programme>
+  <programme start="20190815030000 +0000" stop="20190815031500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Glanz &amp; Gloria</title>
+    <sub-title lang="en">People Magazin</sub-title>
+    <desc lang="en">Er ist mittlerweile 90 Jahre alt und das lebende Beispiel einer Liechtensteiner Erfolgsgeschichte. Aufgewachsen in einem Armenhaus Europas, gründet Herbert Ospelt sein Familienunternehmen in den florierenden Fünfzigern. Heute ist Onkel Herbert ein Liechtensteiner Original - genau wie seine Marke Malbuner.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Freizeit</category>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-ch-dynamic.horizon.tv/linear_images/38173932.p.ae4e0c6af0bbee09aef6b0d437439ae60d906b3b.jpg" />
+  </programme>
+  <programme start="20190815031500 +0000" stop="20190815034500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Filmfestival Locarno 2019 - Das Spezial</title>
+    <desc lang="en">Die Höhepunkte vom Filmfestival Locarno: Wer konvertiert in der Schweiz zum Islam? Der Dokumentarfilm 'Shalom Allah' gibt Antworten. Dann: 200 Kreative in einer alten Halle, was machen die da? Locarno und sein Kampf um die Jugend. Und: Das syrische Abounaddara Collective, eine Gruppe anonymer Filmemacher und ihr Kampf gegen Assad und Dschihadisten.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-ch-dynamic.horizon.tv/linear_images/337667930.p.abfe8aafe7b404bf8240ccf4b09b0122dcd9ff69.jpg" />
+  </programme>
+  <programme start="20190815034500 +0000" stop="20190815043000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Üse Buurehof</title>
+    <sub-title lang="en">Von Frühaufstehern und Nachtschwärmern</sub-title>
+    <desc lang="en">Wer Kühe melken will, muss richtig früh raus. Das kostet Heidi, Remo, Dominique, Selin und Koni einiges an Überwindung. Trotzdem kämpfen sie sich noch im Dunkeln raus aufs Feld, um die Kühe einzutreiben. Niklaus will als Einziger lieber weiterschlafen. Obwohl den anderen das Melken Spaß macht, möchten auch sie am liebsten schnellstmöglich wieder zurück ins Bett. Doch auf dem Bauernhof steht noch einiges auf dem Programm. Im Maislabyrinth müssen alle Wege und Irrwege mit Stroh ausgelegt werden. Eine Arbeit, die kein Ende zu nehmen scheint. Deshalb plant Selin ganz alleine nach dem Abendessen eine Überraschung. Sie macht sich nochmals auf ins Maisfeld, um die Bauernfamilie zu unterstützen. Am Abend verkündet Bauer Tony, dass heute Nacht alle draußen schlafen dürfen. Eine Idee, die nicht nur mit Freude aufgenommen wird. Doch für Heidi und Niklaus ist die Nacht unter freiem Sternenhimmel ein ganz besonderes Erlebnis. Und lässt ihnen sogar Zeit, sich gegenseitig etwas anzunähern.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Wissen</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-ch-dynamic.horizon.tv/linear_images/254981151.p.118c5ac7c35bd6e1fb5b891dd70358dbda95d31f.jpg" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20190815043000 +0000" stop="20190815053000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">News-Schlagzeilen</title>
+    <desc lang="en">Aktuelle Nachrichten.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ch-dynamic.horizon.tv/linear_images/316106524.p.2d050cd7fb457c0a31dd0d795bdcabd5a297a444.jpg" />
+  </programme>
+  <programme start="20190815053000 +0000" stop="20190815070000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Wetterkanal</title>
+    <desc lang="en">Informationen zur Wetterlage. Aktuelle Panorama-Wetterbilder, Panoramaschwenks von diversen Stationen, die mit Prognosekarten der Schweiz und Europa und Schneeberichten ergänzt werden. Hintergrundmusik: Radio DRS 1.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Wetter</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-ch-dynamic.horizon.tv/linear_images/38174065.p.76a44786e13fa52ca4b01bacc6b8fe95b7811f3a.jpg" />
+  </programme>
+  <programme start="20190815070000 +0000" stop="20190815072000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Schweiz aktuell</title>
+    <desc lang="en">Tagesaktuelle Ereignisse aus den Regionen, aktuelle Vorgänge im politischen, wirtschaftlichen, kulturellen, sozialen und gesellschaftspolitischen Bereich. Priorität haben Themen, die über die Region hinaus von Interesse sind, exemplarischen Charakter haben. 'Schweiz aktuell' pflegt die verschiedensten Formen: Newsbeiträge, Kurznachrichten, Reportagen, Live-Schaltungen. Mehrmals wöchentlich schaltet 'Schweiz aktuell' live zu seinen Reporterinnen und Reportern vor Ort.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ch-dynamic.horizon.tv/linear_images/38050332.p.174e01633424aa577ff916d35245419396cd8150.jpg" />
+  </programme>
+  <programme start="20190815072000 +0000" stop="20190815075500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Einstein</title>
+    <sub-title lang="en">Projekt Icarus - Tiere warnen vor Katastrophen</sub-title>
+    <desc lang="en">Störche geben Hinweise zu Schädlingsplagen: Noch immer sind die jährlichen Storchenwanderungen nicht restlos erforscht. Wie navigieren die Vögel? Schließen sie sich anderen Störchen an oder ist es ein genetisch festgelegtes Navigationsprogramm. Icarus will diese Fragen erstmals umfassend klären. Die Ergebnisse sollen einerseits dem Artenschutz helfen. Andererseits können dank der großflächigen Beobachtung der Storchenzüge auch Schädlingsplagen wirksamer bekämpft werden. Ziegen warnen vor Vulkanausbrüchen: Geowissenschaftler tun sich mit der Vorhersage zu Vulkanausbrüchen oder Erdbeben immer noch schwer. Verlässliche Vorhersagen sind trotz intensiver Forschung noch immer nicht möglich. Das könnte sich dank Icarus ändern. Denn die Forscher um Martin Wikelski haben festgestellt, dass Ziegen vor einem Vulkanausbruch ihr Verhalten ändern. Jetzt wollen sie den sechsten Sinn der Ziegen nutzen für ein tierisches Frühwarnsystem. Mittels Flughunden Ebola-Herde in Afrika aufspüren.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Freizeit</category>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-ch-dynamic.horizon.tv/linear_images/38050909.p.e7f9bf54f6680176ea26f51f096d26af25c6f1b4.jpg" />
+  </programme>
+  <programme start="20190815075500 +0000" stop="20190815083500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Die Donau - Reise in ein unbekanntes Europa</title>
+    <sub-title lang="en">Von Vukovar bis ans Eiserne Tor mit Susanne Wille</sub-title>
+    <desc lang="en">Die vierte Etappe führt Susanne Wille vom kroatischen Vukovar bis ans Eiserne Tor. Vukovar ist der Ausgangspunkt für Susanne Wille in der vierten Folge. Die Stadt am Ufer der Donau war 1991 ein bedeutender Schauplatz des kroatischen Unabhängigkeitskrieges. Hart umkämpft war auch die Schuhfabrik Borovo - einst Arbeitgeber der ganzen Region. Der Ingenieur Ivan Hubalek hat die Belagerung hautnah miterlebt und berichtet Susanne Wille von seinen Erlebnissen, aber auch vom Wiederaufbau, den er als stellvertretender Bürgermeister von Vukovar aktiv mitgestaltet hat - eine Begegnung, die optimistisch stimmt. Donauabwärts liegt Novi Sad, die zweitgrößte Stadt Serbiens. Hier stößt Susanne Wille auf eine überraschende Erfolgsgeschichte: das 'Silicon Valley' Serbiens. In der modernen Stadt macht die Software-Industrie mittlerweile 30 Prozent der Wirtschaftsleistung aus. Begonnen hatte alles während der Jugoslawienkriege.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Dokumentation</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-ch-dynamic.horizon.tv/linear_images/51348957.p.f6949e8d6cd175bba9239479cbe556a70c1bc929.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20190815083500 +0000" stop="20190815092500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Morgen sind wir König</title>
+    <sub-title lang="en">Rückschläge im Ring</sub-title>
+    <desc lang="en">Lars, Matthias und Christian steuern ein großes sportliches Ziel an: die Teilnahme am ENST, dem Eidgenössischen Nachwuchsschwingertag, in Landquart. Alle rechnen sich Chancen aus, dort vorne mit dabei zu sein - einige von ihnen träumen gar vom Sieg. Doch Träume können unvermittelt platzen: Matthias verletzt sich beim Training schwer, und Christian erleidet an einem Schwingtag einen Rippenbruch. Die Teilnahme in Landquart ist praktisch ausgeschlossen. Doch die beiden Verletzten genesen verblüffend schnell und steigen in Landquart in die Hosen. Mit: Lars Hugentobler, Christian Kneubühl und Matthias Imobersteg.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Dokumentation</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-ch-dynamic.horizon.tv/linear_images/337821997.p.de46ef64bf8f3c6cbde597e4fb4fd7471482b129.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20190815092500 +0000" stop="20190815101500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Morgen sind wir König</title>
+    <sub-title lang="en">Auf zu den Bösen</sub-title>
+    <desc lang="en">Das nächste große Ziel zeichnet sich ab: Das Eidgenössische Schwing- und Älplerfest, das größte Ereignis im Schwingsport und der größte Sportevent der Schweiz überhaupt. Christian will sich auf seine Lehre konzentrieren, aber die Nachwuchstalente Matthias und Lars geben alles, um sich für den Anlass zu qualifizieren. Und auch der Sieger von Landquart im vergangenen Jahr, Adrian Walther, bereitet sich intensiv vor. Was geschieht mit den jungen Schwingern in diesem Jahr? Hilft ihnen der sportliche Wettkampf, persönlich zu wachsen? Schwingsport als Lebensschule - Werbespruch oder Realität? Schaffen sie die Qualifikation für das Eidgenössische? Mit: Lars Hugentobler, Matthias Imobersteg und Adrian Walther.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Dokumentation</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-ch-dynamic.horizon.tv/linear_images/337821997.p.de46ef64bf8f3c6cbde597e4fb4fd7471482b129.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20190815101500 +0000" stop="20190815104500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Mini Beiz, dini Beiz</title>
+    <sub-title lang="en">Ostschweiz - Tag 3 - Schloss Seeburg, Kreuzlingen</sub-title>
+    <desc lang="en">Nobel geht es in Kreuzlingen zu. Das wunderschöne Schloss Seeburg wird seit 2016 von Matias Bolliger und seiner Ehefrau geführt. Galt das Restaurant früher eher als etepetete, herrscht heute eher frischer Wind und Bodenständigkeit. Hier wird eine klassische Küche mit modernen Akzenten serviert. Park und Schloss bieten zudem eine einmalige Kulisse, insbesondere auch für Hochzeiten und andere Feiern. Stammgast Stefan Winiger ist frischgebackener Papa von Zwillingen und selber gelernter Koch, und entsprechend hoch sind seine Ansprüche. Den Wirt kennt er noch aus der gemeinsamen Ausbildung.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Freizeit</category>
+    <category lang="en">Kochen</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-ch-dynamic.horizon.tv/linear_images/128918982.p.f304ad267aae1894cf4e326c0a6f9d9711595902.jpg" />
+  </programme>
+  <programme start="20190815104500 +0000" stop="20190815105500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Tagesschau</title>
+    <desc lang="en">Die 'Tagesschau' gibt einem breiten Publikum einen Überblick über die wichtigsten Ereignisse des Tages. Mit ihren vier täglichen Sendungen ist sie ein wichtiger Referenzpunkt in der öffentlichen Debatte. Politik, Wirtschaft, Kultur, Sport, Gesellschaft, Wissenschaft, Faits divers aus dem In- und Ausland. Die Spätausgabe am Sonntag enthält eine ausführliche Zusammenfassung des Sportgeschehens. Die 'Tagesschau' informiert über das Wichtigste vom Tag. Bei kontroversen Themen kommen die verschiedenen Standpunkte zu Wort. Die Zuschauerinnen und Zuschauer sollen sich aufgrund der gelieferten Fakten selbst eine Meinung bilden. Die 'Tagesschau' wird vom Publikum als seriös und glaubwürdig betrachtet.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-ch-dynamic.horizon.tv/linear_images/38052023.p.1f3911d93029fb5dd82da28228d18cabc523c337.jpg" />
+  </programme>
+  <programme start="20190815105500 +0000" stop="20190815110500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Meteo Mittag</title>
+    <desc lang="en">Hier erfahren die Zuschauer, auf welche Wetterverhältnisse sie sich einstellen müssen. Ob in den nächsten Tagen die Sonne scheint, es regnet, schneit oder extreme Wetterverhältnisse zu erwarten sind. Die Sendung versorgt die Menschen in der deutschsprachigen Schweiz täglich mit aktuellen regionalen Wetterinformationen. Im Winter sind auch Lawinenwarnungen ein Bestandteil des Programms.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Wetter</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-ch-dynamic.horizon.tv/linear_images/313837788.p.f9458025eb83732de9c49bdb2141ae08686b5d21.jpg" />
+  </programme>
+  <programme start="20190815110500 +0000" stop="20190815112000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Glanz &amp; Gloria</title>
+    <sub-title lang="en">People Magazin</sub-title>
+    <desc lang="en">Er ist mittlerweile 90 Jahre alt und das lebende Beispiel einer Liechtensteiner Erfolgsgeschichte. Aufgewachsen in einem Armenhaus Europas, gründet Herbert Ospelt sein Familienunternehmen in den florierenden Fünfzigern. Heute ist Onkel Herbert ein Liechtensteiner Original - genau wie seine Marke Malbuner.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Freizeit</category>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-ch-dynamic.horizon.tv/linear_images/38173932.p.ae4e0c6af0bbee09aef6b0d437439ae60d906b3b.jpg" />
+  </programme>
+  <programme start="20190815112000 +0000" stop="20190815120500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Herzensbrecher - Vater von vier Söhnen</title>
+    <sub-title lang="en">Die letzte Reise</sub-title>
+    <desc lang="en">Als wäre das Leben im Hause Tabarius nicht schon turbulent genug, steht plötzlich Andreas' Vater Richard vor der Tür. Und das auch noch in Begleitung seiner jungen polnischen Pflegerin Ewa. Andreas ist ohnehin schon mit seiner Arbeit mehr als ausgelastet, und Constanze Abels fuchtelt mit dem wieder ausgegrabenen Kriegsbeil. So bleibt keine Zeit für Katharina, die unter ihrem Unfall mit Christine Larsen leidet und mit den Vorwürfen von Christines Mann Björn zurechtkommen muss. Andreas hat große Mühe, alle Fäden in der Hand zu behalten und auch noch ein bisschen Zeit mit seinen Jungs zu verbringen. Als Richard Andreas bittet, ihn und Ewa zu trauen, bevor sie zu einer Reise nach Italien aufbrechen, kommen alte Konflikte zu Tage.(n)</desc>
+    <date>2014</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-ch-dynamic.horizon.tv/linear_images/130463924.p.37c6184c7227155681decb929cd81725480a6f39.jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="CH">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20190815120500 +0000" stop="20190815125000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Herzensbrecher - Vater von vier Söhnen</title>
+    <sub-title lang="en">Kommen und Gehen</sub-title>
+    <desc lang="en">Katharinas Unfall mit Christine Larsen legt weiter seine Schatten über Andreas Tabarius' Gemeinde: Katharina kommt mit ihrer Schuld nicht klar, was sie und Andreas zunehmend entfremdet. Andreas bemerkt die Hilflosigkeit von Christines Ehemann Björn, aber seine Vermittlungsversuche scheitern. Derweil bekommt Andreas nicht mit, dass sich sein Drittältester Jo am Taschengeld seines Bruders Tom zu schaffen macht, und mit den Störenfrieden der Schule Freundschaft geschlossen hat. Und Lukas findet, dass ausgerechnet jetzt der richtige Zeitpunkt wäre, mit seiner neuen Freundin Lea zusammenzuziehen.(n)</desc>
+    <date>2014</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-ch-dynamic.horizon.tv/linear_images/130463924.p.37c6184c7227155681decb929cd81725480a6f39.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="CH">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20190815125000 +0000" stop="20190815125500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">G&amp;G Peopleflash</title>
+    <sub-title lang="en">News aus der Welt der Prominenz</sub-title>
+    <desc lang="en">Nachrichten aus der Welt der Prominenz.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-ch-dynamic.horizon.tv/linear_images/260967669.p.8005b3425542a54ea2f7a5cfd6cd48fa81a88309.jpg" />
+  </programme>
+  <programme start="20190815125500 +0000" stop="20190815132500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Lüthi und Blanc</title>
+    <sub-title lang="en">Böse Catherine</sub-title>
+    <desc lang="en">Catherine hat einen attraktiven Geschäftskontakt geknüpft. Doch die Sache muss vorläufig geheim bleiben. Bloß ihrem Gatten schenkt sie reinen Wein ein. Martin staunt: Solch fiese Methoden hätte er seinem Chäferli nie zugetraut. Bei Tamara und ihren Pflegeeltern hängt der Haussegen schief. Jetzt kann nur noch Tamaras Gotte Lilian helfen. Wie gelingt es ihr, wieder Frieden auf dem Bauernhof zu stiften? Fink und Hurni gehören seit einiger Zeit zu den Stammgästen im Casino. Beim Roulette wollen sie ein Vermögen erspielen. Dank einem potenten asiatischen Geldgeber könnte das dem Pärchen sogar gelingen.(n)</desc>
+    <date>2004</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Melodram</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-ch-dynamic.horizon.tv/linear_images/32636225.p.122709ba2aa096c584ed6e148363ca26a1e30349.jpg" />
+    <episode-num system="onscreen">E206</episode-num>
+  </programme>
+  <programme start="20190815132500 +0000" stop="20190815135000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Lüthi und Blanc</title>
+    <sub-title lang="en">Hart auf hart</sub-title>
+    <desc lang="en">Lilian gehört im Casino ihres Sohnes zu den Stammgästen. Von einer geheimnisvollen Dame kriegt sie einen Tip, wie sie ihr Geld setzen soll. Ob Lilian wohl auf die Märchentante hört? Catherine und Bela jubeln. Sie haben einen sensationellen Deal mit einer Pariser Nobelfirma abgeschlossen. Wenn jetzt auch noch Sabina mitzieht, haben sie den Durchbruch im Modebusiness geschafft. Regula sitzt wie auf glühenden Kohlen. Ihr ältester Sohn Zizou hat dank Steve eine Chance gekriegt, die sein Leben in ruhige Bahnen lenken könnte. Und dann hätte Regula endlich einmal einen Grund, stolz auf Zizou zu sein.(n)</desc>
+    <date>2004</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Melodram</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-ch-dynamic.horizon.tv/linear_images/32636225.p.122709ba2aa096c584ed6e148363ca26a1e30349.jpg" />
+    <episode-num system="onscreen">E207</episode-num>
+  </programme>
+  <programme start="20190815135000 +0000" stop="20190815140500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Streifzug durch die Alpen - Berchtesgadner Land und Chiemgau</title>
+    <desc lang="en">Die Alpen sind das bedeutendste Gebirge Europas, und das am besten erschlossene dazu. Über Jahrtausende hinweg entstand eine einzigartige Landschaft, in der sich Mensch und Natur wechselseitig prägten. Eine Entdeckungsreise mit eindrücklichen Luftaufnahmen und Porträts der Alpenbewohner.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Bildung</category>
+    <category lang="en">Natur</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-ch-dynamic.horizon.tv/linear_images/20731373319.p.jpg" />
+  </programme>
+  <programme start="20190815140500 +0000" stop="20190815153500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Rosamunde Pilcher: Dem Himmel so nah</title>
+    <desc lang="en">Zum Hochzeitstag reisen zur großen Freude von Edwina und Henry Harley, die seit 30 Jahren glücklich verheiratet sind, auch Sohn Rodney aus London und Tochter Tessa aus Paris an. Die Stimmung in dem großen Herrenhaus schlägt um, als Tessa ihren Eltern eröffnet, dass sie schwanger ist. Sie will nicht verraten, wer der Vater ist und hat vor, das Kind allein groß zu ziehen. Niemand kommt auf die Idee, dass der Pferdezüchter Thomas White, der in der Nähe von Heavens Hill eine Farm besitzt, der Vater sein könnte. Tessa verbrachte kurz vor ihrer Abreise nach Paris eine folgenreiche Nacht mit ihm. Ihr Bruder Rodney erlebt in diesem Sommer eine ganz besondere Liebe. Er trifft seine Jugendliebe Anne wieder, die ebenfalls in der Nähe auf dem Land lebt. Dieses Wiedersehen wird das Leben der Beiden völlig verändern. Sie fühlen sich wie früher so stark zu einander hingezogen, dass Anne nicht bemerkt, wie sehr ihr Mann Simon, ein Bankier, sie durch gewagte Geschäfte in Schwierigkeiten bringt ...(n)</desc>
+    <date>2004</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp17-images-ch-dynamic.horizon.tv/linear_images/5271213.p.a2bf0cd7f8b5f2ec561ac13152e59c62a1a22e9e.jpg" />
+  </programme>
+  <programme start="20190815153500 +0000" stop="20190815154500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Peek Zoo</title>
+    <sub-title lang="en">De Pinguin-Umzug</sub-title>
+    <desc lang="en">Schildkröte Heinrich will bei Lottis Schildkröten-Umzug mitmachen, aber sie ist zu langsam. Jimmy hat die Idee eines zweiten langsamen Umzugs.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Kids</category>
+    <category lang="en">Jugend</category>
+    <category lang="en">Kids, 6 14</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-ch-dynamic.horizon.tv/linear_images/305527124.p.04078e8ddf047bc127b9c21b12a8900f0f944310.jpg" />
+  </programme>
+  <programme start="20190815154500 +0000" stop="20190815160000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Sil punct</title>
+    <desc lang="en">Das Nachrichtenmagazin berichtet über die wichtigsten Themen und Ereignisse, die Graubünden während des Sommers bewegen.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ch-dynamic.horizon.tv/linear_images/215719647.p.ac482febd92344a621baf13966ef10a0d78f51c4.jpg" />
+  </programme>
+  <programme start="20190815160000 +0000" stop="20190815161000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Tagesschau</title>
+    <desc lang="en">Die 'Tagesschau' gibt einem breiten Publikum einen Überblick über die wichtigsten Ereignisse des Tages. Mit ihren vier täglichen Sendungen ist sie ein wichtiger Referenzpunkt in der öffentlichen Debatte. Politik, Wirtschaft, Kultur, Sport, Gesellschaft, Wissenschaft, Faits divers aus dem In- und Ausland. Die Spätausgabe am Sonntag enthält eine ausführliche Zusammenfassung des Sportgeschehens. Die 'Tagesschau' informiert über das Wichtigste vom Tag. Bei kontroversen Themen kommen die verschiedenen Standpunkte zu Wort. Die Zuschauerinnen und Zuschauer sollen sich aufgrund der gelieferten Fakten selbst eine Meinung bilden. Die 'Tagesschau' wird vom Publikum als seriös und glaubwürdig betrachtet.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-ch-dynamic.horizon.tv/linear_images/38052023.p.1f3911d93029fb5dd82da28228d18cabc523c337.jpg" />
+  </programme>
+  <programme start="20190815161000 +0000" stop="20190815161500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Meteo</title>
+    <desc lang="en">Das Wetter in der Schweiz und in Europa. Täglich sendet das Team Wetterberichte, Prognosen, fachliche Hintergrundinfos, Vorsichtsmeldungen und Warnungen, mit Gebärdensprache.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Wetter</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-ch-dynamic.horizon.tv/linear_images/38172631.p.a33dce10daa84404cacd8e7935f046a83150f8eb.jpg" />
+  </programme>
+  <programme start="20190815161500 +0000" stop="20190815164000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Mini Beiz, dini Beiz</title>
+    <sub-title lang="en">Ostschweiz - Tag 4 - Loftorane Campania, Romanshorn</sub-title>
+    <desc lang="en">Die Geschichte des Gebäudes beginnt in den 30er-Jahren. Da wurde es als Teigwarenfabrik genutzt. Seit 1993 hat die Familie Pasquale übernommen. Zuerst wurde eine Art italienischer Verein betrieben, bis Vincenzo 2008 beschloss, die Lokalität in ein klassisches Restaurant umzubauen. Durch die Loft-Atmosphäre des ehemaligen Fabrikgebäudes kam er auf die Idee, die Worte Loft und Restaurant zu kombinieren, woraus sich der Name Loftorante ableitet. Mehrheitlich bieten sie diverse Meeresfische und Muscheln an, stets mit einem starken mediterranen Einfluss. Stammgast Heiner Diethelm kennt das Lokal bereits seit über zehn Jahren. Früher war er Hauswart im Loftorante und baute so ein gutes Verhältnis zur Familie Pasquale auf.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Freizeit</category>
+    <category lang="en">Kochen</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-ch-dynamic.horizon.tv/linear_images/128918982.p.f304ad267aae1894cf4e326c0a6f9d9711595902.jpg" />
+  </programme>
+  <programme start="20190815164000 +0000" stop="20190815170000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Glanz &amp; Gloria</title>
+    <sub-title lang="en">People Magazin</sub-title>
+    <desc lang="en">Er brachte den Citytrain nach Vaduz in der Mission, den ausländischen Gästen eine komfortable Touristenattraktion zu bieten. Der Plan ging auf. Heute chauffiert Daniel Real bis zu 600 Touristen täglich durch die kleine Hauptstadt des Fürstentums.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Freizeit</category>
+    <category lang="en">Lifestyle</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp27-images-ch-dynamic.horizon.tv/linear_images/38173932.p.ae4e0c6af0bbee09aef6b0d437439ae60d906b3b.jpg" />
+  </programme>
+  <programme start="20190815170000 +0000" stop="20190815172500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Schweiz aktuell</title>
+    <desc lang="en">Tagesaktuelle Ereignisse aus den Regionen, aktuelle Vorgänge im politischen, wirtschaftlichen, kulturellen, sozialen und gesellschaftspolitischen Bereich. Priorität haben Themen, die über die Region hinaus von Interesse sind, exemplarischen Charakter haben. 'Schweiz aktuell' pflegt die verschiedensten Formen: Newsbeiträge, Kurznachrichten, Reportagen, Live-Schaltungen. Mehrmals wöchentlich schaltet 'Schweiz aktuell' live zu seinen Reporterinnen und Reportern vor Ort.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-ch-dynamic.horizon.tv/linear_images/38050332.p.174e01633424aa577ff916d35245419396cd8150.jpg" />
+  </programme>
+  <programme start="20190815172500 +0000" stop="20190815173000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">SRF Börse</title>
+    <desc lang="en">'SRF Börse' berichtet über die täglichen Entwicklungen an der Schweizer Börse. Sie beobachtet und analysiert Trends und Perspektiven und holt dazu die Meinung von Konzernchefs und anderen wichtigen Entscheidungsträgern der Wirtschaft ein.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-ch-dynamic.horizon.tv/linear_images/48652829.p.855f7b0ea760cd9b8ec79b61b4791d5f6acafbd4.jpg" />
+  </programme>
+  <programme start="20190815173000 +0000" stop="20190815175500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Tagesschau</title>
+    <desc lang="en">Die 'Tagesschau' gibt einem breiten Publikum einen Überblick über die wichtigsten Ereignisse des Tages. Mit ihren vier täglichen Sendungen ist sie ein wichtiger Referenzpunkt in der öffentlichen Debatte. Politik, Wirtschaft, Kultur, Sport, Gesellschaft, Wissenschaft, Faits divers aus dem In- und Ausland. Die Spätausgabe am Sonntag enthält eine ausführliche Zusammenfassung des Sportgeschehens. Die 'Tagesschau' informiert über das Wichtigste vom Tag. Bei kontroversen Themen kommen die verschiedenen Standpunkte zu Wort. Die Zuschauerinnen und Zuschauer sollen sich aufgrund der gelieferten Fakten selbst eine Meinung bilden. Die 'Tagesschau' wird vom Publikum als seriös und glaubwürdig betrachtet.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-ch-dynamic.horizon.tv/linear_images/38052023.p.1f3911d93029fb5dd82da28228d18cabc523c337.jpg" />
+  </programme>
+  <programme start="20190815175500 +0000" stop="20190815180500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Meteo</title>
+    <desc lang="en">Das Wetter in der Schweiz und in Europa. Täglich sendet das Team Wetterberichte, Prognosen, fachliche Hintergrundinfos, Vorsichtsmeldungen und Warnungen, mit Gebärdensprache.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Wetter</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-ch-dynamic.horizon.tv/linear_images/38172631.p.a33dce10daa84404cacd8e7935f046a83150f8eb.jpg" />
+  </programme>
+  <programme start="20190815180500 +0000" stop="20190815195000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Donnschtig-Jass</title>
+    <sub-title lang="en">aus Balsthal oder Grenchen SO</sub-title>
+    <desc lang="en">Zu Gast in der letzten Sendung des Sommers sind 'Meteo'-Moderatorin Sandra Boner, die Büetzer Buebe Gölä und Trauffer sowie die Musiklegende Peter Reber. Der 'Donnschtig-Jass' findet in Balsthal oder Grenchen SO statt.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Unterhaltungsshow</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-ch-dynamic.horizon.tv/linear_images/44542851.p.9d259dac5b0a5b581694559799aaff1f9ac2228b.jpg" />
+  </programme>
+  <programme start="20190815195000 +0000" stop="20190815201500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">10vor10</title>
+    <desc lang="en">'10vor10' berichtet über die wichtigsten Themen des Tages und deren Hintergründe. Das Themenspektrum ist breit gefächert, der Aktualitätsbegriff weit gefasst. Eingeschlossen sind Politik, Wirtschaft, Wissenschaft, Kultur, Sport, Gesellschaft und Lifestyle. '10vor10' profiliert sich mit Reportagen, leistet Zusatzrecherchen und soll in der öffentlichen Debatte als Referenzpunkt dienen. Neben Berichten und Reportagen, Nachrichtenübersicht und Börsenzahlen werden auch Porträts und Livegespräche gezeigt.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp27-images-ch-dynamic.horizon.tv/linear_images/38050289.p.9c10766d8367be23da703893b4d11e42bd7dd3d0.jpg" />
+  </programme>
+  <programme start="20190815201500 +0000" stop="20190815202500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Meteo</title>
+    <desc lang="en">Das Wetter in der Schweiz und in Europa. Täglich sendet das Team Wetterberichte, Prognosen, fachliche Hintergrundinfos, Vorsichtsmeldungen und Warnungen, mit Gebärdensprache.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Wetter</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-ch-dynamic.horizon.tv/linear_images/38172631.p.a33dce10daa84404cacd8e7935f046a83150f8eb.jpg" />
+  </programme>
+  <programme start="20190815202500 +0000" stop="20190815210000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Sommerlacher</title>
+    <sub-title lang="en">Stefan Büsser - Querschnitt aus 'Au(r)a'</sub-title>
+    <desc lang="en">Im Jahre 2011 war Stefan Büsser mit seinem ersten Soloprogramm 'Der Büsser' unterwegs, zwei Jahre später folgte diesem sein zweiten Programm 'Au(r)a', mit dem er bis 2017 durch die Schweiz tourte. Büsser besticht durch sorgfältige Beobachtungen aus seinem und dem Alltag wildfremder Leute, die er witzig verpackt. Daneben hat er als 'Bachelor-Basher' längst Kultstatus erreicht, seine Follower in den sozialen Medien würden Hallen füllen. Mittlerweile ist er mit seinem dritten Programm 'Masterarbeit' unterwegs. In diesem Zusammenschnitt von 'Au(R)a' zeigt sich seine Beobachtungsgabe sehr gut. Weil er aufgrund seiner Krankheit jedes Jahr einen längeren Spitalaufenthalt auf sich nehmen muss, ist er mit den Abläufen dort sehr vertraut und weiss also ganz genau, worüber er sich lustig macht.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Show</category>
+    <category lang="en">Unterhaltungsshow</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-ch-dynamic.horizon.tv/linear_images/44405294.p.9ce3de8a17a7660505c2b244c909c3d68071c838.jpg" />
+  </programme>
+  <programme start="20190815210000 +0000" stop="20190815215000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">NZZ Format</title>
+    <sub-title lang="en">Wem gehört die Stadt? Der neue Klassenkampf ums Wohnen</sub-title>
+    <desc lang="en">In boomenden Metropolen wie München, London oder San Francisco herrscht akute Wohnungsnot. Diese ist ein Resultat mehrerer zeitgleich ablaufender Prozesse. Seit der Finanzkrise 2008 vertrauen Wohlhabende auf Grund und Boden als solide Geldanlage. In London und San Francisco hat die internationale Finanzelite ganze Stadtteile aufgekauft und damit einen aggressiven Verdrängungswettbewerb eingeleitet. Vor allem für die Mittelschicht wird es eng: Sie kann sich die Marktpreise oft nicht mehr leisten, verdient aber meist zu viel, um in den Genuss geförderter Wohnungen zu kommen. Das Resultat: Die Mittelschicht wird an den Rand der Städte oder ins Umland gedrängt. Doch zunehmend regt sich Widerstand: In München gründen sich immer mehr Bürgerbewegungen, die gegen die ständig steigenden Wohnungspreise ins Feld ziehen. Wem gehört die Stadt? Ein 'NZZ Format' über Immobilien als Lieblingsanlage, Wohnen als Grundrecht und die Stadt als Elitenprojekt.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Magazin</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-ch-dynamic.horizon.tv/linear_images/38051911.p.e94b833b4c1943d687f0ba539c750ab7d1f6ee7f.jpg" />
+  </programme>
+  <programme start="20190815215000 +0000" stop="20190815220000 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Newsflash</title>
+    <desc lang="en">Kurznachrichten.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-ch-dynamic.horizon.tv/linear_images/237379055.p.a060c7c192efffe3e91fe47cf92b0e882ea737f7.jpg" />
+  </programme>
+  <programme start="20190815220000 +0000" stop="20190815232500 +0000" channel="SRF 1 HD.deu">
+    <title lang="en">Love &amp; Friendship</title>
+    <desc lang="en">Drama. Um wilden Gerüchten in der feinen Gesellschaft aus dem Weg zu gehen, zieht die junge Witwe Lady Susan Vernon mit ihrer Tochter Frederica vorübergehend zu ihrem Schwager Charles Vernon. Dort beschließt sie, einen angesehenen Ehemann für sich und ihre Tochter zu finden, um finanziell abgesichert zu sein. Doch Frederica weigert sich, den einfältigen Sir James Martin zu heiraten und droht, die Intrigen der Mutter aufzudecken.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp11-images-ch-dynamic.horizon.tv/linear_images/226392032.p.3f4f0545316b750ef2ba8a150132d65cb57cdedf.jpg" />
+    <rating system="CH">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815003500 +0000" stop="20190815020500 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Dope</title>
+    <desc lang="en">Komödie. Malcolm ist ein intelligenter Schüler, der kurz vor seinem Abschluss steht. Er träumt davon, auf die Eliteuniversität Harvard zu gehen, doch angesichts seiner Herkunft dürfte das schwierig werden. Aufgewachsen ist er in einem Problembezirk in Inglewood, Kalifornien. Eines Abends besuchen Malcolm und seine besten Freunde Jib und Diggy eine Party, damit er sich an die hübsche Nakia ranmachen kann. Doch die Feier wird von dem Drogendealer Dom ausgerichtet und so nimmt das Geschehen seinen Lauf. Die Polizei taucht auf und führt eine Razzia durch. Währenddessen versteckt Dom Drogen in Malcolms Rucksack, der den Stoff daraufhin gewinnbringend veräußern muss, um sich nicht in Gefahr zu begeben. So beginnt für Malcolm und seine Freunde ein riskantes Unterfangen am Rande der Legalität, das weitreichende Folgen für ihr Leben haben wird.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Komödie</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp8-images-ch-dynamic.horizon.tv/linear_images/183054543.p.96144416f1a19cd3b795f2a2d51230254350b429.jpg" />
+    <rating system="CH">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20190815020500 +0000" stop="20190815025000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">McLeods Töchter</title>
+    <sub-title lang="en">Der Pferdeflüsterer</sub-title>
+    <desc lang="en">Alex lässt Jasmines Military-Pferd Juno von Perth nach Drover's Run transportieren. Zunächst reagiert Jasmin entsetzt, doch allmählich beginnt sie, sich dem Tier wieder anzunähern. Mit viel Geduld gelingt es Alex schließlich sogar, Jasmine dazuzubringen, sich wieder auf das Pferd zu setzen. Bei Stevie stoßen diese Trainingsstunden jedoch auf Missfallen, denn ihr ist nicht entgangen, dass Alex sich in Jasmine verliebt hat.(n)</desc>
+    <date>2004</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-ch-dynamic.horizon.tv/linear_images/15542122.p.d5e8f9e2005814d7c93d73e4e8b0881646ffdeed.jpg" />
+    <episode-num system="onscreen">S4 E30</episode-num>
+    <rating system="CH">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815025000 +0000" stop="20190815033000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Chicago Fire</title>
+    <sub-title lang="en">Zielscheiben</sub-title>
+    <desc lang="en">Casey und seine Feuerwehreinheit sind in Alarmbereitschaft, als ein gefährlicher Mann sich nach einem Feuerwehreinsatz auf einen Rachefeldzug begibt. Auch die Polizei muss eingreifen. Ein ehemaliger Kollege von Severides Vater begleitet das Team, seine Motive sind jedoch unklar. Unterdessen taucht Antonios Ex-Frau Laura auf und bereitet ihm und Sylvie Probleme.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ch-dynamic.horizon.tv/linear_images/228572560.p.00a688f10ac4d5a13c8404862152aaa03c21fd85.jpg" />
+    <episode-num system="onscreen">S5 E12</episode-num>
+    <rating system="CH">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815033000 +0000" stop="20190815065500 +0000" channel="SRF zwei HD.deu" />
+  <programme start="20190815065500 +0000" stop="20190815072000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Bondi Harvest - Guy Turlands australische Küche</title>
+    <sub-title lang="en">Hawaiianische Poke-Bowl</sub-title>
+    <desc lang="en">In der letzten Folge präsentiert Guy Turland eine Poke-Bowl. Der Fischsalat aus Hawaii gehört aktuell zu den Lieblingsgerichten des Kochs. Und dann wird es feierlich: Pünktlich zum Ende des Sommers wird Guys neues Kochbuch vorgestellt. Selbstverständlich feiert er dies mit einer Party und gutem Essen.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Freizeit</category>
+    <category lang="en">Kochen</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-ch-dynamic.horizon.tv/linear_images/329137492.p.5ba6cb0ba6230026e8bceefffa568816bbbaee44.jpg" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+  </programme>
+  <programme start="20190815072000 +0000" stop="20190815080500 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Yotam Ottolenghis orientalische Mittelmeerküche</title>
+    <sub-title lang="en">Israel</sub-title>
+    <desc lang="en">Kochshow. Der israelische Moderator Yotam Ottolenghi erkundet in dieser Folge in seinem Heimatland die Zusammenhänge zwischen mediterranen und orientalischen Esskulturen.(n)</desc>
+    <date>2012</date>
+    <category lang="en">Freizeit</category>
+    <category lang="en">Kochen</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-ch-dynamic.horizon.tv/linear_images/48010390.p.6322e35f8b73b16fdb1e96bffa8b6157e1d7d68b.jpg" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="CH">
+      <value>6</value>
+    </rating>
+  </programme>
+  <programme start="20190815080500 +0000" stop="20190815083000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Last Man Standing</title>
+    <sub-title lang="en">Eiskalte Nächte</sub-title>
+    <desc lang="en">Sitcom über den Macho Mike Baxter, der sich seit der Beförderung seiner Frau Vanessa verstärkt um die drei Töchter Kristin, Mandy und Eve kümmern muss. Vanessa erzählt in Eves Klasse von ihrer Arbeit. Ihr weht ein eisiger Wind entgegen, als klar wird, dass sie ihr Geld mit Fracking verdient. Aus Protest zieht Eve ins Zelt, das sie trotz Winterkälte in der Einfahrt der Baxters aufschlägt und wo sie ausharren will, bis ihre Mutter den Job gekündigt hat.(n)</desc>
+    <date>2012</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Komödie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-ch-dynamic.horizon.tv/linear_images/56710273.p.e5e384d44bc7be5a40ea0fd0a3607fa5ad12aed9.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="CH">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815083000 +0000" stop="20190815085000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Last Man Standing</title>
+    <sub-title lang="en">Fleisch oder nicht Fleisch</sub-title>
+    <desc lang="en">Sitcom über den Macho Mike Baxter, der sich seit der Beförderung seiner Frau Vanessa verstärkt um die drei Töchter Kristin, Mandy und Eve kümmern muss. Mike hat Enten geschossen und erklärt Boyd, dass Fleisch keineswegs von der Fleischfee kommt. Damit bringt er den Jungen gehörig durcheinander - erst recht als er auch noch das Sterben anspricht. Derweil droht Kyle seinen Job im Laden zu verlieren, weil sich bei ihm Ladendiebe frei bedienen.(n)</desc>
+    <date>2012</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Komödie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-ch-dynamic.horizon.tv/linear_images/56710269.p.a76494c3adf95ce02ec05d04b984869fa25bf7df.jpg" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="CH">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815085000 +0000" stop="20190815093500 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Kommissar Rex</title>
+    <sub-title lang="en">Hexen und andere Frauen</sub-title>
+    <desc lang="en">In einer leeren Fabrikhalle liegt die Leiche einer Frau, neben ihr eine weiße Feder und eine tote Maus. Zwei erste Tatverdächtige findet die Polizei in dem Antiquar Buchner und dem Lehrling Michael Prager. Dann taucht eine weitere Tote auf, die nach dem gleichen Muster ermordet wurde. Offenbar hat es Kommissar Hoffmann mit einem Serientäter zu tun.(n)</desc>
+    <date>2004</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Krimi</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-ch-dynamic.horizon.tv/linear_images/29812153.p.f0c7c081a3e3f4b79ce565a97efdfaa2c9b0835e.jpg" />
+    <episode-num system="onscreen">S9 E11</episode-num>
+    <rating system="CH">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815093500 +0000" stop="20190815102000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Tessa - Leben für die Liebe</title>
+    <desc lang="en">Tessa lässt sich von Nadine zum Ausgehen überreden. Aber dann scheint es doch noch ein schöner Abend für die beiden Cousinen zu werden. Arno, ein charmanter junger Mann, gesellt sich zu ihnen. Mia lehnt Jennys Friedensangebot ab, da sie immer noch wütend ist, dass Jenny Patricks Adresse an Tamara verraten hat.(n)</desc>
+    <date>2006</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-ch-dynamic.horizon.tv/linear_images/34689474.p.4270b666b508a607cb9b19e1cf756f5c6a17197c.jpg" />
+    <episode-num system="onscreen">E51</episode-num>
+  </programme>
+  <programme start="20190815102000 +0000" stop="20190815110500 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Tessa - Leben für die Liebe</title>
+    <desc lang="en">Tessa bemerkt, wie Felix Arnos Abschiedskuss mitansehen muss. Felix ist so verletzt, dass er in seiner Eifersucht versucht, Tessa für Nadines Schwächeanfall verantwortlich zu machen. Tamara setzt alles daran, Carolin für ihre dubiosen Umbaupläne in der Marklandklinik zu gewinnen.(n)</desc>
+    <date>2005</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp8-images-ch-dynamic.horizon.tv/linear_images/34689474.p.4270b666b508a607cb9b19e1cf756f5c6a17197c.jpg" />
+    <episode-num system="onscreen">E52</episode-num>
+  </programme>
+  <programme start="20190815110500 +0000" stop="20190815113000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Last Man Standing</title>
+    <sub-title lang="en">Der kleine Trommler</sub-title>
+    <desc lang="en">Sitcom über den Macho Mike Baxter, der sich seit der Beförderung seiner Frau Vanessa verstärkt um die drei Töchter Kristin, Mandy und Eve kümmern muss. Vanessa ächzt unter dem Stress der Adventsvorbereitungen, da hat Mike die rettende Idee: Geschickt eingefädelt sollte es gelingen, alle ihre Töchter zu Weihnachten anderswo unterzubringen, um die Stille Nacht zu genießen. Die Umsetzung des Plans ringt Mike sein ganzes diplomatisches Geschick ab.(n)</desc>
+    <date>2012</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Komödie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-ch-dynamic.horizon.tv/linear_images/58034478.p.6a61b267100afced68c56541e0c81f3441f125d9.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CH">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815113000 +0000" stop="20190815115000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Last Man Standing</title>
+    <sub-title lang="en">Politisch unkorrekt</sub-title>
+    <desc lang="en">Sitcom über den Macho Mike Baxter, der sich seit der Beförderung seiner Frau Vanessa verstärkt um die drei Töchter Kristin, Mandy und Eve kümmern muss. Mike ist baff, weil die brave Eve in der Schule einen Verweis wegen Mobbing erhalten hat. Noch unglaublicher findet er die Hysterie der Schulleitung mit deren Flugblättern zum Thema erlaubte und unerwünschte Worten. Kristin ärgert sich, weil Ryan ein Motorrad gekauft hat - bis sie die ganze Wahrheit kennt.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Komödie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-ch-dynamic.horizon.tv/linear_images/58135671.p.b5679f0f7adf1877844b7b570e721bcbdb55af81.jpg" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="CH">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815115000 +0000" stop="20190815123500 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Parenthood</title>
+    <sub-title lang="en">Ein Herz kann man reparieren</sub-title>
+    <desc lang="en">Camille und die Kinder warten angespannt auf neue Informationen zu Zeeks Gesundheitszustand. Amber trifft endlich eine Entscheidung und Drew versucht, Ruby näher kennenzulernen. Während sich Julia und Joel mit ihrer Beziehung beschäftigen müssen, sind im Luncheonette schlechte Nachrichten eingetrudelt. Adam macht sich Sorgen und der emotional angeschlagene Crosby sucht nach einer Lösung.(n)</desc>
+    <date>2014</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-ch-dynamic.horizon.tv/linear_images/146490001.p.1840576151d89c475033e4c0a22a592c038161d3.jpg" />
+    <episode-num system="onscreen">S6 E3</episode-num>
+    <rating system="CH">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815123500 +0000" stop="20190815131500 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">McLeods Töchter</title>
+    <sub-title lang="en">Ein schwerer Schlag</sub-title>
+    <desc lang="en">Nicks frühere Affäre Sally taucht mit einer unangenehmen Überraschung auf Drover's Run auf: Sie ist hochschwanger. Während Nick sich nach anfänglichem Entsetzen der Situation stellt, ist Tess vollkommen verzweifelt. Vor allem die Tatsache, dass Harry der werdenden Mutter anbietet, bei ihm auf Killarney zu wohnen, macht Tess schwer zu schaffen. Auch Stevie erwartet eine Überraschung: Nachdem Kane monatelang wie vom Erdboden verschwunden war, kehrt er aus heiterem Himmel wieder zurück.(n)</desc>
+    <date>2004</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-ch-dynamic.horizon.tv/linear_images/15542122.p.d5e8f9e2005814d7c93d73e4e8b0881646ffdeed.jpg" />
+    <episode-num system="onscreen">S4 E31</episode-num>
+    <rating system="CH">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815131500 +0000" stop="20190815140000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Chicago Fire</title>
+    <sub-title lang="en">Blossgestellt</sub-title>
+    <desc lang="en">Als die Einheit von Revier 51 an eine kritische Unfallstelle gelangt, trifft Chief Boden eine rasche Entscheidung, die einen Kompetenzstreit auslöst. Er hat durch sein Handeln die Autorität des höherrangigen Chief Anderson untergraben, dessen Revier als erstes auf den eingehenden Notruf reagiert hatte. Währenddessen muss Severide eine schwierige persönliche Entscheidung fällen und Herrmann verrichtet eine gute Tat. Brett versucht ihren Lebenswandel zu verändern.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Action</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-ch-dynamic.horizon.tv/linear_images/228572560.p.00a688f10ac4d5a13c8404862152aaa03c21fd85.jpg" />
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <rating system="CH">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815140000 +0000" stop="20190815145000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Heiter bis tödlich - Alles Klara</title>
+    <sub-title lang="en">Das Opfer vom Regenstein</sub-title>
+    <desc lang="en">Monique Wollenweber, ein junges Mitglied einer Gothic-Clique, taucht bei Klara Degen im Polizeirevier auf. Monique ist verzweifelt, denn ihr Freund Andi Vollmer ist am Morgen nicht zu seiner Prüfung an der Berufsschule erschienen. Währenddessen sind Hauptkommissar Paul Kleinert und die Kollegen bereits mitten in einem Einsatz und stehen am Fuß des Regenstein-Felsens. Ein Jugendlicher scheint beim Klettern an den Felsen abgestürzt zu sein. Bei dem Toten handelt es sich um Andi Vollmer! Kleinert geht zunächst von einem Unfall aus. Doch unweit der Felsen gibt es eine Falknerei, deren Vögel auch frei herumfliegen, und das Opfer hatte leichte Bissspuren im Gesicht. Der Falkner Hans Stemmer weist den Vorwurf von Kleinert jedoch entschieden zurück, dass einer seiner Vögel Schuld am Absturz Andis sein könnte. Als Kleinert bei den Eltern von Andi eintrifft, wird er überrascht: Andis Mutter ist keine Unbekannte. Anna Vollmer war eine Jugendliebe von Kleinert.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Krimi</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-ch-dynamic.horizon.tv/linear_images/101647375.p.e83faa790437cc69fb76830ee43132c3ed3bf711.jpg" />
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20190815145000 +0000" stop="20190815154000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Heiter bis tödlich - Alles Klara</title>
+    <sub-title lang="en">Der Brockengeist</sub-title>
+    <desc lang="en">Klara Degen stößt bei ihrer morgendlichen Joggingrunde im Wald auf die Leiche eines Mannes. Die Kripo Harz unter Hauptkommissar Kleinert nimmt umgehend die Ermittlungen auf. Der Tote, Christian Gurris, Besitzer eines Hotels in der Gegend, ist nach ersten Untersuchungen durch Dr. Münster an einem Herzinfarkt gestorben. Doch Klara fällt das angstverzerrte Gesicht des Toten auf. Da Klara mit weinenden Witwen besser umgehen kann als ihr Chef, nimmt dieser sie mit zur Witwe des Opfers, Ester Gurris. Sie reagiert zutiefst betroffen und berichtet von einem früheren Herzinfarkt. Aber ihr Mann sei gut auf seine Medikamente eingestellt gewesen. Ester Gurris, eine mehr oder weniger bekannte Provinz-Schauspielerin mit leicht exzentrischen Zügen, hat am Abend des Todes im Hotel des Gatten, das seit einiger Zeit von Gurris' Sohn Jan geleitet wird, in einem Krimi-Dinner mitgewirkt, hat also ein Alibi. Doch Klara spürt, dass mit dieser Frau etwas nicht stimmt ...(n)</desc>
+    <date>2013</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Krimi</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-ch-dynamic.horizon.tv/linear_images/102655752.p.29cc27e87562ea3ad9ac7daf658af9a88ab1ad92.jpg" />
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20190815154000 +0000" stop="20190815154500 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">G&amp;G Peopleflash</title>
+    <sub-title lang="en">News aus der Welt der Prominenz</sub-title>
+    <desc lang="en">Nachrichten aus der Welt der Prominenz.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-ch-dynamic.horizon.tv/linear_images/260967669.p.8005b3425542a54ea2f7a5cfd6cd48fa81a88309.jpg" />
+  </programme>
+  <programme start="20190815154500 +0000" stop="20190815163500 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Kommissar Rex</title>
+    <sub-title lang="en">Ein Toter und ein Baby</sub-title>
+    <desc lang="en">Thomas und die minderjährige Lisa sind ein heimliches Liebespaar. Darum weiß auch niemand, dass Lisa schwanger ist. Auf einer Party von Thomas' Freund Manuel verschwindet das Paar spurlos. Kommissar Hoffmann ist überzeugt, dass nur einer der Partygäste als Täter in Frage kommt. Rex findet am Tatort den nötigen Beweis.(n)</desc>
+    <date>1995</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Krimi</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-ch-dynamic.horizon.tv/linear_images/29812153.p.f0c7c081a3e3f4b79ce565a97efdfaa2c9b0835e.jpg" />
+    <episode-num system="onscreen">S9 E12</episode-num>
+    <rating system="CH">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815163500 +0000" stop="20190815185000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Fussball: Europa League</title>
+    <desc lang="en">Live-Übertragung des Rückspiels in der 3. Qualifikationsrunde Spartak Moskau - Thun aus Moskau.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Fussball</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-ch-dynamic.horizon.tv/linear_images/321935567.p.94df2c0f3c50bd5e97e81ac1f79346c84027b2cf.jpg" />
+    <episode-num system="onscreen">S2019 </episode-num>
+  </programme>
+  <programme start="20190815185000 +0000" stop="20190815211500 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Fussball: Europa League</title>
+    <desc lang="en">Live-Übertragung des Rückspiels in der 3. Qualifikationsrunde, Espanyol - Luzern aus Barcelona/ESP.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Fussball</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-ch-dynamic.horizon.tv/linear_images/321935567.p.94df2c0f3c50bd5e97e81ac1f79346c84027b2cf.jpg" />
+    <episode-num system="onscreen">S2019 </episode-num>
+  </programme>
+  <programme start="20190815211500 +0000" stop="20190815212000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">Newsflash</title>
+    <desc lang="en">Kurznachrichten.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-ch-dynamic.horizon.tv/linear_images/237379055.p.a060c7c192efffe3e91fe47cf92b0e882ea737f7.jpg" />
+  </programme>
+  <programme start="20190815212000 +0000" stop="20190815225000 +0000" channel="SRF zwei HD.deu">
+    <title lang="en">A History Of Violence</title>
+    <desc lang="en">Die Stalls sind eine Musterfamilie aus dem Mittleren Westen: Tom und Edie sind seit über 20 Jahren verheiratet, haben zwei Kinder. Eines Tages streckt Tom zwei Schwerverbrecher in seinem Restaurant nieder. Er wird zum Medienhelden und bekommt Besuch von Vertretern eines Verbrechersyndikats, die überzeugt sind, dass es sich bei ihm um einen Kompagnon aus der Vergangenheit handelt, mit dem es noch Rechnungen zu begleichen gibt.(n)</desc>
+    <date>2005</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp12-images-ch-dynamic.horizon.tv/linear_images/6136000.p.c53fde326b3bf74d582214c3f8cbcc7263d20b2d.jpg" />
+    <rating system="CH">
+      <value>18</value>
+    </rating>
+  </programme>
+</tv>

@@ -1,0 +1,233 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>D:\xiaomi\epg\merged\xmltv.pl.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>0</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671274__https://wp21-images-pl-dynamic.horizon.tv/Logos/4850.f.8ef0b1817211a4effa60c09a9b342d4ff3c60aa9.png" xmltv_id="TVP 1 HD.pl">TVP 1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671328__https://wp25-images-pl-dynamic.horizon.tv/Logos/4852.f.cab4a4e7495624b12739d59cf83746d3e040ce55.png" xmltv_id="TVP 2 HD.pl">TVP 2 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_749346855088__https://wp13-images-pl-dynamic.horizon.tv/Logos/4833.f.0736b83ee70680e0b795b1ed900af7d5f8bfe462.png" xmltv_id="TVP Info.pl">TVP Info</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_684707879052__https://wp4-images-pl-dynamic.horizon.tv/Logos/8109.f.cf5b4e8578e725c0b632f42ddc1fbdde0d7460fd.png" xmltv_id="TV 4 HD.pl">TV 4 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671277__https://wp17-images-pl-dynamic.horizon.tv/Logos/4783.f.dad7377f541df8f98a1f63424ab53d20c31e2b99.png" xmltv_id="Polsat HD.pl">Polsat HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627513383332__https://wp17-images-pl-dynamic.horizon.tv/Logos/4861.f.b5ad35204c4eb59a8da2ba07ab5a282f2059b2b4.png" xmltv_id="Epoka Lodowcowa Mocne Uderzenie.pl">Epoka Lodowcowa Mocne Uderzenie</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671326__https://wp2-images-pl-dynamic.horizon.tv/Logos/4818.f.c0dde75988740247aeabdaef7da96f4776cf74b7.png" xmltv_id="TVN HD.pl">TVN HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671294__https://wp4-images-pl-dynamic.horizon.tv/Logos/7133.f.1447e03e6abb4511b1dbf1ce671d3e1c110715e8.png" xmltv_id="TV Puls HD.pl">TV Puls HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671293__https://wp9-images-pl-dynamic.horizon.tv/Logos/4827.f.2aa01c16e696a28bf8499a9c21085e6544f79487.png" xmltv_id="TVN7 HD.pl">TVN7 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599356__https://wp5-images-pl-dynamic.horizon.tv/Logos/4859.f.109067b09779c78874cc024abc5ccd5f262b49bc.png" xmltv_id="Interaktywna Galeria UPC.pl">Interaktywna Galeria UPC</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_726529574960__https://wp1-images-pl-dynamic.horizon.tv/Logos/4861.f.b5ad35204c4eb59a8da2ba07ab5a282f2059b2b4.png" xmltv_id="Iluzja 2.pl">Iluzja 2</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_749346855285" xmltv_id="Zamów usługi.pl">Zamów usługi</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671355__https://wp24-images-pl-dynamic.horizon.tv/Logos/4764.f.3164c65803159610202a3da1869bc90cb3f6444a.png" xmltv_id="Mango.pl">Mango</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671279__https://wp9-images-pl-dynamic.horizon.tv/Logos/4831.f.5427d44b35a6f333d1a5d3aebb38dc53444bd5c5.png" xmltv_id="TVP HD.pl">TVP HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671314__https://wp14-images-pl-dynamic.horizon.tv/Logos/4821.f.a4781f062bd9c82b82a1a1d7c2a506216be1a115.png" xmltv_id="TVN Style HD.pl">TVN Style HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599380__https://wp12-images-pl-dynamic.horizon.tv/Logos/7231.f.650a9ed16df4a2dbfb8272a6ad43d19094317211.png" xmltv_id="TVN Fabuła.pl">TVN Fabuła</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671300__https://wp21-images-pl-dynamic.horizon.tv/Logos/4823.f.4108309fb3409e490409a48c90a023a1c62200e6.png" xmltv_id="TVN Turbo HD.pl">TVN Turbo HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_772547622998__https://wp8-images-pl-dynamic.horizon.tv/Logos/4880.f.9b16453cfdbeb52f28995ebec68b198dd29409bd.png" xmltv_id="BBC Lifestyle HD.pl">BBC Lifestyle HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671331__https://wp25-images-pl-dynamic.horizon.tv/Logos/4878.f.2bd1a513cc36d1d48e81a6c93b2b6b4a49ea9fe2.png" xmltv_id="BBC HD.pl">BBC HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671342__https://wp19-images-pl-dynamic.horizon.tv/Logos/7221.f.2e07d4e79d81cef62098a0f0d1304d8ec14c6f72.png" xmltv_id="BBC Brit.pl">BBC Brit</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671388__https://wp2-images-pl-dynamic.horizon.tv/Logos/6991.f.b6e985a158b04241e1f8c0e2f16f6881270033e2.png" xmltv_id="ID HD.pl">ID HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671380__https://wp28-images-pl-dynamic.horizon.tv/Logos/4805.f.01c4d77623543c3c199ecbd7b091988ef9a4769e.png" xmltv_id="TLC HD.pl">TLC HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_684683815199__https://wp13-images-pl-dynamic.horizon.tv/Logos/8111.f.fac2847d52c3745fc3944d93eacb72b95e1b6002.png" xmltv_id="Polsat Cafe HD.pl">Polsat Cafe HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_644979750992__https://wp21-images-pl-dynamic.horizon.tv/Logos/7237.f.e80382db196f4d42e7863af4849436538f45b2eb.png" xmltv_id="Lifetime.pl">Lifetime</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671367__https://wp7-images-pl-dynamic.horizon.tv/Logos/4904.f.165d660d9c5d2a7a3e632ec54fdfe5a53586faa5.png" xmltv_id="CI Polsat.pl">CI Polsat</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671310__https://wp14-images-pl-dynamic.horizon.tv/Logos/8449.f.8569e7de462cada80e5b7d3317e5c147530926e8.png" xmltv_id="Super Polsat HD.pl">Super Polsat HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671341__https://wp21-images-pl-dynamic.horizon.tv/Logos/7132.f.f8b75966b24fc280cda7450714a5b2581952eaa2.png" xmltv_id="Tele5 HD.pl">Tele5 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671284__https://wp20-images-pl-dynamic.horizon.tv/Logos/4697.f.688d6ec67b94d8d1910128fc1b44faf6c2ef3df6.png" xmltv_id="Fashion TV HD.pl">Fashion TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_726529574969__https://wp19-images-pl-dynamic.horizon.tv/Logos/4895.f.5d8b8e213aa49d1d4c61533c272446eb9f1e02df.png" xmltv_id="CBS Drama.pl">CBS Drama</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627513383331__https://wp24-images-pl-dynamic.horizon.tv/Logos/4861.f.b5ad35204c4eb59a8da2ba07ab5a282f2059b2b4.png" xmltv_id="BGF Bardzo Fajny Gigant.pl">BGF Bardzo Fajny Gigant</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599375__https://wp22-images-pl-dynamic.horizon.tv/Logos/4730.f.05cc850d815886f671e25e2f019a2959254d6a78.png" xmltv_id="DOMO HD.pl">DOMO HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671313__https://wp27-images-pl-dynamic.horizon.tv/Logos/4762.f.c76a30f33276d820d0590220667fbe2c241567c7.png" xmltv_id="kuchnia HD.pl">kuchnia HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_641553447082__https://wp6-images-pl-dynamic.horizon.tv/Logos/7242.f.d5d7f25b39aa79fb44b5d53907be5237f970f2d3.png" xmltv_id="Polsat Food Network.pl">Polsat Food Network</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_684707367370__https://wp22-images-pl-dynamic.horizon.tv/Logos/8110.f.d038b191012e35d74d89c5677a6eecaad40d78e0.png" xmltv_id="Polsat 2 HD.pl">Polsat 2 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_677141031332__https://wp19-images-pl-dynamic.horizon.tv/Logos/7250.f.0f6f91e674f400a4b1079ae8251dd5076f330c4f.png" xmltv_id="Puls 2 HD.pl">Puls 2 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671371__https://wp19-images-pl-dynamic.horizon.tv/Logos/8282.f.fa8ab0aa75e535d1a4ea1db77cdd1312c62c0d9f.png" xmltv_id="8 TV HD.pl">8 TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_758533671265__https://wp23-images-pl-dynamic.horizon.tv/Logos/8430.f.ae39c8b9dd2a9a47c5c74ac60988606eadcf02e4.png" xmltv_id="NOWA TV HD.pl">NOWA TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671334__https://wp20-images-pl-dynamic.horizon.tv/Logos/4846.f.8bde99c11b4fdbabb621857fdc90ed31f521737d.png" xmltv_id="TVP Rozrywka.pl">TVP Rozrywka</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671325__https://wp11-images-pl-dynamic.horizon.tv/Logos/4815.f.25c165f1b23cdacb488481e54f3a91f391e00415.png" xmltv_id="TV 6 HD.pl">TV 6 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_758533671267__https://wp10-images-pl-dynamic.horizon.tv/Logos/8424.f.128967d5422377adedc0ffcf5572350280c5919f.png" xmltv_id="Zoom TV HD.pl">Zoom TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_762128935309__https://wp10-images-pl-dynamic.horizon.tv/Logos/8440.f.25a595ec92f2aff426605e138d18c75eb9901245.png" xmltv_id="Metro HD.pl">Metro HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_762128935301__https://wp14-images-pl-dynamic.horizon.tv/Logos/8441.f.b5d187d5077b5fdb57b09641f2ab9b58076158b2.png" xmltv_id="WP HD.pl">WP HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671335__https://wp9-images-pl-dynamic.horizon.tv/Logos/4854.f.2ed64c81292ba3c61469e566e4c09369f89b89a3.png" xmltv_id="TVR.pl">TVR</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671359__https://wp4-images-pl-dynamic.horizon.tv/Logos/4865.f.a621ff64c72ecea6dda41cf42d1ea7cde3fc5923.png" xmltv_id="ATM Rozrywka.pl">ATM Rozrywka</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_355617831152__https://wp2-images-pl-dynamic.horizon.tv/Logos/4829.f.38eddf789c82e5a6b093479e5c12ad3a101de84c.png" xmltv_id="TVP 3 Gdańsk.pl">TVP 3 Gdańsk</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_355617831153__https://wp11-images-pl-dynamic.horizon.tv/Logos/4834.f.6e3c14da6d197aba605b35958489888b4656017b.png" xmltv_id="TVP 3 Katowice.pl">TVP 3 Katowice</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_355617831157__https://wp9-images-pl-dynamic.horizon.tv/Logos/4843.f.cd3ec3dd35b0df7b63366571ef2ecf129bba22b1.png" xmltv_id="TVP 3 Wrocław.pl">TVP 3 Wrocław</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_337090087185__https://wp26-images-pl-dynamic.horizon.tv/Logos/4842.f.58426146fb05548bec477c0c4fc4a8c48f9030de.png" xmltv_id="TVP 3 Szczecin.pl">TVP 3 Szczecin</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_337090087207__https://wp8-images-pl-dynamic.horizon.tv/Logos/4835.f.70a23e81b14d2560c4ab0ddafb8b608c8bbeb100.png" xmltv_id="TVP 3 Kielce.pl">TVP 3 Kielce</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_337090087209__https://wp24-images-pl-dynamic.horizon.tv/Logos/4837.f.fecca92600df1e8125bfadbcdfff8c1aaebd054b.png" xmltv_id="TVP 3 Lublin.pl">TVP 3 Lublin</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_337090087164__https://wp27-images-pl-dynamic.horizon.tv/Logos/4853.f.0f55584b9455262f3572a23e69d522aa460a2bf4.png" xmltv_id="TVP 3 Warszawa.pl">TVP 3 Warszawa</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_337090087204__https://wp8-images-pl-dynamic.horizon.tv/Logos/4830.f.fd824cf2e18008cfa5211f24164683656edd861f.png" xmltv_id="TVP 3 Gorzów Wlkp.pl">TVP 3 Gorzów Wlkp</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_337090087183__https://wp1-images-pl-dynamic.horizon.tv/Logos/4839.f.564d345a1640af93e2643d89e59ac52ce8589172.png" xmltv_id="TVP 3 Opole.pl">TVP 3 Opole</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_337090087179__https://wp23-images-pl-dynamic.horizon.tv/Logos/4828.f.9b643d643e72cb0f3df9bc9fd44449ddb2569e33.png" xmltv_id="TVP 3 Bydgoszcz.pl">TVP 3 Bydgoszcz</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671387__https://wp6-images-pl-dynamic.horizon.tv/Logos/4957.f.53b8d4b6da6e71fda21594c098dab90fabc467cd.png" xmltv_id="Polsat News HD.pl">Polsat News HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627513383328__https://wp14-images-pl-dynamic.horizon.tv/Logos/4861.f.b5ad35204c4eb59a8da2ba07ab5a282f2059b2b4.png" xmltv_id="Boss.pl">Boss</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671382__https://wp3-images-pl-dynamic.horizon.tv/Logos/4825.f.de74c8a18c2edb5fceaf930395f5dbe3d3d5c5f6.png" xmltv_id="TVN24 HD.pl">TVN24 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599382__https://wp8-images-pl-dynamic.horizon.tv/Logos/4780.f.fdc3991996dad3d1cba3a0b9d621169b1b12be53.png" xmltv_id="Polsat News 2.pl">Polsat News 2</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671381__https://wp1-images-pl-dynamic.horizon.tv/Logos/4817.f.c21828d5b6afcb9d8264e092d8c3ec1c81f565bd.png" xmltv_id="TVN24 BiS.pl">TVN24 BiS</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_758533671263__https://wp15-images-pl-dynamic.horizon.tv/Logos/4808.f.63743e3df726b4e853b84f6f37cb2ffd5eea5656.png" xmltv_id="TTV HD.pl">TTV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_726529574963__https://wp27-images-pl-dynamic.horizon.tv/Logos/4819.f.ff452b71a54e45004b8e2b5ef85004c8f8ecae8f.png" xmltv_id="HGTV.pl">HGTV</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671330__https://wp10-images-pl-dynamic.horizon.tv/Logos/4947.f.81306980f6b7d74f3a2e7b125a1824e7f3b6cb54.png" xmltv_id="TV Republika.pl">TV Republika</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599374__https://wp24-images-pl-dynamic.horizon.tv/Logos/4799.f.fde5f3de3d9f53b568f7eda4eb6b58a93a7302d1.png" xmltv_id="Superstacja HD.pl">Superstacja HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671282__https://wp21-images-pl-dynamic.horizon.tv/Logos/2038.f.22796f88e080dc0653b5560ccf7c23d353e86195.png" xmltv_id="euronews.pl">euronews</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_726529574966__https://wp8-images-pl-dynamic.horizon.tv/Logos/0011.f.7ada30d4ef54358fefe3095d1d98061b554f51dd.png" xmltv_id="BBC World News.pl">BBC World News</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599387__https://wp15-images-pl-dynamic.horizon.tv/Logos/2009.f.23905ec739b46765ddd6d6fe2e079e837e84a694.png" xmltv_id="Bloomberg.pl">Bloomberg</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671344__https://wp20-images-pl-dynamic.horizon.tv/Logos/1166.f.cf4dddb07c70abe8829571c1e9d61faef1104814.png" xmltv_id="CNN.pl">CNN</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_355617831155__https://wp6-images-pl-dynamic.horizon.tv/Logos/4836.f.67e9228e8cb7fa8880d0f5a80e3f564e8cd6cdf4.png" xmltv_id="TVP 3 Kraków.pl">TVP 3 Kraków</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671278__https://wp23-images-pl-dynamic.horizon.tv/Logos/4856.f.311ebad7dac97df5b51ea170fcad80d9d9d84915.png" xmltv_id="TVS HD.pl">TVS HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671307__https://wp8-images-pl-dynamic.horizon.tv/Logos/4845.f.ede4ebeb02ddd6454098a91b7f76ef1495e6b1d8.png" xmltv_id="TVP Polonia.pl">TVP Polonia</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_802543655379__https://wp6-images-pl-dynamic.horizon.tv/Logos/8468.f.6645b5325f680d48249e6ffe7fbd54ccf4006fb0.png" xmltv_id="NTL Radomsko.pl">NTL Radomsko</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671377__https://wp19-images-pl-dynamic.horizon.tv/Logos/4772.f.f93d815ff1061d21b6f6d5ad31bfec575e823fcb.png" xmltv_id="National Geographic Channel HD.pl">National Geographic Channel HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671376__https://wp13-images-pl-dynamic.horizon.tv/Logos/4770.f.fad2a2074393cdffa528e232e41b758d8d75a25f.png" xmltv_id="Nat Geo Wild HD.pl">Nat Geo Wild HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_712296486985__https://wp12-images-pl-dynamic.horizon.tv/Logos/6987.f.81a18de1b7daa9ecf75f60ea47fdb0d9f30fdfee.png" xmltv_id="Polsat Viasat Nature.pl">Polsat Viasat Nature</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671369__https://wp14-images-pl-dynamic.horizon.tv/Logos/4721.f.d04c844566c739f564c469856085091bbd3a60bf.png" xmltv_id="Discovery Channel HD.pl">Discovery Channel HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671351__https://wp26-images-pl-dynamic.horizon.tv/Logos/4723.f.69806a2357b74a56deab10f120816fb774ad7d94.png" xmltv_id="Discovery Science.pl">Discovery Science</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671352__https://wp15-images-pl-dynamic.horizon.tv/Logos/4724.f.7cfdefc3a9a875b7991ea4ce7d389b022b775f92.png" xmltv_id="DTX.pl">DTX</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671357__https://wp11-images-pl-dynamic.horizon.tv/Logos/4866.f.9a88708db7f362063ada53a34cb9b002c236afd2.png" xmltv_id="Discovery Life.pl">Discovery Life</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671358__https://wp21-images-pl-dynamic.horizon.tv/Logos/4875.f.9fc093206645a7b0260239bf7181f40b7682092e.png" xmltv_id="Animal Planet HD.pl">Animal Planet HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671299__https://wp4-images-pl-dynamic.horizon.tv/Logos/7220.f.65e4f58d7242fb3cb7c75fdf266ace5b5af34d80.png" xmltv_id="BBC Earth.pl">BBC Earth</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599383__https://wp8-images-pl-dynamic.horizon.tv/Logos/4807.f.6c7f483efe70fa0c30352d5eeae54646a982d522.png" xmltv_id="Travel Channel HD.pl">Travel Channel HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599376__https://wp6-images-pl-dynamic.horizon.tv/Logos/4776.f.cdd7282a7967d0a6b438e2aa5e401c3571a7117f.png" xmltv_id="PLANETE HD.pl">PLANETE HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_644979750990__https://wp2-images-pl-dynamic.horizon.tv/Logos/7243.f.75c84ac1205d04100a521eb983b12a33086445e9.png" xmltv_id="ADVENTURE HD.pl">ADVENTURE HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599378__https://wp19-images-pl-dynamic.horizon.tv/Logos/7139.f.5e1002911918905f0f35da851b2ac6737288c7cd.png" xmltv_id="Fokus TV HD.pl">Fokus TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671305__https://wp23-images-pl-dynamic.horizon.tv/Logos/4844.f.05a731beccf4e4d1c6a5f337f66f823a74a4e3c9.png" xmltv_id="TVP Kultura.pl">TVP Kultura</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671340__https://wp10-images-pl-dynamic.horizon.tv/Logos/4832.f.86a5f5141ce689961e0ce21e125bc85044a6a801.png" xmltv_id="TVP Historia.pl">TVP Historia</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671373__https://wp3-images-pl-dynamic.horizon.tv/Logos/4754.f.f8ca3bf72bd17d4d1c662d6ede7e891329b120e2.png" xmltv_id="History HD.pl">History HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_681996327122__https://wp10-images-pl-dynamic.horizon.tv/Logos/6986.f.bc58dd8b214b791745126ed2273f0b26f55da471.png" xmltv_id="Polsat Viasat History HD.pl">Polsat Viasat History HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671370__https://wp24-images-pl-dynamic.horizon.tv/Logos/4722.f.e85634a02eb0e0d12418715274d84e3c25af2d80.png" xmltv_id="Discovery Historia.pl">Discovery Historia</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_762428455120__https://wp23-images-pl-dynamic.horizon.tv/Logos/4897.f.9ebd062f3c08bae2e0ca3b6aaa325f37057746b5.png" xmltv_id="CBS Reality.pl">CBS Reality</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_694585895034__https://wp6-images-pl-dynamic.horizon.tv/Logos/6985.f.4b2f008da5e859f985fe28520db651b49e7ae9a2.png" xmltv_id="Polsat Viasat Explore HD.pl">Polsat Viasat Explore HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_712296487094__https://wp12-images-pl-dynamic.horizon.tv/Logos/8300.f.3417bf33acfe1445f180742b42ef839efdeceaa4.png" xmltv_id="Nat Geo People HD.pl">Nat Geo People HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_762128935304" xmltv_id="Strefa Filmowa.pl">Strefa Filmowa</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_726529574959__https://wp23-images-pl-dynamic.horizon.tv/Logos/4861.f.b5ad35204c4eb59a8da2ba07ab5a282f2059b2b4.png" xmltv_id="MY PRIME  Filmy i Seriale.pl">MY PRIME  Filmy i Seriale</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671319__https://wp25-images-pl-dynamic.horizon.tv/Logos/506.f.f524f2e021d4719ba44097f64fdbeff8976b6f5b.png" xmltv_id="CANAL.pl">CANAL</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599360__https://wp22-images-pl-dynamic.horizon.tv/Logos/4885.f.d3f659ff87c334abff7dab484b34060fce9fd9aa.png" xmltv_id="CANAL 1FAMILY2.pl">CANAL 1FAMILY2</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671303__https://wp27-images-pl-dynamic.horizon.tv/Logos/4889.f.6d22ebe6786e3956e12930bb4dcb2929f4c5dab6.png" xmltv_id="CANAL FILM.pl">CANAL FILM</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671362__https://wp20-images-pl-dynamic.horizon.tv/Logos/4888.f.016e376bfcaff1b492130f5e92c380882e9f0a02.png" xmltv_id="CANAL SERIALEFILM2.pl">CANAL SERIALEFILM2</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671361__https://wp14-images-pl-dynamic.horizon.tv/Logos/4886.f.fff16fea52809760e2c0284c35a4ebd1e9b248d8.png" xmltv_id="CANAL FAMILY.pl">CANAL FAMILY</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627513383342__https://wp1-images-pl-dynamic.horizon.tv/Logos/7233.f.c348bc7ba13df7c619fe0c6eb3554e0e5a3b1b1e.png" xmltv_id="CANAL DISCOVERY.pl">CANAL DISCOVERY</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671363__https://wp18-images-pl-dynamic.horizon.tv/Logos/4892.f.6b92e17ff4766fb9e87142a737ce15f986a13da4.png" xmltv_id="CANAL SPORT.pl">CANAL SPORT</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627513383343__https://wp2-images-pl-dynamic.horizon.tv/Logos/7234.f.0c5eda9e8b8bf6150ee6d7aab4dad806633b2956.png" xmltv_id="CANAL SPORT 2.pl">CANAL SPORT 2</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671333__https://wp9-images-pl-dynamic.horizon.tv/Logos/4750.f.94d809a53618cea811cc617ac4b43ae2d22fca88.png" xmltv_id="HBO HD.pl">HBO HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599369__https://wp22-images-pl-dynamic.horizon.tv/Logos/4752.f.c8db70e708b7a1778b4b237703ca9969fc39d9cd.png" xmltv_id="HBO2 HD.pl">HBO2 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671308__https://wp1-images-pl-dynamic.horizon.tv/Logos/4749.f.05e21579848e6da64f7d392e6e10543670c7b34e.png" xmltv_id="HBO3 HD.pl">HBO3 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599359__https://wp22-images-pl-dynamic.horizon.tv/Logos/4899.f.868fc17990215d8c6971dde349d1217bdf0056ae.png" xmltv_id="Cinemax HD.pl">Cinemax HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599368__https://wp15-images-pl-dynamic.horizon.tv/Logos/4901.f.44c1ae791a77bcae1f3cd7ca354cd1e355614e1f.png" xmltv_id="Cinemax2 HD.pl">Cinemax2 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599358__https://wp4-images-pl-dynamic.horizon.tv/Logos/4739.f.69dae0228457b7d18f72b03b9186e6426f00c4cb.png" xmltv_id="KinoTV.pl">KinoTV</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671372__https://wp21-images-pl-dynamic.horizon.tv/Logos/4742.f.543d328897ba884002a4fa7866ef713fc7221f36.png" xmltv_id="FilmBox Extra HD.pl">FilmBox Extra HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599381__https://wp3-images-pl-dynamic.horizon.tv/Logos/4740.f.9b0925c6773e5ed26b86a8a8f3d10bb9b87c1969.png" xmltv_id="FilmBox Premium.pl">FilmBox Premium</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671296__https://wp28-images-pl-dynamic.horizon.tv/Logos/765864.f.9dbbe7db4c52248963af1344c38ac7e58c26d526.png" xmltv_id="FilmBox Family.pl">FilmBox Family</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671276__https://wp8-images-pl-dynamic.horizon.tv/Logos/7124.f.16d84576e66a5a365bec68bdb618409808120435.png" xmltv_id="Filmbox Action.pl">Filmbox Action</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671275__https://wp1-images-pl-dynamic.horizon.tv/Logos/7123.f.ad2d98f332547d7e63603eaac71251eca9ca1c95.png" xmltv_id="Filmbox Arthouse HD.pl">Filmbox Arthouse HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_726529574964__https://wp4-images-pl-dynamic.horizon.tv/Logos/4758.f.242e64db8df17602da9b6aec7e754e66ec26c254.png" xmltv_id="Kino Polska.pl">Kino Polska</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_678893095381__https://wp18-images-pl-dynamic.horizon.tv/Logos/6978.f.ea4d871fdd2d0bd60d951b8deee02339a9538f5c.png" xmltv_id="AXN HD.pl">AXN HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_677141031328__https://wp28-images-pl-dynamic.horizon.tv/Logos/6979.f.8114bcfed696c120032654834629df5ee8566bb3.png" xmltv_id="AXN Spin HD.pl">AXN Spin HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671336__https://wp22-images-pl-dynamic.horizon.tv/Logos/4869.f.1dc4ff288e2137fb31b62f5ae6b90751250f9bb3.png" xmltv_id="AXN White.pl">AXN White</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671301__https://wp12-images-pl-dynamic.horizon.tv/Logos/4870.f.e58f01fe937fb8313e19108a0dfc44c8049a05ab.png" xmltv_id="AXN Black.pl">AXN Black</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671280__https://wp15-images-pl-dynamic.horizon.tv/Logos/7120.f.8adffb12441bcdea4ee8ca27af9d786422ce0372.png" xmltv_id="Polsat Film HD.pl">Polsat Film HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599361__https://wp1-images-pl-dynamic.horizon.tv/Logos/4874.f.20294f930ad638f3fa40de29a82d196c3ef5721f.png" xmltv_id="ale kino HD.pl">ale kino HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_663456295101__https://wp23-images-pl-dynamic.horizon.tv/Logos/8096.f.b802313ada7accba60afb1b755cc82082bd82c1b.png" xmltv_id="Paramount HD.pl">Paramount HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599377__https://wp2-images-pl-dynamic.horizon.tv/Logos/8094.f.afc4624abf6cdf1b2b6c5dfb55427b9a8330031f.png" xmltv_id="Comedy Central HD.pl">Comedy Central HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671311__https://wp10-images-pl-dynamic.horizon.tv/Logos/4903.f.3b1f77b3914549c192f372305a28464fc19d78ef.png" xmltv_id="Comedy Central Family.pl">Comedy Central Family</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599373__https://wp25-images-pl-dynamic.horizon.tv/Logos/4800.f.dbc8d231aa51dbcd93dae468947866100467e78f.png" xmltv_id="TNT.pl">TNT</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671304__https://wp8-images-pl-dynamic.horizon.tv/Logos/4744.f.4a262ac1a6f9dfa2e03e497f189da0693a0e5391.png" xmltv_id="FOX HD.pl">FOX HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_726353447021__https://wp5-images-pl-dynamic.horizon.tv/Logos/4861.f.b5ad35204c4eb59a8da2ba07ab5a282f2059b2b4.png" xmltv_id="Rebeliant.pl">Rebeliant</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671321__https://wp23-images-pl-dynamic.horizon.tv/Logos/4746.f.600ee5b826c536147b125b86d24c05c9c83ba02e.png" xmltv_id="FOX Comedy HD.pl">FOX Comedy HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671364__https://wp13-images-pl-dynamic.horizon.tv/Logos/4894.f.0bbab57b5d8c75df133cdf9d73d24c3de9847375.png" xmltv_id="CBS Action.pl">CBS Action</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599362__https://wp15-images-pl-dynamic.horizon.tv/Logos/4896.f.c1c1b7c27591346ba8bed39fc0e7a872cba732e5.png" xmltv_id="CBS Europa HD.pl">CBS Europa HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671327__https://wp12-images-pl-dynamic.horizon.tv/Logos/4847.f.d30c04ad82b381b16f6e4bd27db7a18a7a223acd.png" xmltv_id="TVP Seriale.pl">TVP Seriale</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_678893607130__https://wp1-images-pl-dynamic.horizon.tv/Logos/6988.f.e0b524f25f7afe7d79cc2c5a3bbc8c5dbd188057.png" xmltv_id="Romance TV HD.pl">Romance TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671287__https://wp14-images-pl-dynamic.horizon.tv/Logos/4798.f.cd1c2c744841364bb20c60e818bb946ac2ed3473.png" xmltv_id="Sundance TV HD.pl">Sundance TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671315__https://wp11-images-pl-dynamic.horizon.tv/Logos/7138.f.9d0ae6229184d62765e4af803b0f7bdd88619f5c.png" xmltv_id="Stopklatka HD.pl">Stopklatka HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599367__https://wp9-images-pl-dynamic.horizon.tv/Logos/4948.f.e92ed795d1bb1612a84b8e4604f909636f57ddbe.png" xmltv_id="Polsat Romans.pl">Polsat Romans</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_762128935305" xmltv_id="Strefa Sportowa.pl">Strefa Sportowa</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627513383326__https://wp23-images-pl-dynamic.horizon.tv/Logos/4861.f.b5ad35204c4eb59a8da2ba07ab5a282f2059b2b4.png" xmltv_id="Dzień Niepodległości Odrodzenie.pl">Dzień Niepodległości Odrodzenie</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671316__https://wp10-images-pl-dynamic.horizon.tv/Logos/1252.f.0276d695fe017f4474a309ac5f30d6aa1d22a3a1.png" xmltv_id="Nautical Channel.pl">Nautical Channel</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599379__https://wp27-images-pl-dynamic.horizon.tv/Logos/0159.f.f3b4254a71b82b60f1001691a7bb086e09d44a24.png" xmltv_id="Ginx TV.pl">Ginx TV</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671288__https://wp18-images-pl-dynamic.horizon.tv/Logos/4949.f.6e0a173790dfb26b909c4ea9c6dfc5cf1a5a7765.png" xmltv_id="TVP Sport HD.pl">TVP Sport HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_664446503052__https://wp9-images-pl-dynamic.horizon.tv/Logos/6984.f.935c508e955967033c37c2c806a7ece0f29a9ede.png" xmltv_id="nSport HD.pl">nSport HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_700986407062__https://wp6-images-pl-dynamic.horizon.tv/Logos/8118.f.7368c60247faacebdb1ab56bf4e0c601a456e24a.png" xmltv_id="Eleven.pl">Eleven</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_700986919017__https://wp13-images-pl-dynamic.horizon.tv/Logos/8119.f.bc870e4f81e1c475d2391c41e8e24bd0b6c27e72.png" xmltv_id="Eleven Sports.pl">Eleven Sports</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_758533671268__https://wp11-images-pl-dynamic.horizon.tv/Logos/8431.f.ef789bad21d402d857762e8f12f51a69c04bbc9d.png" xmltv_id="Eleven Extra.pl">Eleven Extra</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671272__https://wp13-images-pl-dynamic.horizon.tv/Logos/4789.f.4d6922eb98b4584872d8f2ef4e455fb5d285e168.png" xmltv_id="Polsat Sport HD.pl">Polsat Sport HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671286__https://wp11-images-pl-dynamic.horizon.tv/Logos/4788.f.fc7140c3c1292091f268cc6ef440aac03bae923c.png" xmltv_id="Polsat Sport Extra HD.pl">Polsat Sport Extra HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_831195687396__https://wp4-images-pl-dynamic.horizon.tv/Logos/8735.f.8f5e9e287f3430ae621d11e19deeb5ddaf395c48.png" xmltv_id="Polsat Sport Fight HD.pl">Polsat Sport Fight HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_772548135316__https://wp28-images-pl-dynamic.horizon.tv/Logos/4957.f.56418f0f7bc9a573a8f7d3b4b6d1e8b88ff896f4.png" xmltv_id="Polsat Sport News HD.pl">Polsat Sport News HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_684684327159__https://wp13-images-pl-dynamic.horizon.tv/Logos/8112.f.c2533ef32a43235f95f2585fd0ff501587c6c03d.png" xmltv_id="Polsat Play HD.pl">Polsat Play HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671290__https://wp5-images-pl-dynamic.horizon.tv/Logos/4774.f.b4108ffd0b76263a738fd16ea4f17ad39e7d3f14.png" xmltv_id="Orange Sport.pl">Orange Sport</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599363__https://wp15-images-pl-dynamic.horizon.tv/Logos/4735.f.96b8ffb042e9f8173457807b0b43434c2a3a7017.png" xmltv_id="Eurosport 1 HD.pl">Eurosport 1 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599370__https://wp6-images-pl-dynamic.horizon.tv/Logos/4737.f.c9c31c86d6baca1923162ef0424ff825ea7a48f2.png" xmltv_id="Eurosport 2 HD.pl">Eurosport 2 HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_802543655443__https://wp14-images-pl-dynamic.horizon.tv/Logos/4796.f.95d8ed997406c2638286b25ce93051d6e9dceba8.png" xmltv_id="SportKlub HD.pl">SportKlub HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_712295975207__https://wp15-images-pl-dynamic.horizon.tv/Logos/8120.u.8e5565148b58cd2db5d41a1434bc0bb5a4d7d726.png" xmltv_id="FightKlub HD.pl">FightKlub HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671267__https://wp26-images-pl-dynamic.horizon.tv/Logos/765861.f.2459dead32e0984431b9cee5f87bf80ab0292cdc.png" xmltv_id="Extreme Sports Channel.pl">Extreme Sports Channel</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671283__https://wp13-images-pl-dynamic.horizon.tv/Logos/8121.f.396efcee28f023bd064ab77adc3476fe368b1767.png" xmltv_id="Motowizja HD.pl">Motowizja HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_808099879334__https://wp24-images-pl-dynamic.horizon.tv/Logos/8507.f.b5f508acdba85d1d2c46ee78e612ee72c554d8ba.png" xmltv_id="Golf Channel HD.pl">Golf Channel HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_762128935302__https://wp24-images-pl-dynamic.horizon.tv/Logos/4862.f.e2e7f77a064778b207f6c1a3e9f612bb156b77a3.png" xmltv_id="Strefa Dla Dzieci.pl">Strefa Dla Dzieci</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671329__https://wp20-images-pl-dynamic.horizon.tv/Logos/4958.f.0963730e7bc1ac94587b875e16fe69d771a28412.png" xmltv_id="TVP ABC.pl">TVP ABC</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_726529574965__https://wp21-images-pl-dynamic.horizon.tv/Logos/4757.f.d5f728028054810f5b72231a83f7dbebb4e662ab.png" xmltv_id="JimJam Polsat.pl">JimJam Polsat</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671360__https://wp13-images-pl-dynamic.horizon.tv/Logos/4877.f.f9651d0f66d38b4742b3be58ab4c9802abd9d196.png" xmltv_id="Baby First TV.pl">Baby First TV</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_677141031331__https://wp20-images-pl-dynamic.horizon.tv/Logos/6983.f.90abff59b6554d6275d375138d3d85d42d892e7e.png" xmltv_id="MiniMini HD.pl">MiniMini HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_663456295104__https://wp6-images-pl-dynamic.horizon.tv/Logos/8095.f.cc2014a7fc8c91eb5012bf333f86eaede03ee748.png" xmltv_id="Nick Jr.pl">Nick Jr</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671339__https://wp10-images-pl-dynamic.horizon.tv/Logos/4773.f.2335f1f890f9cb693a9e5c8f63e4418e0cbe7761.png" xmltv_id="Nickelodeon.pl">Nickelodeon</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_831195687393__https://wp18-images-pl-dynamic.horizon.tv/Logos/8734.f.0f3762295994eb097d790ae7ccec8ff686e2d0e9.png" xmltv_id="Nicktoons_HD.pl">Nicktoons_HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599364__https://wp27-images-pl-dynamic.horizon.tv/Logos/4893.f.21790e5e5656ecee2c5b9bddf5315cbb7942a631.png" xmltv_id="Cartoon Network.pl">Cartoon Network</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671312__https://wp7-images-pl-dynamic.horizon.tv/Logos/4725.f.0013baec98d1c7e8afac111178609762c3d5c370.png" xmltv_id="Disney Channel HD.pl">Disney Channel HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671320__https://wp17-images-pl-dynamic.horizon.tv/Logos/4727.f.598325d788e96b27355fe9770436f233cc991150.png" xmltv_id="Disney XD.pl">Disney XD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671332__https://wp23-images-pl-dynamic.horizon.tv/Logos/4726.f.0f27352f259d3bdffcdff9e91f4f28657030d150.png" xmltv_id="Disney Junior.pl">Disney Junior</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_726529574968__https://wp11-images-pl-dynamic.horizon.tv/Logos/4906.f.65417222387602e86e5ff036fb6156c9988896bf.png" xmltv_id="Da Vinci Learning.pl">Da Vinci Learning</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671318__https://wp28-images-pl-dynamic.horizon.tv/Logos/8746.f.558420337b1c9feab112465a9b5102355d17e9d9.png" xmltv_id="Boomerang.pl">Boomerang</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_677141031333__https://wp16-images-pl-dynamic.horizon.tv/Logos/4802.f.31715b92f703910c3180f2d426f8bd991944d5bb.png" xmltv_id="Teletoon HD.pl">Teletoon HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_725642791014__https://wp26-images-pl-dynamic.horizon.tv/Logos/8306.f.badccdfa20e5aee7650ab0800d46638d5465488f.png" xmltv_id="Top Kids HD.pl">Top Kids HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671390__https://wp4-images-pl-dynamic.horizon.tv/Logos/4873.f.d89f91d706f7a6864b8b8861b3d822ad1cbcb4e6.png" xmltv_id="4funtv.pl">4funtv</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599365__https://wp27-images-pl-dynamic.horizon.tv/Logos/4794.f.c58cc7fc4792aa1571c5b5e830743a0e1fb991e7.png" xmltv_id="4FUN GOLD HITS.pl">4FUN GOLD HITS</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671270__https://wp23-images-pl-dynamic.horizon.tv/Logos/4812.f.651b2a524e4bec9925d67e75120874a6bf2c498c.png" xmltv_id="4fun FitDance.pl">4fun FitDance</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_677142054999__https://wp8-images-pl-dynamic.horizon.tv/Logos/7251.f.4ca8f0dd8fa118e05e71bf518c58afaf6f2b2466.png" xmltv_id="STARSTV HD.pl">STARSTV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599385__https://wp19-images-pl-dynamic.horizon.tv/Logos/7211.f.d50690c4fa0cbe466c7f335c8589ecb35bf256fd.png" xmltv_id="VOX Music TV.pl">VOX Music TV</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671309__https://wp20-images-pl-dynamic.horizon.tv/Logos/4768.f.d1d28bc260e080a6ffe88a8437703d94b0f2d668.png" xmltv_id="MTV Polska.pl">MTV Polska</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671350__https://wp9-images-pl-dynamic.horizon.tv/Logos/757576.f.33e45f408fc99288113b736c826edffb0e697f0e.png" xmltv_id="MTV Live HD.pl">MTV Live HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671271__https://wp6-images-pl-dynamic.horizon.tv/Logos/7160.f.a2c1024e1009a87edd53cb0290d94c19e55a26ca.png" xmltv_id="MTV Rocks.pl">MTV Rocks</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671273__https://wp19-images-pl-dynamic.horizon.tv/Logos/7159.f.cea0f45bd58e4ddf6a3bff775e5ad3c7997688a6.png" xmltv_id="MTV Hits.pl">MTV Hits</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671292__https://wp8-images-pl-dynamic.horizon.tv/Logos/7158.f.419ad29fe751e1b7472051c313b54fa37f38219b.png" xmltv_id="MTV Dance.pl">MTV Dance</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671281__https://wp19-images-pl-dynamic.horizon.tv/Logos/4864.f.49fc03eb491b5850d64a7bb1c5bce7f976cb6f95.png" xmltv_id="VIVA Polska.pl">VIVA Polska</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671384__https://wp10-images-pl-dynamic.horizon.tv/Logos/4863.f.9f96e0fc502a285a45bfa27fcc5fa9e53edee231.png" xmltv_id="VH 1.pl">VH 1</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_731806247038__https://wp9-images-pl-dynamic.horizon.tv/Logos/8409.f.7aae673ff0a413153c9cb6a95de500ad9aa9e2ff.png" xmltv_id="NutaTV HD.pl">NutaTV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_749346855089__https://wp11-images-pl-dynamic.horizon.tv/Logos/8401.f.b5408b7a3fefc1f3361db20134d68722a622f853.png" xmltv_id="ESKA TV HD.pl">ESKA TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671389__https://wp24-images-pl-dynamic.horizon.tv/Logos/7137.f.3ecaeb4428db3b1680cb4bf4dbebafc461c80ce8.png" xmltv_id="MUZOTV.pl">MUZOTV</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599384__https://wp23-images-pl-dynamic.horizon.tv/Logos/7125.f.7d37adf857dfeb488193f7dbdd06dd75201c9202.png" xmltv_id="Disco Polo Music.pl">Disco Polo Music</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671378__https://wp20-images-pl-dynamic.horizon.tv/Logos/4777.f.987c8fda63c6d8de451606e8dcd0cbb0a354ee09.png" xmltv_id="Polo TV.pl">Polo TV</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_699267111449__https://wp4-images-pl-dynamic.horizon.tv/Logos/7249.f.c8c164e08346ac8a2bd65bbd339edc8087311e00.png" xmltv_id="Power TV HD.pl">Power TV HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671354__https://wp24-images-pl-dynamic.horizon.tv/Logos/4759.f.a535d8d10bb710385ae7e254e5e744451845b96b.png" xmltv_id="Kino Polska Muzyka.pl">Kino Polska Muzyka</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671324__https://wp10-images-pl-dynamic.horizon.tv/Logos/4765.f.ec1e59c5ff4ef45fd1b8c76ac18a950586beffd0.png" xmltv_id="Mezzo.pl">Mezzo</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671269__https://wp26-images-pl-dynamic.horizon.tv/Logos/4766.f.d42c54a90e6bd6cac3508c82292bb9504e318950.png" xmltv_id="Mezzo Live HD.pl">Mezzo Live HD</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599386__https://wp5-images-pl-dynamic.horizon.tv/Logos/3019.f.43493bcac3bfb85ca12e4f96aa020f36e72acd4b.png" xmltv_id="RTR Planeta.pl">RTR Planeta</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671349__https://wp14-images-pl-dynamic.horizon.tv/Logos/1182.f.40cd9ab66b5ac197c6ad307d07d07dce5b8cfd81.png" xmltv_id="Russia Today.pl">Russia Today</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671347__https://wp11-images-pl-dynamic.horizon.tv/Logos/4667.f.6168023a4c972ca2a2c3748038d3b4fb06e6e83e.png" xmltv_id="Deutsche Welle.pl">Deutsche Welle</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671346__https://wp14-images-pl-dynamic.horizon.tv/Logos/1202.f.b6c989cc7360d615958d378c799d41bb839698ff.png" xmltv_id="TV5Monde.pl">TV5Monde</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671348__https://wp18-images-pl-dynamic.horizon.tv/Logos/1140.f.a6228c3bf02576c0ebd7aed6ddcea4c313d47fa2.png" xmltv_id="France 24.pl">France 24</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671268__https://wp19-images-pl-dynamic.horizon.tv/Logos/4811.f.e71189cc1c1ca631ba158f332ac702c51b0bd706.png" xmltv_id="TV Trwam.pl">TV Trwam</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627522599357__https://wp4-images-pl-dynamic.horizon.tv/Logos/4778.f.e1a5a7ed82bd472b3455e6849096ebef38431f56.png" xmltv_id="POLONIA 1.pl">POLONIA 1</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671337__https://wp8-images-pl-dynamic.horizon.tv/Logos/4732.f.2da9182125fdbb6775bedd1851f9ab3f4370cf23.png" xmltv_id="ETV.pl">ETV</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_463255079327__https://wp24-images-pl-dynamic.horizon.tv/Logos/4756.f.abc91f7f74fffc5601e09c3878ec2f08743cbdc7.png" xmltv_id="TOTV.pl">TOTV</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671386__https://wp21-images-pl-dynamic.horizon.tv/Logos/4943.f.a476679639ece1dd29b504dcae24e7f37120fb61.png" xmltv_id="Hustler TV.pl">Hustler TV</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671306__https://wp5-images-pl-dynamic.horizon.tv/Logos/4945.f.dcd032aa8af7c67b18bbbad98cca9740d2530f8a.png" xmltv_id="Private TV.pl">Private TV</channel>
+    <channel update="i" site="horizon.tv" site_id="PL/pol_627525671343__https://wp10-images-pl-dynamic.horizon.tv/Logos/4944.f.71dc7a75cf09b7e1340a3b6705c30d69467b0262.png" xmltv_id="Brazzers TV Europe.pl">Brazzers TV Europe</channel>
+    <channel update="i" site="horizon.tv" site_id="IE/eng_753737255275__https://wp24-images-ie-dynamic.horizon.tv/ChannelLogos/02/RTE_One_HD.png" xmltv_id="RTE One HD.eng">RTE One HD</channel>
+
+
+
+
+</settings>

@@ -1,0 +1,2684 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Первый.ru">
+    <display-name lang="ru">Первый</display-name>
+    <icon src="https://tv.mail.ru/pic/channel_logo/32x32/b/44/097d3f3be9fc5af7e3cb7949784d0.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Россия 1.ru">
+    <display-name lang="ru">Россия 1</display-name>
+    <icon src="https://tv.mail.ru/pic/channel_logo/32x32/b/2a/05dc7f8683e110fbfc14a56154366.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="НТВ.ru">
+    <display-name lang="ru">НТВ</display-name>
+    <icon src="https://tv.mail.ru/pic/channel_logo/32x32/5/8a/43f5b61b86716541e479030cac975.png" />
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ТВ Центр.ru">
+    <display-name lang="ru">ТВ Центр</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Культура.ru">
+    <display-name lang="ru">Культура</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МАТЧ!.ru">
+    <display-name lang="ru">МАТЧ!</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="СТС.ru">
+    <display-name lang="ru">СТС</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="РЕН ТВ.ru">
+    <display-name lang="ru">РЕН ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ТНТ.ru">
+    <display-name lang="ru">ТНТ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Dомашний.ru">
+    <display-name lang="ru">Dомашний</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Че.ru">
+    <display-name lang="ru">Че</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ТВ-3.ru">
+    <display-name lang="ru">ТВ-3</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Звезда.ru">
+    <display-name lang="ru">Звезда</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="5 канал.ru">
+    <display-name lang="ru">5 канал</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Ю.ru">
+    <display-name lang="ru">Ю</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Пятница.ru">
+    <display-name lang="ru">Пятница</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Канал Disney.ru">
+    <display-name lang="ru">Канал Disney</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="2x2.ru">
+    <display-name lang="ru">2x2</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МИР.ru">
+    <display-name lang="ru">МИР</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Карусель.ru">
+    <display-name lang="ru">Карусель</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ТНТ4.ru">
+    <display-name lang="ru">ТНТ4</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Супер.ru">
+    <display-name lang="ru">Супер</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Общественное телевидение России.ru">
+    <display-name lang="ru">Общественное телевидение России</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Спас ТВ.ru">
+    <display-name lang="ru">Спас ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МИР PREMIUM.ru">
+    <display-name lang="ru">МИР PREMIUM</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Россия 24.ru">
+    <display-name lang="ru">Россия 24</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Москва-24.ru">
+    <display-name lang="ru">Москва-24</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Москва. Доверие.ru">
+    <display-name lang="ru">Москва. Доверие</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Семья.ru">
+    <display-name lang="ru">Семья</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ВКТ.ru">
+    <display-name lang="ru">ВКТ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Первый Мытищинский.ru">
+    <display-name lang="ru">Первый Мытищинский</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Башкортостан 24.ru">
+    <display-name lang="ru">Башкортостан 24</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Балашиха ТВ.ru">
+    <display-name lang="ru">Балашиха ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Солнечногорское TV.ru">
+    <display-name lang="ru">Солнечногорское TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TV XXI.ru">
+    <display-name lang="ru">TV XXI</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="КИНОСЕМЬЯ.ru">
+    <display-name lang="ru">КИНОСЕМЬЯ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Paramount Comedy Russia.ru">
+    <display-name lang="ru">Paramount Comedy Russia</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="НАШЕ НОВОЕ КИНО.ru">
+    <display-name lang="ru">НАШЕ НОВОЕ КИНО</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="КИНОСЕРИЯ.ru">
+    <display-name lang="ru">КИНОСЕРИЯ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="AMC.ru">
+    <display-name lang="ru">AMC</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Настоящее Страшное Телевидение.ru">
+    <display-name lang="ru">Настоящее Страшное Телевидение</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Fox Life.ru">
+    <display-name lang="ru">Fox Life</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Русский Иллюзион.ru">
+    <display-name lang="ru">Русский Иллюзион</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Иллюзион +.ru">
+    <display-name lang="ru">Иллюзион +</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="КИНОКОМЕДИЯ.ru">
+    <display-name lang="ru">КИНОКОМЕДИЯ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="SONY ТВ.ru">
+    <display-name lang="ru">SONY ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Zee-TV.ru">
+    <display-name lang="ru">Zee-TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="РОДНОЕ КИНО.ru">
+    <display-name lang="ru">РОДНОЕ КИНО</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="КИНОМИКС.ru">
+    <display-name lang="ru">КИНОМИКС</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="КИНОСВИДАНИЕ.ru">
+    <display-name lang="ru">КИНОСВИДАНИЕ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Дом кино.ru">
+    <display-name lang="ru">Дом кино</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="КИНОХИТ.ru">
+    <display-name lang="ru">КИНОХИТ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="SONY Sci-Fi.ru">
+    <display-name lang="ru">SONY Sci-Fi</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="КИНОПРЕМЬЕРА.ru">
+    <display-name lang="ru">КИНОПРЕМЬЕРА</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Sony Turbo.ru">
+    <display-name lang="ru">Sony Turbo</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Еврокино.ru">
+    <display-name lang="ru">Еврокино</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Paramount Channel.ru">
+    <display-name lang="ru">Paramount Channel</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Дом Кино Премиум.ru">
+    <display-name lang="ru">Дом Кино Премиум</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Комедия.ru">
+    <display-name lang="ru">Комедия</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Eurochannel.ru">
+    <display-name lang="ru">Eurochannel</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Vintage.ru">
+    <display-name lang="ru">Vintage</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Наше ТВ.ru">
+    <display-name lang="ru">Наше ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Sony Channel.ru">
+    <display-name lang="ru">Sony Channel</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Теленовелла.ru">
+    <display-name lang="ru">Теленовелла</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Мир сериалов.ru">
+    <display-name lang="ru">Мир сериалов</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Калейдоскоп ТВ.ru">
+    <display-name lang="ru">Калейдоскоп ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Открытый мир.ru">
+    <display-name lang="ru">Открытый мир</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Пес и Ко.ru">
+    <display-name lang="ru">Пес и Ко</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Кинопоказ.ru">
+    <display-name lang="ru">Кинопоказ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Феникс+Кино.ru">
+    <display-name lang="ru">Феникс+Кино</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="РТВ - Любимое кино.ru">
+    <display-name lang="ru">РТВ - Любимое кино</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="РТВ - Наше кино.ru">
+    <display-name lang="ru">РТВ - Наше кино</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Русский бестселлер.ru">
+    <display-name lang="ru">Русский бестселлер</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Русский роман.ru">
+    <display-name lang="ru">Русский роман</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Поехали!.ru">
+    <display-name lang="ru">Поехали!</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="360° Новости.ru">
+    <display-name lang="ru">360° Новости</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Кино ТВ.ru">
+    <display-name lang="ru">Кино ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Дорама.ru">
+    <display-name lang="ru">Дорама</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Russia Hualiang TV.ru">
+    <display-name lang="ru">Russia Hualiang TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="RUSSIAN MUSICBOX HD.ru">
+    <display-name lang="ru">RUSSIAN MUSICBOX HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Наше Любимое.ru">
+    <display-name lang="ru">Наше Любимое</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="НТВ Право.ru">
+    <display-name lang="ru">НТВ Право</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="НТВ Сериал.ru">
+    <display-name lang="ru">НТВ Сериал</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Продвижение.ru">
+    <display-name lang="ru">Продвижение</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Классика Кино.ru">
+    <display-name lang="ru">Классика Кино</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Неизвестная Планета.ru">
+    <display-name lang="ru">Неизвестная Планета</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Ратник.ru">
+    <display-name lang="ru">Ратник</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Большая Азия.ru">
+    <display-name lang="ru">Большая Азия</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Любимое.ТВ.ru">
+    <display-name lang="ru">Любимое.ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ТВТУР.ru">
+    <display-name lang="ru">ТВТУР</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Маруся ФМ.ru">
+    <display-name lang="ru">Маруся ФМ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="НТВ Хит.ru">
+    <display-name lang="ru">НТВ Хит</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Радио Страна ФМ.ru">
+    <display-name lang="ru">Радио Страна ФМ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="КБС Рус.ru">
+    <display-name lang="ru">КБС Рус</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Новый мир.ru">
+    <display-name lang="ru">Новый мир</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TRICK.ru">
+    <display-name lang="ru">TRICK</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Центральное телевидение.ru">
+    <display-name lang="ru">Центральное телевидение</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="CCTV4.ru">
+    <display-name lang="ru">CCTV4</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Spike.ru">
+    <display-name lang="ru">Spike</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Дикий.ru">
+    <display-name lang="ru">Дикий</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Тномер.ru">
+    <display-name lang="ru">Тномер</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Точка отрыва.ru">
+    <display-name lang="ru">Точка отрыва</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Star Cinema.ru">
+    <display-name lang="ru">Star Cinema</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Star Family.ru">
+    <display-name lang="ru">Star Family</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="BOLT.ru">
+    <display-name lang="ru">BOLT</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Советское кино.ru">
+    <display-name lang="ru">Советское кино</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Русский Детектив.ru">
+    <display-name lang="ru">Русский Детектив</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="БУМ ТВ.ru">
+    <display-name lang="ru">БУМ ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="RT Arabic.ru">
+    <display-name lang="ru">RT Arabic</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="HOME 4K.ru">
+    <display-name lang="ru">HOME 4K</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Rai 1.ru">
+    <display-name lang="ru">Rai 1</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Тайна.ru">
+    <display-name lang="ru">Тайна</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TV BRICS.ru">
+    <display-name lang="ru">TV BRICS</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Detektive TV.ru">
+    <display-name lang="ru">Detektive TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Наш Детектив.ru">
+    <display-name lang="ru">Наш Детектив</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Наш Кинороман.ru">
+    <display-name lang="ru">Наш Кинороман</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Альянс ТВ.ru">
+    <display-name lang="ru">Альянс ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TVRUS.ru">
+    <display-name lang="ru">TVRUS</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="SHANT Premium.ru">
+    <display-name lang="ru">SHANT Premium</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Russia Today Doc (RT Doc).ru">
+    <display-name lang="ru">Russia Today Doc (RT Doc)</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МУЖСКОЕ КИНО.ru">
+    <display-name lang="ru">МУЖСКОЕ КИНО</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Noise.ru">
+    <display-name lang="ru">Noise</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="FilmBox Arthouse.ru">
+    <display-name lang="ru">FilmBox Arthouse</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="7 TV.ru">
+    <display-name lang="ru">7 TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Eurosport 1.ru">
+    <display-name lang="ru">Eurosport 1</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Eurosport 2.ru">
+    <display-name lang="ru">Eurosport 2</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Eurosport News.ru">
+    <display-name lang="ru">Eurosport News</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МАТЧ! ФУТБОЛ 1.ru">
+    <display-name lang="ru">МАТЧ! ФУТБОЛ 1</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МАТЧ! ФУТБОЛ 2.ru">
+    <display-name lang="ru">МАТЧ! ФУТБОЛ 2</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МАТЧ! ФУТБОЛ 3.ru">
+    <display-name lang="ru">МАТЧ! ФУТБОЛ 3</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Русский Экстрим.ru">
+    <display-name lang="ru">Русский Экстрим</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Телеканал КХЛ.ru">
+    <display-name lang="ru">Телеканал КХЛ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Футбол.ru">
+    <display-name lang="ru">Футбол</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Extreme Sports.ru">
+    <display-name lang="ru">Extreme Sports</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МАТЧ! БОЕЦ.ru">
+    <display-name lang="ru">МАТЧ! БОЕЦ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МАТЧ! НАШ СПОРТ.ru">
+    <display-name lang="ru">МАТЧ! НАШ СПОРТ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МАТЧ! ИГРА.ru">
+    <display-name lang="ru">МАТЧ! ИГРА</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МАТЧ! АРЕНА.ru">
+    <display-name lang="ru">МАТЧ! АРЕНА</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МАТЧ ПРЕМЬЕР.ru">
+    <display-name lang="ru">МАТЧ ПРЕМЬЕР</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Viasat Sport.ru">
+    <display-name lang="ru">Viasat Sport</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Морской.ru">
+    <display-name lang="ru">Морской</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Viasat Golf.ru">
+    <display-name lang="ru">Viasat Golf</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Старт.ru">
+    <display-name lang="ru">Старт</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Моторспорт ТВ.ru">
+    <display-name lang="ru">Моторспорт ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Eurosport Gold.ru">
+    <display-name lang="ru">Eurosport Gold</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Eurosport 4K.ru">
+    <display-name lang="ru">Eurosport 4K</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="FightBox.ru">
+    <display-name lang="ru">FightBox</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="M-1 GLOBAL.ru">
+    <display-name lang="ru">M-1 GLOBAL</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Бокс ТВ.ru">
+    <display-name lang="ru">Бокс ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="РБК.ru">
+    <display-name lang="ru">РБК</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Russia Today.ru">
+    <display-name lang="ru">Russia Today</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="BBC.ru">
+    <display-name lang="ru">BBC</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="BBC World.ru">
+    <display-name lang="ru">BBC World</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="BBC Entertainment.ru">
+    <display-name lang="ru">BBC Entertainment</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="NHK WORLD-JAPAN.ru">
+    <display-name lang="ru">NHK WORLD-JAPAN</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="CNN (eng).ru">
+    <display-name lang="ru">CNN (eng)</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="CNN.ru">
+    <display-name lang="ru">CNN</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="NewsOne.ru">
+    <display-name lang="ru">NewsOne</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Deutsche Welle.ru">
+    <display-name lang="ru">Deutsche Welle</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Евроновости.ru">
+    <display-name lang="ru">Евроновости</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="CNBC.ru">
+    <display-name lang="ru">CNBC</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Deutsche Welle (deu).ru">
+    <display-name lang="ru">Deutsche Welle (deu)</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МИР 24.ru">
+    <display-name lang="ru">МИР 24</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="PRO Business.ru">
+    <display-name lang="ru">PRO Business</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ЧП.Info.ru">
+    <display-name lang="ru">ЧП.Info</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Дождь.ru">
+    <display-name lang="ru">Дождь</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Время.ru">
+    <display-name lang="ru">Время</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="France 24.ru">
+    <display-name lang="ru">France 24</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="БелРос.ru">
+    <display-name lang="ru">БелРос</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Коммерсант ТВ.ru">
+    <display-name lang="ru">Коммерсант ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Эхо TV.ru">
+    <display-name lang="ru">Эхо TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Bloomberg.ru">
+    <display-name lang="ru">Bloomberg</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Первый метео.ru">
+    <display-name lang="ru">Первый метео</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="France 24 (fr).ru">
+    <display-name lang="ru">France 24 (fr)</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Известия.ru">
+    <display-name lang="ru">Известия</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Deutsche Welle (Rus).ru">
+    <display-name lang="ru">Deutsche Welle (Rus)</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="RTД.ru">
+    <display-name lang="ru">RTД</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Хабар 24.ru">
+    <display-name lang="ru">Хабар 24</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Вместе-РФ.ru">
+    <display-name lang="ru">Вместе-РФ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="CGTN.ru">
+    <display-name lang="ru">CGTN</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="RT Espanol.ru">
+    <display-name lang="ru">RT Espanol</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Discovery Channel.ru">
+    <display-name lang="ru">Discovery Channel</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Animal Planet.ru">
+    <display-name lang="ru">Animal Planet</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Discovery Science.ru">
+    <display-name lang="ru">Discovery Science</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Доктор.ru">
+    <display-name lang="ru">Доктор</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Моя Планета.ru">
+    <display-name lang="ru">Моя Планета</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="History.ru">
+    <display-name lang="ru">History</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Viasat History.ru">
+    <display-name lang="ru">Viasat History</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Viasat Nature.ru">
+    <display-name lang="ru">Viasat Nature</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Viasat Explore.ru">
+    <display-name lang="ru">Viasat Explore</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Кто есть кто.ru">
+    <display-name lang="ru">Кто есть кто</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="365 дней ТВ.ru">
+    <display-name lang="ru">365 дней ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Совершенно секретно.ru">
+    <display-name lang="ru">Совершенно секретно</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Психология 21.ru">
+    <display-name lang="ru">Психология 21</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Viasat History HD.ru">
+    <display-name lang="ru">Viasat History HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Russian Travel Guide International.ru">
+    <display-name lang="ru">Russian Travel Guide International</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Наука.ru">
+    <display-name lang="ru">Наука</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Зоо ТВ.ru">
+    <display-name lang="ru">Зоо ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Nat Geo WILD.ru">
+    <display-name lang="ru">Nat Geo WILD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Вопросы и ответы.ru">
+    <display-name lang="ru">Вопросы и ответы</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Da Vinci.ru">
+    <display-name lang="ru">Da Vinci</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Ocean TV.ru">
+    <display-name lang="ru">Ocean TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Zooпарк.ru">
+    <display-name lang="ru">Zooпарк</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="History-viasat (eng).ru">
+    <display-name lang="ru">History-viasat (eng)</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Discovery channel Центральная Европа.ru">
+    <display-name lang="ru">Discovery channel Центральная Европа</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Нано.ru">
+    <display-name lang="ru">Нано</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Живая планета.ru">
+    <display-name lang="ru">Живая планета</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Первый образовательный.ru">
+    <display-name lang="ru">Первый образовательный</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Просвещение.ru">
+    <display-name lang="ru">Просвещение</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Тайны галактики.ru">
+    <display-name lang="ru">Тайны галактики</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="История.ru">
+    <display-name lang="ru">История</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ЕГЭ ТВ.ru">
+    <display-name lang="ru">ЕГЭ ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Московский образовательный.ru">
+    <display-name lang="ru">Московский образовательный</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Синергия ТВ.ru">
+    <display-name lang="ru">Синергия ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="NANO HD.ru">
+    <display-name lang="ru">NANO HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="В мире животных.ru">
+    <display-name lang="ru">В мире животных</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="MTV Rocks International.ru">
+    <display-name lang="ru">MTV Rocks International</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="MTV Dance International.ru">
+    <display-name lang="ru">MTV Dance International</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="MTV Hits International.ru">
+    <display-name lang="ru">MTV Hits International</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="VH1 European.ru">
+    <display-name lang="ru">VH1 European</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="VH1 Classic.ru">
+    <display-name lang="ru">VH1 Classic</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="BRIDGE TV DANCE.ru">
+    <display-name lang="ru">BRIDGE TV DANCE</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="MTV Россия.ru">
+    <display-name lang="ru">MTV Россия</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="MCM TOP.ru">
+    <display-name lang="ru">MCM TOP</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="BRIDGE TV Русский Хит.ru">
+    <display-name lang="ru">BRIDGE TV Русский Хит</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="C Music TV.ru">
+    <display-name lang="ru">C Music TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="BRIDGE TV.ru">
+    <display-name lang="ru">BRIDGE TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Ля-минор ТВ.ru">
+    <display-name lang="ru">Ля-минор ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="О2ТВ.ru">
+    <display-name lang="ru">О2ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="RAP.RU.ru">
+    <display-name lang="ru">RAP.RU</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="BizTV.ru">
+    <display-name lang="ru">BizTV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="MusicBox TV.ru">
+    <display-name lang="ru">MusicBox TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Музыка Первого.ru">
+    <display-name lang="ru">Музыка Первого</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МУЗ ТВ.ru">
+    <display-name lang="ru">МУЗ ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="RUSSIAN MUSICBOX.ru">
+    <display-name lang="ru">RUSSIAN MUSICBOX</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Шансон-TB.ru">
+    <display-name lang="ru">Шансон-TB</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Mezzo.ru">
+    <display-name lang="ru">Mezzo</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ТНТ MUSIC.ru">
+    <display-name lang="ru">ТНТ MUSIC</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Ru.TV.ru">
+    <display-name lang="ru">Ru.TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="RE:Music.ru">
+    <display-name lang="ru">RE:Music</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Stingray iConcerts.ru">
+    <display-name lang="ru">Stingray iConcerts</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Europa Plus TV.ru">
+    <display-name lang="ru">Europa Plus TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="A-ONE Hip-Hop.ru">
+    <display-name lang="ru">A-ONE Hip-Hop</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="FRESHTV.ru">
+    <display-name lang="ru">FRESHTV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Festival 4K.ru">
+    <display-name lang="ru">Festival 4K</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Жар Птица.ru">
+    <display-name lang="ru">Жар Птица</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Восток ТВ.ru">
+    <display-name lang="ru">Восток ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Мультимузыка.ru">
+    <display-name lang="ru">Мультимузыка</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="BRIDGE TV CLASSIC.ru">
+    <display-name lang="ru">BRIDGE TV CLASSIC</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="SONG TV.ru">
+    <display-name lang="ru">SONG TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Clubbing TV.ru">
+    <display-name lang="ru">Clubbing TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="360 TuneBox.ru">
+    <display-name lang="ru">360 TuneBox</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Матур ТВ.ru">
+    <display-name lang="ru">Матур ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МузСоюз.ru">
+    <display-name lang="ru">МузСоюз</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="HITV.ru">
+    <display-name lang="ru">HITV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="JuCe TV.ru">
+    <display-name lang="ru">JuCe TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TLC.ru">
+    <display-name lang="ru">TLC</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Ностальгия.ru">
+    <display-name lang="ru">Ностальгия</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Food Network.ru">
+    <display-name lang="ru">Food Network</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Диалоги о рыбалке.ru">
+    <display-name lang="ru">Диалоги о рыбалке</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TV5MONDE.ru">
+    <display-name lang="ru">TV5MONDE</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Ретро.ru">
+    <display-name lang="ru">Ретро</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Техно 24.ru">
+    <display-name lang="ru">Техно 24</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ЕДА.ru">
+    <display-name lang="ru">ЕДА</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Усадьба.ru">
+    <display-name lang="ru">Усадьба</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Загородная жизнь.ru">
+    <display-name lang="ru">Загородная жизнь</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Здоровое ТВ.ru">
+    <display-name lang="ru">Здоровое ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Fashion TV.ru">
+    <display-name lang="ru">Fashion TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Outdoor Channel.ru">
+    <display-name lang="ru">Outdoor Channel</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Оружие.ru">
+    <display-name lang="ru">Оружие</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Охота и рыбалка.ru">
+    <display-name lang="ru">Охота и рыбалка</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Russian Travel Guide.ru">
+    <display-name lang="ru">Russian Travel Guide</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Драйв.ru">
+    <display-name lang="ru">Драйв</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Fashion One.ru">
+    <display-name lang="ru">Fashion One</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Театр.ru">
+    <display-name lang="ru">Театр</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="CBS Reality.ru">
+    <display-name lang="ru">CBS Reality</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Охотник и Рыболов.ru">
+    <display-name lang="ru">Охотник и Рыболов</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Здоровье.ru">
+    <display-name lang="ru">Здоровье</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Телепутешествия.ru">
+    <display-name lang="ru">Телепутешествия</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="World Fashion Channel.ru">
+    <display-name lang="ru">World Fashion Channel</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Жара.ru">
+    <display-name lang="ru">Жара</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ЖИВИ!.ru">
+    <display-name lang="ru">ЖИВИ!</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Загородный.ru">
+    <display-name lang="ru">Загородный</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Travel Channel.ru">
+    <display-name lang="ru">Travel Channel</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Мужской.ru">
+    <display-name lang="ru">Мужской</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Кухня ТВ.ru">
+    <display-name lang="ru">Кухня ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Авто Плюс.ru">
+    <display-name lang="ru">Авто Плюс</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="E TV.ru">
+    <display-name lang="ru">E TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Охотник и Рыболов Int.ru">
+    <display-name lang="ru">Охотник и Рыболов Int</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Союз.ru">
+    <display-name lang="ru">Союз</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Конный мир.ru">
+    <display-name lang="ru">Конный мир</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Телекафе.ru">
+    <display-name lang="ru">Телекафе</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="DTX.ru">
+    <display-name lang="ru">DTX</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Твой Дом.ru">
+    <display-name lang="ru">Твой Дом</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="National Geographic.ru">
+    <display-name lang="ru">National Geographic</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Домашние животные.ru">
+    <display-name lang="ru">Домашние животные</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="English Club TV.ru">
+    <display-name lang="ru">English Club TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="C4K360.ru">
+    <display-name lang="ru">C4K360</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Chasse &amp; Peche.ru">
+    <display-name lang="ru">Chasse &amp; Peche</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Travel+Adventure.ru">
+    <display-name lang="ru">Travel+Adventure</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Мир Увлечений.ru">
+    <display-name lang="ru">Мир Увлечений</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Загородный Int.ru">
+    <display-name lang="ru">Загородный Int</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Дайвинг.TV.ru">
+    <display-name lang="ru">Дайвинг.TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Foodman.club.ru">
+    <display-name lang="ru">Foodman.club</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Вкусное TV.ru">
+    <display-name lang="ru">Вкусное TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Бобер.ru">
+    <display-name lang="ru">Бобер</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Анекдот ТВ.ru">
+    <display-name lang="ru">Анекдот ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Первый вегетарианский.ru">
+    <display-name lang="ru">Первый вегетарианский</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="БАЛАНС-ТВ.ru">
+    <display-name lang="ru">БАЛАНС-ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="4K Fashion TV.ru">
+    <display-name lang="ru">4K Fashion TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Глазами туриста.ru">
+    <display-name lang="ru">Глазами туриста</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Fashion One 4K.ru">
+    <display-name lang="ru">Fashion One 4K</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="НТВ Стиль.ru">
+    <display-name lang="ru">НТВ Стиль</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="КВН ТВ.ru">
+    <display-name lang="ru">КВН ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="World Business Channel.ru">
+    <display-name lang="ru">World Business Channel</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Детский мир.ru">
+    <display-name lang="ru">Детский мир</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Cartoon Network.ru">
+    <display-name lang="ru">Cartoon Network</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Nickelodeon.ru">
+    <display-name lang="ru">Nickelodeon</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Радость Моя.ru">
+    <display-name lang="ru">Радость Моя</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="JimJam.ru">
+    <display-name lang="ru">JimJam</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Детский.ru">
+    <display-name lang="ru">Детский</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Gulli Girl.ru">
+    <display-name lang="ru">Gulli Girl</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TiJi.ru">
+    <display-name lang="ru">TiJi</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Мультимания.ru">
+    <display-name lang="ru">Мультимания</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Boomerang.ru">
+    <display-name lang="ru">Boomerang</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Baby TV.ru">
+    <display-name lang="ru">Baby TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Nick Jr.ru">
+    <display-name lang="ru">Nick Jr</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Рыжий.ru">
+    <display-name lang="ru">Рыжий</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Советские мультфильмы.ru">
+    <display-name lang="ru">Советские мультфильмы</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Мульт.ru">
+    <display-name lang="ru">Мульт</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Малыш.ru">
+    <display-name lang="ru">Малыш</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="О!.ru">
+    <display-name lang="ru">О!</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Смайлик ТВ.ru">
+    <display-name lang="ru">Смайлик ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Сказки Зайки.ru">
+    <display-name lang="ru">Сказки Зайки</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="В гостях у сказки.ru">
+    <display-name lang="ru">В гостях у сказки</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Пингвин Лоло.ru">
+    <display-name lang="ru">Пингвин Лоло</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Ani.ru">
+    <display-name lang="ru">Ani</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Россия 1 HD.ru">
+    <display-name lang="ru">Россия 1 HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Первый HD.ru">
+    <display-name lang="ru">Первый HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Mezzo Live HD.ru">
+    <display-name lang="ru">Mezzo Live HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Luxe HD.ru">
+    <display-name lang="ru">Luxe HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="HDL.ru">
+    <display-name lang="ru">HDL</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Fashion TV HD.ru">
+    <display-name lang="ru">Fashion TV HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Еда Премиум.ru">
+    <display-name lang="ru">Еда Премиум</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Кинопоказ HD-2.ru">
+    <display-name lang="ru">Кинопоказ HD-2</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Nat Geo Wild HD.ru">
+    <display-name lang="ru">Nat Geo Wild HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Приключения HD.ru">
+    <display-name lang="ru">Приключения HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="HD Медиа.ru">
+    <display-name lang="ru">HD Медиа</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="National Geographic HD.ru">
+    <display-name lang="ru">National Geographic HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Animal Planet HD.ru">
+    <display-name lang="ru">Animal Planet HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Travel Channel HD.ru">
+    <display-name lang="ru">Travel Channel HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Fashion One HD.ru">
+    <display-name lang="ru">Fashion One HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="MGM HD.ru">
+    <display-name lang="ru">MGM HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Travel+Adventure HD.ru">
+    <display-name lang="ru">Travel+Adventure HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="MTV Live International HD.ru">
+    <display-name lang="ru">MTV Live International HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Fox Life HD.ru">
+    <display-name lang="ru">Fox Life HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Nickelodeon HD.ru">
+    <display-name lang="ru">Nickelodeon HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Trace Sports HD.ru">
+    <display-name lang="ru">Trace Sports HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Eurosport 1 HD.ru">
+    <display-name lang="ru">Eurosport 1 HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Телеканал КХЛ HD.ru">
+    <display-name lang="ru">Телеканал КХЛ HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Outdoor HD.ru">
+    <display-name lang="ru">Outdoor HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Дождь HD.ru">
+    <display-name lang="ru">Дождь HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="SONY ТВ HD.ru">
+    <display-name lang="ru">SONY ТВ HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Arte HD.ru">
+    <display-name lang="ru">Arte HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Amedia Premium HD.ru">
+    <display-name lang="ru">Amedia Premium HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="МАТЧ! АРЕНА HD.ru">
+    <display-name lang="ru">МАТЧ! АРЕНА HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Food Network HD.ru">
+    <display-name lang="ru">Food Network HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ТНТ HD.ru">
+    <display-name lang="ru">ТНТ HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Телеканал 360° HD.ru">
+    <display-name lang="ru">Телеканал 360° HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ViP Megahit.ru">
+    <display-name lang="ru">ViP Megahit</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ViP Premiere.ru">
+    <display-name lang="ru">ViP Premiere</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ViP Comedy.ru">
+    <display-name lang="ru">ViP Comedy</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Русский роман HD.ru">
+    <display-name lang="ru">Русский роман HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Viasat Nature/History HD.ru">
+    <display-name lang="ru">Viasat Nature/History HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Viasat Golf HD.ru">
+    <display-name lang="ru">Viasat Golf HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Viasat Sport HD.ru">
+    <display-name lang="ru">Viasat Sport HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Museum HD.ru">
+    <display-name lang="ru">Museum HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Insight Ultra HD.ru">
+    <display-name lang="ru">Insight Ultra HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Fuel TV HD.ru">
+    <display-name lang="ru">Fuel TV HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Охотник и Рыболов HD.ru">
+    <display-name lang="ru">Охотник и Рыболов HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Paramount Channel HD.ru">
+    <display-name lang="ru">Paramount Channel HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Paramount Comedy Russia HD.ru">
+    <display-name lang="ru">Paramount Comedy Russia HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Russian Travel Guide HD.ru">
+    <display-name lang="ru">Russian Travel Guide HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Кино ТВ HD.ru">
+    <display-name lang="ru">Кино ТВ HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Остросюжетное HD.ru">
+    <display-name lang="ru">Остросюжетное HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Авто24 HD.ru">
+    <display-name lang="ru">Авто24 HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Планета HD.ru">
+    <display-name lang="ru">Планета HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Slow HD.ru">
+    <display-name lang="ru">Slow HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="H2 HD.ru">
+    <display-name lang="ru">H2 HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Дикая Рыбалка HD.ru">
+    <display-name lang="ru">Дикая Рыбалка HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Дикая Охота HD.ru">
+    <display-name lang="ru">Дикая Охота HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Eurosport Gold HD.ru">
+    <display-name lang="ru">Eurosport Gold HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Сериал Ultra HD.ru">
+    <display-name lang="ru">Сериал Ultra HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Кино Ultra HD.ru">
+    <display-name lang="ru">Кино Ultra HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="СТС Kids HD.ru">
+    <display-name lang="ru">СТС Kids HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="History HD.ru">
+    <display-name lang="ru">History HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ТЛУМ HD.ru">
+    <display-name lang="ru">ТЛУМ HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Candy TV HD.ru">
+    <display-name lang="ru">Candy TV HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Candy 3D HD.ru">
+    <display-name lang="ru">Candy 3D HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="BRIDGE HD.ru">
+    <display-name lang="ru">BRIDGE HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="КиноПремиум HD.ru">
+    <display-name lang="ru">КиноПремиум HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Hustler HD.ru">
+    <display-name lang="ru">Hustler HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Шалун HD.ru">
+    <display-name lang="ru">Шалун HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Fashion Box HD.ru">
+    <display-name lang="ru">Fashion Box HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Fast &amp; FunBox HD.ru">
+    <display-name lang="ru">Fast &amp; FunBox HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Романтичное HD.ru">
+    <display-name lang="ru">Романтичное HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Эврика HD.ru">
+    <display-name lang="ru">Эврика HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="RTД HD.ru">
+    <display-name lang="ru">RTД HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="1 HD Music Television.ru">
+    <display-name lang="ru">1 HD Music Television</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Ginger HD.ru">
+    <display-name lang="ru">Ginger HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Живая природа HD.ru">
+    <display-name lang="ru">Живая природа HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Bollywood HD.ru">
+    <display-name lang="ru">Bollywood HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Страшное HD.ru">
+    <display-name lang="ru">Страшное HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Мультик HD.ru">
+    <display-name lang="ru">Мультик HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="DocuBox HD.ru">
+    <display-name lang="ru">DocuBox HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="FilmBox HD.ru">
+    <display-name lang="ru">FilmBox HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="HD Media 3D.ru">
+    <display-name lang="ru">HD Media 3D</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Russian Extreme ULTRA HD.ru">
+    <display-name lang="ru">Russian Extreme ULTRA HD</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Russian Extreme TV ULTRA HD CINEMA.ru">
+    <display-name lang="ru">Russian Extreme TV ULTRA HD CINEMA</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="O-la-la.ru">
+    <display-name lang="ru">O-la-la</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Hustler TV Europe.ru">
+    <display-name lang="ru">Hustler TV Europe</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Private TV.ru">
+    <display-name lang="ru">Private TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Русская ночь.ru">
+    <display-name lang="ru">Русская ночь</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Blue Hustler.ru">
+    <display-name lang="ru">Blue Hustler</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Playboy TV.ru">
+    <display-name lang="ru">Playboy TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Brazzers TV Europe.ru">
+    <display-name lang="ru">Brazzers TV Europe</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Blue Hustler 24.ru">
+    <display-name lang="ru">Blue Hustler 24</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="French Lover.ru">
+    <display-name lang="ru">French Lover</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Candy TV.ru">
+    <display-name lang="ru">Candy TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Candy Man.ru">
+    <display-name lang="ru">Candy Man</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Erox.ru">
+    <display-name lang="ru">Erox</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Barely legal.ru">
+    <display-name lang="ru">Barely legal</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Babes TV.ru">
+    <display-name lang="ru">Babes TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Шалун.ru">
+    <display-name lang="ru">Шалун</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Беларусь 24.ru">
+    <display-name lang="ru">Беларусь 24</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Cinema.ru">
+    <display-name lang="ru">Cinema</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Мама.ru">
+    <display-name lang="ru">Мама</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Три Ангела.ru">
+    <display-name lang="ru">Три Ангела</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Luxe.TV.ru">
+    <display-name lang="ru">Luxe.TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TV Sale.ru">
+    <display-name lang="ru">TV Sale</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TV Mall.ru">
+    <display-name lang="ru">TV Mall</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Домашний Магазин.ru">
+    <display-name lang="ru">Домашний Магазин</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="CGTN Русский.ru">
+    <display-name lang="ru">CGTN Русский</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Эгоист ТВ.ru">
+    <display-name lang="ru">Эгоист ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Shop24.ru">
+    <display-name lang="ru">Shop24</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Fine Living Network.ru">
+    <display-name lang="ru">Fine Living Network</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Shopping Live.ru">
+    <display-name lang="ru">Shopping Live</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="РазТВ.ru">
+    <display-name lang="ru">РазТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TV club.ru">
+    <display-name lang="ru">TV club</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Top Shop TV.ru">
+    <display-name lang="ru">Top Shop TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ТНВ.ru">
+    <display-name lang="ru">ТНВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Теледом.ru">
+    <display-name lang="ru">Теледом</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ЮМОР TV.ru">
+    <display-name lang="ru">ЮМОР TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TDK.ru">
+    <display-name lang="ru">TDK</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Успех.ru">
+    <display-name lang="ru">Успех</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ТНВ-планета.ru">
+    <display-name lang="ru">ТНВ-планета</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Global Star.ru">
+    <display-name lang="ru">Global Star</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Сарафан.ru">
+    <display-name lang="ru">Сарафан</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="myZen.tv.ru">
+    <display-name lang="ru">myZen.tv</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="8 Канал.ru">
+    <display-name lang="ru">8 Канал</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="LUXURY.ru">
+    <display-name lang="ru">LUXURY</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ID Investigation Discovery.ru">
+    <display-name lang="ru">ID Investigation Discovery</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="JSTV.ru">
+    <display-name lang="ru">JSTV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="R1.ru">
+    <display-name lang="ru">R1</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Живая природа.ru">
+    <display-name lang="ru">Живая природа</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ТБН.ru">
+    <display-name lang="ru">ТБН</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="TVM Channel.ru">
+    <display-name lang="ru">TVM Channel</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Надежда.ru">
+    <display-name lang="ru">Надежда</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="ЛДПР ТВ.ru">
+    <display-name lang="ru">ЛДПР ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Война &amp; Мир.ru">
+    <display-name lang="ru">Война &amp; Мир</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Твой.ru">
+    <display-name lang="ru">Твой</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Точка ТВ.ru">
+    <display-name lang="ru">Точка ТВ</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Красная линия.ru">
+    <display-name lang="ru">Красная линия</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Ювелирочка.ru">
+    <display-name lang="ru">Ювелирочка</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="РЖД.ru">
+    <display-name lang="ru">РЖД</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <channel id="Arirang TV.ru">
+    <display-name lang="ru">Arirang TV</display-name>
+    <url>http://www.tv.mail.ru</url>
+  </channel>
+  <programme start="20190816050000 +0300" stop="20190816090000 +0300" channel="Первый.ru">
+    <title lang="ru">Доброе утро</title>
+    <desc lang="ru">Передача Доброе утро на первом канале транслируется ежедневно по утрам. Это некий цикл различных новостных и развлекательных программ, среди которых и кулинарные, и спортивные и новости кино, гороскопы на сегодня, рецепты и т. д. Словом, если вы встречаете утро на первом канале с программой Доброе утро, то будьте уверены - день удастся! Передача Доброе утро знакомит зрителей с новостями из мира кино, спорта, моды, и кулинарии. Словом, всего, что важно и интересно людям. Никакой политики и экономики - только всё самое интересное! На Первом, в программе Доброе утро можно узнать много полезного. Рубрика Народная медицина каждый день пополняется новыми рецептами, помогающими бороться с различными болезнями и недугами. В Рубрике Счастье есть! , ведущей которой является Чекалова Елена, вы узнаете, как быстро и недорого, приготовить вкусный обед. Телепрограмма Доброе утро на первом канале быстро завоевала любовь зрителей. Ежедневно, по утрам она собирает миллионы зрителей у экранов. Новости кино и шоу-бизнеса, рассказывающие о звёздах России и зарубежья, познавательные рубрики, советы, как заработать и сохранить деньги… Всё это и многое другое ждёт вас в программе Доброе утро на первом канале! Начните свой день с хорошей программы, и тогда вас не покинут отличное настроение и позитивные эмоции!(n)</desc>
+    <date>1986</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816090000 +0300" stop="20190816092500 +0300" channel="Первый.ru">
+    <title lang="ru">Новости</title>
+    <desc lang="ru">Информационная программа, сообщающая о важных событиях в стране и в мире. Оперативно и достоверно мы рассказываем о том, что произошло в области политики, экономики, общественной жизни, культуры, спорта. Знакомим со свежей информацией, поступившей от наших корреспондентов и по каналам информагентств.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816092500 +0300" stop="20190816095500 +0300" channel="Первый.ru">
+    <title lang="ru">Доброе утро</title>
+    <desc lang="ru">Передача Доброе утро на первом канале транслируется ежедневно по утрам. Это некий цикл различных новостных и развлекательных программ, среди которых и кулинарные, и спортивные и новости кино, гороскопы на сегодня, рецепты и т. д. Словом, если вы встречаете утро на первом канале с программой Доброе утро, то будьте уверены - день удастся! Передача Доброе утро знакомит зрителей с новостями из мира кино, спорта, моды, и кулинарии. Словом, всего, что важно и интересно людям. Никакой политики и экономики - только всё самое интересное! На Первом, в программе Доброе утро можно узнать много полезного. Рубрика Народная медицина каждый день пополняется новыми рецептами, помогающими бороться с различными болезнями и недугами. В Рубрике Счастье есть! , ведущей которой является Чекалова Елена, вы узнаете, как быстро и недорого, приготовить вкусный обед. Телепрограмма Доброе утро на первом канале быстро завоевала любовь зрителей. Ежедневно, по утрам она собирает миллионы зрителей у экранов. Новости кино и шоу-бизнеса, рассказывающие о звёздах России и зарубежья, познавательные рубрики, советы, как заработать и сохранить деньги… Всё это и многое другое ждёт вас в программе Доброе утро на первом канале! Начните свой день с хорошей программы, и тогда вас не покинут отличное настроение и позитивные эмоции!(n)</desc>
+    <date>1986</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816095500 +0300" stop="20190816105500 +0300" channel="Первый.ru">
+    <title lang="ru">Модный приговор</title>
+    <desc lang="ru">Первое на отечественном телевидении грандиозное ток-шоу о моде и стиле. Вы сможете наблюдать, как женщины и мужчины преображаются на глазах у зрителей. Герои передачи преображаются два раза: первый раз — в соответствии со своими представлениями о своем идеальном образе, второй раз — в соответствии с тем, как видят их стилисты. Это игра-превращение, захватывающее состязание смелых героинь и героев с профессионалами.(n)</desc>
+    <date>2007</date>
+    <category lang="ru">ток-шоу</category>
+    <category lang="ru">шоу о моде и красоте</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20190816105500 +0300" stop="20190816120000 +0300" channel="Первый.ru">
+    <title lang="ru">Жить здорово!</title>
+    <desc lang="ru">Ведущие программы расскажут не только о том, чем мы болеем и как нужно лечиться, но также и о том, какую обувь нужно носить, на каких подушках лучше спать и как правильно вымыть окна. Слова "здОрово" и "здорОво" пишутся одинаково, а для нас важно, чтобы эти понятия стали для вас синонимами.(n)</desc>
+    <date>2010</date>
+    <category lang="ru">ток-шоу</category>
+    <category lang="ru">шоу о здоровье</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>3.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20190816120000 +0300" stop="20190816121500 +0300" channel="Первый.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+    <desc lang="ru">Оперативно и достоверно мы рассказываем о том, что произошло в области политики, экономики, общественной жизни, культуры, спорта. Знакомим со свежей информацией, поступившей от наших корреспондентов и по каналам информагентств.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816121500 +0300" stop="20190816150000 +0300" channel="Первый.ru">
+    <title lang="ru">Время покажет</title>
+    <desc lang="ru">Дискуссии на волнующие россиян темы. В передаче принимают участие как эксперты: политики, политологи, журналисты, предприниматели - так и просто неравнодушные россияне.(n)</desc>
+    <date>2014</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816150000 +0300" stop="20190816151500 +0300" channel="Первый.ru">
+    <title lang="ru">Новости (с субтитрами)</title>
+    <desc lang="ru">Оперативно и достоверно мы рассказываем о том, что произошло в области политики, экономики, общественной жизни, культуры, спорта. Знакомим со свежей информацией, поступившей от наших корреспондентов и по каналам информагентств.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816151500 +0300" stop="20190816160000 +0300" channel="Первый.ru">
+    <title lang="ru">Давай поженимся!</title>
+    <desc lang="ru">В каждом выпуске одному жениху или невесте предлагается сделать выбор из трёх претендентов на его (её) руку и сердце. Все они соответствуют требованиям героя к своей половинке. Претенденты видели фото героя на сайте канала и из сотен других выбрали именно этого человека. Чем всё кончится?(n)</desc>
+    <date>2008</date>
+    <category lang="ru">ток-шоу</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>3.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20190816160000 +0300" stop="20190816170000 +0300" channel="Первый.ru">
+    <title lang="ru">Мужское/Женское</title>
+    <desc lang="ru">Громкие истории, в которых осталось немало домыслов, вопросов и догадок. Большое документальное расследование с участием очевидцев событий, историков и экспертов.(n)</desc>
+    <date>2014</date>
+    <category lang="ru">ток-шоу</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190816170000 +0300" stop="20190816180000 +0300" channel="Первый.ru">
+    <title lang="ru">Время покажет</title>
+    <desc lang="ru">Дискуссии на волнующие россиян темы. В передаче принимают участие как эксперты: политики, политологи, журналисты, предприниматели - так и просто неравнодушные россияне.(n)</desc>
+    <date>2014</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816180000 +0300" stop="20190816182500 +0300" channel="Первый.ru">
+    <title lang="ru">Вечерние новости (с субтитрами)</title>
+    <desc lang="ru">Информационная программа, сообщающая о важных событиях в стране и в мире. Оперативно и достоверно мы рассказываем о том, что произошло в области политики, экономики, общественной жизни, культуры, спорта. Знакомим со свежей информацией, поступившей от наших корреспондентов и по каналам информагентств.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816182500 +0300" stop="20190816185000 +0300" channel="Первый.ru">
+    <title lang="ru">Время покажет</title>
+    <desc lang="ru">Дискуссии на волнующие россиян темы. В передаче принимают участие как эксперты: политики, политологи, журналисты, предприниматели - так и просто неравнодушные россияне.(n)</desc>
+    <date>2014</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816185000 +0300" stop="20190816195000 +0300" channel="Первый.ru">
+    <title lang="ru">На самом деле</title>
+    <desc lang="ru">"На самом деле" - это новое революционное ток-шоу. Очная ставка между людьми, которые когда-то были близки. Ложь надломила эти отношения, но не смогла разорвать их до конца. И только правда может изменить ход этой личной истории. Она может навсегда развести людей, а может - соединить их. Потому что даже участники событий иногда до конца не понимают сами, как всё было на самом деле.(n)</desc>
+    <date>2017</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816195000 +0300" stop="20190816210000 +0300" channel="Первый.ru">
+    <title lang="ru">Поле чудес</title>
+    <desc lang="ru">В эфире с 25 октября 1990 года. Первоначально ведущим был Владислав Листьев, а с 1 ноября 1991 года Леонид Якубович. Каждую пятницу он приглашает игроков в студию… отгадывать слова. Правила игры весьма просты: в трёх турах участвуют по три человека в каждом, победители туров соревнуются в финальной игре, и её победитель, если выиграет суперигру, получает главный приз. Стать участником игры "Поле чудес" очень просто - для этого нужно прислать в редакцию программы какой-нибудь оригинальный кроссворд. В игру играют и взрослые, и дети, пожарные, доярки, милиционеры, учителя, ветераны войны, артисты - все, кто знает русские буквы и слова. В съёмках принимают участие игроки со всей России и ближнего Зарубежья. Проект Владислава Листьева. Название "позаимствовано" из сказки о Буратино. Произведено: Россия Ведущий: Леонид Якубович.(n)</desc>
+    <date>1990</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816210000 +0300" stop="20190816213000 +0300" channel="Первый.ru">
+    <title lang="ru">Время</title>
+    <desc lang="ru">Ровно в девять вечера включать телевизор - этой традиции исполнилось более 40 лет. 1 января 1968 года впервые вышла в эфир программа "Время", которой суждено было побить все рекорды долголетия на отечественном телевидении и стать главной информационной программой страны. Программа "Время" пользуется доверием у зрителей и остаётся лидером информационного вещания. Наши репортёры подробно рассказывают о важных решениях, которые касаются каждого жителя России; выходят в прямой эфир с места заметных событий или крупных происшествий; круглые сутки работают на десятках корпунктов в России, СНГ и дальнем зарубежье. Сохранив все лучшие традиции работы с новостями, программа стала намного более динамичной и оперативной, более яркой и насыщенной. Лучшее тому подтверждение - признание среди коллег-конкурентов. Трижды, в 2002, 2006 и 2007 годах, программе "Время" присуждалась самая престижная на телевидении России профессиональная награда - премия ТЭФИ в номинации "Лучшая информационная программа".(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816213000 +0300" stop="20190817000500 +0300" channel="Первый.ru">
+    <title lang="ru">Жара</title>
+    <desc lang="ru">Организаторы фестиваля: певец и музыкант Эмин Агаларов, заслуженный артист РФ Григорий Лепс и основатель "Русского радио" и премии "Золотой Граммофон" Сергей Кожевников. Эмин Агаларов: "В фестивале примут участие самые известные исполнители из России и стран СНГ, которые представят свои лучшие синглы и премьеры - Проведение фестиваля планируется на ежегодной основе". "Жара" удивит количеством звездных гостей, среди которых Стас Михайлов, Филипп Киркоров, Тимати, Владимир Пресняков, Нюша, Леонид Агутин, Григорий Лепс, А-Студио, Николай Басков, Валерия, Полина Гагарина, Ани Лорак, EMIN, Слава, MBAND, Потап и Настя, Ирина Дубцова, A-DESSA, Джиган, Светлана Лобода, Глюкоза, IOWA, ВИАГра, Анита Цой, Алексей Воробьев, Наргиз, Сергей Лазарев, Ева Польна и многие другие.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190817000500 +0300" stop="20190817010500 +0300" channel="Первый.ru">
+    <title lang="ru">Вечерний Ургант</title>
+    <sub-title lang="ru">Владимир Винокур, Елена Темникова и Сергей Жуков</sub-title>
+    <desc lang="ru">Владимир Винокур расскажет о своём браке, который начинался как фиктивный, а длится уже 45 лет, Елена Темникова поделится страшной новогодней историей, а Сергей Жуков попытается отгадать, какие его песни поют иностранцы.(n)</desc>
+    <date>2012</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190817010500 +0300" stop="20190817020000 +0300" channel="Первый.ru">
+    <title lang="ru">Пьер Ришар. Белый клоун</title>
+    <desc lang="ru">Зрители знают его как актёра, снявшегося в таких культовых картинах, как "Высокий блондин в чёрном ботинке", "Игрушка", "Невезучие", "Папаши", "Близнецы", кадры из которых вошли в этот фильм. Его герои - нелепые, неуклюжие, невинные, добрые.(n)</desc>
+    <country lang="ru">Франция</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190817020000 +0300" stop="20190817034000 +0300" channel="Первый.ru">
+    <title lang="ru">Бенни и Джун</title>
+    <desc lang="ru">Бенни — автослесарь и приятный во всех отношениях молодой человек. Его сестра Джун — художница, больная шизофренией, и за девушкой требуется постоянный уход и присмотр, потому что героиня всегда пытается что-нибудь поджечь. Однажды Джун знакомится с юношей по имени Сэм, обаятельным и немного странным. Но Бенни не нравится такой поворот событий, даже когда сестра признается, что влюбилась в этого парня.(n)</desc>
+    <credits>
+      <director>Джеримайя С. Чечик</director>
+      <actor>Джонни Депп</actor>
+      <actor>Мэри Стюарт Мастерсон</actor>
+      <actor>Эйдан Куинн</actor>
+      <actor>Джулианна Мур</actor>
+      <actor>Оливер Платт</actor>
+      <actor>Си Си Эйч Паундер</actor>
+      <actor>Дэн Хедайя</actor>
+      <actor>Джо Грифази</actor>
+      <actor>Уильям Х. Мэйси</actor>
+    </credits>
+    <category lang="ru">драма</category>
+    <category lang="ru">мелодрама</category>
+    <category lang="ru">комедия</category>
+    <country lang="ru">США</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>7.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20190816050000 +0300" stop="20190816090000 +0300" channel="Россия 1.ru">
+    <title lang="ru">Утро России</title>
+    <desc lang="ru">"Утро России" - это пятичасовое шоу в стиле "инфотейнмент". Каждый день мы говорим о главных событиях, о том, что интересует каждого жителя большой страны, о том, что тревожит, заставляет задуматься и вызывает гордость. В нашей студии мы ждем тех, кто на самом деле делает новости в России и принимает решения на государственном уровне, а также самых авторитетных экспертов в разных областях. Формат программы позволяет говорить с гостями студии обстоятельно и подробно. Используя новейшие технические возможности нашей студии мы можем подключить к разговору собеседника из любой точки земного шара. Кроме того, чтобы картина была более полной, мы можем использовать видеокадры и сложную компьютерную графику. Из сюжетов специальных корреспондентов вы узнаете о наиболее интересных событиях в самых разных областях жизни - и все эти события будут освещены подробно, тщательно и интересно. Экономика, общественная жизнь, права детей и взрослых, медицина и спорт - ни одна сторона жизни наших зрителей не останется вне зоны внимания программы. Любителям мира скорости и адреналина Иван Зенкевич расскажет самые свежие новости с российских автодорог. В его материалах - изменения ПДД, отношения между водителями и пешеходами и, конечно, новинки авторынка. А тем, кто любит кино и мультфильмы, - подробные рецензии на все новинки проката и репортажи со съемочных площадок. Наши корреспонденты и приглашенные нами лучшие эксперты страны помогут вам сориентироваться в любой жизненной ситуации. Как выбрать качественный товар? Как защитить свои права? Где можно сэкономить? Ответы на эти и другие вопросы каждый день в утреннем эфире.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816090000 +0300" stop="20190816092500 +0300" channel="Россия 1.ru">
+    <title lang="ru">Вести</title>
+    <desc lang="ru">В прямом эфире ведущие представят основные новости дня в сфере политики, культуры, общества и спорта. В выпуске репортажи о важнейших событиях, полученные от собственных российских и зарубежных корреспондентов.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816092500 +0300" stop="20190816095500 +0300" channel="Россия 1.ru">
+    <title lang="ru">Утро России</title>
+    <desc lang="ru">"Утро России" - это пятичасовое шоу в стиле "инфотейнмент". Каждый день мы говорим о главных событиях, о том, что интересует каждого жителя большой страны, о том, что тревожит, заставляет задуматься и вызывает гордость. В нашей студии мы ждем тех, кто на самом деле делает новости в России и принимает решения на государственном уровне, а также самых авторитетных экспертов в разных областях. Формат программы позволяет говорить с гостями студии обстоятельно и подробно. Используя новейшие технические возможности нашей студии мы можем подключить к разговору собеседника из любой точки земного шара. Кроме того, чтобы картина была более полной, мы можем использовать видеокадры и сложную компьютерную графику. Из сюжетов специальных корреспондентов вы узнаете о наиболее интересных событиях в самых разных областях жизни - и все эти события будут освещены подробно, тщательно и интересно. Экономика, общественная жизнь, права детей и взрослых, медицина и спорт - ни одна сторона жизни наших зрителей не останется вне зоны внимания программы. Любителям мира скорости и адреналина Иван Зенкевич расскажет самые свежие новости с российских автодорог. В его материалах - изменения ПДД, отношения между водителями и пешеходами и, конечно, новинки авторынка. А тем, кто любит кино и мультфильмы, - подробные рецензии на все новинки проката и репортажи со съемочных площадок. Наши корреспонденты и приглашенные нами лучшие эксперты страны помогут вам сориентироваться в любой жизненной ситуации. Как выбрать качественный товар? Как защитить свои права? Где можно сэкономить? Ответы на эти и другие вопросы каждый день в утреннем эфире.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816095500 +0300" stop="20190816110000 +0300" channel="Россия 1.ru">
+    <title lang="ru">О самом главном</title>
+    <desc lang="ru">Ученые утверждают, что один час в день, потраченный на заботу о здоровье, может прибавить 15-20 лет жизни. Каждый будний день телевизионный лучшие практикующие врачи нашей страны дают четкие рекомендации по профилактике болезней, раскрывают нюансы новейших методов лечения, развенчивают мифы о питании, тестируют актуальные методы похудения, изучают старые и создают новые косметологические рецепты, отвечают на самые наболевшие вопросы о здоровье. Когда болезнь настигает нас, мы идем к врачу, чтобы он поставил диагноз и назначил лечение. Но что делать, если врачи разводят руками? Если вы прошли всех возможных специалистов, а диагноза так и нет? И никто не знает, чем вы больны… В этих случаях на помощь придет наша программа.(n)</desc>
+    <date>2009</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816110000 +0300" stop="20190816112500 +0300" channel="Россия 1.ru">
+    <title lang="ru">Вести</title>
+    <desc lang="ru">В прямом эфире ведущие представят основные новости дня в сфере политики, культуры, общества и спорта. В выпуске репортажи о важнейших событиях, полученные от собственных российских и зарубежных корреспондентов.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816112500 +0300" stop="20190816114500 +0300" channel="Россия 1.ru">
+    <title lang="ru">Вести. Местное время</title>
+    <desc lang="ru">В нашем эфире региональные новости. Самые последние события, прямые репортажи, комментарии экспертов. В наших выпусках только самая проверенная информация.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816114500 +0300" stop="20190816125000 +0300" channel="Россия 1.ru">
+    <title lang="ru">Судьба человека</title>
+    <desc lang="ru">Судьба каждого человека неповторима. Можно ли изменить свою судьбу или она предопределена? Программа Бориса Корчевникова предлагает зрителю уникальные портретные интервью с героями программы. Борис Корчевников умеет "разговорить" любого гостя. Каждый гость один на один с ведущим откровенно и искренне обсуждает самые сокровенные вопросы, самые запретные темы. Почему однажды было принято решение, перевернувшее всю жизнь? Какие факты биографии до сих пор были скрыты от публики, какие эмоции пришлось пережить на главных поворотах судьбы - в этой студии не скрывают ничего. Здесь нет запретных тем, а любые пикантные факты получают комментарии "из первых уст". В гостях у Бориса Корчевникова побывали Владимир Соловьев , Мария Аронова , Никита Михалков , Владимир Меньшов , Маша Распутина , Костя Цзю , Карен Шахназаров , Ирина Скобцева , Алла Демидова , Роман Карцев , Анна Ковальчук , Владимир Жириновский , Татьяна Буланова , Елена Яковлева , Тамара Гвердцители, Юрий Антонов, Геннадий Хазанов , Михаил Боярский , Денис Мацуев , Родион Нахапетов , Николай Цискаридзе , Наталья Белохвостикова , Юрий Соломин , Лев Лещенко , Татьяна Тарасова , Владимир Винокур , Ирина Безрукова , Валерия , Ирина Хакамада , Юлия Ауг , Александр Розенбаум и многие другие знаменитые артисты, музыканты и спортсмены.(n)</desc>
+    <date>2017</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816125000 +0300" stop="20190816140000 +0300" channel="Россия 1.ru">
+    <title lang="ru">60 Минут</title>
+    <desc lang="ru">В новом социально-политическом ток-шоу каждый день ведущие и гости программы обсуждают главную тему текущего дня. В студию приглашаются политические и общественные деятели, эксперты по актуальной проблематике.(n)</desc>
+    <date>2016</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816140000 +0300" stop="20190816142500 +0300" channel="Россия 1.ru">
+    <title lang="ru">Вести</title>
+    <desc lang="ru">В прямом эфире ведущие представят основные новости дня в сфере политики, культуры, общества и спорта. В выпуске репортажи о важнейших событиях, полученные от собственных российских и зарубежных корреспондентов.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816142500 +0300" stop="20190816144500 +0300" channel="Россия 1.ru">
+    <title lang="ru">Вести. Местное время</title>
+    <desc lang="ru">В нашем эфире региональные новости. Самые последние события, прямые репортажи, комментарии экспертов. В наших выпусках только самая проверенная информация.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816144500 +0300" stop="20190816170000 +0300" channel="Россия 1.ru">
+    <title lang="ru">Кто против?</title>
+    <desc lang="ru">Количество экспертов по каждой из тем — от шести до восьми человек. Основной пул экспертов постоянный. Интерактив: Зрители программы могут звонить или отправлять смс по указанному телефону для того, чтобы выразить свое согласие с тем гостем или ведущим, который выступает в данный момент. Уровень поддержки зрителей графически отражается на экране. Особенности: На стойках у экспертов лежат планшеты с подключением к Интернету. Они могут использовать их в течение всей программы для того, чтобы найти нужную информацию: новости, даты, цифры, видео или другие данные, необходимые им для усиления позиции в споре. Режиссер в любой момент может вывести изображение с мониторов экспертов и показать зрителям, какие страницы сейчас открыты. Ведущие могут показывать экспертам желтую карточку (предупреждение) или красную (просьба покинуть студию), если участники дискуссии нарушают регламент, оскорбляют оппонентов и т.д.(n)</desc>
+    <date>2019</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816170000 +0300" stop="20190816172500 +0300" channel="Россия 1.ru">
+    <title lang="ru">Вести. Местное время</title>
+    <desc lang="ru">В нашем эфире региональные новости. Самые последние события, прямые репортажи, комментарии экспертов. В наших выпусках только самая проверенная информация.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816172500 +0300" stop="20190816185000 +0300" channel="Россия 1.ru">
+    <title lang="ru">Прямой эфир</title>
+    <desc lang="ru">"Андрей Малахов. Прямой эфир" — настоящая хроника нашей жизни. Это программа о каждом из нас: о том, что нас волнует и чем живет страна. Ежедневно по будням в студии "Прямого эфира" самые громкие журналистские расследования, актуальные события, сенсации из мира звезд и люди, которым нужна наша помощь. Только в "Прямом эфире" можно из уст непосредственных участников и очевидцев узнать о проблемах, которые волнуют каждого. Для Андрея Малахова не существует неразрешимых вопросов. Во время "Прямого эфира" раскрываются запутанные загадки прошлого, выявляются правые и виноватые в самых сложных конфликтах, а люди, потерявшие надежду, обретают ее вновь! Берегите себя и своих близких! Ведущий: Андрей Малахов Чтобы принять участие в программе, задать вопрос и высказать свое мнение, звоните по телефону +7 (499) 653-65-55 или пишите на info@amefir.tv.(n)</desc>
+    <date>2017</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816185000 +0300" stop="20190816200000 +0300" channel="Россия 1.ru">
+    <title lang="ru">60 Минут</title>
+    <desc lang="ru">В новом социально-политическом ток-шоу каждый день ведущие и гости программы обсуждают главную тему текущего дня. В студию приглашаются политические и общественные деятели, эксперты по актуальной проблематике.(n)</desc>
+    <date>2016</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816200000 +0300" stop="20190816204500 +0300" channel="Россия 1.ru">
+    <title lang="ru">Вести в 20:00</title>
+    <desc lang="ru">"Вести" - информационная телевизионная программа Всероссийской государственной телерадиокомпании. Это - самые последние новости к часу в России и в мире. Итоги дня в прямом эфире.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816204500 +0300" stop="20190816210000 +0300" channel="Россия 1.ru">
+    <title lang="ru">Вести. Местное время</title>
+    <desc lang="ru">В нашем эфире региональные новости. Самые последние события, прямые репортажи, комментарии экспертов. В наших выпусках только самая проверенная информация.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816210000 +0300" stop="20190817010000 +0300" channel="Россия 1.ru">
+    <title lang="ru">Куда уходят дожди</title>
+    <desc lang="ru">Нина — состоявшаяся и успешная женщина. Она привыкла всем руководить в этой жизни — мужем, сыном и бизнесом. И вдруг сын Саша без спроса женится на неизвестной девушке Жене и приводит её жить в родительский дом. Нина не одобряет выбор сына. Внезапно всё в жизни Нины начинает рушиться. Всё начинается с проблем в бизнесе, из-за неприязни к Жене осложняются отношения с мужем и сыном. В итоге образцовая семья Нины оказывается на грани распада. Но Нина уверена, что на самом деле Женя не так проста, как кажется, от неё не стоит ждать добра….(n)</desc>
+    <credits>
+      <director>Алексей Карелин</director>
+      <actor>Татьяна Колганова</actor>
+      <actor>Олеся Фаттахова</actor>
+      <actor>Олег Гарбуз</actor>
+      <actor>Андрей Сенькин</actor>
+      <actor>Светлана Кожемякина</actor>
+      <actor>Кирилл Новицкий</actor>
+      <actor>Валерия Мельник</actor>
+    </credits>
+    <category lang="ru">мелодрама</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190816051000 +0300" stop="20190816060000 +0300" channel="НТВ.ru">
+    <title lang="ru">Кодекс чести</title>
+    <sub-title lang="ru">Месть</sub-title>
+    <desc lang="ru">На берегу моря обнаружен труп иностранного учёного и бизнесмена - Николаса Тейда. Полицейские уверены в том, что он утонул из-за удара головой о камни во время плавания в море. Но экспертиза устанавливает, что Тейд скончался от отравления ядом. Расследование убийства поручается сотрудникам УПСМ. Группа Пастуха выясняет, что накануне трагедии, Николас Тейд отправился на морскую прогулку на арендованной им яхте. Сын хозяина яхты уверяет Пастуха, что на палубе, вместе с Тейдом была рыжеволосая женщина. Яхту находят, пришвартованную в бухте, в каюте находят бокалы с остатками спиртного и бутылку. На одном из бокалов - отпечатки пальцев Тейда, а в содержимом бокала - присутствие яда. На другом бокале обнаружены отпечатки пальцев неизвестного….(n)</desc>
+    <credits>
+      <director>Георгий Николаенко</director>
+      <actor>Игорь Лагутин</actor>
+      <actor>Игнат Акрачков</actor>
+      <actor>Мария Аниканова</actor>
+      <actor>Григорий Антипенко</actor>
+      <actor>Мария Бортник</actor>
+      <actor>Юрий Брешин</actor>
+      <actor>Альберт Буров</actor>
+      <actor>Алексей Ванифатьев</actor>
+      <actor>Виктор Вержбицкий</actor>
+      <actor>Вера Воронкова</actor>
+    </credits>
+    <category lang="ru">боевик</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>7.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20190816060000 +0300" stop="20190816080500 +0300" channel="НТВ.ru">
+    <title lang="ru">Утро. Самое лучшее</title>
+    <desc lang="ru">Вкусное, развлекательное, звёздное и полезное — всё самое интересное телеканал НТВ предлагает зрителям в утреннем шоу "Утро. Самое лучшее". Чтобы каждый день начинался правильно, ведущие самых популярных лайфстайл-программ выходных дней — Сергей Малозёмов ("Чудо техники" и "Еда живая и мёртвая"), Джон Уоррен ("Поедем, поедим!"), Юлия Высоцкая ("Едим дома!"), Алексей Куличков ("Первая передача"), Андрей Федорцов и Денис Юченков ("Главная дорога"), Виталий Орлов, Александра Александрова и Максим Щугорев ("Кто в доме хозяин?"), Олег Солнцев ("НашПотребНадзор"), Сергей Майоров ("Однажды…") и Евгений Маргулис ("Квартирник НТВ у Маргулиса") — подарят аудитории бодрое настроение, расскажут о новинках, благодаря которым можно улучшить качество жизни, отправятся в путешествия и вкусно приготовят блюда. А встречать каждое новое утро вместе со зрителями НТВ будет Александр Олешко.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816080500 +0300" stop="20190816090200 +0300" channel="НТВ.ru">
+    <title lang="ru">Мухтар. Новый след</title>
+    <sub-title lang="ru">Закон равновесия</sub-title>
+    <desc lang="ru">Реквизитор съёмочной группы на своей машине должна была доставить на съёмку чемоданчик, в котором хранились копии настоящих украшений Марии Медичи, изготовленные специально для исторического фильма. Но её машина попала в ДТП. Никто не пострадал, но для оформления акта женщине необходимо было задержаться у машины. Виновник ДТП, немолодой мужчина, предложил ей вызвать курьерскую службу для доставки чемоданчика в киногруппу. Он сказал, что не раз пользовался этой услугой, и тут всё надежно. Так и сделали. Но курьер исчез вместе с чемоданчиком. Теперь всё зависит от Мухтара….(n)</desc>
+    <credits>
+      <director>Наталия Микрюкова</director>
+      <actor>Владимир Фекленко</actor>
+      <actor>Светлана Брюханова</actor>
+      <actor>Надежда Анципович</actor>
+      <actor>Евгений Токарев</actor>
+      <actor>Алексей Моисеев</actor>
+    </credits>
+    <category lang="ru">приключения</category>
+    <category lang="ru">детективный</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190816090200 +0300" stop="20190816100000 +0300" channel="НТВ.ru">
+    <title lang="ru">Мухтар. Новый след</title>
+    <sub-title lang="ru">Опасная история</sub-title>
+    <desc lang="ru">Таинственным образом исчезает сотрудник института — профессор истории Олег Ливанцов. Подозревается в пропаже историка доцент Пыльман. Натянутые отношения между коллегами стали мотивом для его задержания. Но после допроса становится ясно, что Пыльман невиновен. Во время розыска пропавших по отпечаткам пальцев сыщики выходят на ранее судимого за кражи Сергея Хлестова. По рассказам его бабушки, Сергей работал таксистом и недавно заинтересовался историей своего рода. Это и стало главной связующей нитью в деле пропавших….(n)</desc>
+    <credits>
+      <director>Наталия Микрюкова</director>
+      <actor>Владимир Фекленко</actor>
+      <actor>Светлана Брюханова</actor>
+      <actor>Надежда Анципович</actor>
+      <actor>Евгений Токарев</actor>
+      <actor>Алексей Моисеев</actor>
+    </credits>
+    <category lang="ru">приключения</category>
+    <category lang="ru">детективный</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20190816100000 +0300" stop="20190816102000 +0300" channel="НТВ.ru">
+    <title lang="ru">Сегодня</title>
+    <desc lang="ru">"Сегодня" — визитная карточка канала. Новости НТВ — это всё значимое и интересное, что происходит в России и за рубежом: события из мира политики, экономики, культуры и спорта, происшествия и светская хроника. Десятки репортёров в российских городах, постоянно действующие корпункты в Европе, США, странах СНГ, специальные корреспонденты, готовые немедленно отправиться в любую точку мира и выйти в прямой эфир.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816102000 +0300" stop="20190816111300 +0300" channel="НТВ.ru">
+    <title lang="ru">Лесник-3</title>
+    <sub-title lang="ru">Маугли: Часть 1-я</sub-title>
+    <desc lang="ru">Леонид, увидев, как Костыль на привокзальном рынке "прессует" подростка-попрошайку, вступается за парня и увозит его. "Братки" пытаются отбить мальчишку, но Зубов с Сивым дают им отпор. Отмыв и покормив сироту, друзья замечают, что ведёт он себя странно. Сивый злится, а Зубов проявляет терпение. "Смотрящий" в бешенстве. Подростка он "купил" для работы на вокзале у директора детского дома, а теперь какой-то бывший лесник украл у него "товар".(n)</desc>
+    <date>2015</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816111300 +0300" stop="20190816120600 +0300" channel="НТВ.ru">
+    <title lang="ru">Лесник-3</title>
+    <sub-title lang="ru">Маугли: Часть 2-я</sub-title>
+    <desc lang="ru">Леонид, увидев, как Костыль на привокзальном рынке "прессует" подростка-попрошайку, вступается за парня и увозит его. "Братки" пытаются отбить мальчишку, но Зубов с Сивым дают им отпор. Отмыв и покормив сироту, друзья замечают, что ведёт он себя странно. Сивый злится, а Зубов проявляет терпение. "Смотрящий" в бешенстве. Подростка он "купил" для работы на вокзале у директора детского дома, а теперь какой-то бывший лесник украл у него "товар".(n)</desc>
+    <date>2015</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816120600 +0300" stop="20190816130000 +0300" channel="НТВ.ru">
+    <title lang="ru">Лесник-3</title>
+    <sub-title lang="ru">Фальшивки: Часть 1-я</sub-title>
+    <desc lang="ru">Специальный отряд быстрого реагирования врывается в подпольную типографию, где производят фальшивые деньги. Одному из преступников удаётся скрыться… Зубов пытается устроить Артёма в школу, но директор не хочет брать мальчика без документов. На выручку приходят учительница и её жених Аркадий Пачулин, художник-оформитель из местного клуба. Именно его бандиты собираются привлечь к изготовлению новых фальшивок.(n)</desc>
+    <date>2015</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816130000 +0300" stop="20190816132500 +0300" channel="НТВ.ru">
+    <title lang="ru">Сегодня</title>
+    <desc lang="ru">"Сегодня" — визитная карточка канала. Новости НТВ — это всё значимое и интересное, что происходит в России и за рубежом: события из мира политики, экономики, культуры и спорта, происшествия и светская хроника. Десятки репортёров в российских городах, постоянно действующие корпункты в Европе, США, странах СНГ, специальные корреспонденты, готовые немедленно отправиться в любую точку мира и выйти в прямой эфир.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816132500 +0300" stop="20190816140000 +0300" channel="НТВ.ru">
+    <title lang="ru">ЧП</title>
+    <desc lang="ru">"Чрезвычайное происшествие" — один из самых популярных проектов НТВ. Наши зрители всегда первыми узнают о том, что случилось. Двадцать четыре часа в сутки корреспонденты программы следят за развитием чрезвычайных событий в стране и мире. За столько лет в эфире "ЧП" стала визитной карточкой канала. Для информационной программы это серьёзный возраст. Наши журналисты стараются освещать события максимально объективно. "ЧП" — это новости без политики. Старшее поколение ещё помнит прежнее название программы — "Криминал", впервые вышедшей в эфир в 1997 году. "ЧП" входит в редакцию общественно-правовых программ Дирекции информации, возглавляет программу Андрей Иванов. В жанре криминальной журналистики он работает более 10 лет. Репортёры НТВ уже не раз доказывали, что невыполнимых задач не существует! Если хотите первыми увидеть эксклюзивные кадры самых громких событий в стране и мире, Вы — наш зритель!(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816140000 +0300" stop="20190816150000 +0300" channel="НТВ.ru">
+    <title lang="ru">Шеф. Новая жизнь</title>
+    <sub-title lang="ru">Старая тема</sub-title>
+    <desc lang="ru">Расторгуева вновь переводят на работу в Петербург в Управлении уголовного розыска главка. Ему поручают сопроводить киллера Леху Честного к месту, где тот спрятал пистолет и останки убитого им много лет назад лидера крупной ОПГ Зарецкого. Леха признается в убийстве Зарецкого и готов назвать имя заказчика, но на следующий день кто-то помогает ему сбежать, а вскоре киллера находят мертвым.(n)</desc>
+    <date>2015</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816150000 +0300" stop="20190816160000 +0300" channel="НТВ.ru">
+    <title lang="ru">Шеф. Новая жизнь</title>
+    <sub-title lang="ru">Верить нельзя никому</sub-title>
+    <desc lang="ru">Сын влиятельного банкира Бурмашевского сбивает на машине у ночного клуба несколько человек и скрывается с места преступления. Дело получает широкую огласку. Адвокат Павлов пытается уговорить Расторгуева замять "неприятный инцидент", предлагая Истоминой кредит под ее бизнес в банке Бурмашевского на выгодных условиях, но Расторгуев остается верным своим принципам.(n)</desc>
+    <date>2015</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816160000 +0300" stop="20190816162500 +0300" channel="НТВ.ru">
+    <title lang="ru">Сегодня</title>
+    <desc lang="ru">"Сегодня" — визитная карточка канала. Новости НТВ — это всё значимое и интересное, что происходит в России и за рубежом: события из мира политики, экономики, культуры и спорта, происшествия и светская хроника. Десятки репортёров в российских городах, постоянно действующие корпункты в Европе, США, странах СНГ, специальные корреспонденты, готовые немедленно отправиться в любую точку мира и выйти в прямой эфир.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816162500 +0300" stop="20190816171600 +0300" channel="НТВ.ru">
+    <title lang="ru">Шеф. Новая жизнь</title>
+    <sub-title lang="ru">Девять дней</sub-title>
+    <desc lang="ru">Тихомиров, у которого убили дочь, отказывается сообщить следствию приметы киллера, ссылаясь на тёмное время суток. Однако Расторгуев прекрасно понимает, что он хочет самостоятельно найти и наказать убийцу. Вскоре Костя Локтев устанавливает личность предполагаемого киллера. Однако Расторгуев запрещает Локтеву разрабатывать эту версию. Понимая, что над Тихомировым нависла угроза, Расторгуев инсценирует его арест.(n)</desc>
+    <date>2015</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816171600 +0300" stop="20190816180800 +0300" channel="НТВ.ru">
+    <title lang="ru">Шеф. Новая жизнь</title>
+    <sub-title lang="ru">Обещание</sub-title>
+    <desc lang="ru">Расторгуев недоволен прекращением дела о покушении на Тихомирова и убийстве его дочери. Вопреки решению руководства, он продолжает поиски заказчика преступления. Тем временем Тяни-Толкай требует Мирошникова завершить дело и найти нового исполнителя для устранения Тихомирова.(n)</desc>
+    <date>2015</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816180800 +0300" stop="20190816190000 +0300" channel="НТВ.ru">
+    <title lang="ru">Шеф. Новая жизнь</title>
+    <sub-title lang="ru">Слабое место</sub-title>
+    <desc lang="ru">Мирошников недоволен возвращением Некрасова в Петербург и поручает своему коллеге - коррумпированному начальнику убойного отдела полиции Демидову разобраться с ним. Но покушение на Некрасова оборачивается неудачей. Начальник Расторгуева Арефьев намекает Расторгуеву на связи Демидова с криминальным миром и предлагает изобличить его до того, как это сделает ОСБ.(n)</desc>
+    <date>2015</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816190000 +0300" stop="20190816194000 +0300" channel="НТВ.ru">
+    <title lang="ru">Сегодня</title>
+    <desc lang="ru">"Сегодня" — визитная карточка канала. Новости НТВ — это всё значимое и интересное, что происходит в России и за рубежом: события из мира политики, экономики, культуры и спорта, происшествия и светская хроника. Десятки репортёров в российских городах, постоянно действующие корпункты в Европе, США, странах СНГ, специальные корреспонденты, готовые немедленно отправиться в любую точку мира и выйти в прямой эфир.(n)</desc>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816194000 +0300" stop="20190816203300 +0300" channel="НТВ.ru">
+    <title lang="ru">Шеф. Новая жизнь</title>
+    <sub-title lang="ru">Сделка</sub-title>
+    <desc lang="ru">Мирошников и его подручный Николаев задерживают крупную партию наркотиков, принадлежащую бандитам - конкурентам авторитета Речника. Таким образом Мирошников "отрабатывает" вложенные в его назначение бандой Речника капиталы, а также укрепляет свое положение в глазах своего начальства - Арефьева. Кроме того, Мирошников решает протолкнуть на освободившееся место начальника убойного отдела своего доверенного человека - майора Сунгарова. Однако Расторгуев узнает об этом и решает вступить в войну с зарвавшимся коррупционером.(n)</desc>
+    <date>2015</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816203300 +0300" stop="20190816212600 +0300" channel="НТВ.ru">
+    <title lang="ru">Шеф. Новая жизнь</title>
+    <sub-title lang="ru">Сведение счетов</sub-title>
+    <desc lang="ru">На адвоката Павлова совершено дерзкое нападение прямо в его доме. Случайно оказавшийся рядом Расторгуев бросается на помощь и отпугивает бандитов. По его инициативе возобновляется старое дело о разбойных нападениях на дома влиятельных людей. Выясняется, что неуловимая банда действовала слаженно и никогда не оставляла своих жертв в живых. Расторгуев поручает расследование Некрасову, который через знакомого авторитета Эшана быстро выходит на наводчицу - сестру одного из налетчиков.(n)</desc>
+    <date>2015</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816212600 +0300" stop="20190816222000 +0300" channel="НТВ.ru">
+    <title lang="ru">Шеф. Новая жизнь</title>
+    <sub-title lang="ru">Ротация кадров</sub-title>
+    <desc lang="ru">Сунгаров на новом месте работы жестоко расправляется с местной преступной группировкой - по его приказу расстреливают всех членов банды и главаря за отказ передать Сунгарову контроль над местным заводом. От своих информаторов Расторгуев узнает, что вскоре должна пройти сходка авторитетов всего города, на которой планируется избрать нового смотрящего за Петербургом. Главные кандидаты на эту роль Тарас и Мясорубка. Заручившись поддержкой на самом высоком уровне, Расторгуев проводит тайную операцию по захвату бандитов. Однако Тарасу удается скрыться.(n)</desc>
+    <date>2015</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190816222000 +0300" stop="20190816235500 +0300" channel="НТВ.ru">
+    <title lang="ru">Конец света</title>
+    <desc lang="ru">Для Валеры Соколова знаменательный день 21 декабря 2012 года, когда согласно календарю Майя должен наступить конец света, стал поистине неудачным. Сначала он поссорился с женой из-за компрометирующих его фотографий, на которых он работал под прикрытием в ресторане вместе с девицей легкого поведения. Жена выгоняет Соколова из дома, грозя ему проблемами на работе. Но их и так с лихвой хватает — обезумевшие сектанты захватили ДК и требуют предоставить им эфир на федеральных каналах.(n)</desc>
+    <credits>
+      <director>Богдан Дробязко</director>
+      <actor>Валентин Кузнецов</actor>
+      <actor>Алексей Фокин</actor>
+      <actor>Владимир Матвеев</actor>
+      <actor>Вячеслав Коробицин</actor>
+      <actor>Екатерина Зорина</actor>
+      <actor>Галина Сумина</actor>
+      <actor>Олег Абалян</actor>
+      <actor>Руслан Барабанов</actor>
+      <actor>Игорь Головин</actor>
+      <actor>Михаил Соловьев</actor>
+    </credits>
+    <category lang="ru">детектив</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>3.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20190816235500 +0300" stop="20190817004500 +0300" channel="НТВ.ru">
+    <title lang="ru">Свидетели</title>
+    <sub-title lang="ru">Договорщики</sub-title>
+    <desc lang="ru">В автомобиле находились совладельцы компании Аркадий Савельев и Николай Кочергин. Выживший после взрыва Кочергин утверждает, что друзья собирались на рыбалку, а всё произошедшее — несчастный случай. Однако агенты быстро устанавливают истину….(n)</desc>
+    <credits>
+      <director>Юрий Харнас</director>
+      <director>Игорь Твердохлебов</director>
+      <director>Илья Шеховцов</director>
+      <director>Михаил Богдасаров</director>
+      <actor>Николай Сердцев</actor>
+      <actor>Станислав Повольнов</actor>
+      <actor>Татьяна Храмова</actor>
+      <actor>Лора Резникова</actor>
+      <actor>Егор Вадов</actor>
+      <actor>Александр Дуда</actor>
+      <actor>Екатерина Буйлова</actor>
+      <actor>Ирина Шеянова</actor>
+      <actor>Артем Федотов</actor>
+      <actor>Антон Савватимов</actor>
+    </credits>
+    <category lang="ru">криминал</category>
+    <category lang="ru">детективный</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190817004500 +0300" stop="20190817013500 +0300" channel="НТВ.ru">
+    <title lang="ru">Свидетели</title>
+    <sub-title lang="ru">Мальчишник</sub-title>
+    <desc lang="ru">Рядом с мужчиной в гробу лежали мобильный телефон, использованный баллон для воздуха и фонарик. Выясняется, что у жертвы в этот день должна была состояться свадьба, а "похороны" — своеобразный обряд прощания с холостяцкой жизнью, составная часть мальчишника. Друзья должны были откопать жениха через пять часов. Агенты пытаются выяснить, почему они этого не сделали. Но друзей находят убитыми….(n)</desc>
+    <credits>
+      <director>Юрий Харнас</director>
+      <director>Игорь Твердохлебов</director>
+      <director>Илья Шеховцов</director>
+      <director>Михаил Богдасаров</director>
+      <actor>Николай Сердцев</actor>
+      <actor>Станислав Повольнов</actor>
+      <actor>Татьяна Храмова</actor>
+      <actor>Лора Резникова</actor>
+      <actor>Егор Вадов</actor>
+      <actor>Александр Дуда</actor>
+      <actor>Екатерина Буйлова</actor>
+      <actor>Ирина Шеянова</actor>
+      <actor>Артем Федотов</actor>
+      <actor>Антон Савватимов</actor>
+    </credits>
+    <category lang="ru">криминал</category>
+    <category lang="ru">детективный</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20190817013500 +0300" stop="20190817021500 +0300" channel="НТВ.ru">
+    <title lang="ru">Таинственная Россия</title>
+    <desc lang="ru">Уникальные географические зоны и творения рук человека, природные аномалии и памятники исчезнувших цивилизаций, удивительные люди, хранящие необычайные знания… Каждый фильм цикла посвящён одному из российских регионов. Это Ростовская, Волгоградская, Ульяновская, Челябинская, Свердловская, Ярославская, Тверская, Нижегородская, Астраханская, Калининградская области, Краснодарский край, Республика Карелия, Татарстан, Приэльбрусье, Ямало-Ненецкий автономный округ. Создатели не только исследуют тайны и мифы, но и развенчают легенды, не имеющие под собой реального основания. Они детально изучат исторические места, аномальные зоны и удивительные природные явления. Порой, чтобы попасть на "объект", съёмочной группе придётся преодолеть множество препятствий и буквально на себе проверить достоверность предположений, слухов и легенд. В работе над проектом авторам помогут опытные исследователи, а свои точки зрения предложат специалисты от официальной науки, а также те, кто называет себя экстрасенсами или провидцами.(n)</desc>
+    <date>2010</date>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+  </programme>
+  <programme start="20190817021500 +0300" stop="20190817030100 +0300" channel="НТВ.ru">
+    <title lang="ru">Паутина</title>
+    <sub-title lang="ru">Ведро Пандоры: Часть 1-я</sub-title>
+    <desc lang="ru">Туманов приезжает в НИИ на место убийства профессора Калача. Осматривая его кабинет, он понимает, что только что в паспорте парня, встреченного на улице, видел фото убитого профессора, а парень - киллер… Через месяц патрульные полицейские замечают двух подозрительных мужчин, бегут за ними и натыкаются на труп мужчины в домашнем халате и тапочках. Никто из опрошенных местных жителей его здесь не видел. Выясняется, что это - опытный вор-медвежатник Фролов, а чуть позже, что он разыскивается по подозрению в угоне автомобиля. Упорство Туманова и Грекова в расследовании дела Фролова явно кому-то не нравится, неизвестные устраивают за операми слежку….(n)</desc>
+    <credits>
+      <director>Владимир Краснопольский</director>
+      <director>Валерий Усков</director>
+      <director>Михаил Мамедов</director>
+      <actor>Олег Харитонов</actor>
+      <actor>Олег Шкловский</actor>
+      <actor>Олег Филипчик</actor>
+      <actor>Виктор Запорожский</actor>
+      <actor>Константин Соловьев</actor>
+      <actor>Наталья Юнникова</actor>
+      <actor>Юлия Пересильд</actor>
+      <actor>Олег Каменщиков</actor>
+      <actor>Алексей Гришин</actor>
+      <actor>Сергей Легостаев</actor>
+    </credits>
+    <category lang="ru">криминал</category>
+    <category lang="ru">детективный</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20190817030100 +0300" stop="20190817034700 +0300" channel="НТВ.ru">
+    <title lang="ru">Паутина</title>
+    <sub-title lang="ru">Ведро Пандоры: Часть 2-я</sub-title>
+    <desc lang="ru">Туманов приезжает в НИИ на место убийства профессора Калача. Осматривая его кабинет, он понимает, что только что в паспорте парня, встреченного на улице, видел фото убитого профессора, а парень - киллер… Через месяц патрульные полицейские замечают двух подозрительных мужчин, бегут за ними и натыкаются на труп мужчины в домашнем халате и тапочках. Никто из опрошенных местных жителей его здесь не видел. Выясняется, что это - опытный вор-медвежатник Фролов, а чуть позже, что он разыскивается по подозрению в угоне автомобиля. Упорство Туманова и Грекова в расследовании дела Фролова явно кому-то не нравится, неизвестные устраивают за операми слежку….(n)</desc>
+    <credits>
+      <director>Владимир Краснопольский</director>
+      <director>Валерий Усков</director>
+      <director>Михаил Мамедов</director>
+      <actor>Олег Харитонов</actor>
+      <actor>Олег Шкловский</actor>
+      <actor>Олег Филипчик</actor>
+      <actor>Виктор Запорожский</actor>
+      <actor>Константин Соловьев</actor>
+      <actor>Наталья Юнникова</actor>
+      <actor>Юлия Пересильд</actor>
+      <actor>Олег Каменщиков</actor>
+      <actor>Алексей Гришин</actor>
+      <actor>Сергей Легостаев</actor>
+    </credits>
+    <category lang="ru">криминал</category>
+    <category lang="ru">детективный</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20190817034700 +0300" stop="20190817043300 +0300" channel="НТВ.ru">
+    <title lang="ru">Паутина</title>
+    <sub-title lang="ru">Ведро Пандоры: Часть 3-я</sub-title>
+    <desc lang="ru">Туманов приезжает в НИИ на место убийства профессора Калача. Осматривая его кабинет, он понимает, что только что в паспорте парня, встреченного на улице, видел фото убитого профессора, а парень - киллер… Через месяц патрульные полицейские замечают двух подозрительных мужчин, бегут за ними и натыкаются на труп мужчины в домашнем халате и тапочках. Никто из опрошенных местных жителей его здесь не видел. Выясняется, что это - опытный вор-медвежатник Фролов, а чуть позже, что он разыскивается по подозрению в угоне автомобиля. Упорство Туманова и Грекова в расследовании дела Фролова явно кому-то не нравится, неизвестные устраивают за операми слежку….(n)</desc>
+    <credits>
+      <director>Владимир Краснопольский</director>
+      <director>Валерий Усков</director>
+      <director>Михаил Мамедов</director>
+      <actor>Олег Харитонов</actor>
+      <actor>Олег Шкловский</actor>
+      <actor>Олег Филипчик</actor>
+      <actor>Виктор Запорожский</actor>
+      <actor>Константин Соловьев</actor>
+      <actor>Наталья Юнникова</actor>
+      <actor>Юлия Пересильд</actor>
+      <actor>Олег Каменщиков</actor>
+      <actor>Алексей Гришин</actor>
+      <actor>Сергей Легостаев</actor>
+    </credits>
+    <category lang="ru">криминал</category>
+    <category lang="ru">детективный</category>
+    <country lang="ru">Россия</country>
+    <rating system="RU">
+      <value>18+</value>
+    </rating>
+    <star-rating system="RU">
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+</tv>

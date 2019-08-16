@@ -1,0 +1,818 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CT 1 HD.cz">
+    <display-name lang="en">CT 1 HD</display-name>
+    <icon src="https://wp14-images-cz-dynamic.horizon.tv/Logos/5053.f.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CT 2 HD.cz">
+    <display-name lang="en">CT 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nova HD.cz">
+    <display-name lang="en">Nova HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima HD.cz">
+    <display-name lang="en">Prima HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CT 24 HD.cz">
+    <display-name lang="en">CT 24 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CT sport HD.cz">
+    <display-name lang="en">CT sport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CT D HD  CT art HD.cz">
+    <display-name lang="en">CT D HD  CT art HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nova Cinema HD.cz">
+    <display-name lang="en">Nova Cinema HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nova Action HD.cz">
+    <display-name lang="en">Nova Action HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nova Gold HD.cz">
+    <display-name lang="en">Nova Gold HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nova 2 HD.cz">
+    <display-name lang="en">Nova 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima Comedy Central.cz">
+    <display-name lang="en">Prima Comedy Central</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima COOL HD.cz">
+    <display-name lang="en">Prima COOL HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima ZOOM HD.cz">
+    <display-name lang="en">Prima ZOOM HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima love HD.cz">
+    <display-name lang="en">Prima love HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima MAX HD.cz">
+    <display-name lang="en">Prima MAX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Barrandov TV HD.cz">
+    <display-name lang="en">Barrandov TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kino Barrandov HD.cz">
+    <display-name lang="en">Kino Barrandov HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Barrandov Plus HD.cz">
+    <display-name lang="en">Barrandov Plus HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RELAX HD.cz">
+    <display-name lang="en">RELAX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Jednotka.cz">
+    <display-name lang="en">Jednotka</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Dvojka.cz">
+    <display-name lang="en">Dvojka</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Seznamcz TV HD.cz">
+    <display-name lang="en">Seznamcz TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="JOJ Family HD.cz">
+    <display-name lang="en">JOJ Family HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="JOJ Cinema HD.cz">
+    <display-name lang="en">JOJ Cinema HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox.cz">
+    <display-name lang="en">FilmBox</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AMC HD.cz">
+    <display-name lang="en">AMC HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Prima KRIMI HD.cz">
+    <display-name lang="en">Prima KRIMI HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="UPC show HD.cz">
+    <display-name lang="en">UPC show HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO HD.cz">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO 2 HD.cz">
+    <display-name lang="en">HBO 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO 3 HD.cz">
+    <display-name lang="en">HBO 3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cinemax HD.cz">
+    <display-name lang="en">Cinemax HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cinemax 2 HD.cz">
+    <display-name lang="en">Cinemax 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film Europe HD.cz">
+    <display-name lang="en">Film Europe HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Extra HD.cz">
+    <display-name lang="en">FilmBox Extra HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Premium HD.cz">
+    <display-name lang="en">FilmBox Premium HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN.cz">
+    <display-name lang="en">AXN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN HD.cz">
+    <display-name lang="en">AXN HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN Black.cz">
+    <display-name lang="en">AXN Black</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN White.cz">
+    <display-name lang="en">AXN White</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CS mini  CS film  Horor film.cz">
+    <display-name lang="en">CS mini  CS film  Horor film</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kino Svet.cz">
+    <display-name lang="en">Kino Svet</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Film HD CZ.cz">
+    <display-name lang="en">Film HD CZ</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Plus.cz">
+    <display-name lang="en">FilmBox Plus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Family.cz">
+    <display-name lang="en">FilmBox Family</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Barrandov Family.cz">
+    <display-name lang="en">Barrandov Family</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TLC.cz">
+    <display-name lang="en">TLC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nova Sport 1 HD.cz">
+    <display-name lang="en">Nova Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nova Sport 2 HD.cz">
+    <display-name lang="en">Nova Sport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 HD.cz">
+    <display-name lang="en">Eurosport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 2 HD.cz">
+    <display-name lang="en">Eurosport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sport 1 HD.cz">
+    <display-name lang="en">Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sport 2 HD.cz">
+    <display-name lang="en">Sport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sport 5.cz">
+    <display-name lang="en">Sport 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="arena sport 1 HD.cz">
+    <display-name lang="en">arena sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="arena sport 2.cz">
+    <display-name lang="en">arena sport 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AutoMotorSport HD.cz">
+    <display-name lang="en">AutoMotorSport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Golf Channel HD.cz">
+    <display-name lang="en">Golf Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Extreme Sports.cz">
+    <display-name lang="en">Extreme Sports</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fightbox HD.cz">
+    <display-name lang="en">Fightbox HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fast  Fun HD.cz">
+    <display-name lang="en">Fast  Fun HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Docubox HD.cz">
+    <display-name lang="en">Docubox HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="WAR.cz">
+    <display-name lang="en">WAR</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Showcase HD.cz">
+    <display-name lang="en">Discovery Showcase HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet HD.cz">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery HD.cz">
+    <display-name lang="en">Discovery HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DTX HD.cz">
+    <display-name lang="en">DTX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Science HD.cz">
+    <display-name lang="en">Discovery Science HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="IDX HD.cz">
+    <display-name lang="en">IDX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Spektrum HD.cz">
+    <display-name lang="en">Spektrum HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="History HD.cz">
+    <display-name lang="en">History HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="National Geographic.cz">
+    <display-name lang="en">National Geographic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="National Geographic HD.cz">
+    <display-name lang="en">National Geographic HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild HD.cz">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Spektrum home.cz">
+    <display-name lang="en">Spektrum home</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Paprika.cz">
+    <display-name lang="en">TV Paprika</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CBS Reality.cz">
+    <display-name lang="en">CBS Reality</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fishing and Hunting.cz">
+    <display-name lang="en">Fishing and Hunting</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Travel Channel HD.cz">
+    <display-name lang="en">Travel Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viasat Explore.cz">
+    <display-name lang="en">Viasat Explore</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viasat History.cz">
+    <display-name lang="en">Viasat History</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Viasat NH HD.cz">
+    <display-name lang="en">Viasat NH HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Crime and Investigation.cz">
+    <display-name lang="en">Crime and Investigation</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ocko.cz">
+    <display-name lang="en">Ocko</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ocko Star.cz">
+    <display-name lang="en">Ocko Star</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ocko Expres HD.cz">
+    <display-name lang="en">Ocko Expres HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Retro Music TV.cz">
+    <display-name lang="en">Retro Music TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="REBEL.cz">
+    <display-name lang="en">REBEL</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Slusnej kanal.cz">
+    <display-name lang="en">Slusnej kanal</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Live HD.cz">
+    <display-name lang="en">MTV Live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Europe.cz">
+    <display-name lang="en">MTV Europe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Dance.cz">
+    <display-name lang="en">MTV Dance</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Rocks.cz">
+    <display-name lang="en">MTV Rocks</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH 1.cz">
+    <display-name lang="en">VH 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH 1 Classic.cz">
+    <display-name lang="en">VH 1 Classic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Slagr 2.cz">
+    <display-name lang="en">Slagr 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Slagr TV.cz">
+    <display-name lang="en">Slagr TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mezzo live HD.cz">
+    <display-name lang="en">Mezzo live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mezzo.cz">
+    <display-name lang="en">Mezzo</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="C Music.cz">
+    <display-name lang="en">C Music</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoon Network HD.cz">
+    <display-name lang="en">Cartoon Network HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nickelodeon.cz">
+    <display-name lang="en">Nickelodeon</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nick Jr.cz">
+    <display-name lang="en">Nick Jr</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Channel.cz">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Minimax.cz">
+    <display-name lang="en">Minimax</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Megamax.cz">
+    <display-name lang="en">Megamax</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="JimJam.cz">
+    <display-name lang="en">JimJam</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TuTy HD.cz">
+    <display-name lang="en">TuTy HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ducktv.cz">
+    <display-name lang="en">ducktv</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Noe TV.cz">
+    <display-name lang="en">Noe TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mnau TV.cz">
+    <display-name lang="en">Mnau TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mnam TV.cz">
+    <display-name lang="en">Mnam TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Food Network HD.cz">
+    <display-name lang="en">Food Network HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV5 Monde.cz">
+    <display-name lang="en">TV5 Monde</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fine Living HD.cz">
+    <display-name lang="en">Fine Living HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fashion TV HD.cz">
+    <display-name lang="en">Fashion TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="regiony.cz">
+    <display-name lang="en">regiony</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="regionalnitelevizecz.cz">
+    <display-name lang="en">regionalnitelevizecz</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC World News.cz">
+    <display-name lang="en">BBC World News</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN.cz">
+    <display-name lang="en">CNN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNBC Europe.cz">
+    <display-name lang="en">CNBC Europe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Euronews HD.cz">
+    <display-name lang="en">Euronews HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 24.cz">
+    <display-name lang="en">France 24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Deutsche Welle.cz">
+    <display-name lang="en">Deutsche Welle</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TA3.cz">
+    <display-name lang="en">TA3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Russia Today HD.cz">
+    <display-name lang="en">Russia Today HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Channel One Russia.cz">
+    <display-name lang="en">Channel One Russia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="KBS World HD.cz">
+    <display-name lang="en">KBS World HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CGTN.cz">
+    <display-name lang="en">CGTN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <programme start="20190815000500 +0000" stop="20190815023500 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Dobré ráno</title>
+    <desc lang="en">Startovací dávka pohody. Ranní show České televize.(n)</desc>
+    <category lang="en">Zprávy</category>
+    <category lang="en">Diskuse</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-cz-dynamic.horizon.tv/EventImages/96580319.p.671887102a3425e4b36f88041902755fcddf2906.jpg" />
+  </programme>
+  <programme start="20190815023500 +0000" stop="20190815025000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">V kondici</title>
+    <desc lang="en">Magazín V kondici nabízí pravidelnou porci pohybových aktivit, zajímavého odpočinku i praktických rad pro zdravý životní styl. V tomto díle se populární moderátorka Olga Šípková uvolní tak, že v koši balónu vyletí do slušné výšky. Sportovcům poradíme jak se k pravidelnému sportování vrátit po úraze a nahlédneme pod hladinu do elegantního světa akvabel.Při letu balónem změníme perspektivu a z výšky, z klidného odstupu se nám spousta věcí bude jevit trochu jinak.(n)</desc>
+    <category lang="en">Volný Čas</category>
+    <category lang="en">Zdraví</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-cz-dynamic.horizon.tv/EventImages/220349268.p.d6df280b3a5a43774e9e99e8c8b251ed3ed97707.jpg" />
+  </programme>
+  <programme start="20190815025000 +0000" stop="20190815031500 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Kluci v akci</title>
+    <desc lang="en">Filip Sajler a Ondřej Slanina divákům zábavnou formou ukazují kouzlo vaření a přípravy jídel v podání skutečných profesionálů. Nejde však pouze o výčet zpracovaných ingrediencí a popis správného postupu. Vaří totiž zruční kuchaři s mnoha nápady a osobitým přístupem, ale mají navíc i dar zprostředkovat divákům potěšení ze skutečného kulinářství.Těší nás, že diváci pořadu posílají recepty na pokrmy ze svých rodinných kuchařek, které se často dědí z generace na generaci a opatrují jako poklad. My tak máme možnost vyzkoušet a ukázat dalším příznivcům pořadu zajímavá a výtečná jídla.Recepty v tomto díluVajíčka na hniličku s křenemRecept nám zaslala paní Eva Hanáková z Prahy 8 - děkujeme!Vepřové koleno pečené v pikantní marináděDěkujeme za zaslání receptu manželům Kolářovým ze Slaného.ŠtercRecept na výtečný pokrm z brambor zaslala Vendulka Šmídová z Vysočiny - děkujeme!Čokoládový perníkZa recept na čokoládový perník děkujeme Henrietě Nezpěvákové z Prahy.(n)</desc>
+    <category lang="en">Volný Čas</category>
+    <category lang="en">Vaření</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-cz-dynamic.horizon.tv/EventImages/96580323.p.6d33ecce38bcc9d8c9a5516adbdfbcaaf58f5ee6.jpg" />
+  </programme>
+  <programme start="20190815031500 +0000" stop="20190815033000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Etiketa</title>
+    <sub-title lang="en">Šaty dělají dámu</sub-title>
+    <desc lang="en">Jakkoliv dámy často vyprávějí, dokazují a předvádějí, jak nemají co na sebe, rozmanitost a kreativitu v oblasti společenského oblečení by ženám mohli muži jen a jen závidět. Fantazie má však svá úskalí. Obecná pravidla pro společenský oděv je vždy třeba dodržovat, vyvarovat se nevkusu a s opatrností pohlížet na bezmeznou kreativitu návrhářů. Základní pravidla oblékání pro dámy shrne Ladislav Špaček v dalším pokračování Etikety. L. Špaček: "Dobrý den, šaty dělají člověka a dámu dvojnásob. Rád bych vám dnes řekl něco o oblečení, ale tady nějak ztrácím jistotu."Helenka: "Copak, ty vždycky tak pohotový a suverénní najednou ztrácíš řeč?"L. Špaček: "To asi všichni muži v tomto prostředí. Budeš mi muset pomoct."Helenka: "Velmi ráda."Marie povýšilaDo obchodu přichází Marie.Prodavačka: "Dobrý den, mohu vám pomoci?"...(n)</desc>
+    <category lang="en">Vzdělávací</category>
+    <category lang="en">Další Vzdělávání</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp9-images-cz-dynamic.horizon.tv/EventImages/20731373356.p.jpg" />
+  </programme>
+  <programme start="20190815033000 +0000" stop="20190815040000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Události v regionech</title>
+    <desc lang="en">Hlavní regionální zpravodajská relace České televize. Souhrn nejdůležitějších událostí v krajích České republiky.(n)</desc>
+    <category lang="en">Zprávy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-cz-dynamic.horizon.tv/EventImages/96580425.p.8abb9ec1cdaabec459ef88c5d283d314b53ff0cc.jpg" />
+  </programme>
+  <programme start="20190815040000 +0000" stop="20190815045900 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Zpříma do očí</title>
+    <desc lang="en">Přerovský slavík, zpívající tělocvikář, nezdolný optimista Pavel Novák v mnoha ukázkách a vzpomínkách příbuzných, přátel a kolegů J. Wykrenta, J. Černého, M. Wittmanna a dalších (2010). Režie Z. GawlikPavel Novák, patřící po léta ke špičce naší pop music, bojoval dlouho a úporně se zhoubnou chorobou, které nakonec přece jen podlehl. Jeho nezdolný optimismus ho přivedl od začátků ve středoškolském věku ke zpěvu v místním dixielandu a k založení vlastní skupiny Synkopa. To mu bylo dvacet a studoval biologii a tělesnou výchovu na olomoucké univerzitě. Ve dvaceti se také oženil. V rodném Přerově celý život bydlel, přestože zpíval po celé zemi i v zahraničí. V dokumentu Zdeňka Gawlika vzpomínají příbuzní, přátelé i kolegové.(n)</desc>
+    <category lang="en">Společnost</category>
+    <category lang="en">Politika</category>
+    <category lang="en">Známé Osobnosti</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-cz-dynamic.horizon.tv/EventImages/110589106.p.0d69bf6b274ad3a85a0e30abeac9126e459d286b.jpg" />
+    <rating system="CZ">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815045900 +0000" stop="20190815070000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Studio 6</title>
+    <desc lang="en">Zpravodajský náskok do nového dne. Ranní infoservis ČT.(n)</desc>
+    <category lang="en">Zprávy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-cz-dynamic.horizon.tv/EventImages/96580271.p.7aba6df07aee3937378736f18d42edae8939ddc9.jpg" />
+  </programme>
+  <programme start="20190815070000 +0000" stop="20190815075000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">To je vražda, napsala</title>
+    <sub-title lang="en">Osudná chyba</sub-title>
+    <desc lang="en">Bývalá učitelka a spisovatelka Jessica Fletcherová s úspěchem řeší kriminální případy. Americký seriál.(n)</desc>
+    <date>1989</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-cz-dynamic.horizon.tv/EventImages/97041900.p.02af6d03fbe04d758f2b111871d991ddc7957858.jpg" />
+    <episode-num system="onscreen">S6 E4</episode-num>
+    <rating system="CZ">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20190815075000 +0000" stop="20190815083000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Hádání s Hadovkou</title>
+    <desc lang="en">Až půjdete do lesa, dejte si pozor na nejrůznější nekalé živly - potažmo když jste v pohádce. Odstrašujícím příkladem vám může být trojice bratrů, kteří jednoho dne vyrazili do světa, aby si našli nevěsty, a kteří sedli na lep babě Hadovce a jejím třem dcerám - jedovatým houbičkám - Vláknici, Vohnivce a Třepenitce. A teď jsou ze ztepilých mládenců urostlé hřiby a nemohou dělat nic, jen čekat, až je přijde někdo zachránit. Naštěstí nechali doma nejmladšího bratra - benjamínka Antonínka, kterému je už samotnému dlouhá chvíle. A naštěstí je tu ještě Serafínka, údajná další dcera Hadovky. Ta je ale úplně jiná než její jedu a zášti plné sestřičky. Kdo ví, jak to s tím jejím původem je... nebude nakonec všechno jinak, než se zdá? Ve dvou jde v každém případě všechno líp - i osvobozování zakletých bratrů a boj se zlými čarodějnými silami.(n)</desc>
+    <date>1987</date>
+    <category lang="en">Dobrodružný</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp15-images-cz-dynamic.horizon.tv/EventImages/20731372653.p.jpg" />
+  </programme>
+  <programme start="20190815083000 +0000" stop="20190815093000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Hříšní lidé Města pražského</title>
+    <sub-title lang="en">Kaprova smrt</sub-title>
+    <desc lang="en">Alkohol nebývá při řešení sporů dobrým rádcem. Jinak by také po zbytečné hádce tří nezaměstnaných kamarádů nezůstal jeden z nich ležet bezvládně na zemi. Zbývající kumpáni okamžitě vystřízliví a začnou přemýšlet, jak ze zapeklité situace ven. Usoudí, že nejdůležitější bude zbavit se mrtvoly.(n)</desc>
+    <date>1969</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Krimi</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-cz-dynamic.horizon.tv/EventImages/194943825.p.2ee0d1fe984635e3f489b1bbbdb9bbcffdd25da3.jpg" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="CZ">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20190815093000 +0000" stop="20190815100000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">My z konce světa</title>
+    <sub-title lang="en">Ohňostroj</sub-title>
+    <desc lang="en">Žít na "konci světa" může někomu připadat jako vyhnanství, jako místo, kde se ani žít nedá. Pro sourozence Vuka, Jurku a malou Gábinu je horská chata vysoko v horách nejkrásnějším domovem. S rodiči, kteří tu zvolna a s příkladnou poctivostí v podnikání vybudují prosperující penzion, se děti cítí bezpečné a šťastné.(n)</desc>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-cz-dynamic.horizon.tv/EventImages/192869570.p.7412f2de58cf873ce7c6511087145a292e665fe0.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="CZ">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815100000 +0000" stop="20190815102000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Zprávy ve 12</title>
+    <desc lang="en">Nejdůležitější události dne v ČR i ve světě.(n)</desc>
+    <category lang="en">Zprávy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-cz-dynamic.horizon.tv/EventImages/96586232.p.92a296bb172e318731ae996a2a6849753ec3c47a.jpg" />
+  </programme>
+  <programme start="20190815102000 +0000" stop="20190815103000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Předpověď počasí, sportovní zprávy</title>
+    <desc lang="en">Souhrn meteorologických informací uplynulých 24 hodin a prognóza vývoje počasí na příští dny.(n)</desc>
+    <category lang="en">Zprávy</category>
+    <category lang="en">Počasí</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-cz-dynamic.horizon.tv/EventImages/20731372776.p.jpg" />
+  </programme>
+  <programme start="20190815103000 +0000" stop="20190815112500 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Horákovi</title>
+    <sub-title lang="en">Být či nebýt...herečkou</sub-title>
+    <desc lang="en">Jan jde s Lucií do divadla, bohužel právě ve chvíli velkého fotbalového zápasu. Jan předstírá nadšení, ale Lucie pozná, že by raději zůstal doma. Narozdíl od Soni, která by šla velice ráda. A tak Lucie moudře svolí, že Jan zůstane doma a půjdou jen ony dvě. V divadle se po představení seznámí s režisérem představení a s hercem hlavní role. Jan samozřejmě začne žárlit, zvlášť když Lucie dostane nabídku hrát v divadle. Najednou Lucie prozradí, že herectví byl vždy její sen. Jan ale řekne, že pokud půjde na konkurz do divadla, ať se nevrací domů. Lucie se naštve a spí u Soni. Jan se chytne za nos, přece jen to tentokrát se žárlivostí přehnal. Lucie také na zkoušce v divadle pochopí, že herectví pro ni není to pravé....(n)</desc>
+    <date>2007</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-cz-dynamic.horizon.tv/EventImages/122877258.p.ed726d524f682ae5e8cf7b598164e79929acffa9.jpg" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="CZ">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815112500 +0000" stop="20190815115000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Všechno, co mám ráda v létě</title>
+    <desc lang="en">Recepty v tomto díluBanánové lívanceCuketové špagety s tuňákemDomácí limoncelloKoláč s ořechovou náplní a ovocem naloženým v sherry.(n)</desc>
+    <category lang="en">Vzdělávací</category>
+    <category lang="en">Další Vzdělávání</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-cz-dynamic.horizon.tv/EventImages/20731373356.p.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme start="20190815115000 +0000" stop="20190815120500 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Pytel</title>
+    <desc lang="en">Chci být také dámou.(n)</desc>
+    <date>1978</date>
+    <category lang="en">Movie Drama</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp25-images-cz-dynamic.horizon.tv/EventImages/202878295.p.f98fa0f8f238a140cbed702f2b11ac556e5c4084.jpg" />
+  </programme>
+  <programme start="20190815120500 +0000" stop="20190815133000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Jestřábí věž</title>
+    <desc lang="en">Petr je mladý horolezec, který právě prožívá trauma z úmrtí svého staršího bratra na výpravě do Himálají. Přijíždí do Vysokých Tater, aby se dozvěděl od Filipa, tehdejšího vůdce expedice, jak se tragická příhoda udála. Domnívá se totiž, že Filip mohl jeho bratra zachránit, ale že byl zbabělý, neprokázal dostatek odvahy a dal přednost svému vlastnímu bezpečí. Tragická situace mu brání posuzovat věci racionálně a přes nabízenou pomoc psychologa, terapeuta i bývalé bratrovy přítelkyně žene situaci na ostří nože. Vyprovokuje Filipa k výstupu na nebezpečnou horu právě ve chvíli, kdy se počasí začíná kazit.(n)</desc>
+    <date>1984</date>
+    <category lang="en">Movie Drama</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp26-images-cz-dynamic.horizon.tv/EventImages/20731372690.p.jpg" />
+    <rating system="CZ">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815133000 +0000" stop="20190815141000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Všechnopárty</title>
+    <desc lang="en">Dnešními hosty K. Šípa budou prof. V. Smejkal, tanečník P. Čadek a popularizátor společenské etikety L. Špaček, který v nadcházejících dnech oslaví významné životní jubileum (2010). Režie V. PolesnýKaždý host je pro Karla Šípa inspirací. S lehkostí a profesionálním nadhledem hovoří s umělci, sportovci a dalšími osobnostmi kulturního a společenského života."Etiketa\.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-cz-dynamic.horizon.tv/EventImages/246865297.p.5b704b3ec69cd7318ee9b162bbe5a515be5b7ba1.jpg" />
+  </programme>
+  <programme start="20190815141000 +0000" stop="20190815150000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">To je vražda, napsala</title>
+    <sub-title lang="en">Jack a Bill</sub-title>
+    <desc lang="en">Bývalá učitelka a spisovatelka Jessica Fletcherová s úspěchem řeší kriminální případy. Americký seriál.(n)</desc>
+    <date>1989</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-cz-dynamic.horizon.tv/EventImages/97041900.p.02af6d03fbe04d758f2b111871d991ddc7957858.jpg" />
+    <episode-num system="onscreen">S6 E5</episode-num>
+    <rating system="CZ">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20190815150000 +0000" stop="20190815153000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Cestománie</title>
+    <sub-title lang="en">Honduras: Poslední ráj</sub-title>
+    <desc lang="en">S kamerou po druhé největší zemi střední Ameriky za stavbami dávných Mayů, pěstiteli banánů a ananasů i za svéráznou představou české kuchyně (2004). Scénář a režie L. JabloňU honduraského pobřeží přistál roku 1502 poprvé na americkém kontinentu Kryštof Kolumbus. Podle hlubokých vod, na které tu narazil, nazval prý místo Hlubiny, španělsky Honduras. Karibské pobřeží tu měří 644 kilometrů a rajské pláže jsou největším lákadlem pro turisty. Z Tegucigalpy, metropole plné kontrastů, se vydáme na cestu zemí vysokých hor, přírodních rezervací i rušných měst. Nenecháme si ujít ani kouzelné pobřeží, ani jedinečné sídlo starých Mayů v Copánu či unikátní druhy motýlů z hloubi honduraské džungle. A odvážíme se i do Mosquitie, divoké oblasti na severovýchodě země, kam nevedou žádné silnice.(n)</desc>
+    <category lang="en">Volný Čas</category>
+    <category lang="en">Cestování</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-cz-dynamic.horizon.tv/EventImages/96580291.p.5dd8741c191ebad07e4e0c742825384742d7374b.jpg" />
+    <rating system="CZ">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815153000 +0000" stop="20190815160000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">AZ-kvíz</title>
+    <desc lang="en">Soutěž pro každého.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-cz-dynamic.horizon.tv/EventImages/96580421.p.2d506bf484c20db4683b6e57cb16db03fc051f8a.jpg" />
+  </programme>
+  <programme start="20190815160000 +0000" stop="20190815162500 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Události v regionech</title>
+    <desc lang="en">Hlavní regionální zpravodajská relace České televize. Souhrn nejdůležitějších událostí v krajích České republiky.(n)</desc>
+    <category lang="en">Zprávy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-cz-dynamic.horizon.tv/EventImages/96580425.p.8abb9ec1cdaabec459ef88c5d283d314b53ff0cc.jpg" />
+  </programme>
+  <programme start="20190815162500 +0000" stop="20190815165500 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Kde domov můj?</title>
+    <desc lang="en">Zábavná vědomostní soutěž. Moderuje Aleš Háma.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-cz-dynamic.horizon.tv/EventImages/197563054.p.ad5e31c4532414bfb8a60f50db7cc52327e15c2b.jpg" />
+  </programme>
+  <programme start="20190815165500 +0000" stop="20190815170000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Události za okamžik a počasí</title>
+    <desc lang="en">Hlavní události a předpověď počasí.(n)</desc>
+    <category lang="en">Zprávy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-cz-dynamic.horizon.tv/EventImages/96580301.p.4df7593cb5a044ac4825746782023302c753bc17.jpg" />
+  </programme>
+  <programme start="20190815170000 +0000" stop="20190815175000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Události</title>
+    <desc lang="en">Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě.(n)</desc>
+    <category lang="en">Zprávy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-cz-dynamic.horizon.tv/EventImages/100286346.p.b0d3b5d29cbbccd67a01b8bbaae0b5d89125b915.jpg" />
+  </programme>
+  <programme start="20190815175000 +0000" stop="20190815180000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Branky, body, vteřiny</title>
+    <desc lang="en">Zprávy ze světa sportu.(n)</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-cz-dynamic.horizon.tv/EventImages/96580305.p.59bc9b8c43912d1f78138f80994a42c5847b1b19.jpg" />
+  </programme>
+  <programme start="20190815180000 +0000" stop="20190815190000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Malý pitaval z velkého města</title>
+    <sub-title lang="en">Narkomani</sub-title>
+    <desc lang="en">Případ, který začíná krádeží v jedné z laboratoří veterinární stanice dostává dramatický spád, když kriminalisté zjistí, že se ztratilo větší množství omamných látek, ale též dvě látky jedovaté, které by stačily ke zlikvidování většího počtu obyvatel. Při zátahu v okruhu narkomanů padne do rukou kriminalistů i slečna Zahradníková, která požila jednu ze zmizelých ampulí prošlého morfinu. Na základě její výpovědi jsou vytipováni tři možní velkododavatelé drog. Mezi nimi je i amatérský výrobce Postler, který, jak se brzy ukáže, byl přinejmenším spolupachatelem uvedené krádeže. Výslech však končí tragicky. Postler se pokusí o sebevraždu rozbitím okna a pořezáním si žil. Navíc kriminalisté dostávají telefonické varování, že pokud Postlera do dvanácti hodin příštího dne nepustí, pak volající otráví ukradeným cyankáli vodovodní řad. Vyšetřování vede Rudolf Pekař, jehož lidský přístup nakonec přináší úspěch. Teď jde o čas. Je nutné zadržet pachatele dřív, než svou hrozbu vykoná.(n)</desc>
+    <date>1986</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Krimi</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-cz-dynamic.horizon.tv/EventImages/124531936.p.4b2a136701352a1b03e6c96359f7a8554ff3b1b1.jpg" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="CZ">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20190815190000 +0000" stop="20190815202400 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Nejlepší Bakaláři</title>
+    <sub-title lang="en">V režii Jana Hřebejka</sub-title>
+    <desc lang="en">Legendární cyklus je zpět! Příběhy, které jste zažili vy, naši diváci. Nejslavnějšími televizními povídkami ve hvězdném obsazení provází Viktor Preiss. V povídkách Dobrá zpráva, Poslední koncert a Okno hrají: M. Donutil, E. Holubová, B. Klepl, J. Sovák, L. Suchařípa, V. Brodský, V. Koubek, T. Remundová a další. Režie cyklu K. SmyczekS létem, obdobím plném sluníčka, pohody, klidu a odpočinku, se na televizní obrazovku vrací oblíbený cyklus s příběhy, jenž psal sám život. Můžete se opět těšit na ty nejlepší bakalářské povídky ve hvězdném hereckém obsazení a na skvělého průvodce Viktora Preisse. Tento díl oblíbeného cyklu bude věnován režiséru Janu Hřebejkovi. Jako první uvedeme povídku Dobrá zpráva s Miroslavem Donutilem v hlavní roli, která získala v roce 1997 cenu Trilobit za přínos původní televizní a filmové tvorbě....(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Varieté</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-cz-dynamic.horizon.tv/EventImages/20731372813.p.jpg" />
+  </programme>
+  <programme start="20190815202400 +0000" stop="20190815202500 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Výsledky losování Šťastných 10</title>
+    <desc lang="en">Losování loterie.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp11-images-cz-dynamic.horizon.tv/EventImages/161814335.p.3475b6e7a260fbd99a9954b972f12c5b5d2bc8f8.jpg" />
+  </programme>
+  <programme start="20190815202500 +0000" stop="20190815214000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Columbo</title>
+    <sub-title lang="en">Rozhodující zápas</sub-title>
+    <desc lang="en">Během jednoho z klíčových fotbalových zápasů je v bazénu nalezeno mrtvé tělo manažera nejslavnějšího týmu. Columbo nevěří, že se jednalo o nešťastnou náhodu.(n)</desc>
+    <date>1972</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Thriller</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-cz-dynamic.horizon.tv/EventImages/113770703.p.da34daa7af9fd23611b30e6d0c76f19bc300023d.jpg" />
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="CZ">
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20190815214000 +0000" stop="20190815225000 +0000" channel="CT 1 HD.cz">
+    <title lang="en">Případ hodného vedoucího</title>
+    <desc lang="en">Při vyšetřování vraždy v autoservisu se přijde na množství podvodů, z kterých vychází najevo, že vedoucí, aby se ukázal před podřízenými hodným, dopouští se těch nejhorších finančních machinací.(n)</desc>
+    <date>1977</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp15-images-cz-dynamic.horizon.tv/EventImages/20731372597.p.jpg" />
+    <rating system="CZ">
+      <value>12</value>
+    </rating>
+  </programme>
+</tv>

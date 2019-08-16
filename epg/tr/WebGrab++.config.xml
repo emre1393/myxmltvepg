@@ -3,14 +3,14 @@
    
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
    
-  <filename>xmltv.tr.xml</filename>
+  <filename>D:\xiaomi\epg\merged\xmltv.tr.xml</filename>
   <mode></mode>
   <postprocess grab="y" run="n">mdb</postprocess>
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
   <logging>on</logging>
   <retry time-out="5">4</retry>
   <timespan>8</timespan>
-  <update>s</update>
+  <update>f</update>
  
   <!--
             Replace the next dummy channel entry with the channels you want.
@@ -172,7 +172,7 @@
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606268" xmltv_id="Fox Crime.tr">Fox Crime</channel>
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062ba" xmltv_id="FilmBox.tr">FilmBox</channel>
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606278" xmltv_id="Dizi Smart Max.tr">Dizi Smart Max</channel>
-    <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60628a" xmltv_id="Smart Sport HD">Smart Sport HD</channel>
+    <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60628a" xmltv_id="Smart Sport HD.tr">Smart Sport HD</channel>
 	<channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062c5" xmltv_id="Trace Urban.tr">Trace Urban</channel>
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062bf" xmltv_id="Fast &amp; Fun.tr">Fast &amp; Fun</channel>
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60626e" xmltv_id="NBA TV.tr">NBA TV</channel>

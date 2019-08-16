@@ -1,0 +1,1697 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="On Demand.at">
+    <display-name lang="en">On Demand</display-name>
+    <icon src="https://wp19-images-at-dynamic.horizon.tv/Logos/StaticConfig/UPC_OnDemand_HORIZON_f_colour.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF eins.at">
+    <display-name lang="en">ORF eins</display-name>
+    <icon src="https://wp19-images-at-dynamic.horizon.tv/Logos/1006.f.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 Wien.at">
+    <display-name lang="en">ORF 2 Wien</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ATV.at">
+    <display-name lang="en">ATV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PULS 4.at">
+    <display-name lang="en">PULS 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="W24.at">
+    <display-name lang="en">W24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sixx Austria.at">
+    <display-name lang="en">Sixx Austria</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Servus TV.at">
+    <display-name lang="en">Servus TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="OKTO.at">
+    <display-name lang="en">OKTO</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="UPC Infokanal.at">
+    <display-name lang="en">UPC Infokanal</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Das Erste.at">
+    <display-name lang="en">Das Erste</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZDF.at">
+    <display-name lang="en">ZDF</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF III.at">
+    <display-name lang="en">ORF III</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ProSieben.at">
+    <display-name lang="en">ProSieben</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL.at">
+    <display-name lang="en">RTL</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SAT1.at">
+    <display-name lang="en">SAT1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL II.at">
+    <display-name lang="en">RTL II</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="kabel eins.at">
+    <display-name lang="en">kabel eins</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VOX.at">
+    <display-name lang="en">VOX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ATV II.at">
+    <display-name lang="en">ATV II</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="3sat.at">
+    <display-name lang="en">3sat</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BR.at">
+    <display-name lang="en">BR</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MDR.at">
+    <display-name lang="en">MDR</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SWR.at">
+    <display-name lang="en">SWR</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NDR.at">
+    <display-name lang="en">NDR</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="WDR.at">
+    <display-name lang="en">WDR</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="hessen fernsehen.at">
+    <display-name lang="en">hessen fernsehen</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RBB Fernsehen.at">
+    <display-name lang="en">RBB Fernsehen</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="oe24TV.at">
+    <display-name lang="en">oe24TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="kabel eins Doku.at">
+    <display-name lang="en">kabel eins Doku</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="arte.at">
+    <display-name lang="en">arte</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Nitro.at">
+    <display-name lang="en">RTL Nitro</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Pro7 Maxx.at">
+    <display-name lang="en">Pro7 Maxx</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SAT1 Gold.at">
+    <display-name lang="en">SAT1 Gold</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 Steiermark.at">
+    <display-name lang="en">ORF 2 Steiermark</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 Kärnten.at">
+    <display-name lang="en">ORF 2 Kärnten</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 Nö.at">
+    <display-name lang="en">ORF 2 Nö</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 Oberösterreich.at">
+    <display-name lang="en">ORF 2 Oberösterreich</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 Burgenland.at">
+    <display-name lang="en">ORF 2 Burgenland</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 Salzburg.at">
+    <display-name lang="en">ORF 2 Salzburg</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 Vorarlberg.at">
+    <display-name lang="en">ORF 2 Vorarlberg</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 Tirol.at">
+    <display-name lang="en">ORF 2 Tirol</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 EUROPA.at">
+    <display-name lang="en">ORF 2 EUROPA</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tirol TV.at">
+    <display-name lang="en">Tirol TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="KT 1.at">
+    <display-name lang="en">KT 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ländle TV.at">
+    <display-name lang="en">Ländle TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Schau TV.at">
+    <display-name lang="en">Schau TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="N24 Austria.at">
+    <display-name lang="en">N24 Austria</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTLplus.at">
+    <display-name lang="en">RTLplus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DMAX.at">
+    <display-name lang="en">DMAX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Comedy CentralVIVA.at">
+    <display-name lang="en">Comedy CentralVIVA</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC Entertainment.at">
+    <display-name lang="en">BBC Entertainment</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TELE 5.at">
+    <display-name lang="en">TELE 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="13TH STREET.at">
+    <display-name lang="en">13TH STREET</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Syfy.at">
+    <display-name lang="en">Syfy</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kinowelt TV.at">
+    <display-name lang="en">Kinowelt TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Crime.at">
+    <display-name lang="en">RTL Crime</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Passion.at">
+    <display-name lang="en">RTL Passion</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="kabel eins CLASSICS.at">
+    <display-name lang="en">kabel eins CLASSICS</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Romance TV.at">
+    <display-name lang="en">Romance TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TNT Serie.at">
+    <display-name lang="en">TNT Serie</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX.at">
+    <display-name lang="en">FOX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Krimi.at">
+    <display-name lang="en">Sky Krimi</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Heimatkanal.at">
+    <display-name lang="en">Heimatkanal</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="UPC Infokanal HD.at">
+    <display-name lang="en">UPC Infokanal HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF eins HD.at">
+    <display-name lang="en">ORF eins HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF 2 Wien HD.at">
+    <display-name lang="en">ORF 2 Wien HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ATV HD.at">
+    <display-name lang="en">ATV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PULS 4 HD.at">
+    <display-name lang="en">PULS 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Servus TV HD.at">
+    <display-name lang="en">Servus TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF III HD.at">
+    <display-name lang="en">ORF III HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ProSieben HD.at">
+    <display-name lang="en">ProSieben HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SAT1 HD.at">
+    <display-name lang="en">SAT1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="kabel eins HD.at">
+    <display-name lang="en">kabel eins HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Das Erste HD.at">
+    <display-name lang="en">Das Erste HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZDF HD.at">
+    <display-name lang="en">ZDF HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL HD.at">
+    <display-name lang="en">RTL HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL II HD.at">
+    <display-name lang="en">RTL II HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VOX HD.at">
+    <display-name lang="en">VOX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Nitro HD.at">
+    <display-name lang="en">RTL Nitro HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ATV II HD.at">
+    <display-name lang="en">ATV II HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="W24 HD.at">
+    <display-name lang="en">W24 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="R9 HD.at">
+    <display-name lang="en">R9 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Comedy CentralVIVA HD.at">
+    <display-name lang="en">Comedy CentralVIVA HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TLC_HD.at">
+    <display-name lang="en">TLC_HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SRF zwei HD.at">
+    <display-name lang="en">SRF zwei HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZDF neo HD.at">
+    <display-name lang="en">ZDF neo HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="arte HD.at">
+    <display-name lang="en">arte HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="3sat HD.at">
+    <display-name lang="en">3sat HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BR HD.at">
+    <display-name lang="en">BR HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Phoenix HD.at">
+    <display-name lang="en">Phoenix HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZDF info HD.at">
+    <display-name lang="en">ZDF info HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="One HD.at">
+    <display-name lang="en">One HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="WDR HD.at">
+    <display-name lang="en">WDR HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MDR HD.at">
+    <display-name lang="en">MDR HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SWR HD.at">
+    <display-name lang="en">SWR HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NDR HD.at">
+    <display-name lang="en">NDR HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SRF 1 HD.at">
+    <display-name lang="en">SRF 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HR HD.at">
+    <display-name lang="en">HR HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RBB HD.at">
+    <display-name lang="en">RBB HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="tagesschau24 HD.at">
+    <display-name lang="en">tagesschau24 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bibel TV HD.at">
+    <display-name lang="en">Bibel TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ARCADIA World HD.at">
+    <display-name lang="en">ARCADIA World HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="History HD.at">
+    <display-name lang="en">History HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet HD.at">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo People HD.at">
+    <display-name lang="en">Nat Geo People HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Universal Channel HD.at">
+    <display-name lang="en">Universal Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Syfy HD.at">
+    <display-name lang="en">Syfy HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="13TH STREET HD.at">
+    <display-name lang="en">13TH STREET HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TNT Serie HD.at">
+    <display-name lang="en">TNT Serie HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX HD.at">
+    <display-name lang="en">FOX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Crime HD.at">
+    <display-name lang="en">RTL Crime HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kinowelt TV HD.at">
+    <display-name lang="en">Kinowelt TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Channel HD.at">
+    <display-name lang="en">Discovery Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo HD.at">
+    <display-name lang="en">Nat Geo HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Planet HD.at">
+    <display-name lang="en">Planet HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Living HD.at">
+    <display-name lang="en">RTL Living HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Romance TV HD.at">
+    <display-name lang="en">Romance TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Passion HD.at">
+    <display-name lang="en">RTL Passion HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FashionTV HD.at">
+    <display-name lang="en">FashionTV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bongusto HD.at">
+    <display-name lang="en">Bongusto HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Classica HD.at">
+    <display-name lang="en">Classica HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Travel Channel HD.at">
+    <display-name lang="en">Travel Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AE HD.at">
+    <display-name lang="en">AE HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="E HD.at">
+    <display-name lang="en">E HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TNT Comedy HD.at">
+    <display-name lang="en">TNT Comedy HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="kabel eins CLASSICS HD.at">
+    <display-name lang="en">kabel eins CLASSICS HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Deluxe Music HD.at">
+    <display-name lang="en">Deluxe Music HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV HD.at">
+    <display-name lang="en">MTV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV live HD.at">
+    <display-name lang="en">MTV live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="KIKA HD.at">
+    <display-name lang="en">KIKA HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoon Network HD.at">
+    <display-name lang="en">Cartoon Network HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Super RTL HD.at">
+    <display-name lang="en">Super RTL HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nickelodeon HD.at">
+    <display-name lang="en">Nickelodeon HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="QVC HD.at">
+    <display-name lang="en">QVC HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HSE24 HD.at">
+    <display-name lang="en">HSE24 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF Sport HD.at">
+    <display-name lang="en">ORF Sport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport News HD.at">
+    <display-name lang="en">Sky Sport News HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sport 1 HD.at">
+    <display-name lang="en">Sport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 HD.at">
+    <display-name lang="en">Eurosport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sport1 HD.at">
+    <display-name lang="en">Sport1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sport 1 US HD.at">
+    <display-name lang="en">Sport 1 US HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="sportdigital HD.at">
+    <display-name lang="en">sportdigital HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 2 HD.at">
+    <display-name lang="en">Eurosport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Auto Motor und Sport Channel HD.at">
+    <display-name lang="en">Auto Motor und Sport Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Motorvision HD.at">
+    <display-name lang="en">Motorvision HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ORF Sport.at">
+    <display-name lang="en">ORF Sport</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1.at">
+    <display-name lang="en">Eurosport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sport 1.at">
+    <display-name lang="en">Sport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 2.at">
+    <display-name lang="en">Eurosport 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sport 1 US.at">
+    <display-name lang="en">Sport 1 US</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Auto Motor und Sport Channel.at">
+    <display-name lang="en">Auto Motor und Sport Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport News.at">
+    <display-name lang="en">Sky Sport News</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Extreme Sports Channel.at">
+    <display-name lang="en">Extreme Sports Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 Polska.at">
+    <display-name lang="en">Eurosport 1 Polska</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 Turkce.at">
+    <display-name lang="en">Eurosport 1 Turkce</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 Srbija.at">
+    <display-name lang="en">Eurosport 1 Srbija</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="QVC.at">
+    <display-name lang="en">QVC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HSE24.at">
+    <display-name lang="en">HSE24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="123tv.at">
+    <display-name lang="en">123tv</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HSE24 Extra.at">
+    <display-name lang="en">HSE24 Extra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Melodie TV.at">
+    <display-name lang="en">Melodie TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="QVC Plus.at">
+    <display-name lang="en">QVC Plus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HSE24 Trend.at">
+    <display-name lang="en">HSE24 Trend</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="QVC Beauty  Style.at">
+    <display-name lang="en">QVC Beauty  Style</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTL Living.at">
+    <display-name lang="en">RTL Living</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="E.at">
+    <display-name lang="en">E</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FashionTV.at">
+    <display-name lang="en">FashionTV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="KIKA.at">
+    <display-name lang="en">KIKA</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nickelodeon.at">
+    <display-name lang="en">Nickelodeon</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Super RTL.at">
+    <display-name lang="en">Super RTL</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fix  Foxi.at">
+    <display-name lang="en">Fix  Foxi</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Channel.at">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Baby TV.at">
+    <display-name lang="en">Baby TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nick Junior.at">
+    <display-name lang="en">Nick Junior</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoon Network.at">
+    <display-name lang="en">Cartoon Network</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RiC.at">
+    <display-name lang="en">RiC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ntv.at">
+    <display-name lang="en">ntv</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Euronews.at">
+    <display-name lang="en">Euronews</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC World.at">
+    <display-name lang="en">BBC World</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN.at">
+    <display-name lang="en">CNN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNBC.at">
+    <display-name lang="en">CNBC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Russia today.at">
+    <display-name lang="en">Russia today</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CCTV News.at">
+    <display-name lang="en">CCTV News</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bloomberg Europe TV.at">
+    <display-name lang="en">Bloomberg Europe TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Al Jazeera.at">
+    <display-name lang="en">Al Jazeera</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 24.at">
+    <display-name lang="en">France 24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="24 Vesti news.at">
+    <display-name lang="en">24 Vesti news</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Travel Channel.at">
+    <display-name lang="en">Travel Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Channel.at">
+    <display-name lang="en">Discovery Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="History Channel.at">
+    <display-name lang="en">History Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="National Geographic.at">
+    <display-name lang="en">National Geographic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AE.at">
+    <display-name lang="en">AE</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet.at">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Planet.at">
+    <display-name lang="en">Planet</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Phoenix.at">
+    <display-name lang="en">Phoenix</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="tagesschau24.at">
+    <display-name lang="en">tagesschau24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="One.at">
+    <display-name lang="en">One</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ARD alpha.at">
+    <display-name lang="en">ARD alpha</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZDF info.at">
+    <display-name lang="en">ZDF info</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ZDF neo.at">
+    <display-name lang="en">ZDF neo</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="gotv.at">
+    <display-name lang="en">gotv</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Rocks.at">
+    <display-name lang="en">MTV Rocks</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Dance.at">
+    <display-name lang="en">MTV Dance</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTVhits.at">
+    <display-name lang="en">MTVhits</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH1 Europe.at">
+    <display-name lang="en">VH1 Europe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH1 Classic.at">
+    <display-name lang="en">VH1 Classic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Gute Laune TV.at">
+    <display-name lang="en">Gute Laune TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV5Monde Europe.at">
+    <display-name lang="en">TV5Monde Europe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RAI Uno.at">
+    <display-name lang="en">RAI Uno</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RAI Due.at">
+    <display-name lang="en">RAI Due</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVE.at">
+    <display-name lang="en">TVE</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTR Planeta.at">
+    <display-name lang="en">RTR Planeta</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="EDTV 1.at">
+    <display-name lang="en">EDTV 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CCTV4.at">
+    <display-name lang="en">CCTV4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HRT TV 1.at">
+    <display-name lang="en">HRT TV 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTS Sat.at">
+    <display-name lang="en">RTS Sat</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Polonia.at">
+    <display-name lang="en">TV Polonia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Duna TV.at">
+    <display-name lang="en">Duna TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TRT International.at">
+    <display-name lang="en">TRT International</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Hayat.at">
+    <display-name lang="en">Hayat</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Pink Plus.at">
+    <display-name lang="en">Pink Plus</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Pink Extra.at">
+    <display-name lang="en">Pink Extra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Pink Film.at">
+    <display-name lang="en">Pink Film</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Pink Music.at">
+    <display-name lang="en">Pink Music</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Blue Hustler.at">
+    <display-name lang="en">Blue Hustler</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Hustler TV.at">
+    <display-name lang="en">Hustler TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Evil Angel HD.at">
+    <display-name lang="en">Evil Angel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky 1.at">
+    <display-name lang="en">Sky 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney XD.at">
+    <display-name lang="en">Disney XD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Junior.at">
+    <display-name lang="en">Disney Junior</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Atlantic HD.at">
+    <display-name lang="en">Sky Atlantic HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Cinema HD.at">
+    <display-name lang="en">Sky Cinema HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Cinema Hits HD.at">
+    <display-name lang="en">Sky Cinema Hits HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Cinemagic HD.at">
+    <display-name lang="en">Disney Cinemagic HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MGM HD.at">
+    <display-name lang="en">MGM HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Atlantic.at">
+    <display-name lang="en">Sky Atlantic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Cinema Family.at">
+    <display-name lang="en">Sky Cinema Family</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Cinema.at">
+    <display-name lang="en">Sky Cinema</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Cinema 1.at">
+    <display-name lang="en">Sky Cinema 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Cinema 24.at">
+    <display-name lang="en">Sky Cinema 24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Cinema Hits.at">
+    <display-name lang="en">Sky Cinema Hits</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Cinema Action.at">
+    <display-name lang="en">Sky Cinema Action</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Cinema Emotion.at">
+    <display-name lang="en">Sky Cinema Emotion</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Cinema Nostalgie.at">
+    <display-name lang="en">Sky Cinema Nostalgie</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Cinema Comedy.at">
+    <display-name lang="en">Sky Cinema Comedy</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Cinemagic.at">
+    <display-name lang="en">Disney Cinemagic</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport Austria HD.at">
+    <display-name lang="en">Sky Sport Austria HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport HD 1.at">
+    <display-name lang="en">Sky Sport HD 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport HD 2.at">
+    <display-name lang="en">Sky Sport HD 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport HD 3.at">
+    <display-name lang="en">Sky Sport HD 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport HD 4.at">
+    <display-name lang="en">Sky Sport HD 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport HD 5.at">
+    <display-name lang="en">Sky Sport HD 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport HD 6.at">
+    <display-name lang="en">Sky Sport HD 6</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport HD 7.at">
+    <display-name lang="en">Sky Sport HD 7</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport HD 8.at">
+    <display-name lang="en">Sky Sport HD 8</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport HD 9.at">
+    <display-name lang="en">Sky Sport HD 9</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport HD 10.at">
+    <display-name lang="en">Sky Sport HD 10</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport HD 11.at">
+    <display-name lang="en">Sky Sport HD 11</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 1.at">
+    <display-name lang="en">Sky Bundesliga HD 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 2.at">
+    <display-name lang="en">Sky Bundesliga HD 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 3.at">
+    <display-name lang="en">Sky Bundesliga HD 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 4.at">
+    <display-name lang="en">Sky Bundesliga HD 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 5.at">
+    <display-name lang="en">Sky Bundesliga HD 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 6.at">
+    <display-name lang="en">Sky Bundesliga HD 6</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 7.at">
+    <display-name lang="en">Sky Bundesliga HD 7</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 8.at">
+    <display-name lang="en">Sky Bundesliga HD 8</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 9.at">
+    <display-name lang="en">Sky Bundesliga HD 9</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga HD 10.at">
+    <display-name lang="en">Sky Bundesliga HD 10</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport Austria.at">
+    <display-name lang="en">Sky Sport Austria</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 1.at">
+    <display-name lang="en">Sky Sport 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 2.at">
+    <display-name lang="en">Sky Sport 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 3.at">
+    <display-name lang="en">Sky Sport 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 4.at">
+    <display-name lang="en">Sky Sport 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 5.at">
+    <display-name lang="en">Sky Sport 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 6.at">
+    <display-name lang="en">Sky Sport 6</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 7.at">
+    <display-name lang="en">Sky Sport 7</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 8.at">
+    <display-name lang="en">Sky Sport 8</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 9.at">
+    <display-name lang="en">Sky Sport 9</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 10.at">
+    <display-name lang="en">Sky Sport 10</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Sport 11.at">
+    <display-name lang="en">Sky Sport 11</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 1.at">
+    <display-name lang="en">Sky Bundesliga 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 2.at">
+    <display-name lang="en">Sky Bundesliga 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 3.at">
+    <display-name lang="en">Sky Bundesliga 3</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 4.at">
+    <display-name lang="en">Sky Bundesliga 4</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 5.at">
+    <display-name lang="en">Sky Bundesliga 5</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 6.at">
+    <display-name lang="en">Sky Bundesliga 6</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 7.at">
+    <display-name lang="en">Sky Bundesliga 7</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 8.at">
+    <display-name lang="en">Sky Bundesliga 8</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 9.at">
+    <display-name lang="en">Sky Bundesliga 9</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sky Bundesliga 10.at">
+    <display-name lang="en">Sky Bundesliga 10</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <programme start="20190815000000 +0000" stop="20190815010000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815010000 +0000" stop="20190815020000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815020000 +0000" stop="20190815030000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815030000 +0000" stop="20190815040000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815040000 +0000" stop="20190815050000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815050000 +0000" stop="20190815060000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815060000 +0000" stop="20190815070000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815070000 +0000" stop="20190815080000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815080000 +0000" stop="20190815090000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815090000 +0000" stop="20190815100000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815100000 +0000" stop="20190815110000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815110000 +0000" stop="20190815120000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815120000 +0000" stop="20190815130000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815130000 +0000" stop="20190815140000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815140000 +0000" stop="20190815150000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815150000 +0000" stop="20190815160000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815160000 +0000" stop="20190815170000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815170000 +0000" stop="20190815180000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815180000 +0000" stop="20190815190000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815190000 +0000" stop="20190815200000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815200000 +0000" stop="20190815210000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815210000 +0000" stop="20190815220000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815220000 +0000" stop="20190815230000 +0000" channel="On Demand.at">
+    <title lang="en">On Demand Vorschau</title>
+    <desc lang="en">Die neuesten Highlights auf Magenta OnDemand.(n)</desc>
+    <category lang="en">Kunst</category>
+    <category lang="en">Kultur</category>
+    <category lang="en">Film</category>
+    <category lang="en">Kino</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/37106752.p.c9aa9965977a30d524e72a5940f7783fb5c710d7.jpg" />
+  </programme>
+  <programme start="20190815001500 +0000" stop="20190815005500 +0000" channel="ORF eins.at">
+    <title lang="en">Limitless</title>
+    <sub-title lang="en">Finale (1) - Apokryphon</sub-title>
+    <desc lang="en">Durch sein Ausscheiden beim FBI, besteht für Brian nicht mehr die Möglichkeit, an NZT heranzukommen. Doch dann wird die Stadt auf einmal mit der neuen Szenedroge Apokryphon überschwemmt. Rebecca vermutet nun, dass es sich dabei um NZT handelt. Im nu arbeiten das FBI und Justizministerium Hand in Hand, um in Erfahrung zu bringen, wer hinter der Produktion steckt. Brian besorgt sich ebenfalls Apokryphon. Nach der Einnahme denkt er, den potentiellen Erfinder von NZT ausfindig machen zu können.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Drama (serie)</category>
+    <category lang="en">Sci Fi</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-at-dynamic.horizon.tv/EventImages/198292190.p.65e300bcecc5240d011ebef185ec8a62a42e2648.jpg" />
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="AT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815005500 +0000" stop="20190815013500 +0000" channel="ORF eins.at">
+    <title lang="en">Battle Creek</title>
+    <sub-title lang="en">Bombentyp</sub-title>
+    <desc lang="en">Nachdem ein Auto am hellichten Tag in die Luft gegangen ist, stellen die Ermittler des Battle Creek Police Departments erstaunt fest, dass es sich um den Wagen von FBI-Special Agent Chamberlain handelt. Erleichtert, dass er nicht im Auto saß, als die Bombe hochging, fragen sich die Ermittler, wo Chamberlain ist. Weil er einen Verdacht hat, wer hinter dem Anschlag stecken könnte, meldet sich Chamberlain nur bei Detective Agnew und bittet ihn, ihn bei seinen Nachforschungen zu unterstützen.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Drama (serie)</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-at-dynamic.horizon.tv/EventImages/180067804.p.f3a430b012077ac61671caa6a0d03b114620e9e3.jpg" />
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="AT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815013500 +0000" stop="20190815021500 +0000" channel="ORF eins.at">
+    <title lang="en">The Night Shift</title>
+    <sub-title lang="en">Team Nachtschicht</sub-title>
+    <desc lang="en">Die Ärzte, die während der Nachtschicht im San Antonio Memorial Leben retten, bekommen einen neuen Kollegen: Der ehemalige Militärarzt TC Callahan beginnt seinen Dienst. Sein erster dramatischer Einsatz lässt nicht lange auf sich warten. Ein Junge ist bei einem Verkehrsunfall schwer verletzt worden. Mit einer riskanten Operation versucht TC, das Leben des Kindes zu retten. In der Zwischenzeit bekommt die Nachtschicht eine neue Leiterin. Es ist ausgerechnet Dr. Jordan Alexander, TCs Ex-Freundin.(n)</desc>
+    <date>2014</date>
+    <category lang="en">Drama (serie)</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-at-dynamic.horizon.tv/EventImages/125863880.p.f5d4fae38fa7fd66322bc68b3b89a77867205d57.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="AT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815021500 +0000" stop="20190815030000 +0000" channel="ORF eins.at">
+    <title lang="en">The Night Shift</title>
+    <sub-title lang="en">Noch eine Chance</sub-title>
+    <desc lang="en">Der Hilfssheriff Nick Woods wird mit einer lebensgefährlichen Schussverletzung ins San Antonio Memorial eingeliefert. TC ist fest entschlossen, Nicks Leben zu retten. Er kennt ihn aus Afghanistan, in seiner Brust schlägt seit einer Transplantation, das Herz von TCs verstorbenem Bruder. Nun benötigt Nick ein neues Spenderorgan. Unterdessen behandelt Drew den gebrochenen Arm eines Zwölfjährigen. Drew ist überzeugt, dass der Junge misshandelt wurde.(n)</desc>
+    <date>2014</date>
+    <category lang="en">Drama (serie)</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-at-dynamic.horizon.tv/EventImages/125863880.p.f5d4fae38fa7fd66322bc68b3b89a77867205d57.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="AT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815030000 +0000" stop="20190815032000 +0000" channel="ORF eins.at">
+    <title lang="en">New Girl</title>
+    <sub-title lang="en">Unzustellbar</sub-title>
+    <desc lang="en">Jess' Freund Sam hat Geburtstag. Zur Party zu seinen Ehren kommt auch Sams beste Freundin Diane. Die beiden haben gemeinsam studiert und verstehen sich, wie es scheint, prächtig. Jess kann ihre Eifersucht kaum zügeln. Als sich herausstellt, dass Diane seit Jahren unglücklich in Sam verliebt ist, gerät Jess ins Grübeln. Derweil versucht Nick zu verhinden, dass Schmidt erneut von seinem Vater Gavin schwer enttäuscht wird.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Drama (serie)</category>
+    <category lang="en">Komödie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-at-dynamic.horizon.tv/EventImages/239393250.p.3c5489a8bce93505ed337725d5aa8b901321a836.jpg" />
+    <episode-num system="onscreen">S5 E20</episode-num>
+    <rating system="AT">
+      <value>oA</value>
+    </rating>
+  </programme>
+  <programme start="20190815032000 +0000" stop="20190815040000 +0000" channel="ORF eins.at">
+    <title lang="en">Fresh Off the Boat</title>
+    <sub-title lang="en">Hobbies? Nein Danke!</sub-title>
+    <desc lang="en">Die Speisekammer ist für Jessica ein besonders wichtiger Bereich im Haus - umso größer ihr Schreck, als Louis diese neu einrichtet. Außerdem ist Jessica eifersüchtig auf ihre Schwester Connie - während sie selbst vernünftig und verantwortungsbewusst ist, nimmt sich diese große Freiheiten, reist herum und muss auf niemanden Rücksicht nehmen. Als sie allerdings studieren will, ist Jessica unerwarteterweise stolz auf sie und will sie unterstützen. Doch die Dinge laufen anders als gedacht.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Drama (serie)</category>
+    <category lang="en">Komödie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-at-dynamic.horizon.tv/EventImages/231551335.p.4a8c62ab357e5da0d57a6dc614d9107b6369a9ff.jpg" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="AT">
+      <value>oA</value>
+    </rating>
+  </programme>
+  <programme start="20190815040000 +0000" stop="20190815042500 +0000" channel="ORF eins.at">
+    <title lang="en">Die Biene Maja</title>
+    <sub-title lang="en">Alexander der Große</sub-title>
+    <desc lang="en">Es ist Frühling geworden. Maja und ihre Freunde erwachen aus dem Winterschlaf. Als Maja ihren Freund Flip wecken will, erfährt sie, dass er seit einem Feuer, bei dem er die Familie Rotnase gerettet hatte, spurlos verschwunden ist. Maja und Willi machen sich auf die Suche. Bei einer kleinen grauen Maus finden sie Flip. Sie nennt sich Alexander, der Große und scheint sehr gebildet zu sein. Alexander hatte nach dem Feuer am Bach den schlafenden, halb erfrorenen Flip entdeckt und ihn bei sich zu Hause wieder gesund gepflegt. Flip ist froh, wieder unter seinen Freunden zu sein, denn er hat langsam die stark übertriebenen Geschichten von Alexander und seinen Heldentaten satt.(n)</desc>
+    <date>1975</date>
+    <category lang="en">Kinder</category>
+    <category lang="en">Jugend</category>
+    <category lang="en">Kinder, 6 14</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-at-dynamic.horizon.tv/EventImages/43468585.p.7adf0816b088ffce84bfb29bec01bd847dfb5bec.jpg" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="AT">
+      <value>oA</value>
+    </rating>
+  </programme>
+  <programme start="20190815042500 +0000" stop="20190815045000 +0000" channel="ORF eins.at">
+    <title lang="en">Micky und die flinken Flitzer</title>
+    <sub-title lang="en">Das unmögliche Rennen / Hilfreiche Helfer ahoi!</sub-title>
+    <desc lang="en">Das berühmte 'unmögliche Rennen' steht bevor. Noch nie hat ein Teilnehmer diese Wettfahrt beenden können. Damit das auch diesmal der Fall ist, wurden drei Fallen eingebaut. Cuckoo Loca will beweisen, dass auch sie ein Flinker Flitzer ist und macht kurzerhand bei dem schwierigen Rennen mit. In einer weiteren Episode kann der Kapitän eines Kreuzfahrtschiffes ausgerechnet auf der Valentintags-Rundfahrt keine Unterhaltungschefs auftreiben. Zum Glück sind Minnie und Daisy bereit, einzuspringen. An Bord helfen die zwei der Hausmeisterin Emmy Lou und Mr. Doozy, einen Tanzwettbewerb zu gewinnen.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Kinder</category>
+    <category lang="en">Jugend</category>
+    <category lang="en">Kinder, 6 14</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-at-dynamic.horizon.tv/EventImages/242890728.p.bf5f89202afffc042fab2a32ce7b8224d348cf71.jpg" />
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20190815045000 +0000" stop="20190815051000 +0000" channel="ORF eins.at">
+    <title lang="en">Zip Zip</title>
+    <sub-title lang="en">Mottenlöcher / Kostüme machen Tiere</sub-title>
+    <desc lang="en">Mottenlöcher: Susi und Carlotta haben zur Winterzeit Mitleid mit einer kleinen Motte. Sie holen sie kurzerhand ins Haus. Die Motte beginnt allerdings sofort damit, Sachen aus Stoff anzuknabbern - darunter auch Carls Kostüm... / Kostüme machen Tiere: Fridolin bestellt für sich und seine Freunde neue Kostüme, da die alten schon stark abgenutzt sind. Durch ein Versehen bekommen sie Löwen- und Tigerkostüme zugeschickt - dabei hat Vicky ihr altes Kostüm bereits weggeworfen.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Kinder</category>
+    <category lang="en">Jugend</category>
+    <category lang="en">Kinder, 6 14</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp27-images-at-dynamic.horizon.tv/EventImages/161850889.p.8c4fbafbd935dd563e91c963c94bd157c2cf1354.jpg" />
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20190815051000 +0000" stop="20190815053500 +0000" channel="ORF eins.at">
+    <title lang="en">Die Pinguine aus Madagaskar</title>
+    <sub-title lang="en">Operation: Blaue Blubberblase</sub-title>
+    <desc lang="en">Kowalski erfindet eine Maschine, die eine unglaublich köstliche Spezialität namens 'Furros' herstellen kann. Die Pinguine essen von da an nur noch diese göttliche Fischspeise. Dabei entgeht ihnen ganz und gar, dass die Maschine nebenbei Giftblasen ausspuckt, die das Wetter durcheinanderbringen und bald die gesamte Galaxie bedrohen.(n)</desc>
+    <date>2012</date>
+    <category lang="en">Kinder</category>
+    <category lang="en">Jugend</category>
+    <category lang="en">Kinder, 6 14</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-at-dynamic.horizon.tv/EventImages/36321177.p.a9762876d1cb461ccc20b961210067d29b427491.jpg" />
+    <rating system="AT">
+      <value>oA</value>
+    </rating>
+  </programme>
+  <programme start="20190815053500 +0000" stop="20190815060000 +0000" channel="ORF eins.at">
+    <title lang="en">Servus Kasperl</title>
+    <sub-title lang="en">Kasperl &amp; Co: Eine Gute Nacht Geschichte</sub-title>
+    <desc lang="en">Großmutti liest dem Kasperl und dem Sepperl aus einem uralten Märchenbuch vor und plötzlich passiert es! Sie fällt in einen tiefen Schlaf. Alle Versuche, sie zu wecken, schlagen fehl. Kasperl und Sepperl laufen zu den Hexen Irma und Urma um diese um Rat zu fragen. Leider lesen die beiden die gleiche Stelle aus dem Buch noch einmal vor, und es passiert wieder. Nun liegen auch die beiden Hexen im Tiefschlaf. Jetzt ist eines ganz klar: Dieses Märchenbuch ist kein normales Buch!(n)</desc>
+    <date>2008</date>
+    <category lang="en">Kinder</category>
+    <category lang="en">Jugend</category>
+    <category lang="en">Kinder, 6 14</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-at-dynamic.horizon.tv/EventImages/40527235.p.3463b5cdb6856d6ea679ded47863a8056541cdb5.jpg" />
+    <rating system="AT">
+      <value>oA</value>
+    </rating>
+  </programme>
+  <programme start="20190815060000 +0000" stop="20190815070000 +0000" channel="ORF eins.at">
+    <title lang="en">Feuerwehrmann Sam: Helden im Sturm</title>
+    <desc lang="en">Am letzten Tag vor der Übersiedlung in die neue Feuerwache haben Feuerwehrmann Sam und seine Kollegen alle Hände voll zu tun: Ein Schulbus droht von einer Klippe herabzustürzen. Außerdem muss ein in Seenot geratenes Boot gerettet werden. Dem nicht genug, bedroht ein Hurrikan Sams Heimatstadt Pontypendy. Gerade als Sam dabei ist, eine Gruppe von Kindern aus einer Höhle zu führen, wird durch das Unwetter ein Steinschlag ausgelöst, der den Höhleneingang versperrt. Nun ist guter Rat teuer.(n)</desc>
+    <date>2014</date>
+    <category lang="en">Kinder</category>
+    <category lang="en">Jugend</category>
+    <category lang="en">Kinder, 6 14</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-at-dynamic.horizon.tv/EventImages/213759759.p.a3b020435c770bd939b0a4c9320394a5dae28be2.jpg" />
+    <rating system="AT">
+      <value>oA</value>
+    </rating>
+  </programme>
+  <programme start="20190815070000 +0000" stop="20190815081500 +0000" channel="ORF eins.at">
+    <title lang="en">Stuart Little</title>
+    <desc lang="en">Für Mäuserich Stuart ist ein Traum in Erfüllung gegangen: Das New Yorker Ehepaar Eleanor und Fredrick Little hat sich im Waisenhaus in die putzigen Knopfaugen des aufgeweckten Vierbeiners verliebt und ihn vom Fleck weg adoptiert. Dabei hatte Stuart schon fast die Hoffnung aufgegeben, jemals ein neues Zuhause zu finden. Im schmucken Eigenheim inmitten Manhattans hält sich die Freude allerdings in Grenzen. Söhnchen George sieht seine Vormachtstellung gefährdet. Und Hauskater Snowbell macht gleich von Anfang an klar, dass er Stuart zum Fressen gern hat. Schon bald schmiedet der verwöhnte Kater einen finsteren Plan, um den neuen Familienzuwachs wieder zu vertreiben - gemeine Straßenkater und eine geplante Ermordung inklusive. Für Stuart brechen harte Zeiten an.(n)</desc>
+    <date>1999</date>
+    <category lang="en">Kinder</category>
+    <category lang="en">Jugend</category>
+    <category lang="en">Kinder, 6 14</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-at-dynamic.horizon.tv/EventImages/1172393.p.c888d0e4227af2d0bae72fff373e366eb5a11b01.jpg" />
+    <rating system="AT">
+      <value>oA</value>
+    </rating>
+  </programme>
+  <programme start="20190815081500 +0000" stop="20190815094500 +0000" channel="ORF eins.at">
+    <title lang="en">Der kleine Nick macht Ferien</title>
+    <desc lang="en">Komödie. Nichts wie weg aus Paris! Das denken sich Nick, seine Eltern und die Oma, als endlich die Sommerferien anbrechen. Zur stilechten Entspannung geht es ans Meer - doch der Urlaubstraum schmilzt wie Eis in der Strandsonne. Schuld sind andere Urlauber wie der italienische Filmproduzent, der sich an Mama ranmacht, oder die deutsche Nudistin, der Papa so langsam verfällt. Doch am schlimmsten ist Isabelle. Das kleine Mädchen mit den Zöpfen und dem starren Blick folgt Nick überall hin, dabei hat er sein Herz doch längst an seine Freundin Marie-Hedwig aus der Nachbarschaft in Paris verschenkt. Der misslichen Lage kann nur auf einem Weg entkommen werden: Isabelle und ihre ganze Familie müssen weg! Also trommelt der kleine Nick kurzerhand seine im Urlaub gewonnenen Freunde zusammen, um den Störenfrieden so lange Streiche zu spielen, bis sie freiwillig abreisen.(n)</desc>
+    <date>2014</date>
+    <category lang="en">Komödie</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp20-images-at-dynamic.horizon.tv/EventImages/138899202.p.856041ec4ff911f4d7cf4296aef9451871644d57.jpg" />
+    <rating system="AT">
+      <value>oA</value>
+    </rating>
+  </programme>
+  <programme start="20190815094500 +0000" stop="20190815112000 +0000" channel="ORF eins.at">
+    <title lang="en">Toy Story 3</title>
+    <desc lang="en">Die Zeit für ein Abschied ist reif: Andy ist mittlerweile 17 Jahre alt und macht sich auf den Weg ins College. Spielsachen stören da nur, also sortiert er sie aus - und die einstigen Lieblinge der Kindheit landen im Kindergarten Sunny Side. Dort scheint alles wie im Paradies zu sein. Die Spielsachen sind nett, Kinder sind auch da - und Barbie trifft auf ihren Traummann. Schon bald erleben die Freunde aber ihr blaues Wunder: Die Kids sind asoziale Blagen und der kuschelige Bär erweist sich als böser Tyrann. Die Devise lautet fortan: Nichts wie weg aus dieser Spielzeughölle! Das ist nicht so einfach, denn der Kindergarten ist ein veritables Gefängnis. Nicht jedoch für Buzz Lightyear.(n)</desc>
+    <date>2010</date>
+    <category lang="en">Film</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp25-images-at-dynamic.horizon.tv/EventImages/30139838.p.9e66d6d49100a2639c150e4ceb6f6618a27ff1c7.jpg" />
+    <rating system="AT">
+      <value>oA</value>
+    </rating>
+  </programme>
+  <programme start="20190815112000 +0000" stop="20190815125500 +0000" channel="ORF eins.at">
+    <title lang="en">Die Chaoscamper</title>
+    <desc lang="en">Ferien auf Hawaii sollen die Familie Munro wieder näher zusammenbringen. Doch wegen eines dringenden geschäftlichen Auftrags mietet Vater Bob stattdessen ein Wohnmobil und fährt mit seiner Frau und den beiden Teenager-Kindern über Land. Nicht nur der Zorn seiner Liebsten ist ihm damit sicher; auch Natur und Technik scheinen sich gegen die an jeden Komfort gewöhnten Städter verschworen zu haben.(n)</desc>
+    <date>2006</date>
+    <category lang="en">Komödie</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp19-images-at-dynamic.horizon.tv/EventImages/11922158.p.898b1db97226e10428fe47e13e456adb08db0bbd.jpg" />
+    <rating system="AT">
+      <value>oA</value>
+    </rating>
+  </programme>
+  <programme start="20190815125500 +0000" stop="20190815143500 +0000" channel="ORF eins.at">
+    <title lang="en">Pan</title>
+    <desc lang="en">Abenteuerfilm. Im Jahr 1926 fristet der 12-jährige, rebellische Waisenjunge Peter in einem trostlosen Heim sein Dasein. Das ändert sich schlagartig, als er eines Nachts von Piraten entführt wird und sich plötzlich in Nimmerland wiederfindet, in dem magische Wesen, Krieger und Piraten wohnen. Dort freundet er sich mit der toughen Tiger Lily und dem charmanten James Hook an. Gemeinsam mit seinen neuen Freunden und einer Schar Verbündeter muss Peter gegen den fiesen Piraten Blackbeard antreten und Nimmerland retten. Doch auf seinem Abenteuer bekommt Peter auch die Chance, etwas über seine verschwundene Mutter zu erfahren.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Sci Fi</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp10-images-at-dynamic.horizon.tv/EventImages/194679780.p.904b7ba5780786bb214c359698fa400081b94491.jpg" />
+    <rating system="AT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815143500 +0000" stop="20190815144000 +0000" channel="ORF eins.at">
+    <title lang="en">ZiB Flash</title>
+    <desc lang="en">Drei Minuten kompakte Informationen: Überblicksartig werden die wichtigsten Nachrichten in rascher Abfolge präsentiert. Ein kurzer Wetterbericht schließt die Sendung ab.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-at-dynamic.horizon.tv/EventImages/40529819.p.868ecaf327f152c93d6c28e48b59663c3b8cc112.jpg" />
+  </programme>
+  <programme start="20190815144000 +0000" stop="20190815164000 +0000" channel="ORF eins.at">
+    <title lang="en">Die Tribute von Panem - Mockingjay Teil 2</title>
+    <desc lang="en">Der Krieg in Panem spitzt sich weiter zu und immer mehr Distrikte werden von den Streitkräften des Kapitols zerstört. Katniss Everdeen, das widerwillige Gesicht der Rebellion gegen Präsident Snow und sein totalitäres Regime, bereitet sich auf den bittersten Kampf ihres Lebens vor, der die Bürger von Panem endlich befreien soll. Gemeinsam mit einer Einsatztruppe aus Distrikt 13, zu der auch ihre Freunde Gale, Finnick und der immer noch unter den Folgen einer Gehirnwäsche leidende Peeta gehören, will sie das Kapitol erobern und Snow stürzen. Doch die Gefahren, die dabei auf sie zukommen, gehen weit über ihre schlimmsten Befürchtungen hinaus und Katniss weiß nicht, wem sie noch trauen kann.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Abenteuer</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp16-images-at-dynamic.horizon.tv/EventImages/201464696.p.e05f88a4d02bb106555b4aaad6a6d87cb22c7fed.jpg" />
+    <rating system="AT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815164000 +0000" stop="20190815164500 +0000" channel="ORF eins.at">
+    <title lang="en">ZiB Flash</title>
+    <desc lang="en">Drei Minuten kompakte Informationen: Überblicksartig werden die wichtigsten Nachrichten in rascher Abfolge präsentiert. Ein kurzer Wetterbericht schließt die Sendung ab.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Nachrichten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp4-images-at-dynamic.horizon.tv/EventImages/40529819.p.868ecaf327f152c93d6c28e48b59663c3b8cc112.jpg" />
+  </programme>
+  <programme start="20190815164500 +0000" stop="20190815165500 +0000" channel="ORF eins.at">
+    <title lang="en">Fußball UEFA Europa League</title>
+    <desc lang="en">Countdown zur Live-Übertragung des Spiels Apollon Limassol gegen Austria Wien in der 3. Qualifikationsrunde der Saison 2019/20 aus Nikosia, moderiert von Rainer Pariasek.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Fußball</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp8-images-at-dynamic.horizon.tv/EventImages/48421511.p.c438e12922cbb851bdeaa165d411ba387470cc07.jpg" />
+    <episode-num system="onscreen">S2019 </episode-num>
+  </programme>
+  <programme start="20190815165500 +0000" stop="20190815185500 +0000" channel="ORF eins.at">
+    <title lang="en">Fußball UEFA Europa League</title>
+    <desc lang="en">Live-Übertragung des Spiels Apollon Limassol gegen Austria Wien in der 3. Qualifikationsrunde der Saison 2019/20 aus Nikosia, kommentiert von Daniel Warmuth.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Fußball</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-at-dynamic.horizon.tv/EventImages/48421511.p.c438e12922cbb851bdeaa165d411ba387470cc07.jpg" />
+    <episode-num system="onscreen">S2019 </episode-num>
+  </programme>
+  <programme start="20190815185500 +0000" stop="20190815191500 +0000" channel="ORF eins.at">
+    <title lang="en">Fußball UEFA Europa League</title>
+    <desc lang="en">Die Analyse des Spiels Apollon Limassol gegen Austria Wien in der 3. Qualifikationsrunde der Saison 2019/20 mit Moderator Rainer Pariasek und Experte Herbert Prohaska.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Fußball</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-at-dynamic.horizon.tv/EventImages/48421511.p.c438e12922cbb851bdeaa165d411ba387470cc07.jpg" />
+    <episode-num system="onscreen">S2019 </episode-num>
+  </programme>
+  <programme start="20190815191500 +0000" stop="20190815211500 +0000" channel="ORF eins.at">
+    <title lang="en">Creed - Rocky's Legacy</title>
+    <desc lang="en">Sportdrama. Der junge Boxer Adonis Johnson ist der Sohn des Schwergewichtsweltmeisters Apollo Creed, den er niemals kennenlernen durfte. Adonis fühlt sich von seinem Bürojob gelangweilt und sucht einen Ausgleich in illegalen Kämpfen in Tijuana. Schließlich zieht es ihn nach Philadelphia, wo Apollo Creed einst den legendären Kampf Rocky Balboa bestritt. Adonis spürt Rocky auf und überzeugt ihn, sein Trainer zu werden. Der in die Jahre gekommene Boxer erkennt in dem jungen Mann die Entschlossenheit und Stärke dessen Vaters. Dieser war zwar zunächst Rockys erbitterter Gegner, doch später entwickelten die beiden eine enge Bindung. Adonis trainiert hart, um dem Vermächtnis seines Vaters gerecht zu werden. Doch reicht das aus, um den amtierenden Boxmeister Pretty Ricky Conlan zu schlagen?(n)</desc>
+    <date>2015</date>
+    <category lang="en">Drama (film)</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp20-images-at-dynamic.horizon.tv/EventImages/196754641.p.df53511dfdbfde36b9982ff41f79d5614a84144d.jpg" />
+    <rating system="AT">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815211500 +0000" stop="20190815232500 +0000" channel="ORF eins.at">
+    <title lang="en">Shutter Island</title>
+    <desc lang="en">US-Marshal Teddy Daniels landet 1954 mit seinem Partner Chuck Aule inmitten eines Unwetters auf dem entlegenen Shutter Island. Dort ist aus dem Krankenhaus für geisteskranke Schwerverbrecher eine Mörderin verschwunden. Schnell ist Teddy klar, dass er keine Unterstützung von den Ärzten zu erwarten hat: Offenbar will man ihn auf falsche Fährten locken und als Schachfigur in einem diabolischen Spiel instrumentalisieren. Teddy setzt dennoch alles daran, das Geheimnis der Insel zu entschlüsseln.(n)</desc>
+    <date>2010</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp17-images-at-dynamic.horizon.tv/EventImages/27649764.p.ec7b1094222d5df8a2d821e0f4fa12f4e74998e0.jpg" />
+    <rating system="AT">
+      <value>16</value>
+    </rating>
+  </programme>
+</tv>

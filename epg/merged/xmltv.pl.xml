@@ -1,0 +1,1133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TVP 1 HD.pl">
+    <display-name lang="en">TVP 1 HD</display-name>
+    <icon src="https://wp21-images-pl-dynamic.horizon.tv/Logos/4850.f.8ef0b1817211a4effa60c09a9b342d4ff3c60aa9.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 2 HD.pl">
+    <display-name lang="en">TVP 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP Info.pl">
+    <display-name lang="en">TVP Info</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV 4 HD.pl">
+    <display-name lang="en">TV 4 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat HD.pl">
+    <display-name lang="en">Polsat HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Epoka Lodowcowa Mocne Uderzenie.pl">
+    <display-name lang="en">Epoka Lodowcowa Mocne Uderzenie</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVN HD.pl">
+    <display-name lang="en">TVN HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Puls HD.pl">
+    <display-name lang="en">TV Puls HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVN7 HD.pl">
+    <display-name lang="en">TVN7 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Interaktywna Galeria UPC.pl">
+    <display-name lang="en">Interaktywna Galeria UPC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Iluzja 2.pl">
+    <display-name lang="en">Iluzja 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Zamów usługi.pl">
+    <display-name lang="en">Zamów usługi</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mango.pl">
+    <display-name lang="en">Mango</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP HD.pl">
+    <display-name lang="en">TVP HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVN Style HD.pl">
+    <display-name lang="en">TVN Style HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVN Fabuła.pl">
+    <display-name lang="en">TVN Fabuła</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVN Turbo HD.pl">
+    <display-name lang="en">TVN Turbo HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC Lifestyle HD.pl">
+    <display-name lang="en">BBC Lifestyle HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC HD.pl">
+    <display-name lang="en">BBC HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC Brit.pl">
+    <display-name lang="en">BBC Brit</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ID HD.pl">
+    <display-name lang="en">ID HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TLC HD.pl">
+    <display-name lang="en">TLC HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Cafe HD.pl">
+    <display-name lang="en">Polsat Cafe HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Lifetime.pl">
+    <display-name lang="en">Lifetime</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CI Polsat.pl">
+    <display-name lang="en">CI Polsat</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Super Polsat HD.pl">
+    <display-name lang="en">Super Polsat HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Tele5 HD.pl">
+    <display-name lang="en">Tele5 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fashion TV HD.pl">
+    <display-name lang="en">Fashion TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CBS Drama.pl">
+    <display-name lang="en">CBS Drama</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BGF Bardzo Fajny Gigant.pl">
+    <display-name lang="en">BGF Bardzo Fajny Gigant</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DOMO HD.pl">
+    <display-name lang="en">DOMO HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="kuchnia HD.pl">
+    <display-name lang="en">kuchnia HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Food Network.pl">
+    <display-name lang="en">Polsat Food Network</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat 2 HD.pl">
+    <display-name lang="en">Polsat 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Puls 2 HD.pl">
+    <display-name lang="en">Puls 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="8 TV HD.pl">
+    <display-name lang="en">8 TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NOWA TV HD.pl">
+    <display-name lang="en">NOWA TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP Rozrywka.pl">
+    <display-name lang="en">TVP Rozrywka</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV 6 HD.pl">
+    <display-name lang="en">TV 6 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Zoom TV HD.pl">
+    <display-name lang="en">Zoom TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Metro HD.pl">
+    <display-name lang="en">Metro HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="WP HD.pl">
+    <display-name lang="en">WP HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVR.pl">
+    <display-name lang="en">TVR</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ATM Rozrywka.pl">
+    <display-name lang="en">ATM Rozrywka</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 3 Gdańsk.pl">
+    <display-name lang="en">TVP 3 Gdańsk</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 3 Katowice.pl">
+    <display-name lang="en">TVP 3 Katowice</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 3 Wrocław.pl">
+    <display-name lang="en">TVP 3 Wrocław</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 3 Szczecin.pl">
+    <display-name lang="en">TVP 3 Szczecin</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 3 Kielce.pl">
+    <display-name lang="en">TVP 3 Kielce</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 3 Lublin.pl">
+    <display-name lang="en">TVP 3 Lublin</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 3 Warszawa.pl">
+    <display-name lang="en">TVP 3 Warszawa</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 3 Gorzów Wlkp.pl">
+    <display-name lang="en">TVP 3 Gorzów Wlkp</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 3 Opole.pl">
+    <display-name lang="en">TVP 3 Opole</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 3 Bydgoszcz.pl">
+    <display-name lang="en">TVP 3 Bydgoszcz</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat News HD.pl">
+    <display-name lang="en">Polsat News HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Boss.pl">
+    <display-name lang="en">Boss</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVN24 HD.pl">
+    <display-name lang="en">TVN24 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat News 2.pl">
+    <display-name lang="en">Polsat News 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVN24 BiS.pl">
+    <display-name lang="en">TVN24 BiS</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TTV HD.pl">
+    <display-name lang="en">TTV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HGTV.pl">
+    <display-name lang="en">HGTV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Republika.pl">
+    <display-name lang="en">TV Republika</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Superstacja HD.pl">
+    <display-name lang="en">Superstacja HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="euronews.pl">
+    <display-name lang="en">euronews</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC World News.pl">
+    <display-name lang="en">BBC World News</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Bloomberg.pl">
+    <display-name lang="en">Bloomberg</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CNN.pl">
+    <display-name lang="en">CNN</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP 3 Kraków.pl">
+    <display-name lang="en">TVP 3 Kraków</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVS HD.pl">
+    <display-name lang="en">TVS HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP Polonia.pl">
+    <display-name lang="en">TVP Polonia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NTL Radomsko.pl">
+    <display-name lang="en">NTL Radomsko</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="National Geographic Channel HD.pl">
+    <display-name lang="en">National Geographic Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild HD.pl">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Viasat Nature.pl">
+    <display-name lang="en">Polsat Viasat Nature</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Channel HD.pl">
+    <display-name lang="en">Discovery Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Science.pl">
+    <display-name lang="en">Discovery Science</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="DTX.pl">
+    <display-name lang="en">DTX</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Life.pl">
+    <display-name lang="en">Discovery Life</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Animal Planet HD.pl">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="BBC Earth.pl">
+    <display-name lang="en">BBC Earth</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Travel Channel HD.pl">
+    <display-name lang="en">Travel Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="PLANETE HD.pl">
+    <display-name lang="en">PLANETE HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ADVENTURE HD.pl">
+    <display-name lang="en">ADVENTURE HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Fokus TV HD.pl">
+    <display-name lang="en">Fokus TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP Kultura.pl">
+    <display-name lang="en">TVP Kultura</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP Historia.pl">
+    <display-name lang="en">TVP Historia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="History HD.pl">
+    <display-name lang="en">History HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Viasat History HD.pl">
+    <display-name lang="en">Polsat Viasat History HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Discovery Historia.pl">
+    <display-name lang="en">Discovery Historia</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CBS Reality.pl">
+    <display-name lang="en">CBS Reality</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Viasat Explore HD.pl">
+    <display-name lang="en">Polsat Viasat Explore HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nat Geo People HD.pl">
+    <display-name lang="en">Nat Geo People HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Strefa Filmowa.pl">
+    <display-name lang="en">Strefa Filmowa</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MY PRIME  Filmy i Seriale.pl">
+    <display-name lang="en">MY PRIME  Filmy i Seriale</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL.pl">
+    <display-name lang="en">CANAL</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL 1FAMILY2.pl">
+    <display-name lang="en">CANAL 1FAMILY2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL FILM.pl">
+    <display-name lang="en">CANAL FILM</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL SERIALEFILM2.pl">
+    <display-name lang="en">CANAL SERIALEFILM2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL FAMILY.pl">
+    <display-name lang="en">CANAL FAMILY</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL DISCOVERY.pl">
+    <display-name lang="en">CANAL DISCOVERY</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL SPORT.pl">
+    <display-name lang="en">CANAL SPORT</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CANAL SPORT 2.pl">
+    <display-name lang="en">CANAL SPORT 2</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO HD.pl">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO2 HD.pl">
+    <display-name lang="en">HBO2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="HBO3 HD.pl">
+    <display-name lang="en">HBO3 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cinemax HD.pl">
+    <display-name lang="en">Cinemax HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cinemax2 HD.pl">
+    <display-name lang="en">Cinemax2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="KinoTV.pl">
+    <display-name lang="en">KinoTV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Extra HD.pl">
+    <display-name lang="en">FilmBox Extra HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Premium.pl">
+    <display-name lang="en">FilmBox Premium</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FilmBox Family.pl">
+    <display-name lang="en">FilmBox Family</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Filmbox Action.pl">
+    <display-name lang="en">Filmbox Action</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Filmbox Arthouse HD.pl">
+    <display-name lang="en">Filmbox Arthouse HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kino Polska.pl">
+    <display-name lang="en">Kino Polska</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN HD.pl">
+    <display-name lang="en">AXN HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN Spin HD.pl">
+    <display-name lang="en">AXN Spin HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN White.pl">
+    <display-name lang="en">AXN White</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="AXN Black.pl">
+    <display-name lang="en">AXN Black</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Film HD.pl">
+    <display-name lang="en">Polsat Film HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ale kino HD.pl">
+    <display-name lang="en">ale kino HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Paramount HD.pl">
+    <display-name lang="en">Paramount HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Comedy Central HD.pl">
+    <display-name lang="en">Comedy Central HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Comedy Central Family.pl">
+    <display-name lang="en">Comedy Central Family</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TNT.pl">
+    <display-name lang="en">TNT</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX HD.pl">
+    <display-name lang="en">FOX HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Rebeliant.pl">
+    <display-name lang="en">Rebeliant</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FOX Comedy HD.pl">
+    <display-name lang="en">FOX Comedy HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CBS Action.pl">
+    <display-name lang="en">CBS Action</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="CBS Europa HD.pl">
+    <display-name lang="en">CBS Europa HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP Seriale.pl">
+    <display-name lang="en">TVP Seriale</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Romance TV HD.pl">
+    <display-name lang="en">Romance TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Sundance TV HD.pl">
+    <display-name lang="en">Sundance TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Stopklatka HD.pl">
+    <display-name lang="en">Stopklatka HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Romans.pl">
+    <display-name lang="en">Polsat Romans</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Strefa Sportowa.pl">
+    <display-name lang="en">Strefa Sportowa</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Dzień Niepodległości Odrodzenie.pl">
+    <display-name lang="en">Dzień Niepodległości Odrodzenie</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nautical Channel.pl">
+    <display-name lang="en">Nautical Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Ginx TV.pl">
+    <display-name lang="en">Ginx TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP Sport HD.pl">
+    <display-name lang="en">TVP Sport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="nSport HD.pl">
+    <display-name lang="en">nSport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eleven.pl">
+    <display-name lang="en">Eleven</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eleven Sports.pl">
+    <display-name lang="en">Eleven Sports</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eleven Extra.pl">
+    <display-name lang="en">Eleven Extra</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Sport HD.pl">
+    <display-name lang="en">Polsat Sport HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Sport Extra HD.pl">
+    <display-name lang="en">Polsat Sport Extra HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Sport Fight HD.pl">
+    <display-name lang="en">Polsat Sport Fight HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Sport News HD.pl">
+    <display-name lang="en">Polsat Sport News HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polsat Play HD.pl">
+    <display-name lang="en">Polsat Play HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Orange Sport.pl">
+    <display-name lang="en">Orange Sport</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 1 HD.pl">
+    <display-name lang="en">Eurosport 1 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Eurosport 2 HD.pl">
+    <display-name lang="en">Eurosport 2 HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="SportKlub HD.pl">
+    <display-name lang="en">SportKlub HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="FightKlub HD.pl">
+    <display-name lang="en">FightKlub HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Extreme Sports Channel.pl">
+    <display-name lang="en">Extreme Sports Channel</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Motowizja HD.pl">
+    <display-name lang="en">Motowizja HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Golf Channel HD.pl">
+    <display-name lang="en">Golf Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Strefa Dla Dzieci.pl">
+    <display-name lang="en">Strefa Dla Dzieci</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TVP ABC.pl">
+    <display-name lang="en">TVP ABC</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="JimJam Polsat.pl">
+    <display-name lang="en">JimJam Polsat</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Baby First TV.pl">
+    <display-name lang="en">Baby First TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MiniMini HD.pl">
+    <display-name lang="en">MiniMini HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nick Jr.pl">
+    <display-name lang="en">Nick Jr</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nickelodeon.pl">
+    <display-name lang="en">Nickelodeon</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Nicktoons_HD.pl">
+    <display-name lang="en">Nicktoons_HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Cartoon Network.pl">
+    <display-name lang="en">Cartoon Network</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Channel HD.pl">
+    <display-name lang="en">Disney Channel HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney XD.pl">
+    <display-name lang="en">Disney XD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disney Junior.pl">
+    <display-name lang="en">Disney Junior</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Da Vinci Learning.pl">
+    <display-name lang="en">Da Vinci Learning</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Boomerang.pl">
+    <display-name lang="en">Boomerang</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Teletoon HD.pl">
+    <display-name lang="en">Teletoon HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Top Kids HD.pl">
+    <display-name lang="en">Top Kids HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="4funtv.pl">
+    <display-name lang="en">4funtv</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="4FUN GOLD HITS.pl">
+    <display-name lang="en">4FUN GOLD HITS</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="4fun FitDance.pl">
+    <display-name lang="en">4fun FitDance</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="STARSTV HD.pl">
+    <display-name lang="en">STARSTV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VOX Music TV.pl">
+    <display-name lang="en">VOX Music TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Polska.pl">
+    <display-name lang="en">MTV Polska</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Live HD.pl">
+    <display-name lang="en">MTV Live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Rocks.pl">
+    <display-name lang="en">MTV Rocks</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Hits.pl">
+    <display-name lang="en">MTV Hits</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MTV Dance.pl">
+    <display-name lang="en">MTV Dance</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VIVA Polska.pl">
+    <display-name lang="en">VIVA Polska</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="VH 1.pl">
+    <display-name lang="en">VH 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="NutaTV HD.pl">
+    <display-name lang="en">NutaTV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ESKA TV HD.pl">
+    <display-name lang="en">ESKA TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="MUZOTV.pl">
+    <display-name lang="en">MUZOTV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Disco Polo Music.pl">
+    <display-name lang="en">Disco Polo Music</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Polo TV.pl">
+    <display-name lang="en">Polo TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Power TV HD.pl">
+    <display-name lang="en">Power TV HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Kino Polska Muzyka.pl">
+    <display-name lang="en">Kino Polska Muzyka</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mezzo.pl">
+    <display-name lang="en">Mezzo</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Mezzo Live HD.pl">
+    <display-name lang="en">Mezzo Live HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTR Planeta.pl">
+    <display-name lang="en">RTR Planeta</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Russia Today.pl">
+    <display-name lang="en">Russia Today</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Deutsche Welle.pl">
+    <display-name lang="en">Deutsche Welle</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV5Monde.pl">
+    <display-name lang="en">TV5Monde</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="France 24.pl">
+    <display-name lang="en">France 24</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TV Trwam.pl">
+    <display-name lang="en">TV Trwam</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="POLONIA 1.pl">
+    <display-name lang="en">POLONIA 1</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="ETV.pl">
+    <display-name lang="en">ETV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="TOTV.pl">
+    <display-name lang="en">TOTV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Hustler TV.pl">
+    <display-name lang="en">Hustler TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Private TV.pl">
+    <display-name lang="en">Private TV</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="Brazzers TV Europe.pl">
+    <display-name lang="en">Brazzers TV Europe</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <channel id="RTE One HD.eng">
+    <display-name lang="en">RTE One HD</display-name>
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <programme start="20190815013000 +0000" stop="20190815020500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Ludzie w cieniu tablic</title>
+    <desc lang="en">Dzieje tablic zawierających 21 postulatów Sierpnia '80 w powiązaniu z najnowszą historią Polski i Narodowego Muzeum Morskiego w Gdańsku oraz losami kilkunastu ludzi. Dokument powstał w związku z organizowaną wystawą "21. Dekalog Solidarności". Oprócz najważniejszych faktów z historii w filmie nie zabraknie także ludzkich emocji, postaw, refleksji oraz ocen.(n)</desc>
+    <date>2013</date>
+    <category lang="en">Edukacyjny</category>
+    <category lang="en">Dokształcanie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp8-images-pl-dynamic.horizon.tv/Images/20731373356.p.jpg" />
+    <rating system="PL">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815020500 +0000" stop="20190815021500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Notacje</title>
+    <sub-title lang="en">Maria Wiśniewska. Ja i powstanie warszawskie</sub-title>
+    <desc lang="en">Cykl prezentuje archiwalne materiały, zawierające opowieści zasłużonych dla Polski naukowców, artystów, społeczników oraz świadków historycznych wydarzeń. Każdy odcinek został poświęcony jednej wybitnej postaci, która opowiada o jednym epizodzie ze swojego życia. Zobaczymy m.in. sylwetki Jerzego Janickiego, Zbigniewa Kowalskiego, Teresy Bojarskiej, Augusta Kowalczyka, Tadeusza Sułowskiego, Ireny Zappe, Macieja Gutowskiego, Zygmunta Odrowąża-Zawadzkiego i Eugeniusza Cydzika. Doktor Maria Malina Wiśniewska jest dziennikarką i historykiem powstania warszawskiego. Była łączniczką batalionu "Parasol". Pracowała dla Polskiego Radia i Telewizji Polskiej. Napisała wiele książek o powstaniu.(n)</desc>
+    <date>2008</date>
+    <category lang="en">Edukacyjny</category>
+    <category lang="en">Dokształcanie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-pl-dynamic.horizon.tv/Images/98455267.p.4c0c7241b078ec712a17295ba04b9eedfae2ab34.jpg" />
+    <rating system="PL">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815021500 +0000" stop="20190815024000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Zakończenie programu</title>
+    <desc lang="en">Zakończenie programu.(n)</desc>
+    <category lang="en">Wiadomości</category>
+    <category lang="en">Debata</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-pl-dynamic.horizon.tv/Images/127005089.p.e4835f750f83ba49f23b98790f90778a587ab3c4.jpg" />
+  </programme>
+  <programme start="20190815024000 +0000" stop="20190815040000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Wrota Europy</title>
+    <desc lang="en">Rok 1918. Młode siostry miłosierdzia - Zosia (Alicja Bachleda-Curuś), Ira (Agnieszka Sitek) i Hala (Kinga Preis) - postanawiają zostać wolontariuszkami w szpitalu polowym przy linii frontu. Dla 17-letniej Zosi ta praca to szansa na odnalezienie brata Pawła, z którym rozdzieliła ją wojna. Na miejscu dziewczęta przekonują się, że zadanie, jakiego się podjęły, jest trudne i niebezpieczne. Kiedy władze podejmują decyzję o ewakuacji szpitala, wszystkie trzy decydują się jednak zostać w placówce.(n)</desc>
+    <date>1999</date>
+    <category lang="en">Akcja</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp12-images-pl-dynamic.horizon.tv/Images/100581763.p.88ac58bca043ec82def123a987eb51926b57f85a.jpg" />
+    <rating system="PL">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815040000 +0000" stop="20190815050000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Dzika Sri Lanka (odc. 1)</title>
+    <sub-title lang="en">Wybrzeże gigantów</sub-title>
+    <desc lang="en">Sri Lanka nazywana była przez przybyszów z daleka Wyspą Zachwytów i perłą Oceanu Indyjskiego. Marco Polo określił ją jako "najwspanialszą ze wszystkich wysp". Sri Lanka - wcześniej Cejlon - znana jest przede wszystkim z uprawy herbaty i hodowli słoni. Zajmuje obszar mniejszy niż jedna trzecia powierzchni Polski, ale można tam znaleźć niezwykle bogate faunę i florę. Spora część terytorium Sri Lanki to rezerwaty oraz parki narodowe - prawdziwy raj dla każdego miłośnika natury. Dokument zabierze widza na wyspę, która pachnie jaśminem, a także jest ojczyzną mnóstwa przypraw.(n)</desc>
+    <date>2015</date>
+    <category lang="en">Edukacyjny</category>
+    <category lang="en">Przyroda</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-pl-dynamic.horizon.tv/Images/162258774.p.a2a5566fb7413e41556fab4c60a13a4fddb33800.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="PL">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815050000 +0000" stop="20190815060000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Transmisja mszy świętej z Sanktuarium Bożego Miłosierdzia w Krakowie-Łagiewnikach</title>
+    <desc lang="en">Transmisja mszy świętej odprawianej w Sanktuarium Bożego Miłosierdzia znajdującego się w Krakowie Łagiewnikach.(n)</desc>
+    <category lang="en">Kultura</category>
+    <category lang="en">Sztuka</category>
+    <category lang="en">Religia</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-pl-dynamic.horizon.tv/Images/20731373232.p.jpg" />
+  </programme>
+  <programme start="20190815060000 +0000" stop="20190815080000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Matka Teresa</title>
+    <desc lang="en">Kalkuta, 1950 rok. Matka Teresa (Olivia Hussey) opiekuje się trędowatymi i żebrakami, którzy stracili dach nad głową. Ku zdumieniu kościelnych dostojników chce opuścić loretanki i wnosi prośbę o zgodę na utworzenie nowego zgromadzenia - misjonarek miłości. Na prośbę biskupa do Indii przybywa specjalny wysłannik z Watykanu, który ma na miejscu rozpatrzyć sprawę. Ksiądz Serrano (Sebastiano Somma) podaje się za dziennikarza, ale Matka Teresa natychmiast domyśla się, kim naprawdę jest. Opowiada mu o swoim życiu i działalności. Ujęty jej postawą Serrano wydaje pozytywną opinię i Matka Teresa dostaje oficjalną zgodę na założenie kongregacji. Jej misjonarki mają żyć wśród ubogich, a wszystko, co posiadają, ma być przeznaczane na potrzeby chorych, bezdomnych, umierających. Wkrótce w dzieło pomocy włącza się także ksiądz Serrano, który postanawia zostać w Kalkucie.(n)</desc>
+    <date>2003</date>
+    <category lang="en">Dramat (filmy)</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp26-images-pl-dynamic.horizon.tv/Images/224352646.p.b9b8d8a08d4751fbc87278b02a36ab1df6140f83.jpg" />
+    <rating system="PL">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815080000 +0000" stop="20190815093000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Trędowata</title>
+    <desc lang="en">Ordynat Waldemar Michorowski (Leszek Teleszyński) jest człowiekiem współczesnym, pozbawionym przesądów i uprzedzeń kastowych. Zakochuje się ze wzajemnością w miłej, taktownej i pięknej guwernantce, Stefanii Rudeckiej (Elżbieta Starostecka). Dziewczynie jest jednak bardzo trudno wkraść się w łaski konserwatywnego środowiska, nieskorego do sentymentów dla osób z innej sfery. Mimo tych przeciwności Waldemar decyduje się na poślubienie Rudeckiej. Była narzeczona ordynata postanawia do tego nie dopuścić. Knuje podstępną intrygę. Scenariusz filmu stworzono na podstawie znanej powieści Heleny Mniszkówny.(n)</desc>
+    <date>1976</date>
+    <category lang="en">Obyczajowy</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp27-images-pl-dynamic.horizon.tv/Images/99671892.p.972214b4da406c548b338c2f3765a0c0642cce53.jpg" />
+    <rating system="PL">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815093000 +0000" stop="20190815094000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Kalendarium powstania warszawskiego</title>
+    <desc lang="en">Cykl 63 felietonów poświęconych wydarzeniom z poszczególnych dni powstania warszawskiego - od 1 sierpnia do 3 października 1944 roku.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Wiadomości</category>
+    <category lang="en">Debata</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-pl-dynamic.horizon.tv/Images/299284272.p.fcf32d198b087ab9ae1e96e1c8264791256f4fab.jpg" />
+    <rating system="PL">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20190815094000 +0000" stop="20190815110500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Święto Wojska Polskiego 2019. Uroczystości w Katowicach</title>
+    <desc lang="en">Transmisja.(n)</desc>
+    <category lang="en">Wiadomości</category>
+    <category lang="en">Debata</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp27-images-pl-dynamic.horizon.tv/Images/20731372791.p.jpg" />
+    <rating system="PL">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815110500 +0000" stop="20190815113000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Polskie zwierzęta w niebezpieczeństwie (odc. 4)</title>
+    <sub-title lang="en">Żubr</sub-title>
+    <desc lang="en">W tym wydaniu autorzy przybliżają zwyczaje władców puszczy, żubrów. Zwierzęta te, jeszcze kilkanaście lat temu zagrożone wyginięciem, udało się ochronić. Dowodem na to są zdjęcia wykonane w Białowieskim Parku Narodowym, przedstawiające stado tych dostojnych stworzeń w ich naturalnym środowisku. Prowadzący wyjaśniają, czy rzeczywiście żubry są już bezpieczne oraz pokazują przebieg badań naukowych przeprowadzanych w Zakładzie Badania Ssaków PAN w Białowieży. Ponadto relacjonują transport żubrów z południa Polski do województwa zachodniopomorskiego, gdzie kilka okazów trafia w celu zróżnicowania genetycznego gatunku.(n)</desc>
+    <date>2009</date>
+    <category lang="en">Edukacyjny</category>
+    <category lang="en">Przyroda</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-pl-dynamic.horizon.tv/Images/20731373319.p.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="PL">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815113000 +0000" stop="20190815131500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Święto Wojska Polskiego 2019. Defilada</title>
+    <desc lang="en">Transmisja.(n)</desc>
+    <category lang="en">Wiadomości</category>
+    <category lang="en">Debata</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-pl-dynamic.horizon.tv/Images/20731372791.p.jpg" />
+    <rating system="PL">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815131500 +0000" stop="20190815134500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Dzika Polska</title>
+    <sub-title lang="en">Mój puszczański dom</sub-title>
+    <desc lang="en">Program zabiera widzów w podróże po Polsce do miejsc niezwykle ciekawych, niekoniecznie tych najbardziej znanych. Reportaże pozwalają na poznanie rzadkich gatunków zwierząt: żółwi błotnych, sów, nietoperzy, łosi oraz niezbadanych terenów naszego kraju, a także interesujących ludzi, dla których przyroda stanowi ważny element życia. Ekipa "Dzikiej Polski" udaje się z wizytą do Joanny Matysek - prawnuczki Wojciecha Kossaka, mieszkanki Krakowa, która postanowiła przenieść się do Puszczy Białowieskiej. Gospodyni opowie widzom o spotkaniach z dzikimi zwierzętami, ukochanych miejscach, ciekawych ludziach, swojej miłości do koni oraz o Kossakówce, siedzibie rodu Kossaków.(n)</desc>
+    <date>2007</date>
+    <category lang="en">Wiadomości</category>
+    <category lang="en">Program Informacyjny</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-pl-dynamic.horizon.tv/Images/20731373607.p.jpg" />
+    <rating system="PL">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815134500 +0000" stop="20190815150000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Przybyli ułani</title>
+    <desc lang="en">Osiek. W przeddzień rocznicy bitwy warszawskiej 1920 roku trwają przygotowania do oficjalnych uroczystości. Jednym z punktów ceremonii ma być poświęcenie tablicy, upamiętniającej wyzwolenie wsi z rąk bolszewików. Wykorzystano do tego celu starą tablicę, na której rewersie są jeszcze wyryte słowa o 40. rocznicy uchwalenia Manifestu PKWN. Mąż Jadźki (Kinga Preis), miejscowy sklepikarz Marian (Zbigniew Zamachowski) czyni starania, by inskrypcję odsłonił jego teść (Stefan Burczyk), mimo że staruszek w 1920 roku miał zaledwie 10 lat. Musi jedynie zdobyć dla niego wózek inwalidzki i mundur ułana. Marianowi bardzo na tym zależy, gdyż chce, by wójt przedłużył mu koncesję na sprzedaż alkoholu. Film Sylwestra Chęcińskiego to zabawny, ale też tragiczny obraz życia prowincjonalnego miasteczka, w którym nieprzystosowani do nowej rzeczywistości ludzie za wszelką cenę próbują przetrwać. Za rolę Mariana Zbigniew Zamachowski otrzymał w 2006 roku nagrodę na FPFF w Gdyni.(n)</desc>
+    <date>2005</date>
+    <category lang="en">Dramat (filmy)</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp4-images-pl-dynamic.horizon.tv/Images/102499381.p.11bb27cfb032038a2d0e42c6f4ef2a0350ab5715.jpg" />
+    <rating system="PL">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815150000 +0000" stop="20190815152000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Teleexpress</title>
+    <desc lang="en">Dynamicznie prowadzony serwis informacyjny prezentujący aktualne wydarzenia, wiadomości kulturalne oraz ciekawostki z kraju i ze świata.(n)</desc>
+    <category lang="en">Wiadomości</category>
+    <category lang="en">Program Informacyjny</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-pl-dynamic.horizon.tv/Images/125476511.p.9b4c7e2a7e4e0659fc3b434054eabced898359f9.jpg" />
+  </programme>
+  <programme start="20190815152000 +0000" stop="20190815153000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Pogoda</title>
+    <desc lang="en">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.(n)</desc>
+    <category lang="en">Wiadomości</category>
+    <category lang="en">Pogoda</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-pl-dynamic.horizon.tv/Images/101579843.p.9f9dcf6a86e344295b17ded700107bff256b8fc1.jpg" />
+  </programme>
+  <programme start="20190815153000 +0000" stop="20190815162500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Jaka to melodia? (odc. 3929)</title>
+    <desc lang="en">Niezwykle popularny program w nowej odsłonie - ze zmienioną scenografią, nowymi zasadami oraz Norbertem Dudziukiem znanym jako Norbi w roli prowadzącego. Show emitowane jest w trzech wersjach. Od poniedziałku do piątku pojawia się na antenie jako teleturniej muzyczny, w którym troje zawodników ma za zadanie jak najszybciej podać tytuł prezentowanej im piosenki. W soboty w programie biorą udział dwie dwuosobowe drużyny, które ścierają się w bitwie na hity. W niedziele zaś w roli uczestników w show goszczą gwiazdy, które mają możliwość wykazania się znajomością muzyki rozrywkowej. We wszystkich tych odsłonach zabraknie wielkich przebojów, również tych wykonywanych na żywo przez m.in. Fun Factory, Nataszę Urbańską, Cleo, Blue Cafe, Filipa Latę, Szymona Chodynieckiego, Zouzy, Red Lips, Olę Szwed, Marka Kaliszuka czy Lenę Zuchniak.(n)</desc>
+    <category lang="en">Program Rozrywkowy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-pl-dynamic.horizon.tv/Images/98449270.p.926758b824578cab72baae99d75898e0670d77e3.jpg" />
+    <rating system="PL">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815162500 +0000" stop="20190815165500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Jeden z dziesięciu (odc. 15)</title>
+    <desc lang="en">W teleturnieju startuje dziesięcioro graczy. W pierwszym etapie zawodnicy otrzymują po dwa pytania. Odpowiedź przynajmniej na jedno z nich umożliwia udział w drugiej fazie rozgrywki. W kolejnej rundzie zawodnicy wyznaczają, który z przeciwników ma odpowiadać na kolejne pytanie. Gra toczy się do momentu, gdy na polu walki pozostanie troje zawodników. Biorą oni udział w rozgrywce finałowej, zakończonej wyłonieniem zwycięzcy. Program prowadzi Tadeusz Sznuk. Po emisji 25. odcinka każdej edycji odbywa się wielki finał, w którym bierze udział dziesięcioro zwycięzców poszczególnych gier z największą liczbą punktów na swoim koncie.(n)</desc>
+    <category lang="en">Program Rozrywkowy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-pl-dynamic.horizon.tv/Images/98456523.p.0a64f50cfd0a0bb2507e6b7e804a34a1561b8507.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="PL">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815165500 +0000" stop="20190815172500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Jeden z dziesięciu (odc. 16)</title>
+    <desc lang="en">W teleturnieju startuje dziesięcioro graczy. W pierwszym etapie zawodnicy otrzymują po dwa pytania. Odpowiedź przynajmniej na jedno z nich umożliwia udział w drugiej fazie rozgrywki. W kolejnej rundzie zawodnicy wyznaczają, który z przeciwników ma odpowiadać na kolejne pytanie. Gra toczy się do momentu, gdy na polu walki pozostanie troje zawodników. Biorą oni udział w rozgrywce finałowej, zakończonej wyłonieniem zwycięzcy. Program prowadzi Tadeusz Sznuk. Po emisji 25. odcinka każdej edycji odbywa się wielki finał, w którym bierze udział dziesięcioro zwycięzców poszczególnych gier z największą liczbą punktów na swoim koncie.(n)</desc>
+    <category lang="en">Program Rozrywkowy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-pl-dynamic.horizon.tv/Images/98456523.p.0a64f50cfd0a0bb2507e6b7e804a34a1561b8507.jpg" />
+    <episode-num system="onscreen">E16</episode-num>
+    <rating system="PL">
+      <value>4</value>
+    </rating>
+  </programme>
+  <programme start="20190815172500 +0000" stop="20190815173000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Sport</title>
+    <desc lang="en">Przegląd najważniejszych aktualnych wydarzeń sportowych ze szczególnym uwzględnieniem osiągnięć polskich zawodników.(n)</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Magazyn</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-pl-dynamic.horizon.tv/Images/125485628.p.443c30194819198a7d60e067cd86b5cf0d0f9ec8.jpg" />
+  </programme>
+  <programme start="20190815173000 +0000" stop="20190815180500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Wiadomości</title>
+    <desc lang="en">Serwis informacyjny prezentujący najnowsze wydarzenia z kraju i ze świata, m.in. z dziedziny polityki, gospodarki, kultury oraz życia społecznego.(n)</desc>
+    <category lang="en">Wiadomości</category>
+    <category lang="en">Program Informacyjny</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-pl-dynamic.horizon.tv/Images/125476509.p.4f93e809cade14d2a3906c6c4d141747938e76e1.jpg" />
+  </programme>
+  <programme start="20190815180500 +0000" stop="20190815181000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Pogoda</title>
+    <desc lang="en">Informacje na temat warunków atmosferycznych w najbliższych dniach w Polsce i Europie.(n)</desc>
+    <category lang="en">Wiadomości</category>
+    <category lang="en">Pogoda</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp18-images-pl-dynamic.horizon.tv/Images/101579843.p.9f9dcf6a86e344295b17ded700107bff256b8fc1.jpg" />
+  </programme>
+  <programme start="20190815181000 +0000" stop="20190815183500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Alarm!</title>
+    <desc lang="en">W programie pojawiają się dziennikarskie interwencje, śledztwa i opowieści o realnych problemach Polski i jej mieszkańców. Reporterzy pokazują to w sposób nowatorski i dynamiczny. Zaglądają często tam, gdzie inni boją się, nie chcą lub nie mogą, nagłaśniając ważne sprawy.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Wiadomości</category>
+    <category lang="en">Program Informacyjny</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-pl-dynamic.horizon.tv/Images/281906533.p.6d7d2a8a5f10e77e0ff2b9badf762d628c5d976e.jpg" />
+    <rating system="PL">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815183500 +0000" stop="20190815193000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Ojciec Mateusz 19 (odc. 245)</title>
+    <sub-title lang="en">Salowy</sub-title>
+    <desc lang="en">W lesie za miastem zostają znalezione zwłoki mężczyzny. Okazuje się, że to Marian Kabelis, salowy z miejscowego szpitala, którego zaginięcia zgłasza żona, Zuzanna (Jowita Budnik). Sekcja wykazuje, że został on uduszony. Wiadomo także, że zginął w innym miejscu, a ciało zostało do lasu podrzucone. Mimo że policjanci natychmiast rozpoczynają śledztwo, nie udaje im się trafić na żaden trop. Mężczyzna był powszechnie lubiany i nie miał wrogów. Przełom przynosi przeszukanie poczty elektronicznej ofiary. Śledczy znajdują tam maila, którego Kabelis otrzymał tuż przed śmiercią. Nadawca błaga, by ten zachował wszystko w tajemnicy. Wiadomość została wysłana ze skrzynki lekarza dyżurującego w szpitalu w noc zabójstwa, Wojciecha Schillera, narzeczonego Ewy Kobylickiej. Ponieważ mężczyzna nie ma alibi, Możejko go aresztuje. Zdruzgotana policjantka zwraca się o pomoc do księdza Mateusza.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Kryminał</category>
+    <category lang="en">Dramat (seriale)</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-pl-dynamic.horizon.tv/Images/279306683.p.5dcd9c0a1e895141b89ec2fe6d2052047ba3faf7.jpg" />
+    <episode-num system="onscreen">S19 E245</episode-num>
+    <rating system="PL">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815193000 +0000" stop="20190815202500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Sprawa dla reportera</title>
+    <desc lang="en">Pogram interwencyjny "Sprawa dla reportera" porusza sprawy trudne i kontrowersyjne. Elżbieta Jaworowicz otrzymuje miesięcznie setki listów z prośbą o pomoc. To z nich wybiera tematy, które następnie realizuje w terenie i omawia w studiu z udziałem gości prezentujących odmienne poglądy na daną kwestię. A nie brak w naszym kraju problemów wartych rozwiązania na forum publicznym. Dotyczą one m.in. wciąż rosnącego bezrobocia, opieszałości wymiaru sprawiedliwości czy też braku konkretnych uregulowań prawnych w wielu dziedzinach życia. Dzięki "Sprawie dla reportera" wiele interwencji znalazło swój szczęśliwy finał.(n)</desc>
+    <category lang="en">Publicystyka</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp25-images-pl-dynamic.horizon.tv/Images/125485638.p.9e42aa9c2a87f18c6481c33cfb109c895ff3a8e6.jpg" />
+    <rating system="PL">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815202500 +0000" stop="20190815205000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Sekundy, które zmieniły życie (odc. 10)</title>
+    <desc lang="en">Program poświęcony bezpieczeństwu w ruchu drogowym. Ma na celu zmniejszanie liczby wypadków i promowanie wśród społeczeństwa właściwych wzorców zachowań oraz postaw na drodze. Widzowie poznają poruszające historie ludzi, którzy doświadczyli traumatycznych przeżyć. Zostali bowiem poszkodowani w wypadkach samochodowych, co też zmieniło ich dotychczasowe życie.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Wiadomości</category>
+    <category lang="en">Program Informacyjny</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-pl-dynamic.horizon.tv/Images/253650964.p.7bc5b5a150531db5e8a2548d367455f030b65727.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+    <rating system="PL">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20190815205000 +0000" stop="20190815215500 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">Ocaleni</title>
+    <sub-title lang="en">Licheń</sub-title>
+    <desc lang="en">W programie prezentowane są historie ludzi, którzy doświadczyli piekła uzależnienia i którym udało się wygrać walkę z nałogiem. Opowiadają oni o swoich niełatwych perypetiach, a także o tym, co spowodowało, że zdecydowali się na rozpoczęcie życia w trzeźwości. Twórcy serii podkreślają wagę punktu zwrotnego, który na nowo determinuje losy bohaterów, a także ukazują skuteczną, choć nie zawsze łatwą drogę, prowadzącą do wyjścia z nałogu. W programie głos zabierają także członkowie rodzin osób uzależnionych oraz lekarze i terapeuci. Gospodarzem magazynu jest Rafał Porzeziński.(n)</desc>
+    <date>2018</date>
+    <category lang="en">Program Rozrywkowy</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-pl-dynamic.horizon.tv/Images/283730013.p.655cb4ba78fab61ede95e7bae2b58acb6e37f1db.jpg" />
+    <rating system="PL">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20190815215500 +0000" stop="20190816000000 +0000" channel="TVP 1 HD.pl">
+    <title lang="en">1920 Bitwa Warszawska</title>
+    <desc lang="en">Warszawa, rok 1920. Polski poeta i ułan, Jan Krynicki (Borys Szyc), zakochuje się w pięknej aktorce teatru rewiowego, Oli (Natasza Urbańska). W obliczu zbliżającej się wojny z bolszewikami oboje zamierzają jak najszybciej wziąć ślub. Tuż po ceremonii pan młody wyrusza na front. Wkrótce trafia do niewoli. Ola postanawia go odnaleźć. Tymczasem linia frontu przesuwa się w okolice Warszawy. Marszałek Piłsudski (Daniel Olbrychski) podejmuje decyzję o kontrofensywie. Dochodzi do decydującego starcia...(n)</desc>
+    <date>2011</date>
+    <category lang="en">Akcja</category>
+    <category lang="en">Movie</category>
+    <icon src="https://wp7-images-pl-dynamic.horizon.tv/Images/126636044.p.3ff0a2b888c053b16969dce023631972389dd31c.jpg" />
+    <rating system="PL">
+      <value>12</value>
+    </rating>
+  </programme>
+</tv>

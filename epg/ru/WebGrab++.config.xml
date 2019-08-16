@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <settings>
-   
+
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-   
-  <filename>D:\xiaomi\epg\merged\xmltv.ru.xml</filename>
+
+  <filename>D:\xiaomi\myxmltvepg\epg\merged\xmltv.ru.xml</filename>
   <mode></mode>
   <postprocess grab="y" run="n">mdb</postprocess>
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
@@ -11,15 +11,15 @@
   <retry time-out="5">4</retry>
   <timespan>0</timespan>
   <update>f</update>
- 
+
   <!--
             Replace the next dummy channel entry with the channels you want.
 			You can look into the installed siteini.pack folder on your computer
-  
+
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
-  
+
  <channel update="i" site="tv.mail.ru" site_id="850" xmltv_id="Первый.ru">Первый</channel>
     <channel update="i" site="tv.mail.ru" site_id="1271" xmltv_id="Россия 1.ru">Россия 1</channel>
     <channel update="i" site="tv.mail.ru" site_id="1395" xmltv_id="НТВ.ru">НТВ</channel>
@@ -496,6 +496,6 @@
     <channel update="i" site="tv.mail.ru" site_id="2043" xmltv_id="Ювелирочка.ru">Ювелирочка</channel>
     <channel update="i" site="tv.mail.ru" site_id="1633" xmltv_id="РЖД.ru">РЖД</channel>
     <channel update="i" site="tv.mail.ru" site_id="1637" xmltv_id="Arirang TV.ru">Arirang TV</channel>
- 
- 
+
+
 </settings>

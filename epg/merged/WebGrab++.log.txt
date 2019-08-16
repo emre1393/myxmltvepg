@@ -1,0 +1,1672 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.10.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 16/08/2019 16:14:49
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: D:\xiaomi\myxmltvepg\epg\merged\WebGrab++.config.xml
+[  Debug ] 
+[  Info  ] found: D:\xiaomi\myxmltvepg\epg\merged\merge-xmltv.ini -- Revision 03
+[  Info  ] input file D:\xiaomi\myxmltvepg\epg\merged\guide.xml not found   ... created a new one ... 
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 2681 - out of - 2681 - channels for 1 day(s)
+[  Debug ] 
+[  Info  ] (   1/2681) MERGE-XMLTV -- chan. (xmltv_id=Das Erste.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Das Erste.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           37
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        37
+
+[  Debug ] 
+[  Info  ] (   2/2681) MERGE-XMLTV -- chan. (xmltv_id=ZDF.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ZDF.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           34
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        34
+
+[  Debug ] 
+[  Info  ] (   3/2681) MERGE-XMLTV -- chan. (xmltv_id=RTL.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           33
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        33
+
+[  Debug ] 
+[  Info  ] (   4/2681) MERGE-XMLTV -- chan. (xmltv_id=SAT.1.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SAT.1.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           21
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        21
+
+[  Debug ] 
+[  Info  ] (   5/2681) MERGE-XMLTV -- chan. (xmltv_id=ProSieben.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ProSieben.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           47
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        47
+
+[  Debug ] 
+[  Info  ] (   6/2681) MERGE-XMLTV -- chan. (xmltv_id=VOX.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       VOX.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] (   7/2681) MERGE-XMLTV -- chan. (xmltv_id=RTL II.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL II.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] (   8/2681) MERGE-XMLTV -- chan. (xmltv_id=kabel eins.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       kabel eins.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           27
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        27
+
+[  Debug ] 
+[  Info  ] (   9/2681) MERGE-XMLTV -- chan. (xmltv_id=3sat.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       3sat.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           38
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        38
+
+[  Debug ] 
+[  Info  ] (  10/2681) MERGE-XMLTV -- chan. (xmltv_id=ARTE.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ARTE.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] (  11/2681) MERGE-XMLTV -- chan. (xmltv_id=Das Erste HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Das Erste HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           37
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        37
+
+[  Debug ] 
+[  Info  ] (  12/2681) MERGE-XMLTV -- chan. (xmltv_id=ZDF HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ZDF HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           34
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        34
+
+[  Debug ] 
+[  Info  ] (  13/2681) MERGE-XMLTV -- chan. (xmltv_id=RTL HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           33
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        33
+
+[  Debug ] 
+[  Info  ] (  14/2681) MERGE-XMLTV -- chan. (xmltv_id=SAT.1 HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SAT.1 HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           21
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        21
+
+[  Debug ] 
+[  Info  ] (  15/2681) MERGE-XMLTV -- chan. (xmltv_id=ProSieben HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ProSieben HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           47
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        47
+
+[  Debug ] 
+[  Info  ] (  16/2681) MERGE-XMLTV -- chan. (xmltv_id=VOX HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       VOX HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] (  17/2681) MERGE-XMLTV -- chan. (xmltv_id=RTL II HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL II HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] (  18/2681) MERGE-XMLTV -- chan. (xmltv_id=kabel eins HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       kabel eins HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           27
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        27
+
+[  Debug ] 
+[  Info  ] (  19/2681) MERGE-XMLTV -- chan. (xmltv_id=ARTE HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ARTE HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] (  20/2681) MERGE-XMLTV -- chan. (xmltv_id=3sat HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       3sat HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           38
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        38
+
+[  Debug ] 
+[  Info  ] (  21/2681) MERGE-XMLTV -- chan. (xmltv_id=ServusTV.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ServusTV.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           27
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        27
+
+[  Debug ] 
+[  Info  ] (  22/2681) MERGE-XMLTV -- chan. (xmltv_id=ServusTV HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ServusTV HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           27
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        27
+
+[  Debug ] 
+[  Info  ] (  23/2681) MERGE-XMLTV -- chan. (xmltv_id=MDR S-Anhalt.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       MDR S-Anhalt.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           48
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        48
+
+[  Debug ] 
+[  Info  ] (  24/2681) MERGE-XMLTV -- chan. (xmltv_id=MDR Sachsen.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       MDR Sachsen.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           48
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        48
+
+[  Debug ] 
+[  Info  ] (  25/2681) MERGE-XMLTV -- chan. (xmltv_id=MDR Thüringen.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       MDR Thüringen.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           48
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        48
+
+[  Debug ] 
+[  Info  ] (  26/2681) MERGE-XMLTV -- chan. (xmltv_id=NDR FS MV.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NDR FS MV.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  27/2681) MERGE-XMLTV -- chan. (xmltv_id=NDR FS HH.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NDR FS HH.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  28/2681) MERGE-XMLTV -- chan. (xmltv_id=NDR FS NDS.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NDR FS NDS.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  29/2681) MERGE-XMLTV -- chan. (xmltv_id=NDR FS SH.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NDR FS SH.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  30/2681) MERGE-XMLTV -- chan. (xmltv_id=rbb Brandenburg.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       rbb Brandenburg.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  31/2681) MERGE-XMLTV -- chan. (xmltv_id=rbb Berlin.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       rbb Berlin.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  32/2681) MERGE-XMLTV -- chan. (xmltv_id=BR Süd.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       BR Süd.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] (  33/2681) MERGE-XMLTV -- chan. (xmltv_id=WDR Köln.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       WDR Köln.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  34/2681) MERGE-XMLTV -- chan. (xmltv_id=hr-fernsehen.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       hr-fernsehen.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           40
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        40
+
+[  Debug ] 
+[  Info  ] (  35/2681) MERGE-XMLTV -- chan. (xmltv_id=SWR Fernsehen RP.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SWR Fernsehen RP.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           42
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        42
+
+[  Debug ] 
+[  Info  ] (  36/2681) MERGE-XMLTV -- chan. (xmltv_id=SR Fernsehen.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SR Fernsehen.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  37/2681) MERGE-XMLTV -- chan. (xmltv_id=hr-fernsehen HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       hr-fernsehen HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           40
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        40
+
+[  Debug ] 
+[  Info  ] (  38/2681) MERGE-XMLTV -- chan. (xmltv_id=SWR Fernsehen RP HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SWR Fernsehen RP HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           42
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        42
+
+[  Debug ] 
+[  Info  ] (  39/2681) MERGE-XMLTV -- chan. (xmltv_id=WDR Köln HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       WDR Köln HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  40/2681) MERGE-XMLTV -- chan. (xmltv_id=BR Süd HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       BR Süd HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] (  41/2681) MERGE-XMLTV -- chan. (xmltv_id=NDR FS HH HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NDR FS HH HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  42/2681) MERGE-XMLTV -- chan. (xmltv_id=MDR Sachsen HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       MDR Sachsen HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           48
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        48
+
+[  Debug ] 
+[  Info  ] (  43/2681) MERGE-XMLTV -- chan. (xmltv_id=rbb Berlin HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       rbb Berlin HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  44/2681) MERGE-XMLTV -- chan. (xmltv_id=MDR Thüringen HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       MDR Thüringen HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           48
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        48
+
+[  Debug ] 
+[  Info  ] (  45/2681) MERGE-XMLTV -- chan. (xmltv_id=BR Nord HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       BR Nord HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] (  46/2681) MERGE-XMLTV -- chan. (xmltv_id=SWR Fernsehen BW HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SWR Fernsehen BW HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           43
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        43
+
+[  Debug ] 
+[  Info  ] (  47/2681) MERGE-XMLTV -- chan. (xmltv_id=NDR FS MV HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NDR FS MV HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  48/2681) MERGE-XMLTV -- chan. (xmltv_id=rbb Brandenburg HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       rbb Brandenburg HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  49/2681) MERGE-XMLTV -- chan. (xmltv_id=MDR S-Anhalt HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       MDR S-Anhalt HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           48
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        48
+
+[  Debug ] 
+[  Info  ] (  50/2681) MERGE-XMLTV -- chan. (xmltv_id=NDR FS NDS HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NDR FS NDS HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  51/2681) MERGE-XMLTV -- chan. (xmltv_id=NDR FS SH HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NDR FS SH HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  52/2681) MERGE-XMLTV -- chan. (xmltv_id=COMEDY CENTRAL / VIVA.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       COMEDY CENTRAL / VIVA.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] (  53/2681) MERGE-XMLTV -- chan. (xmltv_id=TELE 5.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TELE 5.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           20
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        20
+
+[  Debug ] 
+[  Info  ] (  54/2681) MERGE-XMLTV -- chan. (xmltv_id=Disney Channel.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Disney Channel.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           47
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        47
+
+[  Debug ] 
+[  Info  ] (  55/2681) MERGE-XMLTV -- chan. (xmltv_id=One.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       One.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           33
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        33
+
+[  Debug ] 
+[  Info  ] (  56/2681) MERGE-XMLTV -- chan. (xmltv_id=ZDFneo.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ZDFneo.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Debug ] 
+[  Info  ] (  57/2681) MERGE-XMLTV -- chan. (xmltv_id=AstroTV.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       AstroTV.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           17
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        17
+
+[  Debug ] 
+[  Info  ] (  58/2681) MERGE-XMLTV -- chan. (xmltv_id=RTLplus.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTLplus.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           33
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        33
+
+[  Debug ] 
+[  Info  ] (  59/2681) MERGE-XMLTV -- chan. (xmltv_id=RTL NITRO.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL NITRO.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           35
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        35
+
+[  Debug ] 
+[  Info  ] (  60/2681) MERGE-XMLTV -- chan. (xmltv_id=sixx.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sixx.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           28
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        28
+
+[  Debug ] 
+[  Info  ] (  61/2681) MERGE-XMLTV -- chan. (xmltv_id=SAT.1 Gold.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SAT.1 Gold.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           36
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        36
+
+[  Debug ] 
+[  Info  ] (  62/2681) MERGE-XMLTV -- chan. (xmltv_id=ProSieben MAXX.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ProSieben MAXX.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           49
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        49
+
+[  Debug ] 
+[  Info  ] (  63/2681) MERGE-XMLTV -- chan. (xmltv_id=TLC.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TLC.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           37
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        37
+
+[  Debug ] 
+[  Info  ] (  64/2681) MERGE-XMLTV -- chan. (xmltv_id=ANIXE SD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ANIXE SD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           54
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        54
+
+[  Debug ] 
+[  Info  ] (  65/2681) MERGE-XMLTV -- chan. (xmltv_id=sixx HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sixx HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           28
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        28
+
+[  Debug ] 
+[  Info  ] (  66/2681) MERGE-XMLTV -- chan. (xmltv_id=RTL NITRO HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL NITRO HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           35
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        35
+
+[  Debug ] 
+[  Info  ] (  67/2681) MERGE-XMLTV -- chan. (xmltv_id=E! Entertainment.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       E! Entertainment.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Debug ] 
+[  Info  ] (  68/2681) MERGE-XMLTV -- chan. (xmltv_id=MTV.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       MTV.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           14
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        14
+
+[  Debug ] 
+[  Info  ] (  69/2681) MERGE-XMLTV -- chan. (xmltv_id=Bon Gusto.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Bon Gusto.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           47
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        47
+
+[  Debug ] 
+[  Info  ] (  70/2681) MERGE-XMLTV -- chan. (xmltv_id=RTL Living.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL Living.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] (  71/2681) MERGE-XMLTV -- chan. (xmltv_id=TELE 5 HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TELE 5 HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           20
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        20
+
+[  Debug ] 
+[  Info  ] (  72/2681) MERGE-XMLTV -- chan. (xmltv_id=MTV HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       MTV HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           14
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        14
+
+[  Debug ] 
+[  Info  ] (  73/2681) MERGE-XMLTV -- chan. (xmltv_id=COMEDY CENTRAL/VIVA HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       COMEDY CENTRAL/VIVA HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] (  74/2681) MERGE-XMLTV -- chan. (xmltv_id=Disney Channel HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Disney Channel HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           47
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        47
+
+[  Debug ] 
+[  Info  ] (  75/2681) MERGE-XMLTV -- chan. (xmltv_id=Sat.1 Gold HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Sat.1 Gold HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           36
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        36
+
+[  Debug ] 
+[  Info  ] (  76/2681) MERGE-XMLTV -- chan. (xmltv_id=ProSieben MAXX HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ProSieben MAXX HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           49
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        49
+
+[  Debug ] 
+[  Info  ] (  77/2681) MERGE-XMLTV -- chan. (xmltv_id=RTLplus HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTLplus HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           33
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        33
+
+[  Debug ] 
+[  Info  ] (  78/2681) MERGE-XMLTV -- chan. (xmltv_id=SAT.1 emotions.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SAT.1 emotions.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           34
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        34
+
+[  Debug ] 
+[  Info  ] (  79/2681) MERGE-XMLTV -- chan. (xmltv_id=Animax.de) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Animax.de
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  80/2681) MERGE-XMLTV -- chan. (xmltv_id=RTL Living HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL Living HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] (  81/2681) MERGE-XMLTV -- chan. (xmltv_id=ProSieben FUN HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ProSieben FUN HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] (  82/2681) MERGE-XMLTV -- chan. (xmltv_id=Sat.1 emotions HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Sat.1 emotions HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           34
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        34
+
+[  Debug ] 
+[  Info  ] (  83/2681) MERGE-XMLTV -- chan. (xmltv_id=ONE HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ONE HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           33
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        33
+
+[  Debug ] 
+[  Info  ] (  84/2681) MERGE-XMLTV -- chan. (xmltv_id=ZDFneo HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ZDFneo HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Debug ] 
+[  Info  ] (  85/2681) MERGE-XMLTV -- chan. (xmltv_id=HSE24 HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       HSE24 HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           24
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        24
+
+[  Debug ] 
+[  Info  ] (  86/2681) MERGE-XMLTV -- chan. (xmltv_id=QVC HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       QVC HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           24
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        24
+
+[  Debug ] 
+[  Info  ] (  87/2681) MERGE-XMLTV -- chan. (xmltv_id=1-2-3.tv.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       1-2-3.tv.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           21
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        21
+
+[  Debug ] 
+[  Info  ] (  88/2681) MERGE-XMLTV -- chan. (xmltv_id=HSE24.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       HSE24.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           24
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        24
+
+[  Debug ] 
+[  Info  ] (  89/2681) MERGE-XMLTV -- chan. (xmltv_id=Channel21.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Channel21.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           24
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        24
+
+[  Debug ] 
+[  Info  ] (  90/2681) MERGE-XMLTV -- chan. (xmltv_id=sonnenklar.TV.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sonnenklar.TV.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] (  91/2681) MERGE-XMLTV -- chan. (xmltv_id=QVC.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       QVC.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           24
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        24
+
+[  Debug ] 
+[  Info  ] (  92/2681) MERGE-XMLTV -- chan. (xmltv_id=Juwelo TV.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Juwelo TV.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           16
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        16
+
+[  Debug ] 
+[  Info  ] (  93/2681) MERGE-XMLTV -- chan. (xmltv_id=HSE24 EXTRA.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       HSE24 EXTRA.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           24
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        24
+
+[  Debug ] 
+[  Info  ] (  94/2681) MERGE-XMLTV -- chan. (xmltv_id=QVC2.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       QVC2.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           24
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        24
+
+[  Debug ] 
+[  Info  ] (  95/2681) MERGE-XMLTV -- chan. (xmltv_id=13th Street.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       13th Street.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] (  96/2681) MERGE-XMLTV -- chan. (xmltv_id=eoTV.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       eoTV.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        12
+
+[  Debug ] 
+[  Info  ] (  97/2681) MERGE-XMLTV -- chan. (xmltv_id=KinoweltTV.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       KinoweltTV.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           15
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        15
+
+[  Debug ] 
+[  Info  ] (  98/2681) MERGE-XMLTV -- chan. (xmltv_id=AXN.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       AXN.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           18
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        18
+
+[  Debug ] 
+[  Info  ] (  99/2681) MERGE-XMLTV -- chan. (xmltv_id=Silverline.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Silverline.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           15
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        15
+
+[  Debug ] 
+[  Info  ] ( 100/2681) MERGE-XMLTV -- chan. (xmltv_id=kabel eins CLASSICS.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       kabel eins CLASSICS.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           16
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        16
+
+[  Debug ] 
+[  Info  ] ( 101/2681) MERGE-XMLTV -- chan. (xmltv_id=TNT Comedy.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TNT Comedy.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           62
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        62
+
+[  Debug ] 
+[  Info  ] ( 102/2681) MERGE-XMLTV -- chan. (xmltv_id=TNT Film.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TNT Film.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           14
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        14
+
+[  Debug ] 
+[  Info  ] ( 103/2681) MERGE-XMLTV -- chan. (xmltv_id=TNT Serie.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TNT Serie.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Debug ] 
+[  Info  ] ( 104/2681) MERGE-XMLTV -- chan. (xmltv_id=FOX.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       FOX.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Debug ] 
+[  Info  ] ( 105/2681) MERGE-XMLTV -- chan. (xmltv_id=Romance TV.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Romance TV.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           19
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        19
+
+[  Debug ] 
+[  Info  ] ( 106/2681) MERGE-XMLTV -- chan. (xmltv_id=TNT Film HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TNT Film HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           14
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        14
+
+[  Debug ] 
+[  Info  ] ( 107/2681) MERGE-XMLTV -- chan. (xmltv_id=TNT Serie HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TNT Serie HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Debug ] 
+[  Info  ] ( 108/2681) MERGE-XMLTV -- chan. (xmltv_id=FOX HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       FOX HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Debug ] 
+[  Info  ] ( 109/2681) MERGE-XMLTV -- chan. (xmltv_id=13th Street HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       13th Street HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] ( 110/2681) MERGE-XMLTV -- chan. (xmltv_id=SYFY HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SYFY HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] ( 111/2681) MERGE-XMLTV -- chan. (xmltv_id=Romance TV HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Romance TV HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           19
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        19
+
+[  Debug ] 
+[  Info  ] ( 112/2681) MERGE-XMLTV -- chan. (xmltv_id=TNT Comedy HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TNT Comedy HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           62
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        62
+
+[  Debug ] 
+[  Info  ] ( 113/2681) MERGE-XMLTV -- chan. (xmltv_id=KinoweltTV HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       KinoweltTV HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           15
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        15
+
+[  Debug ] 
+[  Info  ] ( 114/2681) MERGE-XMLTV -- chan. (xmltv_id=AXN HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       AXN HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           18
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        18
+
+[  Debug ] 
+[  Info  ] ( 115/2681) MERGE-XMLTV -- chan. (xmltv_id=Universal Channel HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Universal Channel HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] ( 116/2681) MERGE-XMLTV -- chan. (xmltv_id=Sony Entertainment TV HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Sony Entertainment TV HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           27
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        27
+
+[  Debug ] 
+[  Info  ] ( 117/2681) MERGE-XMLTV -- chan. (xmltv_id=kabel eins CLASSICS HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       kabel eins CLASSICS HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           16
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        16
+
+[  Debug ] 
+[  Info  ] ( 118/2681) MERGE-XMLTV -- chan. (xmltv_id=RTL Crime HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL Crime HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           33
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        33
+
+[  Debug ] 
+[  Info  ] ( 119/2681) MERGE-XMLTV -- chan. (xmltv_id=SPORT1.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SPORT1.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] ( 120/2681) MERGE-XMLTV -- chan. (xmltv_id=Eurosport 1.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Eurosport 1.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           21
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        21
+
+[  Debug ] 
+[  Info  ] ( 121/2681) MERGE-XMLTV -- chan. (xmltv_id=Eurosport 2.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Eurosport 2.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] ( 122/2681) MERGE-XMLTV -- chan. (xmltv_id=SPORT1+.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SPORT1+.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] ( 123/2681) MERGE-XMLTV -- chan. (xmltv_id=Sport1 US.de) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Sport1 US.de
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] ( 124/2681) MERGE-XMLTV -- chan. (xmltv_id=sportdigital.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sportdigital.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           28
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        28
+
+[  Debug ] 
+[  Info  ] ( 125/2681) MERGE-XMLTV -- chan. (xmltv_id=Eurosport 1 HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Eurosport 1 HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           21
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        21
+
+[  Debug ] 
+[  Info  ] ( 126/2681) MERGE-XMLTV -- chan. (xmltv_id=Eurosport 2 HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Eurosport 2 HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] ( 127/2681) MERGE-XMLTV -- chan. (xmltv_id=SPORT1 HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SPORT1 HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] ( 128/2681) MERGE-XMLTV -- chan. (xmltv_id=SPORT1+ HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SPORT1+ HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] ( 129/2681) MERGE-XMLTV -- chan. (xmltv_id=Sport1 US HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Sport1 US HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           4
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        4
+
+[  Debug ] 
+[  Info  ] ( 130/2681) MERGE-XMLTV -- chan. (xmltv_id=sportdigital HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       sportdigital HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           28
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        28
+
+[  Debug ] 
+[  Info  ] ( 131/2681) MERGE-XMLTV -- chan. (xmltv_id=ARD-alpha.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ARD-alpha.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           49
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        49
+
+[  Debug ] 
+[  Info  ] ( 132/2681) MERGE-XMLTV -- chan. (xmltv_id=DMAX.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       DMAX.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           35
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        35
+
+[  Debug ] 
+[  Info  ] ( 133/2681) MERGE-XMLTV -- chan. (xmltv_id=PLANET.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       PLANET.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] ( 134/2681) MERGE-XMLTV -- chan. (xmltv_id=Welt der Wunder.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Welt der Wunder.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           26
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        26
+
+[  Debug ] 
+[  Info  ] ( 135/2681) MERGE-XMLTV -- chan. (xmltv_id=kabel eins Doku.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       kabel eins Doku.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           36
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        36
+
+[  Debug ] 
+[  Info  ] ( 136/2681) MERGE-XMLTV -- chan. (xmltv_id=health tv.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       health tv.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           53
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        53
+
+[  Debug ] 
+[  Info  ] ( 137/2681) MERGE-XMLTV -- chan. (xmltv_id=HISTORY.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       HISTORY.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Debug ] 
+[  Info  ] ( 138/2681) MERGE-XMLTV -- chan. (xmltv_id=A&amp;E.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       A&amp;E.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] ( 139/2681) MERGE-XMLTV -- chan. (xmltv_id=SPIEGEL TV WISSEN.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SPIEGEL TV WISSEN.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           33
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        33
+
+[  Debug ] 
+[  Info  ] ( 140/2681) MERGE-XMLTV -- chan. (xmltv_id=DMAX HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       DMAX HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           35
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        35
+
+[  Debug ] 
+[  Info  ] ( 141/2681) MERGE-XMLTV -- chan. (xmltv_id=National Geographic HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       National Geographic HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Debug ] 
+[  Info  ] ( 142/2681) MERGE-XMLTV -- chan. (xmltv_id=PLANET HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       PLANET HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] ( 143/2681) MERGE-XMLTV -- chan. (xmltv_id=SPIEGEL TV WISSEN HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SPIEGEL TV WISSEN HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           33
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        33
+
+[  Debug ] 
+[  Info  ] ( 144/2681) MERGE-XMLTV -- chan. (xmltv_id=A&amp;E HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       A&amp;E HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] ( 145/2681) MERGE-XMLTV -- chan. (xmltv_id=HISTORY HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       HISTORY HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Debug ] 
+[  Info  ] ( 146/2681) MERGE-XMLTV -- chan. (xmltv_id=NAT GEO people.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NAT GEO people.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] ( 147/2681) MERGE-XMLTV -- chan. (xmltv_id=Discovery HD (KD).de) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Discovery HD (KD).de
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] ( 148/2681) MERGE-XMLTV -- chan. (xmltv_id=GEO TV HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       GEO TV HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           21
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        21
+
+[  Debug ] 
+[  Info  ] ( 149/2681) MERGE-XMLTV -- chan. (xmltv_id=Bibel TV.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Bibel TV.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] ( 150/2681) MERGE-XMLTV -- chan. (xmltv_id=n-tv.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       n-tv.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           67
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        67
+
+[  Debug ] 
+[  Info  ] ( 151/2681) MERGE-XMLTV -- chan. (xmltv_id=PHOENIX.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       PHOENIX.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           36
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        36
+
+[  Debug ] 
+[  Info  ] ( 152/2681) MERGE-XMLTV -- chan. (xmltv_id=WELT.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       WELT.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] ( 153/2681) MERGE-XMLTV -- chan. (xmltv_id=tagesschau24.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       tagesschau24.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] ( 154/2681) MERGE-XMLTV -- chan. (xmltv_id=ZDFinfo.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ZDFinfo.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           33
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        33
+
+[  Debug ] 
+[  Info  ] ( 155/2681) MERGE-XMLTV -- chan. (xmltv_id=BBC World News (eng).de) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC World News (eng).de
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] ( 156/2681) MERGE-XMLTV -- chan. (xmltv_id=CNN International (eng).de) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       CNN International (eng).de
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] ( 157/2681) MERGE-XMLTV -- chan. (xmltv_id=Al Jazeera Int (eng).de) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       Al Jazeera Int (eng).de
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] ( 158/2681) MERGE-XMLTV -- chan. (xmltv_id=CNN International HD (eng).de) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       CNN International HD (eng).de
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] ( 159/2681) MERGE-XMLTV -- chan. (xmltv_id=WELT HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       WELT HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] ( 160/2681) MERGE-XMLTV -- chan. (xmltv_id=PHOENIX HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       PHOENIX HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           36
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        36
+
+[  Debug ] 
+[  Info  ] ( 161/2681) MERGE-XMLTV -- chan. (xmltv_id=n-tv HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       n-tv HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           67
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        67
+
+[  Debug ] 
+[  Info  ] ( 162/2681) MERGE-XMLTV -- chan. (xmltv_id=Bibel TV HD.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Bibel TV HD.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] ( 163/2681) MERGE-XMLTV -- chan. (xmltv_id=SUPER RTL.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SUPER RTL.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] ( 164/2681) MERGE-XMLTV -- chan. (xmltv_id=KiKA.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       KiKA.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           38
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        38
+
+[  Debug ] 
+[  Info  ] ( 165/2681) MERGE-XMLTV -- chan. (xmltv_id=Nickelodeon.de) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       Nickelodeon.de
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] ( 166/2681) MERGE-XMLTV -- chan. (xmltv_id=Disney XD.de) -- mode Force

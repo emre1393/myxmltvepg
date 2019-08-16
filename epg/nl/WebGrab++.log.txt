@@ -1,0 +1,2649 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.10.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 16/08/2019 10:09:16
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: D:\xiaomi\epg\nl\WebGrab++.config.xml
+[  Debug ] 
+[  Info  ] found: D:\xiaomi\epg\nl\horizon.tv.ini -- Revision 07
+[  Debug ] xmltv input file - D:\xiaomi\epg\merged\xmltv.nl.xml - found
+[  Debug ] 0 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=NPO 1 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=NPO 2 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=NPO 3 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL 4 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL 5 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=SBS6 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL 7 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Veronica HD  Disney XD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Net5 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL 8 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL Z HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ziggo TV HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ziggo Sport HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Comedy Central HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Spike HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=National Geographic Channel HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=SBS9 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 1 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TLC HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC First HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=24Kitchen HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=XITE HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viceland HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney Channel HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=HISTORY HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nickelodeon HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=ONS.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=één HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Canvas HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ketnet.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=ARD HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=ZDF HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=WDR.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=NDR.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sat 1.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC One HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC Two HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC Three  CBBC.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC Four  Cbeebies.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC Entertainment.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV5 Monde.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Arte.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVE.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mediaset Italia.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTV7.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT Türk.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=2M.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Film1 Premiere HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Film1 Action HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Film1 Family HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Film1 Drama HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Film1 On Demand.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL Crime HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=CI.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=ID HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Comedy Central Extra.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Shorts TV.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=E HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Comedy Central Family.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=NPO 3 Extra.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=OUTTV HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=AMC HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=CBS Reality.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fashion TV HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=MyZen HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Horse  Country TV.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Food Network HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fine Living HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL Lounge HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Netflix.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Videoland.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery Science HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery World.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nat Geo Wild HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Animal Planet HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Travel Channel HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=NPO 2 Extra.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Family7.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney XD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney Junior.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nicktoons.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nick Music.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Pebble TV.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nick Jr.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cartoon Network.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Boomerang.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Baby TV.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=NPO 1 Extra  NPO Zapp Xtra.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL Telekids HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ziggo Sport Select HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ziggo Sport Voetbal HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ziggo Sport Golf HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ziggo Sport Racing HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ziggo Sport Extra1.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ziggo Sport Extra2.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 2 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Extreme Sports Channel.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Motorsport TV HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Sports Info.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Sports 1 Eredivisie HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Sports 2 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Sports 3 Eredivisie HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Sports 4 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Sports 5 Eredivisie HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Sports 6 HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ziggo Live Events.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ziggo Live Events FOX Sports.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=NPO Nieuws.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=NPO Politiek.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNN.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC World News.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Euronews.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Aljazeera English.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNBC Europe.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=CGTN.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RT.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV538.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Music 24.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=DanceTrippin HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=SLAM.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Brand New.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Stingray LiteTV.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=VH1 Classic.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Brava.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mezzo.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=DJAZZ.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV Oranje.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=100 NL TV.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=192TV.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Live HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV Noord.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Omrop Fryslân.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV Drenthe.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV Oost.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV Gelderland.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Omroep Flevoland.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=NH.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTV Utrecht.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV West.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV Rijnmond.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Omroep Zeeland.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Omroep Brabant.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=L1 TV.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=AT5.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=STAR Plus.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=STAR Gold.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Zee TV.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Zee Cinema.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Zing.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=SET Asia.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Show TV.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Euro D.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurostar.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Habertürk.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV 8.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT 1.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT Çocuk.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=ATV Avrupa.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT Müzik.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Al Arabiya.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=MBC.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVM Europe.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Aljazeera.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Erotiek Pakket info.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Secret Circle.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Penthouse.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Evil Angel.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=PassieXXX.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=DUSK.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=MvH Hard.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=XMO.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Zender van de Maand.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Testbeeld.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ziggo Zenderoverzicht HD.nl) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eventkanaal.nl) in the config file
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 179 - out of - 179 - channels for 1 day(s)
+[  Debug ] 
+[  Info  ] (   1/179 ) HORIZON.TV -- chan. (xmltv_id=NPO 1 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Info  ]    Summary for update of       NPO 1 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           51
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        51
+
+[  Debug ] 
+[  Info  ] (   2/179 ) HORIZON.TV -- chan. (xmltv_id=NPO 2 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Info  ]    Summary for update of       NPO 2 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           36
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        36
+
+[  Debug ] 
+[  Info  ] (   3/179 ) HORIZON.TV -- chan. (xmltv_id=NPO 3 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Info  ]    Summary for update of       NPO 3 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           67
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        67
+
+[  Debug ] 
+[  Info  ] (   4/179 ) HORIZON.TV -- chan. (xmltv_id=RTL 4 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:57
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:48
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL 4 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           42
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        42
+
+[  Debug ] 
+[  Info  ] (   5/179 ) HORIZON.TV -- chan. (xmltv_id=RTL 5 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:28
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:58
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL 5 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           22
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        22
+
+[  Debug ] 
+[  Info  ] (   6/179 ) HORIZON.TV -- chan. (xmltv_id=SBS6 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Info  ] 
+[  Info  ]    Summary for update of       SBS6 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           22
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        22
+
+[  Debug ] 
+[  Info  ] (   7/179 ) HORIZON.TV -- chan. (xmltv_id=RTL 7 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:59
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL 7 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           47
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        47
+
+[  Debug ] 
+[  Info  ] (   8/179 ) HORIZON.TV -- chan. (xmltv_id=Veronica HD  Disney XD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Info  ] 
+[  Info  ]    Summary for update of       Veronica HD  Disney XD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] (   9/179 ) HORIZON.TV -- chan. (xmltv_id=Net5 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Info  ]    Summary for update of       Net5 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           17
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        17
+
+[  Debug ] 
+[  Info  ] (  10/179 ) HORIZON.TV -- chan. (xmltv_id=RTL 8 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:24
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:23
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL 8 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           65
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        65
+
+[  Debug ] 
+[  Info  ] (  11/179 ) HORIZON.TV -- chan. (xmltv_id=FOX HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:47
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:41
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:43
+[  Info  ] 
+[  Info  ]    Summary for update of       FOX HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           40
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        40
+
+[  Debug ] 
+[  Info  ] (  12/179 ) HORIZON.TV -- chan. (xmltv_id=RTL Z HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:28
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:21
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL Z HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           70
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        70
+
+[  Debug ] 
+[  Info  ] (  13/179 ) HORIZON.TV -- chan. (xmltv_id=Ziggo TV HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Info  ] 
+[  Info  ]    Summary for update of       Ziggo TV HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] (  14/179 ) HORIZON.TV -- chan. (xmltv_id=Ziggo Sport HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Info  ] 
+[  Info  ]    Summary for update of       Ziggo Sport HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] (  15/179 ) HORIZON.TV -- chan. (xmltv_id=Comedy Central HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Info  ]    Summary for update of       Comedy Central HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           51
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        51
+
+[  Debug ] 
+[  Info  ] (  16/179 ) HORIZON.TV -- chan. (xmltv_id=Spike HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Info  ] 
+[  Info  ]    Summary for update of       Spike HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           26
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        26
+
+[  Debug ] 
+[  Info  ] (  17/179 ) HORIZON.TV -- chan. (xmltv_id=Discovery HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       Discovery HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Debug ] 
+[  Info  ] (  18/179 ) HORIZON.TV -- chan. (xmltv_id=National Geographic Channel HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:02
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:14
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:12
+[  Info  ] 
+[  Info  ]    Summary for update of       National Geographic Channel HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Debug ] 
+[  Info  ] (  19/179 ) HORIZON.TV -- chan. (xmltv_id=SBS9 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Info  ] 
+[  Info  ]    Summary for update of       SBS9 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           13
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        13
+
+[  Debug ] 
+[  Info  ] (  20/179 ) HORIZON.TV -- chan. (xmltv_id=Eurosport 1 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:01
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:01
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:31
+[  Info  ] 
+[  Info  ]    Summary for update of       Eurosport 1 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] (  21/179 ) HORIZON.TV -- chan. (xmltv_id=TLC HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       TLC HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] (  22/179 ) HORIZON.TV -- chan. (xmltv_id=BBC First HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC First HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] (  23/179 ) HORIZON.TV -- chan. (xmltv_id=MTV HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Info  ] 
+[  Info  ]    Summary for update of       MTV HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] (  24/179 ) HORIZON.TV -- chan. (xmltv_id=24Kitchen HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:16
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:12
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:12
+[  Info  ] 
+[  Info  ]    Summary for update of       24Kitchen HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           38
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        38
+
+[  Debug ] 
+[  Info  ] (  25/179 ) HORIZON.TV -- chan. (xmltv_id=XITE HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       XITE HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           20
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        20
+
+[  Debug ] 
+[  Info  ] (  26/179 ) HORIZON.TV -- chan. (xmltv_id=Viceland HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Info  ]    Summary for update of       Viceland HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           37
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        37
+
+[  Debug ] 
+[  Info  ] (  27/179 ) HORIZON.TV -- chan. (xmltv_id=Disney Channel HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:52
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Info  ] 
+[  Info  ]    Summary for update of       Disney Channel HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           68
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        68
+
+[  Debug ] 
+[  Info  ] (  28/179 ) HORIZON.TV -- chan. (xmltv_id=HISTORY HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Info  ]    Summary for update of       HISTORY HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] (  29/179 ) HORIZON.TV -- chan. (xmltv_id=Nickelodeon HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Info  ]    Summary for update of       Nickelodeon HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           60
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        60
+
+[  Debug ] 
+[  Info  ] (  30/179 ) HORIZON.TV -- chan. (xmltv_id=ONS.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:01
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:31
+[  Info  ] 
+[  Info  ]    Summary for update of       ONS.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           28
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        28
+
+[  Debug ] 
+[  Info  ] (  31/179 ) HORIZON.TV -- chan. (xmltv_id=één HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Info  ] 
+[  Info  ]    Summary for update of       één HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           24
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        24
+
+[  Debug ] 
+[  Info  ] (  32/179 ) HORIZON.TV -- chan. (xmltv_id=Canvas HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:26
+[  Info  ] 
+[  Info  ]    Summary for update of       Canvas HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           10
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        10
+
+[  Debug ] 
+[  Info  ] (  33/179 ) HORIZON.TV -- chan. (xmltv_id=Ketnet.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:50
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Durak"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Pauze"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Durak"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Pauze"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Durak"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Pauze"
+[  Info  ] 
+[  Info  ]    Summary for update of       Ketnet.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           60
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        60
+
+[  Debug ] 
+[  Info  ] (  34/179 ) HORIZON.TV -- chan. (xmltv_id=ARD HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Info  ] 
+[  Info  ]    Summary for update of       ARD HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           35
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        35
+
+[  Debug ] 
+[  Info  ] (  35/179 ) HORIZON.TV -- chan. (xmltv_id=ZDF HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       ZDF HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Debug ] 
+[  Info  ] (  36/179 ) HORIZON.TV -- chan. (xmltv_id=WDR.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Info  ] 
+[  Info  ]    Summary for update of       WDR.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           38
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        38
+
+[  Debug ] 
+[  Info  ] (  37/179 ) HORIZON.TV -- chan. (xmltv_id=NDR.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "buten un binnen "
+[  Debug ]                        " regionalmagazin"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "buten un binnen !??! regionalmagazin"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "buten un binnen "
+[  Debug ]                        " regionalmagazin"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "buten un binnen !??! regionalmagazin"
+[  Info  ] 
+[  Info  ]    Summary for update of       NDR.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           36
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        36
+
+[  Debug ] 
+[  Info  ] (  38/179 ) HORIZON.TV -- chan. (xmltv_id=RTL.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:27
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           26
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        26
+
+[  Debug ] 
+[  Info  ] (  39/179 ) HORIZON.TV -- chan. (xmltv_id=Sat 1.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Info  ] 
+[  Info  ]    Summary for update of       Sat 1.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           18
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        18
+
+[  Debug ] 
+[  Info  ] (  40/179 ) HORIZON.TV -- chan. (xmltv_id=BBC One HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC One HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           26
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        26
+
+[  Debug ] 
+[  Info  ] (  41/179 ) HORIZON.TV -- chan. (xmltv_id=BBC Two HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC Two HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] (  42/179 ) HORIZON.TV -- chan. (xmltv_id=BBC Three  CBBC.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC Three  CBBC.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           45
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        45
+
+[  Debug ] 
+[  Info  ] (  43/179 ) HORIZON.TV -- chan. (xmltv_id=BBC Four  Cbeebies.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC Four  Cbeebies.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           74
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        74
+
+[  Debug ] 
+[  Info  ] (  44/179 ) HORIZON.TV -- chan. (xmltv_id=BBC Entertainment.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC Entertainment.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Debug ] 
+[  Info  ] (  45/179 ) HORIZON.TV -- chan. (xmltv_id=TV5 Monde.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:47
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:14
+[  Info  ] 
+[  Info  ]    Summary for update of       TV5 Monde.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] (  46/179 ) HORIZON.TV -- chan. (xmltv_id=Arte.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Info  ]    Summary for update of       Arte.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           27
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        27
+
+[  Debug ] 
+[  Info  ] (  47/179 ) HORIZON.TV -- chan. (xmltv_id=TVE.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Info  ] 
+[  Info  ]    Summary for update of       TVE.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           22
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        22
+
+[  Debug ] 
+[  Info  ] (  48/179 ) HORIZON.TV -- chan. (xmltv_id=Mediaset Italia.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:51
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:11
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:37
+[  Info  ] 
+[  Info  ]    Summary for update of       Mediaset Italia.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           26
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        26
+
+[  Debug ] 
+[  Info  ] (  49/179 ) HORIZON.TV -- chan. (xmltv_id=RTV7.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       RTV7.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           19
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        19
+
+[  Debug ] 
+[  Info  ] (  50/179 ) HORIZON.TV -- chan. (xmltv_id=TRT Türk.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT Türk.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        12
+
+[  Debug ] 
+[  Info  ] (  51/179 ) HORIZON.TV -- chan. (xmltv_id=2M.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Info  ] 
+[  Info  ]    Summary for update of       2M.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  52/179 ) HORIZON.TV -- chan. (xmltv_id=Film1 Premiere HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Info  ]    Summary for update of       Film1 Premiere HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        12
+
+[  Debug ] 
+[  Info  ] (  53/179 ) HORIZON.TV -- chan. (xmltv_id=Film1 Action HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Info  ] 
+[  Info  ]    Summary for update of       Film1 Action HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           13
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        13
+
+[  Debug ] 
+[  Info  ] (  54/179 ) HORIZON.TV -- chan. (xmltv_id=Film1 Family HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Info  ] 
+[  Info  ]    Summary for update of       Film1 Family HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           13
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        13
+
+[  Debug ] 
+[  Info  ] (  55/179 ) HORIZON.TV -- chan. (xmltv_id=Film1 Drama HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Info  ] 
+[  Info  ]    Summary for update of       Film1 Drama HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           11
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        11
+
+[  Debug ] 
+[  Info  ] (  56/179 ) HORIZON.TV -- chan. (xmltv_id=Film1 On Demand.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Film1 On Demand.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           5
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        5
+
+[  Debug ] 
+[  Info  ] (  57/179 ) HORIZON.TV -- chan. (xmltv_id=RTL Crime HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:51
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:16
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL Crime HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Debug ] 
+[  Info  ] (  58/179 ) HORIZON.TV -- chan. (xmltv_id=CI.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Info  ]    Summary for update of       CI.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] (  59/179 ) HORIZON.TV -- chan. (xmltv_id=ID HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       ID HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           28
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        28
+
+[  Debug ] 
+[  Info  ] (  60/179 ) HORIZON.TV -- chan. (xmltv_id=Comedy Central Extra.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Info  ]    Summary for update of       Comedy Central Extra.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           56
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        56
+
+[  Debug ] 
+[  Info  ] (  61/179 ) HORIZON.TV -- chan. (xmltv_id=Shorts TV.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:37
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Shorts TV.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           40
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        40
+
+[  Debug ] 
+[  Info  ] (  62/179 ) HORIZON.TV -- chan. (xmltv_id=E HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       E HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] (  63/179 ) HORIZON.TV -- chan. (xmltv_id=Comedy Central Family.nl) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  64/179 ) HORIZON.TV -- chan. (xmltv_id=NPO 3 Extra.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       NPO 3 Extra.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] (  65/179 ) HORIZON.TV -- chan. (xmltv_id=OUTTV HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:48
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:14
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:24
+[  Info  ] 
+[  Info  ]    Summary for update of       OUTTV HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] (  66/179 ) HORIZON.TV -- chan. (xmltv_id=AMC HD.nl) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  67/179 ) HORIZON.TV -- chan. (xmltv_id=CBS Reality.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Info  ] 
+[  Info  ]    Summary for update of       CBS Reality.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           42
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        42
+
+[  Debug ] 
+[  Info  ] (  68/179 ) HORIZON.TV -- chan. (xmltv_id=Fashion TV HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Info  ]    Summary for update of       Fashion TV HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           82
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        82
+
+[  Debug ] 
+[  Info  ] (  69/179 ) HORIZON.TV -- chan. (xmltv_id=MyZen HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       MyZen HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           44
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        44
+
+[  Debug ] 
+[  Info  ] (  70/179 ) HORIZON.TV -- chan. (xmltv_id=Horse  Country TV.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       Horse  Country TV.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Debug ] 
+[  Info  ] (  71/179 ) HORIZON.TV -- chan. (xmltv_id=Food Network HD.nl) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  72/179 ) HORIZON.TV -- chan. (xmltv_id=Fine Living HD.nl) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  73/179 ) HORIZON.TV -- chan. (xmltv_id=RTL Lounge HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:46
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:16
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL Lounge HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           43
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        43
+
+[  Debug ] 
+[  Info  ] (  74/179 ) HORIZON.TV -- chan. (xmltv_id=Netflix.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Netflix.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           5
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        5
+
+[  Debug ] 
+[  Info  ] (  75/179 ) HORIZON.TV -- chan. (xmltv_id=Videoland.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Videoland.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           5
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        5
+
+[  Debug ] 
+[  Info  ] (  76/179 ) HORIZON.TV -- chan. (xmltv_id=Discovery Science HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Info  ] 
+[  Info  ]    Summary for update of       Discovery Science HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           37
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        37
+
+[  Debug ] 
+[  Info  ] (  77/179 ) HORIZON.TV -- chan. (xmltv_id=Discovery World.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       Discovery World.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           30
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        30
+
+[  Debug ] 
+[  Info  ] (  78/179 ) HORIZON.TV -- chan. (xmltv_id=Nat Geo Wild HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:14
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:56
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:48
+[  Info  ] 
+[  Info  ]    Summary for update of       Nat Geo Wild HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Debug ] 
+[  Info  ] (  79/179 ) HORIZON.TV -- chan. (xmltv_id=Animal Planet HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Info  ] 
+[  Info  ]    Summary for update of       Animal Planet HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           27
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        27
+
+[  Debug ] 
+[  Info  ] (  80/179 ) HORIZON.TV -- chan. (xmltv_id=Travel Channel HD.nl) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  81/179 ) HORIZON.TV -- chan. (xmltv_id=NPO 2 Extra.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Info  ] 
+[  Info  ]    Summary for update of       NPO 2 Extra.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           21
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        21
+
+[  Debug ] 
+[  Info  ] (  82/179 ) HORIZON.TV -- chan. (xmltv_id=Family7.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       Family7.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           43
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        43
+
+[  Debug ] 
+[  Info  ] (  83/179 ) HORIZON.TV -- chan. (xmltv_id=Disney XD.nl) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  84/179 ) HORIZON.TV -- chan. (xmltv_id=Disney Junior.nl) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  85/179 ) HORIZON.TV -- chan. (xmltv_id=Nicktoons.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Info  ]    Summary for update of       Nicktoons.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           69
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        69
+
+[  Debug ] 
+[  Info  ] (  86/179 ) HORIZON.TV -- chan. (xmltv_id=Nick Music.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Nick Music.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           5
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        5
+
+[  Debug ] 
+[  Info  ] (  87/179 ) HORIZON.TV -- chan. (xmltv_id=Pebble TV.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:28
+[  Info  ] 
+[  Info  ]    Summary for update of       Pebble TV.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           50
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        50
+
+[  Debug ] 
+[  Info  ] (  88/179 ) HORIZON.TV -- chan. (xmltv_id=Nick Jr.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Info  ]    Summary for update of       Nick Jr.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           84
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        84
+
+[  Debug ] 
+[  Info  ] (  89/179 ) HORIZON.TV -- chan. (xmltv_id=Cartoon Network.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:49
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:11
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:24
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:56
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:06
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:17
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:28
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:38
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:49
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:59
+[  Info  ] 
+[  Info  ]    Summary for update of       Cartoon Network.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           117
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        117
+
+[  Debug ] 
+[  Info  ] (  90/179 ) HORIZON.TV -- chan. (xmltv_id=Boomerang.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:58
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:08
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:27
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:33
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:39
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:46
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:52
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:57
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:08
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:19
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:42
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:49
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:56
+[  Info  ] 
+[  Info  ]    Summary for update of       Boomerang.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           124
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        124
+
+[  Debug ] 
+[  Info  ] (  91/179 ) HORIZON.TV -- chan. (xmltv_id=Baby TV.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:37
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:07
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:24
+[  Info  ] 
+[  Info  ]    Summary for update of       Baby TV.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           50
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        50
+
+[  Debug ] 
+[  Info  ] (  92/179 ) HORIZON.TV -- chan. (xmltv_id=NPO 1 Extra  NPO Zapp Xtra.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Info  ]    Summary for update of       NPO 1 Extra  NPO Zapp Xtra.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           145
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        145
+
+[  Debug ] 
+[  Info  ] (  93/179 ) HORIZON.TV -- chan. (xmltv_id=RTL Telekids HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:29
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:59
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:29
+[  Info  ] 
+[  Info  ]    Summary for update of       RTL Telekids HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           100
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        100
+
+[  Debug ] 
+[  Info  ] (  94/179 ) HORIZON.TV -- chan. (xmltv_id=Ziggo Sport Select HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Info  ]    Summary for update of       Ziggo Sport Select HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] (  95/179 ) HORIZON.TV -- chan. (xmltv_id=Ziggo Sport Voetbal HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Info  ] 
+[  Info  ]    Summary for update of       Ziggo Sport Voetbal HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           23
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        23
+
+[  Debug ] 
+[  Info  ] (  96/179 ) HORIZON.TV -- chan. (xmltv_id=Ziggo Sport Golf HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Ziggo Sport Golf HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           14
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        14
+
+[  Debug ] 
+[  Info  ] (  97/179 ) HORIZON.TV -- chan. (xmltv_id=Ziggo Sport Racing HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Info  ] 
+[  Info  ]    Summary for update of       Ziggo Sport Racing HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] (  98/179 ) HORIZON.TV -- chan. (xmltv_id=Ziggo Sport Extra1.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Info  ] 
+[  Info  ]    Summary for update of       Ziggo Sport Extra1.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           46
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        46
+
+[  Debug ] 
+[  Info  ] (  99/179 ) HORIZON.TV -- chan. (xmltv_id=Ziggo Sport Extra2.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Info  ] 
+[  Info  ]    Summary for update of       Ziggo Sport Extra2.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           5
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        5
+
+[  Debug ] 
+[  Info  ] ( 100/179 ) HORIZON.TV -- chan. (xmltv_id=Eurosport 2 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:34
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:37
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:49
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:29
+[  Info  ] 
+[  Info  ]    Summary for update of       Eurosport 2 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           22
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        22
+
+[  Debug ] 
+[  Info  ] ( 101/179 ) HORIZON.TV -- chan. (xmltv_id=Extreme Sports Channel.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Info  ] 
+[  Info  ]    Summary for update of       Extreme Sports Channel.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           42
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        42
+
+[  Debug ] 
+[  Info  ] ( 102/179 ) HORIZON.TV -- chan. (xmltv_id=Motorsport TV HD.nl) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 103/179 ) HORIZON.TV -- chan. (xmltv_id=FOX Sports Info.nl) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 104/179 ) HORIZON.TV -- chan. (xmltv_id=FOX Sports 1 Eredivisie HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:01
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:59
+[  Info  ] 
+[  Info  ]    Summary for update of       FOX Sports 1 Eredivisie HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           31
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        31
+
+[  Debug ] 
+[  Info  ] ( 105/179 ) HORIZON.TV -- chan. (xmltv_id=FOX Sports 2 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Info  ]    Summary for update of       FOX Sports 2 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           45
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        45
+
+[  Debug ] 
+[  Info  ] ( 106/179 ) HORIZON.TV -- chan. (xmltv_id=FOX Sports 3 Eredivisie HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       FOX Sports 3 Eredivisie HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Debug ] 
+[  Info  ] ( 107/179 ) HORIZON.TV -- chan. (xmltv_id=FOX Sports 4 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Info  ] 
+[  Info  ]    Summary for update of       FOX Sports 4 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           28
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        28
+
+[  Debug ] 
+[  Info  ] ( 108/179 ) HORIZON.TV -- chan. (xmltv_id=FOX Sports 5 Eredivisie HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Info  ] 
+[  Info  ]    Summary for update of       FOX Sports 5 Eredivisie HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           7
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        7
+
+[  Debug ] 
+[  Info  ] ( 109/179 ) HORIZON.TV -- chan. (xmltv_id=FOX Sports 6 HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:34
+[  Info  ] 
+[  Info  ]    Summary for update of       FOX Sports 6 HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           14
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        14
+
+[  Debug ] 
+[  Info  ] ( 110/179 ) HORIZON.TV -- chan. (xmltv_id=Ziggo Live Events.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Ziggo Live Events.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           6
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        6
+
+[  Debug ] 
+[  Info  ] ( 111/179 ) HORIZON.TV -- chan. (xmltv_id=Ziggo Live Events FOX Sports.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 00:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Ziggo Live Events FOX Sports.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           1
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        1
+
+[  Debug ] 
+[  Info  ] ( 112/179 ) HORIZON.TV -- chan. (xmltv_id=NPO Nieuws.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       NPO Nieuws.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        12
+
+[  Debug ] 
+[  Info  ] ( 113/179 ) HORIZON.TV -- chan. (xmltv_id=NPO Politiek.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       NPO Politiek.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        12
+
+[  Debug ] 
+[  Info  ] ( 114/179 ) HORIZON.TV -- chan. (xmltv_id=CNN.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       CNN.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           26
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        26
+
+[  Debug ] 
+[  Info  ] ( 115/179 ) HORIZON.TV -- chan. (xmltv_id=BBC World News.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC World News.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           54
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        54
+
+[  Debug ] 
+[  Info  ] ( 116/179 ) HORIZON.TV -- chan. (xmltv_id=Euronews.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Euronews.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           5
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        5
+
+[  Debug ] 
+[  Info  ] ( 117/179 ) HORIZON.TV -- chan. (xmltv_id=Aljazeera English.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Aljazeera English.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           36
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        36
+
+[  Debug ] 
+[  Info  ] ( 118/179 ) HORIZON.TV -- chan. (xmltv_id=CNBC Europe.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       CNBC Europe.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           20
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        20
+
+[  Debug ] 
+[  Info  ] ( 119/179 ) HORIZON.TV -- chan. (xmltv_id=CGTN.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       CGTN.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] ( 120/179 ) HORIZON.TV -- chan. (xmltv_id=RT.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       RT.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           45
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        45
+
+[  Debug ] 
+[  Info  ] ( 121/179 ) HORIZON.TV -- chan. (xmltv_id=TV538.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Info  ] 
+[  Info  ]    Summary for update of       TV538.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           16
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        16
+
+[  Debug ] 
+[  Info  ] ( 122/179 ) HORIZON.TV -- chan. (xmltv_id=MTV Music 24.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       MTV Music 24.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           8
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        8
+
+[  Debug ] 
+[  Info  ] ( 123/179 ) HORIZON.TV -- chan. (xmltv_id=DanceTrippin HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:14
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:56
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:47
+[  Info  ] 
+[  Info  ]    Summary for update of       DanceTrippin HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           21
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        21
+
+[  Debug ] 
+[  Info  ] ( 124/179 ) HORIZON.TV -- chan. (xmltv_id=SLAM.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       SLAM.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           11
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        11
+
+[  Debug ] 
+[  Info  ] ( 125/179 ) HORIZON.TV -- chan. (xmltv_id=MTV Brand New.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Info  ] 
+[  Info  ]    Summary for update of       MTV Brand New.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           5
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        5
+
+[  Debug ] 
+[  Info  ] ( 126/179 ) HORIZON.TV -- chan. (xmltv_id=Stingray LiteTV.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Stingray LiteTV.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           10
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        10
+
+[  Debug ] 
+[  Info  ] ( 127/179 ) HORIZON.TV -- chan. (xmltv_id=VH1 Classic.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       VH1 Classic.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           7
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        7
+
+[  Debug ] 
+[  Info  ] ( 128/179 ) HORIZON.TV -- chan. (xmltv_id=Brava.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:52
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:03
+[  Info  ] 
+[  Info  ]    Summary for update of       Brava.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           22
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        22
+
+[  Debug ] 
+[  Info  ] ( 129/179 ) HORIZON.TV -- chan. (xmltv_id=Mezzo.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Info  ] 
+[  Info  ]    Summary for update of       Mezzo.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        12
+
+[  Debug ] 
+[  Info  ] ( 130/179 ) HORIZON.TV -- chan. (xmltv_id=DJAZZ.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:21
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:07
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Info  ]    Summary for update of       DJAZZ.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           22
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        22
+
+[  Debug ] 
+[  Info  ] ( 131/179 ) HORIZON.TV -- chan. (xmltv_id=TV Oranje.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       TV Oranje.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           13
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        13
+
+[  Debug ] 
+[  Info  ] ( 132/179 ) HORIZON.TV -- chan. (xmltv_id=100 NL TV.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       100 NL TV.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           8
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        8
+
+[  Debug ] 
+[  Info  ] ( 133/179 ) HORIZON.TV -- chan. (xmltv_id=192TV.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       192TV.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           13
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        13
+
+[  Debug ] 
+[  Info  ] ( 134/179 ) HORIZON.TV -- chan. (xmltv_id=MTV Live HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       MTV Live HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           19
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        19
+
+[  Debug ] 
+[  Info  ] ( 135/179 ) HORIZON.TV -- chan. (xmltv_id=TV Noord.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:52
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:22
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:52
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:22
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:42
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Info  ]    Summary for update of       TV Noord.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           48
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        48
+
+[  Debug ] 
+[  Info  ] ( 136/179 ) HORIZON.TV -- chan. (xmltv_id=Omrop Fryslân.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Info  ]    Summary for update of       Omrop Fryslân.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] ( 137/179 ) HORIZON.TV -- chan. (xmltv_id=TV Drenthe.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:43
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:24
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:34
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:48
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:58
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:22
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:36
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:46
+[  Info  ] 
+[  Info  ]    Summary for update of       TV Drenthe.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           53
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        53
+
+[  Debug ] 
+[  Info  ] ( 138/179 ) HORIZON.TV -- chan. (xmltv_id=TV Oost.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:42
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:12
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:42
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:42
+[  Info  ] 
+[  Info  ]    Summary for update of       TV Oost.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           57
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        57
+
+[  Debug ] 
+[  Info  ] ( 139/179 ) HORIZON.TV -- chan. (xmltv_id=TV Gelderland.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       TV Gelderland.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           20
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        20
+
+[  Debug ] 
+[  Info  ] ( 140/179 ) HORIZON.TV -- chan. (xmltv_id=Omroep Flevoland.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:47
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Omroep Flevoland.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           47
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        47
+
+[  Debug ] 
+[  Info  ] ( 141/179 ) HORIZON.TV -- chan. (xmltv_id=NH.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:53
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:36
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:48
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:36
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:48
+[  Info  ] 
+[  Info  ]    Summary for update of       NH.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           110
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        110
+
+[  Debug ] 
+[  Info  ] ( 142/179 ) HORIZON.TV -- chan. (xmltv_id=RTV Utrecht.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "RegioNed"
+[  Debug ]  (sub)detail title(s):
+[  Info  ] 
+[  Info  ]    Summary for update of       RTV Utrecht.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           159
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        159
+
+[  Debug ] 
+[  Info  ] ( 143/179 ) HORIZON.TV -- chan. (xmltv_id=TV West.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:48
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Nachtprogrammering"
+[  Debug ]  (sub)detail title(s):
+[  Info  ] 
+[  Info  ]    Summary for update of       TV West.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           72
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        72
+
+[  Debug ] 
+[  Info  ] ( 144/179 ) HORIZON.TV -- chan. (xmltv_id=TV Rijnmond.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:57
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:04
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:08
+[  Info  ] 
+[  Info  ]    Summary for update of       TV Rijnmond.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           80
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        80
+
+[  Debug ] 
+[  Info  ] ( 145/179 ) HORIZON.TV -- chan. (xmltv_id=Omroep Zeeland.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:57
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Omroep Zeeland.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           74
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        74
+
+[  Debug ] 
+[  Info  ] ( 146/179 ) HORIZON.TV -- chan. (xmltv_id=Omroep Brabant.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:57
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:19
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:48
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:52
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:58
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:16
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:26
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:44
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:48
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:54
+[  Info  ] 
+[  Info  ]    Summary for update of       Omroep Brabant.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           89
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        89
+
+[  Debug ] 
+[  Info  ] ( 147/179 ) HORIZON.TV -- chan. (xmltv_id=L1 TV.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:26
+[  Info  ] 
+[  Info  ]    Summary for update of       L1 TV.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           29
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        29
+
+[  Debug ] 
+[  Info  ] ( 148/179 ) HORIZON.TV -- chan. (xmltv_id=AT5.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:16
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:57
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:14
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:42
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:57
+[  Info  ] 
+[  Info  ]    Summary for update of       AT5.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           94
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        94
+
+[  Debug ] 
+[  Info  ] ( 149/179 ) HORIZON.TV -- chan. (xmltv_id=STAR Plus.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       STAR Plus.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           42
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        42
+
+[  Debug ] 
+[  Info  ] ( 150/179 ) HORIZON.TV -- chan. (xmltv_id=STAR Gold.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Info  ]    Summary for update of       STAR Gold.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           7
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        7
+
+[  Debug ] 
+[  Info  ] ( 151/179 ) HORIZON.TV -- chan. (xmltv_id=Zee TV.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       Zee TV.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           42
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        42
+
+[  Debug ] 
+[  Info  ] ( 152/179 ) HORIZON.TV -- chan. (xmltv_id=Zee Cinema.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Info  ] 
+[  Info  ]    Summary for update of       Zee Cinema.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           9
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        9
+
+[  Debug ] 
+[  Info  ] ( 153/179 ) HORIZON.TV -- chan. (xmltv_id=Zing.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Zing.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           23
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        23
+
+[  Debug ] 
+[  Info  ] ( 154/179 ) HORIZON.TV -- chan. (xmltv_id=SET Asia.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:33
+[  Info  ] 
+[  Info  ]    Summary for update of       SET Asia.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           28
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        28
+
+[  Debug ] 
+[  Info  ] ( 155/179 ) HORIZON.TV -- chan. (xmltv_id=Show TV.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       Show TV.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           11
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        11
+
+[  Debug ] 
+[  Info  ] ( 156/179 ) HORIZON.TV -- chan. (xmltv_id=Euro D.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Info  ] 
+[  Info  ]    Summary for update of       Euro D.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           11
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        11
+
+[  Debug ] 
+[  Info  ] ( 157/179 ) HORIZON.TV -- chan. (xmltv_id=Eurostar.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Info  ] 
+[  Info  ]    Summary for update of       Eurostar.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           13
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        13
+
+[  Debug ] 
+[  Info  ] ( 158/179 ) HORIZON.TV -- chan. (xmltv_id=Habertürk.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Info  ] 
+[  Info  ]    Summary for update of       Habertürk.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           21
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        21
+
+[  Debug ] 
+[  Info  ] ( 159/179 ) HORIZON.TV -- chan. (xmltv_id=TV 8.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Info  ] 
+[  Info  ]    Summary for update of       TV 8.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        12
+
+[  Debug ] 
+[  Info  ] ( 160/179 ) HORIZON.TV -- chan. (xmltv_id=TRT 1.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT 1.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        12
+
+[  Debug ] 
+[  Info  ] ( 161/179 ) HORIZON.TV -- chan. (xmltv_id=TRT Çocuk.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT Çocuk.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] ( 162/179 ) HORIZON.TV -- chan. (xmltv_id=ATV Avrupa.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Info  ] 
+[  Info  ]    Summary for update of       ATV Avrupa.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           11
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        11
+
+[  Debug ] 
+[  Info  ] ( 163/179 ) HORIZON.TV -- chan. (xmltv_id=TRT Müzik.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT Müzik.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           36
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        36
+
+[  Debug ] 
+[  Info  ] ( 164/179 ) HORIZON.TV -- chan. (xmltv_id=Al Arabiya.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Al Arabiya.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           8
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        8
+
+[  Debug ] 
+[  Info  ] ( 165/179 ) HORIZON.TV -- chan. (xmltv_id=MBC.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Info  ] 
+[  Info  ]    Summary for update of       MBC.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           23
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        23
+
+[  Debug ] 
+[  Info  ] ( 166/179 ) HORIZON.TV -- chan. (xmltv_id=TVM Europe.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Info  ]    Summary for update of       TVM Europe.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           35
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        35
+
+[  Debug ] 
+[  Info  ] ( 167/179 ) HORIZON.TV -- chan. (xmltv_id=Aljazeera.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Info  ]    Summary for update of       Aljazeera.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           44
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        44
+
+[  Debug ] 
+[  Info  ] ( 168/179 ) HORIZON.TV -- chan. (xmltv_id=Erotiek Pakket info.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Erotiek Pakket info.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           8
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        8
+
+[  Debug ] 
+[  Info  ] ( 169/179 ) HORIZON.TV -- chan. (xmltv_id=Secret Circle.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:02
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:22
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:46
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:08
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:31
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:49
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:56
+[  Info  ] 
+[  Info  ]    Summary for update of       Secret Circle.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           75
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        75
+
+[  Debug ] 
+[  Info  ] ( 170/179 ) HORIZON.TV -- chan. (xmltv_id=Penthouse.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Info  ]    Summary for update of       Penthouse.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           23
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        23
+
+[  Debug ] 
+[  Info  ] ( 171/179 ) HORIZON.TV -- chan. (xmltv_id=Evil Angel.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:53
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Info  ]    Summary for update of       Evil Angel.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           48
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        48
+
+[  Debug ] 
+[  Info  ] ( 172/179 ) HORIZON.TV -- chan. (xmltv_id=PassieXXX.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:14
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:27
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:59
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Info  ]    Summary for update of       PassieXXX.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           43
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        43
+
+[  Debug ] 
+[  Info  ] ( 173/179 ) HORIZON.TV -- chan. (xmltv_id=DUSK.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:34
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:07
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:27
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:49
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:18
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:41
+[  Info  ] 
+[  Info  ]    Summary for update of       DUSK.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] ( 174/179 ) HORIZON.TV -- chan. (xmltv_id=MvH Hard.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:46
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:21
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:29
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:46
+[  Info  ] 
+[  Info  ]    Summary for update of       MvH Hard.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           42
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        42
+
+[  Debug ] 
+[  Info  ] ( 175/179 ) HORIZON.TV -- chan. (xmltv_id=XMO.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:09
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:22
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:39
+[  Info  ] 
+[  Info  ]    Summary for update of       XMO.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           17
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        17
+
+[  Debug ] 
+[  Info  ] ( 176/179 ) HORIZON.TV -- chan. (xmltv_id=Zender van de Maand.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Zender van de Maand.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           6
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        6
+
+[  Debug ] 
+[  Info  ] ( 177/179 ) HORIZON.TV -- chan. (xmltv_id=Testbeeld.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Testbeeld.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           6
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        6
+
+[  Debug ] 
+[  Info  ] ( 178/179 ) HORIZON.TV -- chan. (xmltv_id=Ziggo Zenderoverzicht HD.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Ziggo Zenderoverzicht HD.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           8
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        8
+
+[  Debug ] 
+[  Info  ] ( 179/179 ) HORIZON.TV -- chan. (xmltv_id=Eventkanaal.nl) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Info  ]    Summary for update of       Eventkanaal.nl
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           13
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        13
+
+[  Debug ] 
+[  Debug ] 5916 shows in 179 channels
+[  Debug ] 0 updated shows
+[  Debug ] 5916 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 16/08/2019 11:06:26 done in 57m 9s
+[  Debug ] statistics upload error: Uzak sunucu hata döndürdü: (404) Bulunamadı.

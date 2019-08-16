@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" site="merge-xmltv">
-<!-- 			kanal listesinde site_id=xmltv_id yapmak için notepad++'ta değişir kısmında düzenli ifade seçeneğind 
-			ara:        site_id="(.*)" xmltv_id="(.*)"
-			değiştir:   site_id="\1" xmltv_id="\1"
-  -->
-
   <channels>
     <channel update="i" site="merge-xmltv" site_id="On Demand.at" xmltv_id="On Demand.at">On Demand</channel>
     <channel update="i" site="merge-xmltv" site_id="ORF eins.at" xmltv_id="ORF eins.at">ORF eins</channel>
@@ -3805,11 +3800,7 @@
     <channel update="i" site="merge-xmltv" site_id="Parkersburg WWHO CW 53 A3 HD (Virt) (WWHO).us" xmltv_id="Parkersburg WWHO CW 53 A3 HD (Virt) (WWHO).us">Parkersburg WWHO CW 53 A3 HD (Virt) (WWHO)</channel>
     <channel update="i" site="merge-xmltv" site_id="A3 Parkersburg 65 PBS (Virt) (PBS).us" xmltv_id="A3 Parkersburg 65 PBS (Virt) (PBS).us">A3 Parkersburg 65 PBS (Virt) (PBS)</channel>
     <channel update="i" site="merge-xmltv" site_id="Home Shopping Network 70-1 (HD) (HSNHD).us" xmltv_id="Home Shopping Network 70-1 (HD) (HSNHD).us">Home Shopping Network 70-1 (HD) (HSNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="QVC HD (70) (QVCHD).us" xmltv_id="QVC HD (70) (QVCHD).us">QVC HD (70) (QVCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="QVC (70) (QVC).us" xmltv_id="QVC (70) (QVC).us">QVC (70) (QVC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Home Shopping Network 70-1 (HSN).us" xmltv_id="Home Shopping Network 70-1 (HSN).us">Home Shopping Network 70-1 (HSN)</channel>
     <channel update="i" site="merge-xmltv" site_id="AUDIENCE (71) HD (AUDHD).us" xmltv_id="AUDIENCE (71) HD (AUDHD).us">AUDIENCE (71) HD (AUDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AUDIENCE (71) (AUD).us" xmltv_id="AUDIENCE (71) (AUD).us">AUDIENCE (71) (AUD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Jewelry Television (72) (JTV).us" xmltv_id="Jewelry Television (72) (JTV).us">Jewelry Television (72) (JTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="EVINE (73) (EVINE).us" xmltv_id="EVINE (73) (EVINE).us">EVINE (73) (EVINE)</channel>
     <channel update="i" site="merge-xmltv" site_id="SALE Network. (SALE).us" xmltv_id="SALE Network. (SALE).us">SALE Network. (SALE)</channel>
@@ -3909,40 +3900,21 @@
     <channel update="i" site="merge-xmltv" site_id="CNN (CNN).us" xmltv_id="CNN (CNN).us">CNN (CNN)</channel>
     <channel update="i" site="merge-xmltv" site_id="LOOK Network 203 (LOOK).us" xmltv_id="LOOK Network 203 (LOOK).us">LOOK Network 203 (LOOK)</channel>
     <channel update="i" site="merge-xmltv" site_id="HLN HD (HLNHD).us" xmltv_id="HLN HD (HLNHD).us">HLN HD (HLNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="HLN (HLN).us" xmltv_id="HLN (HLN).us">HLN (HLN)</channel>
     <channel update="i" site="merge-xmltv" site_id="SPORTS MIX HD (205) (SMXHD).us" xmltv_id="SPORTS MIX HD (205) (SMXHD).us">SPORTS MIX HD (205) (SMXHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESPN HD (ESPNHD).us" xmltv_id="ESPN HD (ESPNHD).us">ESPN HD (ESPNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ESPN (ESPN).us" xmltv_id="ESPN (ESPN).us">ESPN (ESPN)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESPNews HD (ESNHD).us" xmltv_id="ESPNews HD (ESNHD).us">ESPNews HD (ESNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ESPNews (ESN).us" xmltv_id="ESPNews (ESN).us">ESPNews (ESN)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESPNU HD (ESPNUHD).us" xmltv_id="ESPNU HD (ESPNUHD).us">ESPNU HD (ESPNUHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ESPNU (ESPNU).us" xmltv_id="ESPNU (ESPNU).us">ESPNU (ESPNU)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESPN2 HD (ESPN2HD).us" xmltv_id="ESPN2 HD (ESPN2HD).us">ESPN2 HD (ESPN2HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ESPN2 (ESPN2).us" xmltv_id="ESPN2 (ESPN2).us">ESPN2 (ESPN2)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NFL Network Alternate HD (NFLNaHD).us" xmltv_id="NFL Network Alternate HD (NFLNaHD).us">NFL Network Alternate HD (NFLNaHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="NFL Network HD (NFLHD).us" xmltv_id="NFL Network HD (NFLHD).us">NFL Network HD (NFLHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NFL Network (NFL).us" xmltv_id="NFL Network (NFL).us">NFL Network (NFL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NFL Network Alternate (NFLNa).us" xmltv_id="NFL Network Alternate (NFLNa).us">NFL Network Alternate (NFLNa)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Network HD (MLBNHD).us" xmltv_id="MLB Network HD (MLBNHD).us">MLB Network HD (MLBNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Network Alt. 213-1 HD (MLBaHD).us" xmltv_id="MLB Network Alt. 213-1 HD (MLBaHD).us">MLB Network Alt. 213-1 HD (MLBaHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Network Alt. 213-1 (MLB).us" xmltv_id="MLB Network Alt. 213-1 (MLB).us">MLB Network Alt. 213-1 (MLB)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Network (MLBN).us" xmltv_id="MLB Network (MLBN).us">MLB Network (MLBN)</channel>
     <channel update="i" site="merge-xmltv" site_id="MAVTV HD (MAVTVHD).us" xmltv_id="MAVTV HD (MAVTVHD).us">MAVTV HD (MAVTVHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MAVTV (MAVTV).us" xmltv_id="MAVTV (MAVTV).us">MAVTV (MAVTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="NHL Network HD (NHLHD).us" xmltv_id="NHL Network HD (NHLHD).us">NHL Network HD (NHLHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NHL Network (NHLN).us" xmltv_id="NHL Network (NHLN).us">NHL Network (NHLN)</channel>
     <channel update="i" site="merge-xmltv" site_id="NBA TV HD (NBAHD).us" xmltv_id="NBA TV HD (NBAHD).us">NBA TV HD (NBAHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBA TV (NBA).us" xmltv_id="NBA TV (NBA).us">NBA TV (NBA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Tennis Channel HD (TNNSHD).us" xmltv_id="Tennis Channel HD (TNNSHD).us">Tennis Channel HD (TNNSHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Tennis Channel (TNNS).us" xmltv_id="Tennis Channel (TNNS).us">Tennis Channel (TNNS)</channel>
     <channel update="i" site="merge-xmltv" site_id="Golf Channel HD (GolfHD).us" xmltv_id="Golf Channel HD (GolfHD).us">Golf Channel HD (GolfHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Golf Channel (Golf).us" xmltv_id="Golf Channel (Golf).us">Golf Channel (Golf)</channel>
     <channel update="i" site="merge-xmltv" site_id="FOX Sports 1 HD (FS1HD).us" xmltv_id="FOX Sports 1 HD (FS1HD).us">FOX Sports 1 HD (FS1HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FOX Sports 1 (FS1).us" xmltv_id="FOX Sports 1 (FS1).us">FOX Sports 1 (FS1)</channel>
     <channel update="i" site="merge-xmltv" site_id="NBC Sports Network HD (NBCSHD).us" xmltv_id="NBC Sports Network HD (NBCSHD).us">NBC Sports Network HD (NBCSHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Network (NBCS).us" xmltv_id="NBC Sports Network (NBCS).us">NBC Sports Network (NBCS)</channel>
     <channel update="i" site="merge-xmltv" site_id="CBS Sports Network HD (CBSSNHD).us" xmltv_id="CBS Sports Network HD (CBSSNHD).us">CBS Sports Network HD (CBSSNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CBS Sports Network (CBS SN).us" xmltv_id="CBS Sports Network (CBS SN).us">CBS Sports Network (CBS SN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Save 222 (Infomercial) (SAVE).us" xmltv_id="Save 222 (Infomercial) (SAVE).us">Save 222 (Infomercial) (SAVE)</channel>
     <channel update="i" site="merge-xmltv" site_id="Celebrity Shopping TV (CSHP).us" xmltv_id="Celebrity Shopping TV (CSHP).us">Celebrity Shopping TV (CSHP)</channel>
     <channel update="i" site="merge-xmltv" site_id="AVC 224 (Infomercial) (AVC).us" xmltv_id="AVC 224 (Infomercial) (AVC).us">AVC 224 (Infomercial) (AVC)</channel>
@@ -3951,152 +3923,92 @@
     <channel update="i" site="merge-xmltv" site_id="Paid Programming 227 (PULSE).us" xmltv_id="Paid Programming 227 (PULSE).us">Paid Programming 227 (PULSE)</channel>
     <channel update="i" site="merge-xmltv" site_id="GEM Shopping Network (GEM).us" xmltv_id="GEM Shopping Network (GEM).us">GEM Shopping Network (GEM)</channel>
     <channel update="i" site="merge-xmltv" site_id="HGTV HD (HGTVHD).us" xmltv_id="HGTV HD (HGTVHD).us">HGTV HD (HGTVHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="HGTV (HGTV).us" xmltv_id="HGTV (HGTV).us">HGTV (HGTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="DIY Network HD (DIYHD).us" xmltv_id="DIY Network HD (DIYHD).us">DIY Network HD (DIYHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Do It Yourself Network (DIY).us" xmltv_id="Do It Yourself Network (DIY).us">Do It Yourself Network (DIY)</channel>
     <channel update="i" site="merge-xmltv" site_id="Food Network HD (foodHD).us" xmltv_id="Food Network HD (foodHD).us">Food Network HD (foodHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Food Network (Food).us" xmltv_id="Food Network (Food).us">Food Network (Food)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cooking Channel HD (COOKHD).us" xmltv_id="Cooking Channel HD (COOKHD).us">Cooking Channel HD (COOKHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Cooking Channel (COOK).us" xmltv_id="Cooking Channel (COOK).us">Cooking Channel (COOK)</channel>
     <channel update="i" site="merge-xmltv" site_id="Game Show Network HD (GSNHD).us" xmltv_id="Game Show Network HD (GSNHD).us">Game Show Network HD (GSNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Game Show Network (GSN).us" xmltv_id="Game Show Network (GSN).us">Game Show Network (GSN)</channel>
     <channel update="i" site="merge-xmltv" site_id="WOW TV 234 (WOW).us" xmltv_id="WOW TV 234 (WOW).us">WOW TV 234 (WOW)</channel>
     <channel update="i" site="merge-xmltv" site_id="E! HD (E!HD).us" xmltv_id="E! HD (E!HD).us">E! HD (E!HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="E! (E!).us" xmltv_id="E! (E!).us">E! (E!)</channel>
     <channel update="i" site="merge-xmltv" site_id="Bravo HD (BRVOHD).us" xmltv_id="Bravo HD (BRVOHD).us">Bravo HD (BRVOHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Bravo (BRVO).us" xmltv_id="Bravo (BRVO).us">Bravo (BRVO)</channel>
     <channel update="i" site="merge-xmltv" site_id="ReelzChannel HD (REELZHD).us" xmltv_id="ReelzChannel HD (REELZHD).us">ReelzChannel HD (REELZHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ReelzChannel (REELZ).us" xmltv_id="ReelzChannel (REELZ).us">ReelzChannel (REELZ)</channel>
     <channel update="i" site="merge-xmltv" site_id="AUDIENCE (239) HD (AUDHD).us" xmltv_id="AUDIENCE (239) HD (AUDHD).us">AUDIENCE (239) HD (AUDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AUDIENCE (239) (AUD).us" xmltv_id="AUDIENCE (239) (AUD).us">AUDIENCE (239) (AUD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Home Shopping Network HD (HSNHD).us" xmltv_id="Home Shopping Network HD (HSNHD).us">Home Shopping Network HD (HSNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Home Shopping Network (HSN).us" xmltv_id="Home Shopping Network (HSN).us">Home Shopping Network (HSN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Paramount Network HD (PARHD).us" xmltv_id="Paramount Network HD (PARHD).us">Paramount Network HD (PARHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Paramount Network (Par).us" xmltv_id="Paramount Network (Par).us">Paramount Network (Par)</channel>
     <channel update="i" site="merge-xmltv" site_id="USA Network HD (USAHD).us" xmltv_id="USA Network HD (USAHD).us">USA Network HD (USAHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="USA Network (USA).us" xmltv_id="USA Network (USA).us">USA Network (USA)</channel>
     <channel update="i" site="merge-xmltv" site_id="BUZZ TV (BUZZ).us" xmltv_id="BUZZ TV (BUZZ).us">BUZZ TV (BUZZ)</channel>
     <channel update="i" site="merge-xmltv" site_id="Syfy HD (SyfyHD).us" xmltv_id="Syfy HD (SyfyHD).us">Syfy HD (SyfyHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Syfy (Syfy).us" xmltv_id="Syfy (Syfy).us">Syfy (Syfy)</channel>
     <channel update="i" site="merge-xmltv" site_id="TNT HD (TNTHD).us" xmltv_id="TNT HD (TNTHD).us">TNT HD (TNTHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TNT West HD (TNTWHD).us" xmltv_id="TNT West HD (TNTWHD).us">TNT West HD (TNTWHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="TNT (TNT).us" xmltv_id="TNT (TNT).us">TNT (TNT)</channel>
     <channel update="i" site="merge-xmltv" site_id="truTV HD (truTVHD).us" xmltv_id="truTV HD (truTVHD).us">truTV HD (truTVHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="truTV (truTV).us" xmltv_id="truTV (truTV).us">truTV (truTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TBS West HD (TBSWHD).us" xmltv_id="TBS West HD (TBSWHD).us">TBS West HD (TBSWHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="TBS HD (TBSHD).us" xmltv_id="TBS HD (TBSHD).us">TBS HD (TBSHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TBS Superstation (TBS).us" xmltv_id="TBS Superstation (TBS).us">TBS Superstation (TBS)</channel>
     <channel update="i" site="merge-xmltv" site_id="FX HD (FXHD).us" xmltv_id="FX HD (FXHD).us">FX HD (FXHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FX (FX).us" xmltv_id="FX (FX).us">FX (FX)</channel>
     <channel update="i" site="merge-xmltv" site_id="Comedy Central HD (COMHD).us" xmltv_id="Comedy Central HD (COMHD).us">Comedy Central HD (COMHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Comedy Central (COM).us" xmltv_id="Comedy Central (COM).us">Comedy Central (COM)</channel>
     <channel update="i" site="merge-xmltv" site_id="SECRET TV (250) (SECRET).us" xmltv_id="SECRET TV (250) (SECRET).us">SECRET TV (250) (SECRET)</channel>
     <channel update="i" site="merge-xmltv" site_id="Oxygen HD (OXGNHD).us" xmltv_id="Oxygen HD (OXGNHD).us">Oxygen HD (OXGNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Oxygen (OXGN).us" xmltv_id="Oxygen (OXGN).us">Oxygen (OXGN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Lifetime HD (LIFEHD).us" xmltv_id="Lifetime HD (LIFEHD).us">Lifetime HD (LIFEHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Lifetime (LIFE).us" xmltv_id="Lifetime (LIFE).us">Lifetime (LIFE)</channel>
     <channel update="i" site="merge-xmltv" site_id="LMN HD (LMNHD).us" xmltv_id="LMN HD (LMNHD).us">LMN HD (LMNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="LMN (LMN).us" xmltv_id="LMN (LMN).us">LMN (LMN)</channel>
     <channel update="i" site="merge-xmltv" site_id="AMC HD (AMCHD).us" xmltv_id="AMC HD (AMCHD).us">AMC HD (AMCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AMC (amc).us" xmltv_id="AMC (amc).us">AMC (amc)</channel>
     <channel update="i" site="merge-xmltv" site_id="XTRA Network (XTRA).us" xmltv_id="XTRA Network (XTRA).us">XTRA Network (XTRA)</channel>
     <channel update="i" site="merge-xmltv" site_id="TCM HD (TCMHD).us" xmltv_id="TCM HD (TCMHD).us">TCM HD (TCMHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TCM (TCM).us" xmltv_id="TCM (TCM).us">TCM (TCM)</channel>
     <channel update="i" site="merge-xmltv" site_id="FX Movie Channel HD (FXMHD).us" xmltv_id="FX Movie Channel HD (FXMHD).us">FX Movie Channel HD (FXMHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FX Movie (FXM).us" xmltv_id="FX Movie (FXM).us">FX Movie (FXM)</channel>
     <channel update="i" site="merge-xmltv" site_id="FXX HD (FXXHD).us" xmltv_id="FXX HD (FXXHD).us">FXX HD (FXXHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FXX (FXX).us" xmltv_id="FXX (FXX).us">FXX (FXX)</channel>
     <channel update="i" site="merge-xmltv" site_id="WE tv HD (WeHD).us" xmltv_id="WE tv HD (WeHD).us">WE tv HD (WeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="WE tv (We).us" xmltv_id="WE tv (We).us">WE tv (We)</channel>
     <channel update="i" site="merge-xmltv" site_id="Discovery Life (DLIF).us" xmltv_id="Discovery Life (DLIF).us">Discovery Life (DLIF)</channel>
     <channel update="i" site="merge-xmltv" site_id="MALL TV Channel 262 (MALL).us" xmltv_id="MALL TV Channel 262 (MALL).us">MALL TV Channel 262 (MALL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Get It Infomercial (GETIT).us" xmltv_id="Get It Infomercial (GETIT).us">Get It Infomercial (GETIT)</channel>
     <channel update="i" site="merge-xmltv" site_id="BBC America HD (BBCAHD).us" xmltv_id="BBC America HD (BBCAHD).us">BBC America HD (BBCAHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="BBC America (BBCA).us" xmltv_id="BBC America (BBCA).us">BBC America (BBCA)</channel>
     <channel update="i" site="merge-xmltv" site_id="A&amp;amp;E HD (A&amp;amp;EHD).us" xmltv_id="A&amp;amp;E HD (A&amp;amp;EHD).us">A&amp;amp;E HD (A&amp;amp;EHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="A&amp;amp;E (A&amp;amp;E).us" xmltv_id="A&amp;amp;E (A&amp;amp;E).us">A&amp;amp;E (A&amp;amp;E)</channel>
     <channel update="i" site="merge-xmltv" site_id="FYI HD (FYIHD).us" xmltv_id="FYI HD (FYIHD).us">FYI HD (FYIHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FYI (FYI).us" xmltv_id="FYI (FYI).us">FYI (FYI)</channel>
     <channel update="i" site="merge-xmltv" site_id="BEST Channel 268 (BEST).us" xmltv_id="BEST Channel 268 (BEST).us">BEST Channel 268 (BEST)</channel>
     <channel update="i" site="merge-xmltv" site_id="History HD (HISTHD).us" xmltv_id="History HD (HISTHD).us">History HD (HISTHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="History (HIST).us" xmltv_id="History (HIST).us">History (HIST)</channel>
     <channel update="i" site="merge-xmltv" site_id="IDEA Channel 270 (IDEA).us" xmltv_id="IDEA Channel 270 (IDEA).us">IDEA Channel 270 (IDEA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Viceland HD (VICEHD).us" xmltv_id="Viceland HD (VICEHD).us">Viceland HD (VICEHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Viceland (VICE).us" xmltv_id="Viceland (VICE).us">Viceland (VICE)</channel>
     <channel update="i" site="merge-xmltv" site_id="Logo (LOGO).us" xmltv_id="Logo (LOGO).us">Logo (LOGO)</channel>
     <channel update="i" site="merge-xmltv" site_id="POP HD (POPHD).us" xmltv_id="POP HD (POPHD).us">POP HD (POPHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="POP (POP).us" xmltv_id="POP (POP).us">POP (POP)</channel>
     <channel update="i" site="merge-xmltv" site_id="Ovation HD (OVTVHD).us" xmltv_id="Ovation HD (OVTVHD).us">Ovation HD (OVTVHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Ovation (OVTV).us" xmltv_id="Ovation (OVTV).us">Ovation (OVTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="QVC HD (QVCHD).us" xmltv_id="QVC HD (QVCHD).us">QVC HD (QVCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="QVC (QVC).us" xmltv_id="QVC (QVC).us">QVC (QVC)</channel>
     <channel update="i" site="merge-xmltv" site_id="National Geographic HD (NGCHD).us" xmltv_id="National Geographic HD (NGCHD).us">National Geographic HD (NGCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="National Geographic (NGC).us" xmltv_id="National Geographic (NGC).us">National Geographic (NGC)</channel>
     <channel update="i" site="merge-xmltv" site_id="Travel Channel HD (TRAVHD).us" xmltv_id="Travel Channel HD (TRAVHD).us">Travel Channel HD (TRAVHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Travel Channel (TRAV).us" xmltv_id="Travel Channel (TRAV).us">Travel Channel (TRAV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Discovery HD (DSCHD).us" xmltv_id="Discovery HD (DSCHD).us">Discovery HD (DSCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Discovery (DSC).us" xmltv_id="Discovery (DSC).us">Discovery (DSC)</channel>
     <channel update="i" site="merge-xmltv" site_id="OWN HD (OWNHD).us" xmltv_id="OWN HD (OWNHD).us">OWN HD (OWNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="OWN (OWN).us" xmltv_id="OWN (OWN).us">OWN (OWN)</channel>
     <channel update="i" site="merge-xmltv" site_id="TLC HD (TLCHD).us" xmltv_id="TLC HD (TLCHD).us">TLC HD (TLCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TLC (TLC).us" xmltv_id="TLC (TLC).us">TLC (TLC)</channel>
     <channel update="i" site="merge-xmltv" site_id="MotorTrend HD (MTHD).us" xmltv_id="MotorTrend HD (MTHD).us">MotorTrend HD (MTHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Animal Planet HD (APLHD).us" xmltv_id="Animal Planet HD (APLHD).us">Animal Planet HD (APLHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Animal Planet (APL).us" xmltv_id="Animal Planet (APL).us">Animal Planet (APL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Nat Geo Wild HD (NGWHD).us" xmltv_id="Nat Geo Wild HD (NGWHD).us">Nat Geo Wild HD (NGWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Nat Geo WILD (NGW).us" xmltv_id="Nat Geo WILD (NGW).us">Nat Geo WILD (NGW)</channel>
     <channel update="i" site="merge-xmltv" site_id="Science HD (SCIHD).us" xmltv_id="Science HD (SCIHD).us">Science HD (SCIHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Science (SCI).us" xmltv_id="Science (SCI).us">Science (SCI)</channel>
     <channel update="i" site="merge-xmltv" site_id="Investigation Discovery HD (IDHD).us" xmltv_id="Investigation Discovery HD (IDHD).us">Investigation Discovery HD (IDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Investigation Discovery (ID).us" xmltv_id="Investigation Discovery (ID).us">Investigation Discovery (ID)</channel>
     <channel update="i" site="merge-xmltv" site_id="Destination America HD (DESTHD).us" xmltv_id="Destination America HD (DESTHD).us">Destination America HD (DESTHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Destination America (DEST).us" xmltv_id="Destination America (DEST).us">Destination America (DEST)</channel>
     <channel update="i" site="merge-xmltv" site_id="American Heroes HD (AHCHD).us" xmltv_id="American Heroes HD (AHCHD).us">American Heroes HD (AHCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="American Heroes Channel (AHCH).us" xmltv_id="American Heroes Channel (AHCH).us">American Heroes Channel (AHCH)</channel>
     <channel update="i" site="merge-xmltv" site_id="BUZZ TV (288) (BUZZ).us" xmltv_id="BUZZ TV (288) (BUZZ).us">BUZZ TV (288) (BUZZ)</channel>
     <channel update="i" site="merge-xmltv" site_id="Disney Junior HD (DSJRHD).us" xmltv_id="Disney Junior HD (DSJRHD).us">Disney Junior HD (DSJRHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Disney Junior (DSJR).us" xmltv_id="Disney Junior (DSJR).us">Disney Junior (DSJR)</channel>
     <channel update="i" site="merge-xmltv" site_id="Disney Channel HD (DISeHD).us" xmltv_id="Disney Channel HD (DISeHD).us">Disney Channel HD (DISeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Disney Channel (East) (DISe).us" xmltv_id="Disney Channel (East) (DISe).us">Disney Channel (East) (DISe)</channel>
     <channel update="i" site="merge-xmltv" site_id="Disney Channel (West) (DISw).us" xmltv_id="Disney Channel (West) (DISw).us">Disney Channel (West) (DISw)</channel>
     <channel update="i" site="merge-xmltv" site_id="Disney XD HD (DXDHD).us" xmltv_id="Disney XD HD (DXDHD).us">Disney XD HD (DXDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Disney XD (DXD).us" xmltv_id="Disney XD (DXD).us">Disney XD (DXD)</channel>
     <channel update="i" site="merge-xmltv" site_id="BabyFirst (BABY).us" xmltv_id="BabyFirst (BABY).us">BabyFirst (BABY)</channel>
     <channel update="i" site="merge-xmltv" site_id="Discovery Family Channel HD (DFCHD).us" xmltv_id="Discovery Family Channel HD (DFCHD).us">Discovery Family Channel HD (DFCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Discovery Family Channel (DFCH).us" xmltv_id="Discovery Family Channel (DFCH).us">Discovery Family Channel (DFCH)</channel>
     <channel update="i" site="merge-xmltv" site_id="Universal Kids HD (UKIDSH).us" xmltv_id="Universal Kids HD (UKIDSH).us">Universal Kids HD (UKIDSH)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Universal Kids (UKIDS).us" xmltv_id="Universal Kids (UKIDS).us">Universal Kids (UKIDS)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cartoon Network HD (CNeHD).us" xmltv_id="Cartoon Network HD (CNeHD).us">Cartoon Network HD (CNeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Cartoon Network (CNe).us" xmltv_id="Cartoon Network (CNe).us">Cartoon Network (CNe)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cartoon Network West (CNw).us" xmltv_id="Cartoon Network West (CNw).us">Cartoon Network West (CNw)</channel>
     <channel update="i" site="merge-xmltv" site_id="Boomerang (Boom).us" xmltv_id="Boomerang (Boom).us">Boomerang (Boom)</channel>
     <channel update="i" site="merge-xmltv" site_id="Nickelodeon East HD (NIKeHD).us" xmltv_id="Nickelodeon East HD (NIKeHD).us">Nickelodeon East HD (NIKeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Nickelodeon East (NIKe).us" xmltv_id="Nickelodeon East (NIKe).us">Nickelodeon East (NIKe)</channel>
     <channel update="i" site="merge-xmltv" site_id="Nickelodeon West (NIKw).us" xmltv_id="Nickelodeon West (NIKw).us">Nickelodeon West (NIKw)</channel>
     <channel update="i" site="merge-xmltv" site_id="Nick Jr. HD (NKJRHD).us" xmltv_id="Nick Jr. HD (NKJRHD).us">Nick Jr. HD (NKJRHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Nick Jr. (NKJR).us" xmltv_id="Nick Jr. (NKJR).us">Nick Jr. (NKJR)</channel>
     <channel update="i" site="merge-xmltv" site_id="Nicktoons (NKTN).us" xmltv_id="Nicktoons (NKTN).us">Nicktoons (NKTN)</channel>
     <channel update="i" site="merge-xmltv" site_id="TeenNick (TNCK).us" xmltv_id="TeenNick (TNCK).us">TeenNick (TNCK)</channel>
     <channel update="i" site="merge-xmltv" site_id="TV Land HD (TVLDHD).us" xmltv_id="TV Land HD (TVLDHD).us">TV Land HD (TVLDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TV Land (TVLD).us" xmltv_id="TV Land (TVLD).us">TV Land (TVLD)</channel>
     <channel update="i" site="merge-xmltv" site_id="ION Television East HD (IONEHD).us" xmltv_id="ION Television East HD (IONEHD).us">ION Television East HD (IONEHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ION Television (ION E).us" xmltv_id="ION Television (ION E).us">ION Television (ION E)</channel>
     <channel update="i" site="merge-xmltv" site_id="ION Television West (ION W).us" xmltv_id="ION Television West (ION W).us">ION Television West (ION W)</channel>
     <channel update="i" site="merge-xmltv" site_id="WGN America HD (WGNHD).us" xmltv_id="WGN America HD (WGNHD).us">WGN America HD (WGNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="WGN America (WGN).us" xmltv_id="WGN America (WGN).us">WGN America (WGN)</channel>
     <channel update="i" site="merge-xmltv" site_id="CRAVE (CRAVE).us" xmltv_id="CRAVE (CRAVE).us">CRAVE (CRAVE)</channel>
     <channel update="i" site="merge-xmltv" site_id="SALE Network (SALE).us" xmltv_id="SALE Network (SALE).us">SALE Network (SALE)</channel>
     <channel update="i" site="merge-xmltv" site_id="HSN2 (HSN2).us" xmltv_id="HSN2 (HSN2).us">HSN2 (HSN2)</channel>
     <channel update="i" site="merge-xmltv" site_id="Freeform HD (FRFMHD).us" xmltv_id="Freeform HD (FRFMHD).us">Freeform HD (FRFMHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Freeform (FRFM).us" xmltv_id="Freeform (FRFM).us">Freeform (FRFM)</channel>
     <channel update="i" site="merge-xmltv" site_id="Hallmark Channel HD (HALLHD).us" xmltv_id="Hallmark Channel HD (HALLHD).us">Hallmark Channel HD (HALLHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Hallmark (HALL).us" xmltv_id="Hallmark (HALL).us">Hallmark (HALL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Jewelry Television (JTV).us" xmltv_id="Jewelry Television (JTV).us">Jewelry Television (JTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="VALU Ch. 314 (VALU).us" xmltv_id="VALU Ch. 314 (VALU).us">VALU Ch. 314 (VALU)</channel>
     <channel update="i" site="merge-xmltv" site_id="QVC2 (QVC2).us" xmltv_id="QVC2 (QVC2).us">QVC2 (QVC2)</channel>
     <channel update="i" site="merge-xmltv" site_id="EVINE (EVINE).us" xmltv_id="EVINE (EVINE).us">EVINE (EVINE)</channel>
     <channel update="i" site="merge-xmltv" site_id="QVC HD (317) (QVCHD).us" xmltv_id="QVC HD (317) (QVCHD).us">QVC HD (317) (QVCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="QVC Channel 317 (QVC).us" xmltv_id="QVC Channel 317 (QVC).us">QVC Channel 317 (QVC)</channel>
     <channel update="i" site="merge-xmltv" site_id="QVC3 (QVC3).us" xmltv_id="QVC3 (QVC3).us">QVC3 (QVC3)</channel>
     <channel update="i" site="merge-xmltv" site_id="NEW TV (319) (NEW).us" xmltv_id="NEW TV (319) (NEW).us">NEW TV (319) (NEW)</channel>
     <channel update="i" site="merge-xmltv" site_id="Scientology Network (SCNTV).us" xmltv_id="Scientology Network (SCNTV).us">Scientology Network (SCNTV)</channel>
@@ -4106,33 +4018,21 @@
     <channel update="i" site="merge-xmltv" site_id="RENEW TV (RENEW).us" xmltv_id="RENEW TV (RENEW).us">RENEW TV (RENEW)</channel>
     <channel update="i" site="merge-xmltv" site_id="FRESH (FRESH).us" xmltv_id="FRESH (FRESH).us">FRESH (FRESH)</channel>
     <channel update="i" site="merge-xmltv" site_id="Great American Country HD (GACHD).us" xmltv_id="Great American Country HD (GACHD).us">Great American Country HD (GACHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Great American Country (GAC).us" xmltv_id="Great American Country (GAC).us">Great American Country (GAC)</channel>
     <channel update="i" site="merge-xmltv" site_id="CMT HD (CMTHD).us" xmltv_id="CMT HD (CMTHD).us">CMT HD (CMTHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CMT (CMT).us" xmltv_id="CMT (CMT).us">CMT (CMT)</channel>
     <channel update="i" site="merge-xmltv" site_id="TV One HD (TV1HD).us" xmltv_id="TV One HD (TV1HD).us">TV One HD (TV1HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TV One (TV1).us" xmltv_id="TV One (TV1).us">TV One (TV1)</channel>
     <channel update="i" site="merge-xmltv" site_id="BET HD (BETHD).us" xmltv_id="BET HD (BETHD).us">BET HD (BETHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="BET (BET).us" xmltv_id="BET (BET).us">BET (BET)</channel>
     <channel update="i" site="merge-xmltv" site_id="BET Her (BHER).us" xmltv_id="BET Her (BHER).us">BET Her (BHER)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MTV West HD (MTVWHD).us" xmltv_id="MTV West HD (MTVWHD).us">MTV West HD (MTVWHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="MTV HD (MTVHD).us" xmltv_id="MTV HD (MTVHD).us">MTV HD (MTVHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MTV (MTV).us" xmltv_id="MTV (MTV).us">MTV (MTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="MTV2 HD (MTV2HD).us" xmltv_id="MTV2 HD (MTV2HD).us">MTV2 HD (MTV2HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MTV2 (MTV2).us" xmltv_id="MTV2 (MTV2).us">MTV2 (MTV2)</channel>
     <channel update="i" site="merge-xmltv" site_id="IFC HD (IFCHD).us" xmltv_id="IFC HD (IFCHD).us">IFC HD (IFCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="IFC (IFC).us" xmltv_id="IFC (IFC).us">IFC (IFC)</channel>
     <channel update="i" site="merge-xmltv" site_id="AUDIENCE (334) HD (AUDHD).us" xmltv_id="AUDIENCE (334) HD (AUDHD).us">AUDIENCE (334) HD (AUDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AUDIENCE (334) (AUD).us" xmltv_id="AUDIENCE (334) (AUD).us">AUDIENCE (334) (AUD)</channel>
     <channel update="i" site="merge-xmltv" site_id="VH1 HD (VH1HD).us" xmltv_id="VH1 HD (VH1HD).us">VH1 HD (VH1HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="VH1 (VH1).us" xmltv_id="VH1 (VH1).us">VH1 (VH1)</channel>
     <channel update="i" site="merge-xmltv" site_id="MTV Classic (MTVC).us" xmltv_id="MTV Classic (MTVC).us">MTV Classic (MTVC)</channel>
     <channel update="i" site="merge-xmltv" site_id="CASH (HD) (CASH).us" xmltv_id="CASH (HD) (CASH).us">CASH (HD) (CASH)</channel>
     <channel update="i" site="merge-xmltv" site_id="UP (UP).us" xmltv_id="UP (UP).us">UP (UP)</channel>
     <channel update="i" site="merge-xmltv" site_id="Fuse HD (fuseHD).us" xmltv_id="Fuse HD (fuseHD).us">Fuse HD (fuseHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fuse (fuse).us" xmltv_id="Fuse (fuse).us">Fuse (fuse)</channel>
     <channel update="i" site="merge-xmltv" site_id="AXS TV (AXSTV).us" xmltv_id="AXS TV (AXSTV).us">AXS TV (AXSTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="El Rey HD (ELREYHD).us" xmltv_id="El Rey HD (ELREYHD).us">El Rey HD (ELREYHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="El Rey (ELREY).us" xmltv_id="El Rey (ELREY).us">El Rey (ELREY)</channel>
     <channel update="i" site="merge-xmltv" site_id="Fusion HD (FUSNHD).us" xmltv_id="Fusion HD (FUSNHD).us">Fusion HD (FUSNHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="LWUSA (LWUSA).us" xmltv_id="LWUSA (LWUSA).us">LWUSA (LWUSA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Son Life Broadcasting HD (SBNHD).us" xmltv_id="Son Life Broadcasting HD (SBNHD).us">Son Life Broadcasting HD (SBNHD)</channel>
@@ -4140,29 +4040,21 @@
     <channel update="i" site="merge-xmltv" site_id="RFD-TV (RFDTV).us" xmltv_id="RFD-TV (RFDTV).us">RFD-TV (RFDTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="BBC World News HD (BBCWHD).us" xmltv_id="BBC World News HD (BBCWHD).us">BBC World News HD (BBCWHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="One America News Network HD (OANHD).us" xmltv_id="One America News Network HD (OANHD).us">One America News Network HD (OANHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="One America News Network (OAN).us" xmltv_id="One America News Network (OAN).us">One America News Network (OAN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Free Speech TV (FSTV).us" xmltv_id="Free Speech TV (FSTV).us">Free Speech TV (FSTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="NewsMax (NEWSMX).us" xmltv_id="NewsMax (NEWSMX).us">NewsMax (NEWSMX)</channel>
     <channel update="i" site="merge-xmltv" site_id="CSPAN (CSP1).us" xmltv_id="CSPAN (CSP1).us">CSPAN (CSP1)</channel>
     <channel update="i" site="merge-xmltv" site_id="CSPAN 2 (CSP2).us" xmltv_id="CSPAN 2 (CSP2).us">CSPAN 2 (CSP2)</channel>
     <channel update="i" site="merge-xmltv" site_id="NASA TV (NASA).us" xmltv_id="NASA TV (NASA).us">NASA TV (NASA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Bloomberg TV HD (BTVHD).us" xmltv_id="Bloomberg TV HD (BTVHD).us">Bloomberg TV HD (BTVHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Bloomberg TV (BTV).us" xmltv_id="Bloomberg TV (BTV).us">Bloomberg TV (BTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cheddar Business (CHDR).us" xmltv_id="Cheddar Business (CHDR).us">Cheddar Business (CHDR)</channel>
     <channel update="i" site="merge-xmltv" site_id="CNBC HD (CNBCHD).us" xmltv_id="CNBC HD (CNBCHD).us">CNBC HD (CNBCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CNBC (CNBC).us" xmltv_id="CNBC (CNBC).us">CNBC (CNBC)</channel>
     <channel update="i" site="merge-xmltv" site_id="MSNBC HD (MSNBC).us" xmltv_id="MSNBC HD (MSNBC).us">MSNBC HD (MSNBC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MSNBC (MSNBC).us" xmltv_id="MSNBC (MSNBC).us">MSNBC (MSNBC)</channel>
     <channel update="i" site="merge-xmltv" site_id="CNBC World (CNBW).us" xmltv_id="CNBC World (CNBW).us">CNBC World (CNBW)</channel>
     <channel update="i" site="merge-xmltv" site_id="CNNi (CNNi).us" xmltv_id="CNNi (CNNi).us">CNNi (CNNi)</channel>
     <channel update="i" site="merge-xmltv" site_id="Fox Business Network HD (FBNHD).us" xmltv_id="Fox Business Network HD (FBNHD).us">Fox Business Network HD (FBNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fox Business Network (FBN).us" xmltv_id="Fox Business Network (FBN).us">Fox Business Network (FBN)</channel>
     <channel update="i" site="merge-xmltv" site_id="FOX News Channel HD (FNCHD).us" xmltv_id="FOX News Channel HD (FNCHD).us">FOX News Channel HD (FNCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FOX News Channel (FNC).us" xmltv_id="FOX News Channel (FNC).us">FOX News Channel (FNC)</channel>
     <channel update="i" site="merge-xmltv" site_id="AccuWeather HD (ACCUHD).us" xmltv_id="AccuWeather HD (ACCUHD).us">AccuWeather HD (ACCUHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AccuWeather (ACCU).us" xmltv_id="AccuWeather (ACCU).us">AccuWeather (ACCU)</channel>
     <channel update="i" site="merge-xmltv" site_id="The Weather Channel HD (WEAHD).us" xmltv_id="The Weather Channel HD (WEAHD).us">The Weather Channel HD (WEAHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="The Weather Channel (WEA).us" xmltv_id="The Weather Channel (WEA).us">The Weather Channel (WEA)</channel>
     <channel update="i" site="merge-xmltv" site_id="GEB America (GEBA).us" xmltv_id="GEB America (GEBA).us">GEB America (GEBA)</channel>
     <channel update="i" site="merge-xmltv" site_id="INSP HD (INSPHD).us" xmltv_id="INSP HD (INSPHD).us">INSP HD (INSPHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="INSP (INSP).us" xmltv_id="INSP (INSP).us">INSP (INSP)</channel>
@@ -4193,257 +4085,144 @@
     <channel update="i" site="merge-xmltv" site_id="JBS (JBS).us" xmltv_id="JBS (JBS).us">JBS (JBS)</channel>
     <channel update="i" site="merge-xmltv" site_id="PBSNET (PBS).us" xmltv_id="PBSNET (PBS).us">PBSNET (PBS)</channel>
     <channel update="i" site="merge-xmltv" site_id="WCBS (New York) CBS HD East (CBSeHD).us" xmltv_id="WCBS (New York) CBS HD East (CBSeHD).us">WCBS (New York) CBS HD East (CBSeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="WCBS (New York) CBS East (CBSe).us" xmltv_id="WCBS (New York) CBS East (CBSe).us">WCBS (New York) CBS East (CBSe)</channel>
     <channel update="i" site="merge-xmltv" site_id="KCBS (Los Angeles) CBS HD West (CBSwHD).us" xmltv_id="KCBS (Los Angeles) CBS HD West (CBSwHD).us">KCBS (Los Angeles) CBS HD West (CBSwHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="KCBS (Los Angeles) CBS West (CBSw).us" xmltv_id="KCBS (Los Angeles) CBS West (CBSw).us">KCBS (Los Angeles) CBS West (CBSw)</channel>
     <channel update="i" site="merge-xmltv" site_id="WNBC (New York) NBC HD East (NBCeHD).us" xmltv_id="WNBC (New York) NBC HD East (NBCeHD).us">WNBC (New York) NBC HD East (NBCeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="WNBC (New York) NBC East (NBCe).us" xmltv_id="WNBC (New York) NBC East (NBCe).us">WNBC (New York) NBC East (NBCe)</channel>
     <channel update="i" site="merge-xmltv" site_id="KNBC (Los Angeles) NBC HD West (NBCwHD).us" xmltv_id="KNBC (Los Angeles) NBC HD West (NBCwHD).us">KNBC (Los Angeles) NBC HD West (NBCwHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="KNBC (Los Angeles) NBC West (NBCw).us" xmltv_id="KNBC (Los Angeles) NBC West (NBCw).us">KNBC (Los Angeles) NBC West (NBCw)</channel>
     <channel update="i" site="merge-xmltv" site_id="WDCW (Washington D.C.) CW (CWe).us" xmltv_id="WDCW (Washington D.C.) CW (CWe).us">WDCW (Washington D.C.) CW (CWe)</channel>
     <channel update="i" site="merge-xmltv" site_id="KTLA CW West (CWw).us" xmltv_id="KTLA CW West (CWw).us">KTLA CW West (CWw)</channel>
     <channel update="i" site="merge-xmltv" site_id="WABC (New York) ABC HD East (ABCeHD).us" xmltv_id="WABC (New York) ABC HD East (ABCeHD).us">WABC (New York) ABC HD East (ABCeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="WABC (New York) ABC East (ABCe).us" xmltv_id="WABC (New York) ABC East (ABCe).us">WABC (New York) ABC East (ABCe)</channel>
     <channel update="i" site="merge-xmltv" site_id="KABC (Los Angeles) ABC HD West (ABCwHD).us" xmltv_id="KABC (Los Angeles) ABC HD West (ABCwHD).us">KABC (Los Angeles) ABC HD West (ABCwHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="KABC (Los Angeles) ABC West (ABCw).us" xmltv_id="KABC (Los Angeles) ABC West (ABCw).us">KABC (Los Angeles) ABC West (ABCw)</channel>
     <channel update="i" site="merge-xmltv" site_id="WNYW (New York) FOX HD East (FOXeHD).us" xmltv_id="WNYW (New York) FOX HD East (FOXeHD).us">WNYW (New York) FOX HD East (FOXeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="WNYW (New York) FOX East (FOXe).us" xmltv_id="WNYW (New York) FOX East (FOXe).us">WNYW (New York) FOX East (FOXe)</channel>
     <channel update="i" site="merge-xmltv" site_id="KTTV (Los Angeles) FOX HD West (FOXwHD).us" xmltv_id="KTTV (Los Angeles) FOX HD West (FOXwHD).us">KTTV (Los Angeles) FOX HD West (FOXwHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="KTTV (Los Angeles) FOX West (FOXw).us" xmltv_id="KTTV (Los Angeles) FOX West (FOXw).us">KTTV (Los Angeles) FOX West (FOXw)</channel>
     <channel update="i" site="merge-xmltv" site_id="DTV Cinema 400 (PPV).us" xmltv_id="DTV Cinema 400 (PPV).us">DTV Cinema 400 (PPV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Aqui (Aqui).us" xmltv_id="Aqui (Aqui).us">Aqui (Aqui)</channel>
-    <channel update="i" site="merge-xmltv" site_id="INFO Temp 6 (99R) (Aqui).us" xmltv_id="INFO Temp 6 (99R) (Aqui).us">INFO Temp 6 (99R) (Aqui)</channel>
     <channel update="i" site="merge-xmltv" site_id="Univision East HD (UNIeHD).us" xmltv_id="Univision East HD (UNIeHD).us">Univision East HD (UNIeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Univision East (UNIe).us" xmltv_id="Univision East (UNIe).us">Univision East (UNIe)</channel>
     <channel update="i" site="merge-xmltv" site_id="Univision West (UNIw).us" xmltv_id="Univision West (UNIw).us">Univision West (UNIw)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Univision West (99R) (UNIw).us" xmltv_id="Univision West (99R) (UNIw).us">Univision West (99R) (UNIw)</channel>
     <channel update="i" site="merge-xmltv" site_id="Galavision HD (GALAHD).us" xmltv_id="Galavision HD (GALAHD).us">Galavision HD (GALAHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Galavision (GALA).us" xmltv_id="Galavision (GALA).us">Galavision (GALA)</channel>
     <channel update="i" site="merge-xmltv" site_id="MegaTV HD (MEGAHD).us" xmltv_id="MegaTV HD (MEGAHD).us">MegaTV HD (MEGAHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MegaTV (MEGA).us" xmltv_id="MegaTV (MEGA).us">MegaTV (MEGA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MegaTV HD (99R) (MEGAHD).us" xmltv_id="MegaTV HD (99R) (MEGAHD).us">MegaTV HD (99R) (MEGAHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="megaTV (99R) (MEGA).us" xmltv_id="megaTV (99R) (MEGA).us">megaTV (99R) (MEGA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Telemundo East (TELe).us" xmltv_id="Telemundo East (TELe).us">Telemundo East (TELe)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Telemundo East (99R) (TELe).us" xmltv_id="Telemundo East (99R) (TELe).us">Telemundo East (99R) (TELe)</channel>
     <channel update="i" site="merge-xmltv" site_id="Telemundo West (TELw).us" xmltv_id="Telemundo West (TELw).us">Telemundo West (TELw)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Telemundo West (99R) (TELw).us" xmltv_id="Telemundo West (99R) (TELw).us">Telemundo West (99R) (TELw)</channel>
     <channel update="i" site="merge-xmltv" site_id="UniMas West HD (UMasHD).us" xmltv_id="UniMas West HD (UMasHD).us">UniMas West HD (UMasHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="UniMas (UMas).us" xmltv_id="UniMas (UMas).us">UniMas (UMas)</channel>
-    <channel update="i" site="merge-xmltv" site_id="UniMas West HD (99R) (UMasHD).us" xmltv_id="UniMas West HD (99R) (UMasHD).us">UniMas West HD (99R) (UMasHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="UniMas SD West (99R) (UMas).us" xmltv_id="UniMas SD West (99R) (UMas).us">UniMas SD West (99R) (UMas)</channel>
     <channel update="i" site="merge-xmltv" site_id="VePlus (VPLUS).us" xmltv_id="VePlus (VPLUS).us">VePlus (VPLUS)</channel>
-    <channel update="i" site="merge-xmltv" site_id="VePlus (99R) (VPLUS).us" xmltv_id="VePlus (99R) (VPLUS).us">VePlus (99R) (VPLUS)</channel>
     <channel update="i" site="merge-xmltv" site_id="Universo HD (UVSOHD).us" xmltv_id="Universo HD (UVSOHD).us">Universo HD (UVSOHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="UNIVERSO (UVSO).us" xmltv_id="UNIVERSO (UVSO).us">UNIVERSO (UVSO)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Universo (99R) (UVSO).us" xmltv_id="Universo (99R) (UVSO).us">Universo (99R) (UVSO)</channel>
     <channel update="i" site="merge-xmltv" site_id="Telefe (TLFI).us" xmltv_id="Telefe (TLFI).us">Telefe (TLFI)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Telefe (99R) (TLFI).us" xmltv_id="Telefe (99R) (TLFI).us">Telefe (99R) (TLFI)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Multimedios (99R) (MMTV).us" xmltv_id="Multimedios (99R) (MMTV).us">Multimedios (99R) (MMTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Multimedios (MMTV).us" xmltv_id="Multimedios (MMTV).us">Multimedios (MMTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Discovery en Espanol (DSCE).us" xmltv_id="Discovery en Espanol (DSCE).us">Discovery en Espanol (DSCE)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Discovery en Espanol (99R) (DSCE).us" xmltv_id="Discovery en Espanol (99R) (DSCE).us">Discovery en Espanol (99R) (DSCE)</channel>
     <channel update="i" site="merge-xmltv" site_id="WAPA America (WAPA).us" xmltv_id="WAPA America (WAPA).us">WAPA America (WAPA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="WAPA America (99R) (WAPA).us" xmltv_id="WAPA America (99R) (WAPA).us">WAPA America (99R) (WAPA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Videorola (VROLA).us" xmltv_id="Videorola (VROLA).us">Videorola (VROLA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Videorola (99R) (VROLA).us" xmltv_id="Videorola (99R) (VROLA).us">Videorola (99R) (VROLA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Nuestra Tele (NTEL).us" xmltv_id="Nuestra Tele (NTEL).us">Nuestra Tele (NTEL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Nuestra Tele (99R) (NTEL).us" xmltv_id="Nuestra Tele (99R) (NTEL).us">Nuestra Tele (99R) (NTEL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Caracol TV (CARA).us" xmltv_id="Caracol TV (CARA).us">Caracol TV (CARA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Caracol TV (99R) (CARA).us" xmltv_id="Caracol TV (99R) (CARA).us">Caracol TV (99R) (CARA)</channel>
     <channel update="i" site="merge-xmltv" site_id="NTN24 (NTN).us" xmltv_id="NTN24 (NTN).us">NTN24 (NTN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NTN 24 (99R) (NTN).us" xmltv_id="NTN 24 (99R) (NTN).us">NTN 24 (99R) (NTN)</channel>
     <channel update="i" site="merge-xmltv" site_id="CNN en Espanol (CNNE).us" xmltv_id="CNN en Espanol (CNNE).us">CNN en Espanol (CNNE)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CNN en Espanol (99R) (CNNE).us" xmltv_id="CNN en Espanol (99R) (CNNE).us">CNN en Espanol (99R) (CNNE)</channel>
     <channel update="i" site="merge-xmltv" site_id="Atres Series (ATRES).us" xmltv_id="Atres Series (ATRES).us">Atres Series (ATRES)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Atres Series (99R) (ATRES).us" xmltv_id="Atres Series (99R) (ATRES).us">Atres Series (99R) (ATRES)</channel>
     <channel update="i" site="merge-xmltv" site_id="FOX Life (FOXL).us" xmltv_id="FOX Life (FOXL).us">FOX Life (FOXL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fox Life (99R) (FOXL).us" xmltv_id="Fox Life (99R) (FOXL).us">Fox Life (99R) (FOXL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Cine Estelar (99R) (CIES).us" xmltv_id="Cine Estelar (99R) (CIES).us">Cine Estelar (99R) (CIES)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cine Estelar (CIES).us" xmltv_id="Cine Estelar (CIES).us">Cine Estelar (CIES)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cinelatino (CILA).us" xmltv_id="Cinelatino (CILA).us">Cinelatino (CILA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Cinelatino (99R) (CILA).us" xmltv_id="Cinelatino (99R) (CILA).us">Cinelatino (99R) (CILA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cine Nostalgia (CINO).us" xmltv_id="Cine Nostalgia (CINO).us">Cine Nostalgia (CINO)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Cine Nostalgia (99R) (CINO).us" xmltv_id="Cine Nostalgia (99R) (CINO).us">Cine Nostalgia (99R) (CINO)</channel>
     <channel update="i" site="merge-xmltv" site_id="BabyTV (BabyTV).us" xmltv_id="BabyTV (BabyTV).us">BabyTV (BabyTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Starz Encore En Español (STZES).us" xmltv_id="Starz Encore En Español (STZES).us">Starz Encore En Español (STZES)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Starz Encore en Espanol (99R) (STZES).us" xmltv_id="Starz Encore en Espanol (99R) (STZES).us">Starz Encore en Espanol (99R) (STZES)</channel>
     <channel update="i" site="merge-xmltv" site_id="IVC Net (IVCNet).us" xmltv_id="IVC Net (IVCNet).us">IVC Net (IVCNet)</channel>
-    <channel update="i" site="merge-xmltv" site_id="IVC Net (99R) (IVCNet).us" xmltv_id="IVC Net (99R) (IVCNet).us">IVC Net (99R) (IVCNet)</channel>
     <channel update="i" site="merge-xmltv" site_id="Centroamerica TV (CATV).us" xmltv_id="Centroamerica TV (CATV).us">Centroamerica TV (CATV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Centroamerica TV (99R) (CATV).us" xmltv_id="Centroamerica TV (99R) (CATV).us">Centroamerica TV (99R) (CATV)</channel>
     <channel update="i" site="merge-xmltv" site_id="TeleCentro (TLCN).us" xmltv_id="TeleCentro (TLCN).us">TeleCentro (TLCN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TeleCentro (99R) (TLCN).us" xmltv_id="TeleCentro (99R) (TLCN).us">TeleCentro (99R) (TLCN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Hola TV (HOLATV).us" xmltv_id="Hola TV (HOLATV).us">Hola TV (HOLATV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Hola TV (99R) (HOLATV).us" xmltv_id="Hola TV (99R) (HOLATV).us">Hola TV (99R) (HOLATV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Peru Magico (99R) (PMTV).us" xmltv_id="Peru Magico (99R) (PMTV).us">Peru Magico (99R) (PMTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Peru Magico (PMTV).us" xmltv_id="Peru Magico (PMTV).us">Peru Magico (PMTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="ZooMoo (ZooMoo).us" xmltv_id="ZooMoo (ZooMoo).us">ZooMoo (ZooMoo)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ZooMoo (99R) (ZooMoo).us" xmltv_id="ZooMoo (99R) (ZooMoo).us">ZooMoo (99R) (ZooMoo)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Bandamax (99R) (BDMX).us" xmltv_id="Bandamax (99R) (BDMX).us">Bandamax (99R) (BDMX)</channel>
     <channel update="i" site="merge-xmltv" site_id="Bandamax (BDMX).us" xmltv_id="Bandamax (BDMX).us">Bandamax (BDMX)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Nat Geo Mundo (99R) (NGMUN).us" xmltv_id="Nat Geo Mundo (99R) (NGMUN).us">Nat Geo Mundo (99R) (NGMUN)</channel>
     <channel update="i" site="merge-xmltv" site_id="NatGeo Mundo (NGMUN).us" xmltv_id="NatGeo Mundo (NGMUN).us">NatGeo Mundo (NGMUN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Discovery Familia (DFAM).us" xmltv_id="Discovery Familia (DFAM).us">Discovery Familia (DFAM)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Discovery Familia (99R) (DFAM).us" xmltv_id="Discovery Familia (99R) (DFAM).us">Discovery Familia (99R) (DFAM)</channel>
     <channel update="i" site="merge-xmltv" site_id="TV Chile (TVCH).us" xmltv_id="TV Chile (TVCH).us">TV Chile (TVCH)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TV Chile (99R) (TVCH).us" xmltv_id="TV Chile (99R) (TVCH).us">TV Chile (99R) (TVCH)</channel>
     <channel update="i" site="merge-xmltv" site_id="Ecuavisa Internacional (ECUA).us" xmltv_id="Ecuavisa Internacional (ECUA).us">Ecuavisa Internacional (ECUA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Ecuavisa Internacional (99R) (ECUA).us" xmltv_id="Ecuavisa Internacional (99R) (ECUA).us">Ecuavisa Internacional (99R) (ECUA)</channel>
     <channel update="i" site="merge-xmltv" site_id="SUR Peru (PERU).us" xmltv_id="SUR Peru (PERU).us">SUR Peru (PERU)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SUR Peru (99R) (PERU).us" xmltv_id="SUR Peru (99R) (PERU).us">SUR Peru (99R) (PERU)</channel>
     <channel update="i" site="merge-xmltv" site_id="Vme (V-Me).us" xmltv_id="Vme (V-Me).us">Vme (V-Me)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Vme (99R) (V-Me).us" xmltv_id="Vme (99R) (V-Me).us">Vme (99R) (V-Me)</channel>
     <channel update="i" site="merge-xmltv" site_id="Azteca (AZA).us" xmltv_id="Azteca (AZA).us">Azteca (AZA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Azteca America (99R) (AZA).us" xmltv_id="Azteca America (99R) (AZA).us">Azteca America (99R) (AZA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Estrella TV (ESTV).us" xmltv_id="Estrella TV (ESTV).us">Estrella TV (ESTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Estrella TV (99R) (ESTV).us" xmltv_id="Estrella TV (99R) (ESTV).us">Estrella TV (99R) (ESTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="History en Espanol (HISE).us" xmltv_id="History en Espanol (HISE).us">History en Espanol (HISE)</channel>
-    <channel update="i" site="merge-xmltv" site_id="History en Espanol (99R) (HISE).us" xmltv_id="History en Espanol (99R) (HISE).us">History en Espanol (99R) (HISE)</channel>
     <channel update="i" site="merge-xmltv" site_id="Pasiones (PASN).us" xmltv_id="Pasiones (PASN).us">Pasiones (PASN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Pasiones (99R) (PASN).us" xmltv_id="Pasiones (99R) (PASN).us">Pasiones (99R) (PASN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Tr3s (MTV3).us" xmltv_id="Tr3s (MTV3).us">Tr3s (MTV3)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Tr3S (99R) (MTV3).us" xmltv_id="Tr3S (99R) (MTV3).us">Tr3S (99R) (MTV3)</channel>
     <channel update="i" site="merge-xmltv" site_id="Canal 22 Mexico Internacional (MEX).us" xmltv_id="Canal 22 Mexico Internacional (MEX).us">Canal 22 Mexico Internacional (MEX)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Canal 22 Internacional (99R) (MEX).us" xmltv_id="Canal 22 Internacional (99R) (MEX).us">Canal 22 Internacional (99R) (MEX)</channel>
     <channel update="i" site="merge-xmltv" site_id="Canal ONCE (ONCE).us" xmltv_id="Canal ONCE (ONCE).us">Canal ONCE (ONCE)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Canal ONCE (99R) (ONCE).us" xmltv_id="Canal ONCE (99R) (ONCE).us">Canal ONCE (99R) (ONCE)</channel>
     <channel update="i" site="merge-xmltv" site_id="Enlace (ENLC).us" xmltv_id="Enlace (ENLC).us">Enlace (ENLC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Enlace (99R) (ENLC).us" xmltv_id="Enlace (99R) (ENLC).us">Enlace (99R) (ENLC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Cine Sony (99R) (CNSONY).us" xmltv_id="Cine Sony (99R) (CNSONY).us">Cine Sony (99R) (CNSONY)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cine Sony (CNSONY).us" xmltv_id="Cine Sony (CNSONY).us">Cine Sony (CNSONY)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Viendo Movies (99R) (VMOV).us" xmltv_id="Viendo Movies (99R) (VMOV).us">Viendo Movies (99R) (VMOV)</channel>
     <channel update="i" site="merge-xmltv" site_id="ViendoMovies (VMOV).us" xmltv_id="ViendoMovies (VMOV).us">ViendoMovies (VMOV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="De Pelicula (99R) (DEPE).us" xmltv_id="De Pelicula (99R) (DEPE).us">De Pelicula (99R) (DEPE)</channel>
     <channel update="i" site="merge-xmltv" site_id="De Pelicula (DEPE).us" xmltv_id="De Pelicula (DEPE).us">De Pelicula (DEPE)</channel>
     <channel update="i" site="merge-xmltv" site_id="De Pelicula Clasico (DEPC).us" xmltv_id="De Pelicula Clasico (DEPC).us">De Pelicula Clasico (DEPC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="De Pelicula Clasico (99R) (DEPC).us" xmltv_id="De Pelicula Clasico (99R) (DEPC).us">De Pelicula Clasico (99R) (DEPC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FOROtv (99R) (FORO).us" xmltv_id="FOROtv (99R) (FORO).us">FOROtv (99R) (FORO)</channel>
     <channel update="i" site="merge-xmltv" site_id="FOROtv (FORO).us" xmltv_id="FOROtv (FORO).us">FOROtv (FORO)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Univision telenovelas (99R) (UNTL).us" xmltv_id="Univision telenovelas (99R) (UNTL).us">Univision telenovelas (99R) (UNTL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Univision tlnovelas (UNTL).us" xmltv_id="Univision tlnovelas (UNTL).us">Univision tlnovelas (UNTL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="INFO Temp 7 (99R) (GANGA).us" xmltv_id="INFO Temp 7 (99R) (GANGA).us">INFO Temp 7 (99R) (GANGA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Infomercial Channel Oferta TV (OFERTA).us" xmltv_id="Infomercial Channel Oferta TV (OFERTA).us">Infomercial Channel Oferta TV (OFERTA)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESNE PIO (ESNE).us" xmltv_id="ESNE PIO (ESNE).us">ESNE PIO (ESNE)</channel>
     <channel update="i" site="merge-xmltv" site_id="Ecuador TV (ECTV).us" xmltv_id="Ecuador TV (ECTV).us">Ecuador TV (ECTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Ecuador TV (99R) (ECTV).us" xmltv_id="Ecuador TV (99R) (ECTV).us">Ecuador TV (99R) (ECTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Antena 3 (ANT3).us" xmltv_id="Antena 3 (ANT3).us">Antena 3 (ANT3)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Antena 3 (99R) (ANT3).us" xmltv_id="Antena 3 (99R) (ANT3).us">Antena 3 (99R) (ANT3)</channel>
     <channel update="i" site="merge-xmltv" site_id="DTV Cinema 459 (PPV).us" xmltv_id="DTV Cinema 459 (PPV).us">DTV Cinema 459 (PPV)</channel>
     <channel update="i" site="merge-xmltv" site_id="TVE (TVE).us" xmltv_id="TVE (TVE).us">TVE (TVE)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TVE (99R) (TVE).us" xmltv_id="TVE (99R) (TVE).us">TVE (99R) (TVE)</channel>
     <channel update="i" site="merge-xmltv" site_id="HITN (HITN).us" xmltv_id="HITN (HITN).us">HITN (HITN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="HITN (99R) (HITN).us" xmltv_id="HITN (99R) (HITN).us">HITN (99R) (HITN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Cine Mexicano (99R) (CINEMX).us" xmltv_id="Cine Mexicano (99R) (CINEMX).us">Cine Mexicano (99R) (CINEMX)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cine Mexicano (CINEMX).us" xmltv_id="Cine Mexicano (CINEMX).us">Cine Mexicano (CINEMX)</channel>
     <channel update="i" site="merge-xmltv" site_id="TUDN HD (TUDNHD).us" xmltv_id="TUDN HD (TUDNHD).us">TUDN HD (TUDNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TUDN (TUDN).us" xmltv_id="TUDN (TUDN).us">TUDN (TUDN)</channel>
     <channel update="i" site="merge-xmltv" site_id="FOX Deportes HD (FOXDHD).us" xmltv_id="FOX Deportes HD (FOXDHD).us">FOX Deportes HD (FOXDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FOX Deportes (FOXD).us" xmltv_id="FOX Deportes (FOXD).us">FOX Deportes (FOXD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FOX Deportes (99R) (FOXD).us" xmltv_id="FOX Deportes (99R) (FOXD).us">FOX Deportes (99R) (FOXD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ESPN Deportes HD (99R) (ESPDRHD).us" xmltv_id="ESPN Deportes HD (99R) (ESPDRHD).us">ESPN Deportes HD (99R) (ESPDRHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESPN Deportes HD (ESPDHD).us" xmltv_id="ESPN Deportes HD (ESPDHD).us">ESPN Deportes HD (ESPDHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESPN Deportes (ESPD).us" xmltv_id="ESPN Deportes (ESPD).us">ESPN Deportes (ESPD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ESPN Deportes (99R) (ESPDR).us" xmltv_id="ESPN Deportes (99R) (ESPDR).us">ESPN Deportes (99R) (ESPDR)</channel>
     <channel update="i" site="merge-xmltv" site_id="GolTV (GOL).us" xmltv_id="GolTV (GOL).us">GolTV (GOL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="GolTV (99R) (GOL).us" xmltv_id="GolTV (99R) (GOL).us">GolTV (99R) (GOL)</channel>
     <channel update="i" site="merge-xmltv" site_id="TyC Sports (TYC).us" xmltv_id="TyC Sports (TYC).us">TyC Sports (TYC)</channel>
     <channel update="i" site="merge-xmltv" site_id="TyC Sports (99R) (TYC).us" xmltv_id="TyC Sports (99R) (TYC).us">TyC Sports (99R) (TYC)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 471 HD (MLS HD).us" xmltv_id="MLS Direct Kick 471 HD (MLS HD).us">MLS Direct Kick 471 HD (MLS HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 471 (MLS).us" xmltv_id="MLS Direct Kick 471 (MLS).us">MLS Direct Kick 471 (MLS)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 472 HD (MLS HD).us" xmltv_id="MLS Direct Kick 472 HD (MLS HD).us">MLS Direct Kick 472 HD (MLS HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 472 (MLS).us" xmltv_id="MLS Direct Kick 472 (MLS).us">MLS Direct Kick 472 (MLS)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 473 HD (MLS HD).us" xmltv_id="MLS Direct Kick 473 HD (MLS HD).us">MLS Direct Kick 473 HD (MLS HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 473 (MLS).us" xmltv_id="MLS Direct Kick 473 (MLS).us">MLS Direct Kick 473 (MLS)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 474 HD (MLS HD).us" xmltv_id="MLS Direct Kick 474 HD (MLS HD).us">MLS Direct Kick 474 HD (MLS HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 474 (MLS).us" xmltv_id="MLS Direct Kick 474 (MLS).us">MLS Direct Kick 474 (MLS)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 475 HD (MLS HD).us" xmltv_id="MLS Direct Kick 475 HD (MLS HD).us">MLS Direct Kick 475 HD (MLS HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 475 (MLS).us" xmltv_id="MLS Direct Kick 475 (MLS).us">MLS Direct Kick 475 (MLS)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 476 HD (MLS HD).us" xmltv_id="MLS Direct Kick 476 HD (MLS HD).us">MLS Direct Kick 476 HD (MLS HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 476 (MLS).us" xmltv_id="MLS Direct Kick 476 (MLS).us">MLS Direct Kick 476 (MLS)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 477 HD (MLS HD).us" xmltv_id="MLS Direct Kick 477 HD (MLS HD).us">MLS Direct Kick 477 HD (MLS HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 477 (MLS).us" xmltv_id="MLS Direct Kick 477 (MLS).us">MLS Direct Kick 477 (MLS)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 478 HD (MLS HD).us" xmltv_id="MLS Direct Kick 478 HD (MLS HD).us">MLS Direct Kick 478 HD (MLS HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 478 (MLS).us" xmltv_id="MLS Direct Kick 478 (MLS).us">MLS Direct Kick 478 (MLS)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 479 HD (MLS HD).us" xmltv_id="MLS Direct Kick 479 HD (MLS HD).us">MLS Direct Kick 479 HD (MLS HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 479 (MLS).us" xmltv_id="MLS Direct Kick 479 (MLS).us">MLS Direct Kick 479 (MLS)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 480 HD (MLS HD).us" xmltv_id="MLS Direct Kick 480 HD (MLS HD).us">MLS Direct Kick 480 HD (MLS HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 480 (MLS).us" xmltv_id="MLS Direct Kick 480 (MLS).us">MLS Direct Kick 480 (MLS)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 481 HD (MLS HD).us" xmltv_id="MLS Direct Kick 481 HD (MLS HD).us">MLS Direct Kick 481 HD (MLS HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLS Direct Kick 481 (MLS).us" xmltv_id="MLS Direct Kick 481 (MLS).us">MLS Direct Kick 481 (MLS)</channel>
     <channel update="i" site="merge-xmltv" site_id="DTV Cinema 496 (PPV).us" xmltv_id="DTV Cinema 496 (PPV).us">DTV Cinema 496 (PPV)</channel>
     <channel update="i" site="merge-xmltv" site_id="DTV Cinema 497 (HD) (PPV).us" xmltv_id="DTV Cinema 497 (HD) (PPV).us">DTV Cinema 497 (HD) (PPV)</channel>
     <channel update="i" site="merge-xmltv" site_id="AUDIENCE (500) HD (AUDHD).us" xmltv_id="AUDIENCE (500) HD (AUDHD).us">AUDIENCE (500) HD (AUDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AUDIENCE (500) (AUD).us" xmltv_id="AUDIENCE (500) (AUD).us">AUDIENCE (500) (AUD)</channel>
     <channel update="i" site="merge-xmltv" site_id="HBO HD East (HBOeHD).us" xmltv_id="HBO HD East (HBOeHD).us">HBO HD East (HBOeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="HBO East (HBOe).us" xmltv_id="HBO East (HBOe).us">HBO East (HBOe)</channel>
     <channel update="i" site="merge-xmltv" site_id="HBO2 HD East (HB2eHD).us" xmltv_id="HBO2 HD East (HB2eHD).us">HBO2 HD East (HB2eHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="HBO 2 East (HB2e).us" xmltv_id="HBO 2 East (HB2e).us">HBO 2 East (HB2e)</channel>
     <channel update="i" site="merge-xmltv" site_id="HBO Signature HD East (HBSeHD).us" xmltv_id="HBO Signature HD East (HBSeHD).us">HBO Signature HD East (HBSeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="HBO Signature (HBOS).us" xmltv_id="HBO Signature (HBOS).us">HBO Signature (HBOS)</channel>
     <channel update="i" site="merge-xmltv" site_id="HBO West HD (HBOwHD).us" xmltv_id="HBO West HD (HBOwHD).us">HBO West HD (HBOwHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="HBO West (HBOw).us" xmltv_id="HBO West (HBOw).us">HBO West (HBOw)</channel>
     <channel update="i" site="merge-xmltv" site_id="HBO2 West HD (HB2wHD).us" xmltv_id="HBO2 West HD (HB2wHD).us">HBO2 West HD (HB2wHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="HBO 2 West (HB2w).us" xmltv_id="HBO 2 West (HB2w).us">HBO 2 West (HB2w)</channel>
     <channel update="i" site="merge-xmltv" site_id="HBO Comedy HD (HBOCHD).us" xmltv_id="HBO Comedy HD (HBOCHD).us">HBO Comedy HD (HBOCHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="HBO Family East HD (HBOFeHD).us" xmltv_id="HBO Family East HD (HBOFeHD).us">HBO Family East HD (HBOFeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="HBO Family East (HBFe).us" xmltv_id="HBO Family East (HBFe).us">HBO Family East (HBFe)</channel>
     <channel update="i" site="merge-xmltv" site_id="HBO Family West (HBFw).us" xmltv_id="HBO Family West (HBFw).us">HBO Family West (HBFw)</channel>
     <channel update="i" site="merge-xmltv" site_id="HBO Zone HD (HBOZHD).us" xmltv_id="HBO Zone HD (HBOZHD).us">HBO Zone HD (HBOZHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="HBO Latino HD (HBOLHD).us" xmltv_id="HBO Latino HD (HBOLHD).us">HBO Latino HD (HBOLHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="HBO Latino (HBOL).us" xmltv_id="HBO Latino (HBOL).us">HBO Latino (HBOL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="HBO Latino (99R) (HBOL).us" xmltv_id="HBO Latino (99R) (HBOL).us">HBO Latino (99R) (HBOL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cinemax East HD (MAXeHD).us" xmltv_id="Cinemax East HD (MAXeHD).us">Cinemax East HD (MAXeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Cinemax (MAXe).us" xmltv_id="Cinemax (MAXe).us">Cinemax (MAXe)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cinemax West HD (MAXwHD).us" xmltv_id="Cinemax West HD (MAXwHD).us">Cinemax West HD (MAXwHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Cinemax West (MAXw).us" xmltv_id="Cinemax West (MAXw).us">Cinemax West (MAXw)</channel>
     <channel update="i" site="merge-xmltv" site_id="MoreMAX HD (MMAXHD).us" xmltv_id="MoreMAX HD (MMAXHD).us">MoreMAX HD (MMAXHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MoreMAX (MMAX).us" xmltv_id="MoreMAX (MMAX).us">MoreMAX (MMAX)</channel>
     <channel update="i" site="merge-xmltv" site_id="ActionMax HD (AMAXHD).us" xmltv_id="ActionMax HD (AMAXHD).us">ActionMax HD (AMAXHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="5StarMAX HD (5MAXHD).us" xmltv_id="5StarMAX HD (5MAXHD).us">5StarMAX HD (5MAXHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="MovieMAX (MovMAX).us" xmltv_id="MovieMAX (MovMAX).us">MovieMAX (MovMAX)</channel>
     <channel update="i" site="merge-xmltv" site_id="ThrillerMAX HD (TMAXHD).us" xmltv_id="ThrillerMAX HD (TMAXHD).us">ThrillerMAX HD (TMAXHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="CinemÄx (MAXLHD).us" xmltv_id="CinemÄx (MAXLHD).us">CinemÄx (MAXLHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ East HD (STRZHD).us" xmltv_id="STARZ East HD (STRZHD).us">STARZ East HD (STRZHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="STARZ East (STRZ).us" xmltv_id="STARZ East (STRZ).us">STARZ East (STRZ)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ West HD (STZwHD).us" xmltv_id="STARZ West HD (STZwHD).us">STARZ West HD (STZwHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="STARZ West (STZw).us" xmltv_id="STARZ West (STZw).us">STARZ West (STZw)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Kids &amp;amp; Family HD (STZKHD).us" xmltv_id="STARZ Kids &amp;amp; Family HD (STZKHD).us">STARZ Kids &amp;amp; Family HD (STZKHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Comedy HD (STZCHD).us" xmltv_id="STARZ Comedy HD (STZCHD).us">STARZ Comedy HD (STZCHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Edge HD (STZEHD).us" xmltv_id="STARZ Edge HD (STZEHD).us">STARZ Edge HD (STZEHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="STARZ Edge (STZE).us" xmltv_id="STARZ Edge (STZE).us">STARZ Edge (STZE)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ in Black HD (STZBHD).us" xmltv_id="STARZ in Black HD (STZBHD).us">STARZ in Black HD (STZBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="STARZ in Black (STZB).us" xmltv_id="STARZ in Black (STZB).us">STARZ in Black (STZB)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Cinema HD (STZCIHD).us" xmltv_id="STARZ Cinema HD (STZCIHD).us">STARZ Cinema HD (STZCIHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Encore HD (SENCHD).us" xmltv_id="STARZ Encore HD (SENCHD).us">STARZ Encore HD (SENCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="STARZ Encore (SENC).us" xmltv_id="STARZ Encore (SENC).us">STARZ Encore (SENC)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Encore West (SENw).us" xmltv_id="STARZ Encore West (SENw).us">STARZ Encore West (SENw)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Encore Classic (SECL).us" xmltv_id="STARZ Encore Classic (SECL).us">STARZ Encore Classic (SECL)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Encore Westerns (SEWS).us" xmltv_id="STARZ Encore Westerns (SEWS).us">STARZ Encore Westerns (SEWS)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Encore Suspense (SESU).us" xmltv_id="STARZ Encore Suspense (SESU).us">STARZ Encore Suspense (SESU)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Encore Black (SEBK).us" xmltv_id="STARZ Encore Black (SEBK).us">STARZ Encore Black (SEBK)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Encore Action HD (SEACHD).us" xmltv_id="STARZ Encore Action HD (SEACHD).us">STARZ Encore Action HD (SEACHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="STARZ Encore Action (SEAC).us" xmltv_id="STARZ Encore Action (SEAC).us">STARZ Encore Action (SEAC)</channel>
     <channel update="i" site="merge-xmltv" site_id="STARZ Encore Family (SEFM).us" xmltv_id="STARZ Encore Family (SEFM).us">STARZ Encore Family (SEFM)</channel>
     <channel update="i" site="merge-xmltv" site_id="Showtime HD East (SHOeHD).us" xmltv_id="Showtime HD East (SHOeHD).us">Showtime HD East (SHOeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Showtime (E) (SHOe).us" xmltv_id="Showtime (E) (SHOe).us">Showtime (E) (SHOe)</channel>
     <channel update="i" site="merge-xmltv" site_id="Showtime HD West (SHOwHD).us" xmltv_id="Showtime HD West (SHOwHD).us">Showtime HD West (SHOwHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Showtime (W) (SHOw).us" xmltv_id="Showtime (W) (SHOw).us">Showtime (W) (SHOw)</channel>
     <channel update="i" site="merge-xmltv" site_id="SHOWTIME 2 HD (SHO2HD).us" xmltv_id="SHOWTIME 2 HD (SHO2HD).us">SHOWTIME 2 HD (SHO2HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SHOWTIME 2 (SHO2).us" xmltv_id="SHOWTIME 2 (SHO2).us">SHOWTIME 2 (SHO2)</channel>
     <channel update="i" site="merge-xmltv" site_id="Showtime Showcase HD (SHO3HD).us" xmltv_id="Showtime Showcase HD (SHO3HD).us">Showtime Showcase HD (SHO3HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Showtime Showcase (SHO3).us" xmltv_id="Showtime Showcase (SHO3).us">Showtime Showcase (SHO3)</channel>
     <channel update="i" site="merge-xmltv" site_id="Showtime Extreme HD (EXTRHD).us" xmltv_id="Showtime Extreme HD (EXTRHD).us">Showtime Extreme HD (EXTRHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Showtime Extreme (EXTR).us" xmltv_id="Showtime Extreme (EXTR).us">Showtime Extreme (EXTR)</channel>
     <channel update="i" site="merge-xmltv" site_id="Showtime Beyond HD (SHBYHD).us" xmltv_id="Showtime Beyond HD (SHBYHD).us">Showtime Beyond HD (SHBYHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Showtime Next HD (SHNXHD).us" xmltv_id="Showtime Next HD (SHNXHD).us">Showtime Next HD (SHNXHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Showtime Women HD (ShWmHD).us" xmltv_id="Showtime Women HD (ShWmHD).us">Showtime Women HD (ShWmHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="The Movie Channel East HD (TMCeHD).us" xmltv_id="The Movie Channel East HD (TMCeHD).us">The Movie Channel East HD (TMCeHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="The Movie Channel East (TMCe).us" xmltv_id="The Movie Channel East (TMCe).us">The Movie Channel East (TMCe)</channel>
     <channel update="i" site="merge-xmltv" site_id="The Movie Channel West (TMCw).us" xmltv_id="The Movie Channel West (TMCw).us">The Movie Channel West (TMCw)</channel>
     <channel update="i" site="merge-xmltv" site_id="The Movie Channel Xtra HD (TMCXHD).us" xmltv_id="The Movie Channel Xtra HD (TMCXHD).us">The Movie Channel Xtra HD (TMCXHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Flix (FLIX).us" xmltv_id="Flix (FLIX).us">Flix (FLIX)</channel>
     <channel update="i" site="merge-xmltv" site_id="SundanceTV HD (SUNDHD).us" xmltv_id="SundanceTV HD (SUNDHD).us">SundanceTV HD (SUNDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SundanceTV (SUND).us" xmltv_id="SundanceTV (SUND).us">SundanceTV (SUND)</channel>
     <channel update="i" site="merge-xmltv" site_id="EPIX HD (EPIX).us" xmltv_id="EPIX HD (EPIX).us">EPIX HD (EPIX)</channel>
     <channel update="i" site="merge-xmltv" site_id="EPIX 2 HD (EPIX2).us" xmltv_id="EPIX 2 HD (EPIX2).us">EPIX 2 HD (EPIX2)</channel>
     <channel update="i" site="merge-xmltv" site_id="EPIX Hits HD (EPIXHT).us" xmltv_id="EPIX Hits HD (EPIXHT).us">EPIX Hits HD (EPIXHT)</channel>
@@ -4471,7 +4250,6 @@
     <channel update="i" site="merge-xmltv" site_id="Adult PPV - Ch. 584 (PPV).us" xmltv_id="Adult PPV - Ch. 584 (PPV).us">Adult PPV - Ch. 584 (PPV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Vivid TV Monthly Offer (VIVID).us" xmltv_id="Vivid TV Monthly Offer (VIVID).us">Vivid TV Monthly Offer (VIVID)</channel>
     <channel update="i" site="merge-xmltv" site_id="Playboy en Espanol (PTVE).us" xmltv_id="Playboy en Espanol (PTVE).us">Playboy en Espanol (PTVE)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Playboy en Espanol (99R) (PTVE).us" xmltv_id="Playboy en Espanol (99R) (PTVE).us">Playboy en Espanol (99R) (PTVE)</channel>
     <channel update="i" site="merge-xmltv" site_id="Penthouse TV Monthly Offer (PENT).us" xmltv_id="Penthouse TV Monthly Offer (PENT).us">Penthouse TV Monthly Offer (PENT)</channel>
     <channel update="i" site="merge-xmltv" site_id="Hustler Monthly Offer (HUST).us" xmltv_id="Hustler Monthly Offer (HUST).us">Hustler Monthly Offer (HUST)</channel>
     <channel update="i" site="merge-xmltv" site_id="Playboy TV HD (589) (PBTVHD).us" xmltv_id="Playboy TV HD (589) (PBTVHD).us">Playboy TV HD (589) (PBTVHD)</channel>
@@ -4491,267 +4269,87 @@
     <channel update="i" site="merge-xmltv" site_id="Pursuit Channel (PRST).us" xmltv_id="Pursuit Channel (PRST).us">Pursuit Channel (PRST)</channel>
     <channel update="i" site="merge-xmltv" site_id="Sportsman Channel (SPMN).us" xmltv_id="Sportsman Channel (SPMN).us">Sportsman Channel (SPMN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Outdoor Channel HD (OUTHD).us" xmltv_id="Outdoor Channel HD (OUTHD).us">Outdoor Channel HD (OUTHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Outdoor Channel (OUT).us" xmltv_id="Outdoor Channel (OUT).us">Outdoor Channel (OUT)</channel>
     <channel update="i" site="merge-xmltv" site_id="FOX College Sports Alt. (FCS).us" xmltv_id="FOX College Sports Alt. (FCS).us">FOX College Sports Alt. (FCS)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FOX College Sports Alt 608-1 (FCS).us" xmltv_id="FOX College Sports Alt 608-1 (FCS).us">FOX College Sports Alt 608-1 (FCS)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FOX College Sports Alt 608-2 (FCS).us" xmltv_id="FOX College Sports Alt 608-2 (FCS).us">FOX College Sports Alt 608-2 (FCS)</channel>
     <channel update="i" site="merge-xmltv" site_id="BTN HD (BTNHD).us" xmltv_id="BTN HD (BTNHD).us">BTN HD (BTNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="BTN (BTN).us" xmltv_id="BTN (BTN).us">BTN (BTN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SEC Network Alternate HD (SECHDa).us" xmltv_id="SEC Network Alternate HD (SECHDa).us">SEC Network Alternate HD (SECHDa)</channel>
     <channel update="i" site="merge-xmltv" site_id="SEC Network HD (SECHD).us" xmltv_id="SEC Network HD (SECHD).us">SEC Network HD (SECHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SEC Network Alternate (SEC).us" xmltv_id="SEC Network Alternate (SEC).us">SEC Network Alternate (SEC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SEC Network (SEC).us" xmltv_id="SEC Network (SEC).us">SEC Network (SEC)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESPN Classic (ECL).us" xmltv_id="ESPN Classic (ECL).us">ESPN Classic (ECL)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESPN Bases Loaded (ESPNBL).us" xmltv_id="ESPN Bases Loaded (ESPNBL).us">ESPN Bases Loaded (ESPNBL)</channel>
     <channel update="i" site="merge-xmltv" site_id="FOX Sports 2 HD (FS2HD).us" xmltv_id="FOX Sports 2 HD (FS2HD).us">FOX Sports 2 HD (FS2HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FOX Sports 2 (FS2).us" xmltv_id="FOX Sports 2 (FS2).us">FOX Sports 2 (FS2)</channel>
     <channel update="i" site="merge-xmltv" site_id="FOX Soccer Plus 621-1 HD (FSPHD).us" xmltv_id="FOX Soccer Plus 621-1 HD (FSPHD).us">FOX Soccer Plus 621-1 HD (FSPHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FOX Soccer Plus (FSP).us" xmltv_id="FOX Soccer Plus (FSP).us">FOX Soccer Plus (FSP)</channel>
     <channel update="i" site="merge-xmltv" site_id="Eleven Sports Network HD (ELVN).us" xmltv_id="Eleven Sports Network HD (ELVN).us">Eleven Sports Network HD (ELVN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Olympic Channel HD (OLYCHD).us" xmltv_id="Olympic Channel HD (OLYCHD).us">Olympic Channel HD (OLYCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Olympic Channel (OLYC).us" xmltv_id="Olympic Channel (OLYC).us">Olympic Channel (OLYC)</channel>
     <channel update="i" site="merge-xmltv" site_id="NESN HD 628 (NESNHD).us" xmltv_id="NESN HD 628 (NESNHD).us">NESN HD 628 (NESNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NESN+ HD (Alternate) (NSN+HD).us" xmltv_id="NESN+ HD (Alternate) (NSN+HD).us">NESN+ HD (Alternate) (NSN+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NESN 628 (NESN).us" xmltv_id="NESN 628 (NESN).us">NESN 628 (NESN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NESN+ (Alternate) (NSN+).us" xmltv_id="NESN+ (Alternate) (NSN+).us">NESN+ (Alternate) (NSN+)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Boston Alternate HD (NSB+HD).us" xmltv_id="NBC Sports Boston Alternate HD (NSB+HD).us">NBC Sports Boston Alternate HD (NSB+HD)</channel>
     <channel update="i" site="merge-xmltv" site_id="NBC Sports Boston HD (NBSBHD).us" xmltv_id="NBC Sports Boston HD (NBSBHD).us">NBC Sports Boston HD (NBSBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Boston Alternate (NSB+).us" xmltv_id="NBC Sports Boston Alternate (NSB+).us">NBC Sports Boston Alternate (NSB+)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Boston (NBSB).us" xmltv_id="NBC Sports Boston (NBSB).us">NBC Sports Boston (NBSB)</channel>
-    <channel update="i" site="merge-xmltv" site_id="YES HD 631 (YESHD).us" xmltv_id="YES HD 631 (YESHD).us">YES HD 631 (YESHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="YES HD (Alternate) (YESaHD).us" xmltv_id="YES HD (Alternate) (YESaHD).us">YES HD (Alternate) (YESaHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Yankee Ent. &amp;amp; Sports (YES) 631 (YES).us" xmltv_id="Yankee Ent. &amp;amp; Sports (YES) 631 (YES).us">Yankee Ent. &amp;amp; Sports (YES) 631 (YES)</channel>
-    <channel update="i" site="merge-xmltv" site_id="YES (Alternate) (YESa).us" xmltv_id="YES (Alternate) (YESa).us">YES (Alternate) (YESa)</channel>
     <channel update="i" site="merge-xmltv" site_id="Madison Square Garden HD 634 (MSGHD).us" xmltv_id="Madison Square Garden HD 634 (MSGHD).us">Madison Square Garden HD 634 (MSGHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Madison Square Garden 634 (MSG).us" xmltv_id="Madison Square Garden 634 (MSG).us">Madison Square Garden 634 (MSG)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MSG/MSG+ Alternate 635-3 HD (MSGa3HD).us" xmltv_id="MSG/MSG+ Alternate 635-3 HD (MSGa3HD).us">MSG/MSG+ Alternate 635-3 HD (MSGa3HD)</channel>
     <channel update="i" site="merge-xmltv" site_id="MSG Plus HD 635 (MSG+HD).us" xmltv_id="MSG Plus HD 635 (MSG+HD).us">MSG Plus HD 635 (MSG+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MSG/MSG+ Alternate HD 635-1 (MSGa1HD).us" xmltv_id="MSG/MSG+ Alternate HD 635-1 (MSGa1HD).us">MSG/MSG+ Alternate HD 635-1 (MSGa1HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MSG/MSG+ Alternate 635-2 HD (MSGa2HD).us" xmltv_id="MSG/MSG+ Alternate 635-2 HD (MSGa2HD).us">MSG/MSG+ Alternate 635-2 HD (MSGa2HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MSG Plus 635 (MSG+).us" xmltv_id="MSG Plus 635 (MSG+).us">MSG Plus 635 (MSG+)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MSG/MSG+ Alternate 635-1 (MSGa1).us" xmltv_id="MSG/MSG+ Alternate 635-1 (MSGa1).us">MSG/MSG+ Alternate 635-1 (MSGa1)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MSG/MSG+ Alternate 635-2 (MSGa2).us" xmltv_id="MSG/MSG+ Alternate 635-2 (MSGa2).us">MSG/MSG+ Alternate 635-2 (MSGa2)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MSG/MSG+ Alternate 635-3 (MSGa3).us" xmltv_id="MSG/MSG+ Alternate 635-3 (MSGa3).us">MSG/MSG+ Alternate 635-3 (MSGa3)</channel>
     <channel update="i" site="merge-xmltv" site_id="SportsNet New York HD 639 (SNYHD).us" xmltv_id="SportsNet New York HD 639 (SNYHD).us">SportsNet New York HD 639 (SNYHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SportsNet New York 639 (SNY).us" xmltv_id="SportsNet New York 639 (SNY).us">SportsNet New York 639 (SNY)</channel>
     <channel update="i" site="merge-xmltv" site_id="MASN HD (MASNHD).us" xmltv_id="MASN HD (MASNHD).us">MASN HD (MASNHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Mid Atlantic Sports Net. HD Alt. (MASN2HD).us" xmltv_id="Mid Atlantic Sports Net. HD Alt. (MASN2HD).us">Mid Atlantic Sports Net. HD Alt. (MASN2HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MASN 640 (MASN).us" xmltv_id="MASN 640 (MASN).us">MASN 640 (MASN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Mid Atlantic Sports Network Alt. (MASN2).us" xmltv_id="Mid Atlantic Sports Network Alt. (MASN2).us">Mid Atlantic Sports Network Alt. (MASN2)</channel>
     <channel update="i" site="merge-xmltv" site_id="NBC Sports Washington HD (NSWAHD).us" xmltv_id="NBC Sports Washington HD (NSWAHD).us">NBC Sports Washington HD (NSWAHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Washington HD (Alternate) (NSW+HD).us" xmltv_id="NBC Sports Washington HD (Alternate) (NSW+HD).us">NBC Sports Washington HD (Alternate) (NSW+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Washington (NSWA).us" xmltv_id="NBC Sports Washington (NSWA).us">NBC Sports Washington (NSWA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Washington (Alternate) (NSW+).us" xmltv_id="NBC Sports Washington (Alternate) (NSW+).us">NBC Sports Washington (Alternate) (NSW+)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Tennessee HD (Alternate) (FSTNHD).us" xmltv_id="FS Tennessee HD (Alternate) (FSTNHD).us">FS Tennessee HD (Alternate) (FSTNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Carolinas HD (Alternate) (FSCRHD).us" xmltv_id="FS Carolinas HD (Alternate) (FSCRHD).us">FS Carolinas HD (Alternate) (FSCRHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN South HD (FSSOHD).us" xmltv_id="FSN South HD (FSSOHD).us">FSN South HD (FSSOHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS South Plus HD (Alternate) (FSSO+HD).us" xmltv_id="FS South Plus HD (Alternate) (FSSO+HD).us">FS South Plus HD (Alternate) (FSSO+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS South Alt. HD (Alternate) (FSSO2HD).us" xmltv_id="FS South Alt. HD (Alternate) (FSSO2HD).us">FS South Alt. HD (Alternate) (FSSO2HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Tennessee Alternate HD (FSTNHD).us" xmltv_id="FS Tennessee Alternate HD (FSTNHD).us">FS Tennessee Alternate HD (FSTNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Tennessee (Alternate) (FSTN).us" xmltv_id="FS Tennessee (Alternate) (FSTN).us">FS Tennessee (Alternate) (FSTN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Carolinas (Alternate) (FSCR).us" xmltv_id="FS Carolinas (Alternate) (FSCR).us">FS Carolinas (Alternate) (FSCR)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN South (FSSO).us" xmltv_id="FSN South (FSSO).us">FSN South (FSSO)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS South Plus (Alternate) (FSSO+).us" xmltv_id="FS South Plus (Alternate) (FSSO+).us">FS South Plus (Alternate) (FSSO+)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS South Alt. (Alternate) (FSSO2).us" xmltv_id="FS South Alt. (Alternate) (FSSO2).us">FS South Alt. (Alternate) (FSSO2)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Tennessee Alternate (FSTN).us" xmltv_id="FS Tennessee Alternate (FSTN).us">FS Tennessee Alternate (FSTN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fox Sports Southeast 3 HD (Alternate) (FSSE3HD).us" xmltv_id="Fox Sports Southeast 3 HD (Alternate) (FSSE3HD).us">Fox Sports Southeast 3 HD (Alternate) (FSSE3HD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Fox Sports Southeast HD (FSSEHD).us" xmltv_id="Fox Sports Southeast HD (FSSEHD).us">Fox Sports Southeast HD (FSSEHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fox Sports Southeast HD (Alternate) (FSSE+HD).us" xmltv_id="Fox Sports Southeast HD (Alternate) (FSSE+HD).us">Fox Sports Southeast HD (Alternate) (FSSE+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fox Sports Southeast 3 (Alternate) (FSSE3).us" xmltv_id="Fox Sports Southeast 3 (Alternate) (FSSE3).us">Fox Sports Southeast 3 (Alternate) (FSSE3)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fox Sports Southeast 2 (Alternate) (FSSE2).us" xmltv_id="Fox Sports Southeast 2 (Alternate) (FSSE2).us">Fox Sports Southeast 2 (Alternate) (FSSE2)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fox Sports Southeast 2 HD (Alternate) (FSSE2HD).us" xmltv_id="Fox Sports Southeast 2 HD (Alternate) (FSSE2HD).us">Fox Sports Southeast 2 HD (Alternate) (FSSE2HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fox Sports Southeast (FSSE).us" xmltv_id="Fox Sports Southeast (FSSE).us">Fox Sports Southeast (FSSE)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fox Sports Southeast (Alternate) (FSSE+).us" xmltv_id="Fox Sports Southeast (Alternate) (FSSE+).us">Fox Sports Southeast (Alternate) (FSSE+)</channel>
     <channel update="i" site="merge-xmltv" site_id="Fox Sports Sun HD (SUNHD).us" xmltv_id="Fox Sports Sun HD (SUNHD).us">Fox Sports Sun HD (SUNHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Fox Sports Sun  Plus HD (Alternate) (SUN+HD).us" xmltv_id="Fox Sports Sun  Plus HD (Alternate) (SUN+HD).us">Fox Sports Sun  Plus HD (Alternate) (SUN+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fox Sports Sun (SUN).us" xmltv_id="Fox Sports Sun (SUN).us">Fox Sports Sun (SUN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Fox Sports Sun Plus (Alternate) (SUN+).us" xmltv_id="Fox Sports Sun Plus (Alternate) (SUN+).us">Fox Sports Sun Plus (Alternate) (SUN+)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN Florida HD (FSFLHD).us" xmltv_id="FSN Florida HD (FSFLHD).us">FSN Florida HD (FSFLHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Florida HD (Alternate) (FSFL+HD).us" xmltv_id="FS Florida HD (Alternate) (FSFL+HD).us">FS Florida HD (Alternate) (FSFL+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Florida Plus HD (Alternate) (FSFL+HD).us" xmltv_id="FS Florida Plus HD (Alternate) (FSFL+HD).us">FS Florida Plus HD (Alternate) (FSFL+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Florida HD (Alternate 2) (FSFL+HD).us" xmltv_id="FS Florida HD (Alternate 2) (FSFL+HD).us">FS Florida HD (Alternate 2) (FSFL+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN Florida (FSFL).us" xmltv_id="FSN Florida (FSFL).us">FSN Florida (FSFL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Florida Plus (Alternate) (FSFL+).us" xmltv_id="FS Florida Plus (Alternate) (FSFL+).us">FS Florida Plus (Alternate) (FSFL+)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Florida (Alternate) (FSFL).us" xmltv_id="FS Florida (Alternate) (FSFL).us">FS Florida (Alternate) (FSFL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Florida (Alternate 2) (FSFL).us" xmltv_id="FS Florida (Alternate 2) (FSFL).us">FS Florida (Alternate 2) (FSFL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Pittsburgh HD (Alternate 2) (ATPTHDa).us" xmltv_id="AT&amp;amp;T SportsNet Pittsburgh HD (Alternate 2) (ATPTHDa).us">AT&amp;amp;T SportsNet Pittsburgh HD (Alternate 2) (ATPTHDa)</channel>
     <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Pittsburgh HD (ATPTHD).us" xmltv_id="AT&amp;amp;T SportsNet Pittsburgh HD (ATPTHD).us">AT&amp;amp;T SportsNet Pittsburgh HD (ATPTHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Pittsburgh (Alternate) (ATPTa).us" xmltv_id="AT&amp;amp;T SportsNet Pittsburgh (Alternate) (ATPTa).us">AT&amp;amp;T SportsNet Pittsburgh (Alternate) (ATPTa)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Pittsburgh HD (Alternate) (ATPTHDa).us" xmltv_id="AT&amp;amp;T SportsNet Pittsburgh HD (Alternate) (ATPTHDa).us">AT&amp;amp;T SportsNet Pittsburgh HD (Alternate) (ATPTHDa)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Pittsburgh (Alternate 2) (ATPTa).us" xmltv_id="AT&amp;amp;T SportsNet Pittsburgh (Alternate 2) (ATPTa).us">AT&amp;amp;T SportsNet Pittsburgh (Alternate 2) (ATPTa)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Pittsburgh (ATPT).us" xmltv_id="AT&amp;amp;T SportsNet Pittsburgh (ATPT).us">AT&amp;amp;T SportsNet Pittsburgh (ATPT)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN Ohio HD (FSOHHD).us" xmltv_id="FSN Ohio HD (FSOHHD).us">FSN Ohio HD (FSOHHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Ohio (Alternate) (FSOH).us" xmltv_id="FS Ohio (Alternate) (FSOH).us">FS Ohio (Alternate) (FSOH)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Ohio HD (Alternate) (FSOHD).us" xmltv_id="FS Ohio HD (Alternate) (FSOHD).us">FS Ohio HD (Alternate) (FSOHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN Ohio (FSOH).us" xmltv_id="FSN Ohio (FSOH).us">FSN Ohio (FSOH)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN Cincinnati HD (FSCINHD).us" xmltv_id="FSN Cincinnati HD (FSCINHD).us">FSN Cincinnati HD (FSCINHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Cincinnati (Alternate) (FSCIN).us" xmltv_id="FS Cincinnati (Alternate) (FSCIN).us">FS Cincinnati (Alternate) (FSCIN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Cincinnati HD (Alternate) (FSCINHD).us" xmltv_id="FS Cincinnati HD (Alternate) (FSCINHD).us">FS Cincinnati HD (Alternate) (FSCINHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN Cincinnati (FSCIN).us" xmltv_id="FSN Cincinnati (FSCIN).us">FSN Cincinnati (FSCIN)</channel>
     <channel update="i" site="merge-xmltv" site_id="SportsTime Ohio HD (STOHD).us" xmltv_id="SportsTime Ohio HD (STOHD).us">SportsTime Ohio HD (STOHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SportsTime Ohio 662 (STO).us" xmltv_id="SportsTime Ohio 662 (STO).us">SportsTime Ohio 662 (STO)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN Detroit HD (FSDETHD).us" xmltv_id="FSN Detroit HD (FSDETHD).us">FSN Detroit HD (FSDETHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Detroit Plus HD (Alternate) (FSDT+HD).us" xmltv_id="FS Detroit Plus HD (Alternate) (FSDT+HD).us">FS Detroit Plus HD (Alternate) (FSDT+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN Detroit (FSDET).us" xmltv_id="FSN Detroit (FSDET).us">FSN Detroit (FSDET)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Detroit Plus (Alternate) (FSDT+).us" xmltv_id="FS Detroit Plus (Alternate) (FSDT+).us">FS Detroit Plus (Alternate) (FSDT+)</channel>
     <channel update="i" site="merge-xmltv" site_id="NBC Sports Chicago Plus 2 HD (NC+2HD).us" xmltv_id="NBC Sports Chicago Plus 2 HD (NC+2HD).us">NBC Sports Chicago Plus 2 HD (NC+2HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Chicago HD (NSCHHD).us" xmltv_id="NBC Sports Chicago HD (NSCHHD).us">NBC Sports Chicago HD (NSCHHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Chicago Plus HD (NCH+HD).us" xmltv_id="NBC Sports Chicago Plus HD (NCH+HD).us">NBC Sports Chicago Plus HD (NCH+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Chicago (NSCH).us" xmltv_id="NBC Sports Chicago (NSCH).us">NBC Sports Chicago (NSCH)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Chicago Plus (NCH+).us" xmltv_id="NBC Sports Chicago Plus (NCH+).us">NBC Sports Chicago Plus (NCH+)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Chicago Plus 2 (NC+2).us" xmltv_id="NBC Sports Chicago Plus 2 (NC+2).us">NBC Sports Chicago Plus 2 (NC+2)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN North HD (FSNORHD).us" xmltv_id="FSN North HD (FSNORHD).us">FSN North HD (FSNORHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS North (Alternate) (FSNOR).us" xmltv_id="FS North (Alternate) (FSNOR).us">FS North (Alternate) (FSNOR)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS North HD (Alternate) (FSNORHD).us" xmltv_id="FS North HD (Alternate) (FSNORHD).us">FS North HD (Alternate) (FSNORHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN North (FSNOR).us" xmltv_id="FSN North (FSNOR).us">FSN North (FSNOR)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN Wisconsin HD (FSWISHD).us" xmltv_id="FSN Wisconsin HD (FSWISHD).us">FSN Wisconsin HD (FSWISHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Wisconsin Alternate (FSWIS).us" xmltv_id="FS Wisconsin Alternate (FSWIS).us">FS Wisconsin Alternate (FSWIS)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Wisconsin HD Alternate (FSWISHD).us" xmltv_id="FS Wisconsin HD Alternate (FSWISHD).us">FS Wisconsin HD Alternate (FSWISHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN Wisconsin (FSWIS).us" xmltv_id="FSN Wisconsin (FSWIS).us">FSN Wisconsin (FSWIS)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN Midwest HD (FSMWHD).us" xmltv_id="FSN Midwest HD (FSMWHD).us">FSN Midwest HD (FSMWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Kansas City HD (Alternate) (FSKCHD).us" xmltv_id="FS Kansas City HD (Alternate) (FSKCHD).us">FS Kansas City HD (Alternate) (FSKCHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Indiana HD (Alternate) (FSINDHD).us" xmltv_id="FS Indiana HD (Alternate) (FSINDHD).us">FS Indiana HD (Alternate) (FSINDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Midwest Plus (Alternate) (FSMW).us" xmltv_id="FS Midwest Plus (Alternate) (FSMW).us">FS Midwest Plus (Alternate) (FSMW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Midwest Plus HD (Alternate) (FSMWHD).us" xmltv_id="FS Midwest Plus HD (Alternate) (FSMWHD).us">FS Midwest Plus HD (Alternate) (FSMWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Midwest (Alternate) (FSMW).us" xmltv_id="FS Midwest (Alternate) (FSMW).us">FS Midwest (Alternate) (FSMW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Midwest HD (Alternate) (FSMWHD).us" xmltv_id="FS Midwest HD (Alternate) (FSMWHD).us">FS Midwest HD (Alternate) (FSMWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Midwest Alt. 2 (Alternate) (FSMW).us" xmltv_id="FS Midwest Alt. 2 (Alternate) (FSMW).us">FS Midwest Alt. 2 (Alternate) (FSMW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Midwest Alt. 2 HD (Alternate) (FSMWHD).us" xmltv_id="FS Midwest Alt. 2 HD (Alternate) (FSMWHD).us">FS Midwest Alt. 2 HD (Alternate) (FSMWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN Midwest (FSMW).us" xmltv_id="FSN Midwest (FSMW).us">FSN Midwest (FSMW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Kansas City (Alternate) (FSKC).us" xmltv_id="FS Kansas City (Alternate) (FSKC).us">FS Kansas City (Alternate) (FSKC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Indiana (Alternate) (FSIND).us" xmltv_id="FS Indiana (Alternate) (FSIND).us">FS Indiana (Alternate) (FSIND)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Southwest HD (Alternate) (ATSWHDa).us" xmltv_id="AT&amp;amp;T SportsNet Southwest HD (Alternate) (ATSWHDa).us">AT&amp;amp;T SportsNet Southwest HD (Alternate) (ATSWHDa)</channel>
     <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Southwest HD (ATSWHD).us" xmltv_id="AT&amp;amp;T SportsNet Southwest HD (ATSWHD).us">AT&amp;amp;T SportsNet Southwest HD (ATSWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Southwest (Alternate) (ATSWa).us" xmltv_id="AT&amp;amp;T SportsNet Southwest (Alternate) (ATSWa).us">AT&amp;amp;T SportsNet Southwest (Alternate) (ATSWa)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Southwest (ATSW).us" xmltv_id="AT&amp;amp;T SportsNet Southwest (ATSW).us">AT&amp;amp;T SportsNet Southwest (ATSW)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN Oklahoma HD (FSOKHD).us" xmltv_id="FSN Oklahoma HD (FSOKHD).us">FSN Oklahoma HD (FSOKHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN Oklahoma (FSOK).us" xmltv_id="FSN Oklahoma (FSOK).us">FSN Oklahoma (FSOK)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Southwest (Alternate) 3 HD (FSSW3HD).us" xmltv_id="FS Southwest (Alternate) 3 HD (FSSW3HD).us">FS Southwest (Alternate) 3 HD (FSSW3HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Southwest (Alternate) 4 HD (FSSW4HD).us" xmltv_id="FS Southwest (Alternate) 4 HD (FSSW4HD).us">FS Southwest (Alternate) 4 HD (FSSW4HD)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN Southwest HD (FSSWHD).us" xmltv_id="FSN Southwest HD (FSSWHD).us">FSN Southwest HD (FSSWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Southwest Plus HD (Alternate) (FSSW+HD).us" xmltv_id="FS Southwest Plus HD (Alternate) (FSSW+HD).us">FS Southwest Plus HD (Alternate) (FSSW+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS New Orleans HD (Alternate) (FSNOHD).us" xmltv_id="FS New Orleans HD (Alternate) (FSNOHD).us">FS New Orleans HD (Alternate) (FSNOHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Southwest (Alternate) 3 (FSSW3).us" xmltv_id="FS Southwest (Alternate) 3 (FSSW3).us">FS Southwest (Alternate) 3 (FSSW3)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Southwest (Alternate) 4 (FSSW4).us" xmltv_id="FS Southwest (Alternate) 4 (FSSW4).us">FS Southwest (Alternate) 4 (FSSW4)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Southwest (Alternate) (FSSW).us" xmltv_id="FS Southwest (Alternate) (FSSW).us">FS Southwest (Alternate) (FSSW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Southwest HD (Alternate) (FSSWHD).us" xmltv_id="FS Southwest HD (Alternate) (FSSWHD).us">FS Southwest HD (Alternate) (FSSWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Southwest Alt. 2 (Alternate) (FSSW).us" xmltv_id="FS Southwest Alt. 2 (Alternate) (FSSW).us">FS Southwest Alt. 2 (Alternate) (FSSW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Southwest 2 HD (Alternate) (FSSWHD).us" xmltv_id="FS Southwest 2 HD (Alternate) (FSSWHD).us">FS Southwest 2 HD (Alternate) (FSSWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN Southwest (FSSW).us" xmltv_id="FSN Southwest (FSSW).us">FSN Southwest (FSSW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Southwest Plus (Alternate) (FSSW+).us" xmltv_id="FS Southwest Plus (Alternate) (FSSW+).us">FS Southwest Plus (Alternate) (FSSW+)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS New Orleans (Alternate) (FSNO).us" xmltv_id="FS New Orleans (Alternate) (FSNO).us">FS New Orleans (Alternate) (FSNO)</channel>
     <channel update="i" site="merge-xmltv" site_id="Longhorn Network HD (LHNHD).us" xmltv_id="Longhorn Network HD (LHNHD).us">Longhorn Network HD (LHNHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Altitude Sports HD (ALTHD).us" xmltv_id="Altitude Sports HD (ALTHD).us">Altitude Sports HD (ALTHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Altitude Sports HD (Alternate) (ALTaHD).us" xmltv_id="Altitude Sports HD (Alternate) (ALTaHD).us">Altitude Sports HD (Alternate) (ALTaHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Altitude Sports (ALT).us" xmltv_id="Altitude Sports (ALT).us">Altitude Sports (ALT)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Altitude Sports (Alternate) (ALTa).us" xmltv_id="Altitude Sports (Alternate) (ALTa).us">Altitude Sports (Alternate) (ALTa)</channel>
     <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Rocky Mountain HD (ATRMHD).us" xmltv_id="AT&amp;amp;T SportsNet Rocky Mountain HD (ATRMHD).us">AT&amp;amp;T SportsNet Rocky Mountain HD (ATRMHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Rocky Mountain Plus HD (Alternate) (ATRMHDa).us" xmltv_id="AT&amp;amp;T SportsNet Rocky Mountain Plus HD (Alternate) (ATRMHDa).us">AT&amp;amp;T SportsNet Rocky Mountain Plus HD (Alternate) (ATRMHDa)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Rocky Mountain (ATRM).us" xmltv_id="AT&amp;amp;T SportsNet Rocky Mountain (ATRM).us">AT&amp;amp;T SportsNet Rocky Mountain (ATRM)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Rocky Mountain Plus (Alternate) (ATRMa).us" xmltv_id="AT&amp;amp;T SportsNet Rocky Mountain Plus (Alternate) (ATRMa).us">AT&amp;amp;T SportsNet Rocky Mountain Plus (Alternate) (ATRMa)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Rocky Mountain West HD (ATRWHD).us" xmltv_id="AT&amp;amp;T SportsNet Rocky Mountain West HD (ATRWHD).us">AT&amp;amp;T SportsNet Rocky Mountain West HD (ATRWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="AT&amp;amp;T SportsNet Rocky Mountain West SD (ATRW).us" xmltv_id="AT&amp;amp;T SportsNet Rocky Mountain West SD (ATRW).us">AT&amp;amp;T SportsNet Rocky Mountain West SD (ATRW)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN Arizona HD (FSAZHD).us" xmltv_id="FSN Arizona HD (FSAZHD).us">FSN Arizona HD (FSAZHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Arizona Plus (FSAZa).us" xmltv_id="FS Arizona Plus (FSAZa).us">FS Arizona Plus (FSAZa)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Arizona Plus HD (FSAZaHD).us" xmltv_id="FS Arizona Plus HD (FSAZaHD).us">FS Arizona Plus HD (FSAZaHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN Arizona (FSAZ).us" xmltv_id="FSN Arizona (FSAZ).us">FSN Arizona (FSAZ)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Arizona (Alternate) (FSAZa).us" xmltv_id="FS Arizona (Alternate) (FSAZa).us">FS Arizona (Alternate) (FSAZa)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS Arizona HD (Alternate) (FSAZHD).us" xmltv_id="FS Arizona HD (Alternate) (FSAZHD).us">FS Arizona HD (Alternate) (FSAZHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="ROOT SPORTS Northwest HD (RTNWHD).us" xmltv_id="ROOT SPORTS Northwest HD (RTNWHD).us">ROOT SPORTS Northwest HD (RTNWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ROOT SPORTS Northwest (RTNW).us" xmltv_id="ROOT SPORTS Northwest (RTNW).us">ROOT SPORTS Northwest (RTNW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ROOT SPORTS Northwest Plus (RTNW+).us" xmltv_id="ROOT SPORTS Northwest Plus (RTNW+).us">ROOT SPORTS Northwest Plus (RTNW+)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ROOT SPORTS Northwest Plus HD (RTNW+HD).us" xmltv_id="ROOT SPORTS Northwest Plus HD (RTNW+HD).us">ROOT SPORTS Northwest Plus HD (RTNW+HD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Spectrum SportsNet HD (SPSNHD).us" xmltv_id="Spectrum SportsNet HD (SPSNHD).us">Spectrum SportsNet HD (SPSNHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Spectrum SportsNet HD (Alternate) (SPSNHDa).us" xmltv_id="Spectrum SportsNet HD (Alternate) (SPSNHDa).us">Spectrum SportsNet HD (Alternate) (SPSNHDa)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Spectrum SportsNet (SPCSN).us" xmltv_id="Spectrum SportsNet (SPCSN).us">Spectrum SportsNet (SPCSN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Spectrum SportsNet (Alternate) (SPSNa).us" xmltv_id="Spectrum SportsNet (Alternate) (SPSNa).us">Spectrum SportsNet (Alternate) (SPSNa)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN West HD (FSWHD).us" xmltv_id="FSN West HD (FSWHD).us">FSN West HD (FSWHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN West HD Alternate 692-1 (FSWHDa).us" xmltv_id="FSN West HD Alternate 692-1 (FSWHDa).us">FSN West HD Alternate 692-1 (FSWHDa)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN West (FSW).us" xmltv_id="FSN West (FSW).us">FSN West (FSW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN West Alternate 692-1 (FSWa).us" xmltv_id="FSN West Alternate 692-1 (FSWa).us">FSN West Alternate 692-1 (FSWa)</channel>
     <channel update="i" site="merge-xmltv" site_id="Prime Ticket HD 693 (PTHD).us" xmltv_id="Prime Ticket HD 693 (PTHD).us">Prime Ticket HD 693 (PTHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Prime Ticket (Alternate) (PTa).us" xmltv_id="Prime Ticket (Alternate) (PTa).us">Prime Ticket (Alternate) (PTa)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Prime Ticket HD (Alternate) (PTaHD).us" xmltv_id="Prime Ticket HD (Alternate) (PTaHD).us">Prime Ticket HD (Alternate) (PTaHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Prime Ticket 693 (PT).us" xmltv_id="Prime Ticket 693 (PT).us">Prime Ticket 693 (PT)</channel>
     <channel update="i" site="merge-xmltv" site_id="FSN San Diego HD (FSSDHD).us" xmltv_id="FSN San Diego HD (FSSDHD).us">FSN San Diego HD (FSSDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS San Diego Alt. (Alternate) (FSSD).us" xmltv_id="FS San Diego Alt. (Alternate) (FSSD).us">FS San Diego Alt. (Alternate) (FSSD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FS San Diego Alt. HD (Alternate) (FSSDHD).us" xmltv_id="FS San Diego Alt. HD (Alternate) (FSSDHD).us">FS San Diego Alt. HD (Alternate) (FSSDHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="FSN San Diego (FSSD).us" xmltv_id="FSN San Diego (FSSD).us">FSN San Diego (FSSD)</channel>
     <channel update="i" site="merge-xmltv" site_id="NBC Sports Bay Area HD (NSBAHD).us" xmltv_id="NBC Sports Bay Area HD (NSBAHD).us">NBC Sports Bay Area HD (NSBAHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Bay Area Plus HD (Alternate) (NSBa+HD).us" xmltv_id="NBC Sports Bay Area Plus HD (Alternate) (NSBa+HD).us">NBC Sports Bay Area Plus HD (Alternate) (NSBa+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Bay Area Plus HD (Alternate 2) (NSBA+2HD).us" xmltv_id="NBC Sports Bay Area Plus HD (Alternate 2) (NSBA+2HD).us">NBC Sports Bay Area Plus HD (Alternate 2) (NSBA+2HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Bay Area (NSBA).us" xmltv_id="NBC Sports Bay Area (NSBA).us">NBC Sports Bay Area (NSBA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Bay Area Plus (Alternate) (NSBa+).us" xmltv_id="NBC Sports Bay Area Plus (Alternate) (NSBa+).us">NBC Sports Bay Area Plus (Alternate) (NSBa+)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports Bay Area Plus (Alternate 2) (NSBA+2).us" xmltv_id="NBC Sports Bay Area Plus (Alternate 2) (NSBA+2).us">NBC Sports Bay Area Plus (Alternate 2) (NSBA+2)</channel>
     <channel update="i" site="merge-xmltv" site_id="NBC Sports California HD (NSCAHD).us" xmltv_id="NBC Sports California HD (NSCAHD).us">NBC Sports California HD (NSCAHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports California HD (Alternate) (NSCA+HD).us" xmltv_id="NBC Sports California HD (Alternate) (NSCA+HD).us">NBC Sports California HD (Alternate) (NSCA+HD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports California (NSCA).us" xmltv_id="NBC Sports California (NSCA).us">NBC Sports California (NSCA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NBC Sports California  (Alternate) (NSCA+).us" xmltv_id="NBC Sports California  (Alternate) (NSCA+).us">NBC Sports California  (Alternate) (NSCA+)</channel>
     <channel update="i" site="merge-xmltv" site_id="Northern Trust Mix Channel (PGAX).us" xmltv_id="Northern Trust Mix Channel (PGAX).us">Northern Trust Mix Channel (PGAX)</channel>
     <channel update="i" site="merge-xmltv" site_id="Network Simulcast (PGA).us" xmltv_id="Network Simulcast (PGA).us">Network Simulcast (PGA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Featured Groups (PGA).us" xmltv_id="Featured Groups (PGA).us">Featured Groups (PGA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Launch Pad Channel (PGA).us" xmltv_id="Launch Pad Channel (PGA).us">Launch Pad Channel (PGA)</channel>
     <channel update="i" site="merge-xmltv" site_id="SHOTLInk Channel (PGA).us" xmltv_id="SHOTLInk Channel (PGA).us">SHOTLInk Channel (PGA)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Strike Zone 719 HD (MLBHD).us" xmltv_id="MLB Strike Zone 719 HD (MLBHD).us">MLB Strike Zone 719 HD (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings Mix HD 720 (MLBXHD).us" xmltv_id="MLB Extra Innings Mix HD 720 (MLBXHD).us">MLB Extra Innings Mix HD 720 (MLBXHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 721 (MLBHD).us" xmltv_id="MLB Extra Innings HD 721 (MLBHD).us">MLB Extra Innings HD 721 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 721 (MLB).us" xmltv_id="MLB Extra Innings 721 (MLB).us">MLB Extra Innings 721 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 722 (MLBHD).us" xmltv_id="MLB Extra Innings HD 722 (MLBHD).us">MLB Extra Innings HD 722 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 722 (MLB).us" xmltv_id="MLB Extra Innings 722 (MLB).us">MLB Extra Innings 722 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 723 (MLBHD).us" xmltv_id="MLB Extra Innings HD 723 (MLBHD).us">MLB Extra Innings HD 723 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 723 (MLB).us" xmltv_id="MLB Extra Innings 723 (MLB).us">MLB Extra Innings 723 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 724 (MLBHD).us" xmltv_id="MLB Extra Innings HD 724 (MLBHD).us">MLB Extra Innings HD 724 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 724 (MLB).us" xmltv_id="MLB Extra Innings 724 (MLB).us">MLB Extra Innings 724 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 725 (MLBHD).us" xmltv_id="MLB Extra Innings HD 725 (MLBHD).us">MLB Extra Innings HD 725 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 725 (MLB).us" xmltv_id="MLB Extra Innings 725 (MLB).us">MLB Extra Innings 725 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 726 (MLBHD).us" xmltv_id="MLB Extra Innings HD 726 (MLBHD).us">MLB Extra Innings HD 726 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 726 (MLB).us" xmltv_id="MLB Extra Innings 726 (MLB).us">MLB Extra Innings 726 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 727 (MLBHD).us" xmltv_id="MLB Extra Innings HD 727 (MLBHD).us">MLB Extra Innings HD 727 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 727 (MLB).us" xmltv_id="MLB Extra Innings 727 (MLB).us">MLB Extra Innings 727 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 728 (MLBHD).us" xmltv_id="MLB Extra Innings HD 728 (MLBHD).us">MLB Extra Innings HD 728 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 728 (MLB).us" xmltv_id="MLB Extra Innings 728 (MLB).us">MLB Extra Innings 728 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 729 (MLBHD).us" xmltv_id="MLB Extra Innings HD 729 (MLBHD).us">MLB Extra Innings HD 729 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 729 (MLB).us" xmltv_id="MLB Extra Innings 729 (MLB).us">MLB Extra Innings 729 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 730 (MLBHD).us" xmltv_id="MLB Extra Innings HD 730 (MLBHD).us">MLB Extra Innings HD 730 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 730 (MLB).us" xmltv_id="MLB Extra Innings 730 (MLB).us">MLB Extra Innings 730 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 731 (MLBHD).us" xmltv_id="MLB Extra Innings HD 731 (MLBHD).us">MLB Extra Innings HD 731 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 731 (MLB).us" xmltv_id="MLB Extra Innings 731 (MLB).us">MLB Extra Innings 731 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 732 (MLBHD).us" xmltv_id="MLB Extra Innings HD 732 (MLBHD).us">MLB Extra Innings HD 732 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 732 (MLB).us" xmltv_id="MLB Extra Innings 732 (MLB).us">MLB Extra Innings 732 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 733 (MLBHD).us" xmltv_id="MLB Extra Innings HD 733 (MLBHD).us">MLB Extra Innings HD 733 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 733 (MLB).us" xmltv_id="MLB Extra Innings 733 (MLB).us">MLB Extra Innings 733 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 734 (MLBHD).us" xmltv_id="MLB Extra Innings HD 734 (MLBHD).us">MLB Extra Innings HD 734 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 734 (MLB).us" xmltv_id="MLB Extra Innings 734 (MLB).us">MLB Extra Innings 734 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 735 (MLBHD).us" xmltv_id="MLB Extra Innings HD 735 (MLBHD).us">MLB Extra Innings HD 735 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 735 (MLB).us" xmltv_id="MLB Extra Innings 735 (MLB).us">MLB Extra Innings 735 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 736 (MLBHD).us" xmltv_id="MLB Extra Innings HD 736 (MLBHD).us">MLB Extra Innings HD 736 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 736 (MLB).us" xmltv_id="MLB Extra Innings 736 (MLB).us">MLB Extra Innings 736 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 737 (MLBHD).us" xmltv_id="MLB Extra Innings HD 737 (MLBHD).us">MLB Extra Innings HD 737 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 737 (MLB).us" xmltv_id="MLB Extra Innings 737 (MLB).us">MLB Extra Innings 737 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 738 (MLBHD).us" xmltv_id="MLB Extra Innings HD 738 (MLBHD).us">MLB Extra Innings HD 738 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 738 (MLB).us" xmltv_id="MLB Extra Innings 738 (MLB).us">MLB Extra Innings 738 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 739 (MLBHD).us" xmltv_id="MLB Extra Innings HD 739 (MLBHD).us">MLB Extra Innings HD 739 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 739 (MLB).us" xmltv_id="MLB Extra Innings 739 (MLB).us">MLB Extra Innings 739 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 740 (MLBHD).us" xmltv_id="MLB Extra Innings HD 740 (MLBHD).us">MLB Extra Innings HD 740 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 740 (MLB).us" xmltv_id="MLB Extra Innings 740 (MLB).us">MLB Extra Innings 740 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 741 (MLBHD).us" xmltv_id="MLB Extra Innings HD 741 (MLBHD).us">MLB Extra Innings HD 741 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 741 (MLB).us" xmltv_id="MLB Extra Innings 741 (MLB).us">MLB Extra Innings 741 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 742 (MLBHD).us" xmltv_id="MLB Extra Innings HD 742 (MLBHD).us">MLB Extra Innings HD 742 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 742 (MLB).us" xmltv_id="MLB Extra Innings 742 (MLB).us">MLB Extra Innings 742 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 743 (MLBHD).us" xmltv_id="MLB Extra Innings HD 743 (MLBHD).us">MLB Extra Innings HD 743 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 743 (MLB).us" xmltv_id="MLB Extra Innings 743 (MLB).us">MLB Extra Innings 743 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 744 (MLBHD).us" xmltv_id="MLB Extra Innings HD 744 (MLBHD).us">MLB Extra Innings HD 744 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 744 (MLB).us" xmltv_id="MLB Extra Innings 744 (MLB).us">MLB Extra Innings 744 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 745 (MLBHD).us" xmltv_id="MLB Extra Innings HD 745 (MLBHD).us">MLB Extra Innings HD 745 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 745 (MLB).us" xmltv_id="MLB Extra Innings 745 (MLB).us">MLB Extra Innings 745 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 746 (MLBHD).us" xmltv_id="MLB Extra Innings HD 746 (MLBHD).us">MLB Extra Innings HD 746 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 746 (MLB).us" xmltv_id="MLB Extra Innings 746 (MLB).us">MLB Extra Innings 746 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 747 (MLBHD).us" xmltv_id="MLB Extra Innings HD 747 (MLBHD).us">MLB Extra Innings HD 747 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 747 (MLB).us" xmltv_id="MLB Extra Innings 747 (MLB).us">MLB Extra Innings 747 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 748 (MLBHD).us" xmltv_id="MLB Extra Innings HD 748 (MLBHD).us">MLB Extra Innings HD 748 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings 748 (MLB).us" xmltv_id="MLB Extra Innings 748 (MLB).us">MLB Extra Innings 748 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings HD 749 (MLBHD).us" xmltv_id="MLB Extra Innings HD 749 (MLBHD).us">MLB Extra Innings HD 749 (MLBHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MLB Extra Innings  749 (MLB).us" xmltv_id="MLB Extra Innings  749 (MLB).us">MLB Extra Innings  749 (MLB)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESPN Collage Extra 788 HD (ECEHD).us" xmltv_id="ESPN Collage Extra 788 HD (ECEHD).us">ESPN Collage Extra 788 HD (ECEHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESPN College Extra 789 HD (ECEHD).us" xmltv_id="ESPN College Extra 789 HD (ECEHD).us">ESPN College Extra 789 HD (ECEHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="ESPN College Extra 790 HD (ECEHD).us" xmltv_id="ESPN College Extra 790 HD (ECEHD).us">ESPN College Extra 790 HD (ECEHD)</channel>
@@ -4820,49 +4418,38 @@
     <channel update="i" site="merge-xmltv" site_id="Music Choice Jazz Vocal Hits (MCJH).us" xmltv_id="Music Choice Jazz Vocal Hits (MCJH).us">Music Choice Jazz Vocal Hits (MCJH)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Smooth Jazz (MCSJ).us" xmltv_id="Music Choice Smooth Jazz (MCSJ).us">Music Choice Smooth Jazz (MCSJ)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Jazz (MCJZ).us" xmltv_id="Music Choice Jazz (MCJZ).us">Music Choice Jazz (MCJZ)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Music Choice Jazz (99R) (MCJZ).us" xmltv_id="Music Choice Jazz (99R) (MCJZ).us">Music Choice Jazz (99R) (MCJZ)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Easy Listening (MCEL).us" xmltv_id="Music Choice Easy Listening (MCEL).us">Music Choice Easy Listening (MCEL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Easy Listening (99R) (MCEL).us" xmltv_id="Music Choice Easy Listening (99R) (MCEL).us">Music Choice Easy Listening (99R) (MCEL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Blues (MCBL).us" xmltv_id="Music Choice Blues (MCBL).us">Music Choice Blues (MCBL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Jazz Vocal Standards (MCJV).us" xmltv_id="Music Choice Jazz Vocal Standards (MCJV).us">Music Choice Jazz Vocal Standards (MCJV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Music Choice Jazz Vocal Standards (99R) (MCJV).us" xmltv_id="Music Choice Jazz Vocal Standards (99R) (MCJV).us">Music Choice Jazz Vocal Standards (99R) (MCJV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice New Age (MCNA).us" xmltv_id="Music Choice New Age (MCNA).us">Music Choice New Age (MCNA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Soundscapes (MCSO).us" xmltv_id="Music Choice Soundscapes (MCSO).us">Music Choice Soundscapes (MCSO)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Classic Christmas (MCXM).us" xmltv_id="Music Choice Classic Christmas (MCXM).us">Music Choice Classic Christmas (MCXM)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Dance/EDM (MCDE).us" xmltv_id="Music Choice Dance/EDM (MCDE).us">Music Choice Dance/EDM (MCDE)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Workout (MCWO).us" xmltv_id="Music Choice Workout (MCWO).us">Music Choice Workout (MCWO)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice K-Pop (MCKP).us" xmltv_id="Music Choice K-Pop (MCKP).us">Music Choice K-Pop (MCKP)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Music Choice K-Pop (99R) (MCKP).us" xmltv_id="Music Choice K-Pop (99R) (MCKP).us">Music Choice K-Pop (99R) (MCKP)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Retro Workout (MCRW).us" xmltv_id="Music Choice Retro Workout (MCRW).us">Music Choice Retro Workout (MCRW)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Reggae (MCRG).us" xmltv_id="Music Choice Reggae (MCRG).us">Music Choice Reggae (MCRG)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Symphony (MCSY).us" xmltv_id="Music Choice Symphony (MCSY).us">Music Choice Symphony (MCSY)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Music Choice Classical Masterpieces (99R) (MCCM).us" xmltv_id="Music Choice Classical Masterpieces (99R) (MCCM).us">Music Choice Classical Masterpieces (99R) (MCCM)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Classical Masterpieces (MCCM).us" xmltv_id="Music Choice Classical Masterpieces (MCCM).us">Music Choice Classical Masterpieces (MCCM)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Light Classical (MCLC).us" xmltv_id="Music Choice Light Classical (MCLC).us">Music Choice Light Classical (MCLC)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Teen Beats (MCTB).us" xmltv_id="Music Choice Teen Beats (MCTB).us">Music Choice Teen Beats (MCTB)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Kidz Only! (MCKO).us" xmltv_id="Music Choice Kidz Only! (MCKO).us">Music Choice Kidz Only! (MCKO)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Toddler Tunes (MCTT).us" xmltv_id="Music Choice Toddler Tunes (MCTT).us">Music Choice Toddler Tunes (MCTT)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Music Choice Romances (99R) (MCRM).us" xmltv_id="Music Choice Romances (99R) (MCRM).us">Music Choice Romances (99R) (MCRM)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Romances (MCRM).us" xmltv_id="Music Choice Romances (MCRM).us">Music Choice Romances (MCRM)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Pop Latino (MCPL).us" xmltv_id="Music Choice Pop Latino (MCPL).us">Music Choice Pop Latino (MCPL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Tropicales (MCTR).us" xmltv_id="Music Choice Tropicales (MCTR).us">Music Choice Tropicales (MCTR)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Musica Urbana (MCMU).us" xmltv_id="Music Choice Musica Urbana (MCMU).us">Music Choice Musica Urbana (MCMU)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Mexicana (99R) (MCMX).us" xmltv_id="Music Choice Mexicana (99R) (MCMX).us">Music Choice Mexicana (99R) (MCMX)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Mexicana (MCMX).us" xmltv_id="Music Choice Mexicana (MCMX).us">Music Choice Mexicana (MCMX)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Music Choice Brazilian Pop (99R) (MCBP).us" xmltv_id="Music Choice Brazilian Pop (99R) (MCBP).us">Music Choice Brazilian Pop (99R) (MCBP)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Brazilian Pop (MCBP).us" xmltv_id="Music Choice Brazilian Pop (MCBP).us">Music Choice Brazilian Pop (MCBP)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Rock Latino (MCRL).us" xmltv_id="Music Choice Rock Latino (MCRL).us">Music Choice Rock Latino (MCRL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Latin Jazz (MCLJ).us" xmltv_id="Music Choice Latin Jazz (MCLJ).us">Music Choice Latin Jazz (MCLJ)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Party Favorites (MCPF).us" xmltv_id="Music Choice Party Favorites (MCPF).us">Music Choice Party Favorites (MCPF)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Music Choice Party Favorites (99R) (MCPF).us" xmltv_id="Music Choice Party Favorites (99R) (MCPF).us">Music Choice Party Favorites (99R) (MCPF)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Taste of Italy (MCTI).us" xmltv_id="Music Choice Taste of Italy (MCTI).us">Music Choice Taste of Italy (MCTI)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Music Choice Taste of Italy (99R) (MCTI).us" xmltv_id="Music Choice Taste of Italy (99R) (MCTI).us">Music Choice Taste of Italy (99R) (MCTI)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Italian Favorites (MCIT).us" xmltv_id="Music Choice Italian Favorites (MCIT).us">Music Choice Italian Favorites (MCIT)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Music Choice Italian Favorites (99R) (MCIT).us" xmltv_id="Music Choice Italian Favorites (99R) (MCIT).us">Music Choice Italian Favorites (99R) (MCIT)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Irish Favorites (MCIR).us" xmltv_id="Music Choice Irish Favorites (MCIR).us">Music Choice Irish Favorites (MCIR)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Music Choice Irish Favorites (99R) (MCIR).us" xmltv_id="Music Choice Irish Favorites (99R) (MCIR).us">Music Choice Irish Favorites (99R) (MCIR)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Nature Sounds (MCNS).us" xmltv_id="Music Choice Nature Sounds (MCNS).us">Music Choice Nature Sounds (MCNS)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Music Choice Nature Sounds (99R) (MCNS).us" xmltv_id="Music Choice Nature Sounds (99R) (MCNS).us">Music Choice Nature Sounds (99R) (MCNS)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Filipino (MCFI).us" xmltv_id="Music Choice Filipino (MCFI).us">Music Choice Filipino (MCFI)</channel>
     <channel update="i" site="merge-xmltv" site_id="Music Choice Vietnamese (MCVI).us" xmltv_id="Music Choice Vietnamese (MCVI).us">Music Choice Vietnamese (MCVI)</channel>
     <channel update="i" site="merge-xmltv" site_id="Comedy Central West HD (COMWHD).us" xmltv_id="Comedy Central West HD (COMWHD).us">Comedy Central West HD (COMWHD)</channel>
@@ -4872,173 +4459,83 @@
     <channel update="i" site="merge-xmltv" site_id="CNews HD (CNSHD).us" xmltv_id="CNews HD (CNSHD).us">CNews HD (CNSHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Studio Canal (SCLHD).us" xmltv_id="Studio Canal (SCLHD).us">Studio Canal (SCLHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="MediaSet Italia (MEDITA).us" xmltv_id="MediaSet Italia (MEDITA).us">MediaSet Italia (MEDITA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MediaSet Italia (99R) (MEDITA).us" xmltv_id="MediaSet Italia (99R) (MEDITA).us">MediaSet Italia (99R) (MEDITA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Rai Italia (RAI).us" xmltv_id="Rai Italia (RAI).us">Rai Italia (RAI)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Rai Italia (99R) (RAI).us" xmltv_id="Rai Italia (99R) (RAI).us">Rai Italia (99R) (RAI)</channel>
     <channel update="i" site="merge-xmltv" site_id="Rai News 24 (RAINWS).us" xmltv_id="Rai News 24 (RAINWS).us">Rai News 24 (RAINWS)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Rai News 24 (99R) (RAINWS).us" xmltv_id="Rai News 24 (99R) (RAINWS).us">Rai News 24 (99R) (RAINWS)</channel>
     <channel update="i" site="merge-xmltv" site_id="Rai World Premium (RAIWP).us" xmltv_id="Rai World Premium (RAIWP).us">Rai World Premium (RAIWP)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Rai World Premium (99R) (RAIWP).us" xmltv_id="Rai World Premium (99R) (RAIWP).us">Rai World Premium (99R) (RAIWP)</channel>
     <channel update="i" site="merge-xmltv" site_id="Radio Rai (RRDIO).us" xmltv_id="Radio Rai (RRDIO).us">Radio Rai (RRDIO)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Radio Rai (99R) (RRDIO).us" xmltv_id="Radio Rai (99R) (RRDIO).us">Radio Rai (99R) (RRDIO)</channel>
     <channel update="i" site="merge-xmltv" site_id="World Cup Cricket 2027 (DTV).us" xmltv_id="World Cup Cricket 2027 (DTV).us">World Cup Cricket 2027 (DTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="World Cup Cricket 2028 (DTV).us" xmltv_id="World Cup Cricket 2028 (DTV).us">World Cup Cricket 2028 (DTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="SBTN (SBTN).us" xmltv_id="SBTN (SBTN).us">SBTN (SBTN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SBTN (99R) (SBTN).us" xmltv_id="SBTN (99R) (SBTN).us">SBTN (99R) (SBTN)</channel>
     <channel update="i" site="merge-xmltv" site_id="VGN TV (VGNTV).us" xmltv_id="VGN TV (VGNTV).us">VGN TV (VGNTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="VGN TV (99R) (VGNTV).us" xmltv_id="VGN TV (99R) (VGNTV).us">VGN TV (99R) (VGNTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Tviet (99R) (TViet).us" xmltv_id="Tviet (99R) (TViet).us">Tviet (99R) (TViet)</channel>
     <channel update="i" site="merge-xmltv" site_id="TViet Network (TViet).us" xmltv_id="TViet Network (TViet).us">TViet Network (TViet)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Viet Face (99R) (VFACE).us" xmltv_id="Viet Face (99R) (VFACE).us">Viet Face (99R) (VFACE)</channel>
     <channel update="i" site="merge-xmltv" site_id="Viet Face (VFACE).us" xmltv_id="Viet Face (VFACE).us">Viet Face (VFACE)</channel>
     <channel update="i" site="merge-xmltv" site_id="S Channel (SCHNL).us" xmltv_id="S Channel (SCHNL).us">S Channel (SCHNL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="S Channel (99R) (SCHNL).us" xmltv_id="S Channel (99R) (SCHNL).us">S Channel (99R) (SCHNL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Vien Thao (VTTV).us" xmltv_id="Vien Thao (VTTV).us">Vien Thao (VTTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Vien Thao (99R) (VTTV).us" xmltv_id="Vien Thao (99R) (VTTV).us">Vien Thao (99R) (VTTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="VIETV (VIETV).us" xmltv_id="VIETV (VIETV).us">VIETV (VIETV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Vietv (99R) (VIETV).us" xmltv_id="Vietv (99R) (VIETV).us">Vietv (99R) (VIETV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Film 24H (FLM24).us" xmltv_id="Film 24H (FLM24).us">Film 24H (FLM24)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Film 24H (99R) (FLM24).us" xmltv_id="Film 24H (99R) (FLM24).us">Film 24H (99R) (FLM24)</channel>
     <channel update="i" site="merge-xmltv" site_id="HONVIETV (HONV).us" xmltv_id="HONVIETV (HONV).us">HONVIETV (HONV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Honvietv (99R) (HONV).us" xmltv_id="Honvietv (99R) (HONV).us">Honvietv (99R) (HONV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Little Saigon Radio Channel (LSRC).us" xmltv_id="Little Saigon Radio Channel (LSRC).us">Little Saigon Radio Channel (LSRC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Little Saigon Radio Channel (99R) (LSRC).us" xmltv_id="Little Saigon Radio Channel (99R) (LSRC).us">Little Saigon Radio Channel (99R) (LSRC)</channel>
     <channel update="i" site="merge-xmltv" site_id="TV Japan (TVJ).us" xmltv_id="TV Japan (TVJ).us">TV Japan (TVJ)</channel>
     <channel update="i" site="merge-xmltv" site_id="Nippon TV HD (NTV HD).us" xmltv_id="Nippon TV HD (NTV HD).us">Nippon TV HD (NTV HD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Channel NECO International (NECOHD).us" xmltv_id="Channel NECO International (NECOHD).us">Channel NECO International (NECOHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="Phoenix TV 2050 (PNAX).us" xmltv_id="Phoenix TV 2050 (PNAX).us">Phoenix TV 2050 (PNAX)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Phoenix TV 95 (99R) (PNAX).us" xmltv_id="Phoenix TV 95 (99R) (PNAX).us">Phoenix TV 95 (99R) (PNAX)</channel>
     <channel update="i" site="merge-xmltv" site_id="Phoenix Info News 2051 (PHIN).us" xmltv_id="Phoenix Info News 2051 (PHIN).us">Phoenix Info News 2051 (PHIN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Phoenix Info News (99R) (PHIN).us" xmltv_id="Phoenix Info News (99R) (PHIN).us">Phoenix Info News (99R) (PHIN)</channel>
     <channel update="i" site="merge-xmltv" site_id="CCTV-4 2052 (CTV4).us" xmltv_id="CCTV-4 2052 (CTV4).us">CCTV-4 2052 (CTV4)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CCTV4 (99R) (CTV4).us" xmltv_id="CCTV4 (99R) (CTV4).us">CCTV4 (99R) (CTV4)</channel>
     <channel update="i" site="merge-xmltv" site_id="CGTN 2053 (CGTN).us" xmltv_id="CGTN 2053 (CGTN).us">CGTN 2053 (CGTN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CGTN 2053 (99R) (CGTN).us" xmltv_id="CGTN 2053 (99R) (CGTN).us">CGTN 2053 (99R) (CGTN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Charming China (HXTV).us" xmltv_id="Charming China (HXTV).us">Charming China (HXTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Charming China 95 (99R) (HXTV).us" xmltv_id="Charming China 95 (99R) (HXTV).us">Charming China 95 (99R) (HXTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="CTI 2056 (CTI).us" xmltv_id="CTI 2056 (CTI).us">CTI 2056 (CTI)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CTI TV (99R) (CTI).us" xmltv_id="CTI TV (99R) (CTI).us">CTI TV (99R) (CTI)</channel>
     <channel update="i" site="merge-xmltv" site_id="CBO (CBO).us" xmltv_id="CBO (CBO).us">CBO (CBO)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CBO (99R) (CBO).us" xmltv_id="CBO (99R) (CBO).us">CBO (99R) (CBO)</channel>
     <channel update="i" site="merge-xmltv" site_id="TFC - The Filipino Channel 2060 (TFC).us" xmltv_id="TFC - The Filipino Channel 2060 (TFC).us">TFC - The Filipino Channel 2060 (TFC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TFC - The Filipino Channel (99R) (TFC).us" xmltv_id="TFC - The Filipino Channel (99R) (TFC).us">TFC - The Filipino Channel (99R) (TFC)</channel>
     <channel update="i" site="merge-xmltv" site_id="GMA Pinoy TV 2061 (GMA).us" xmltv_id="GMA Pinoy TV 2061 (GMA).us">GMA Pinoy TV 2061 (GMA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="GMA Pinoy TV (99R) (GMA).us" xmltv_id="GMA Pinoy TV (99R) (GMA).us">GMA Pinoy TV (99R) (GMA)</channel>
     <channel update="i" site="merge-xmltv" site_id="ABS-CBN News Channel 2062 (ANC).us" xmltv_id="ABS-CBN News Channel 2062 (ANC).us">ABS-CBN News Channel 2062 (ANC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ABS-CBN News Channel (99R) (ANC).us" xmltv_id="ABS-CBN News Channel (99R) (ANC).us">ABS-CBN News Channel (99R) (ANC)</channel>
     <channel update="i" site="merge-xmltv" site_id="Cinema One Global 2063 (CIN1).us" xmltv_id="Cinema One Global 2063 (CIN1).us">Cinema One Global 2063 (CIN1)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Cinema One Global (99R) (CIN1).us" xmltv_id="Cinema One Global (99R) (CIN1).us">Cinema One Global (99R) (CIN1)</channel>
     <channel update="i" site="merge-xmltv" site_id="ABS-CBN Sports + Action 2064 (ASA).us" xmltv_id="ABS-CBN Sports + Action 2064 (ASA).us">ABS-CBN Sports + Action 2064 (ASA)</channel>
-    <channel update="i" site="merge-xmltv" site_id="ABS-CBM Sports + Action (99R) (ASA).us" xmltv_id="ABS-CBM Sports + Action (99R) (ASA).us">ABS-CBM Sports + Action (99R) (ASA)</channel>
     <channel update="i" site="merge-xmltv" site_id="MOR 101.9 (MOR).us" xmltv_id="MOR 101.9 (MOR).us">MOR 101.9 (MOR)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MOR 101.9 (99R) (MOR).us" xmltv_id="MOR 101.9 (99R) (MOR).us">MOR 101.9 (99R) (MOR)</channel>
     <channel update="i" site="merge-xmltv" site_id="DZMM 2066 (DZMM).us" xmltv_id="DZMM 2066 (DZMM).us">DZMM 2066 (DZMM)</channel>
-    <channel update="i" site="merge-xmltv" site_id="DZMM (99R) (DZMM).us" xmltv_id="DZMM (99R) (DZMM).us">DZMM (99R) (DZMM)</channel>
     <channel update="i" site="merge-xmltv" site_id="Myx 2067 (MYX).us" xmltv_id="Myx 2067 (MYX).us">Myx 2067 (MYX)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Myx (99R) (MYX).us" xmltv_id="Myx (99R) (MYX).us">Myx (99R) (MYX)</channel>
     <channel update="i" site="merge-xmltv" site_id="INCTV (INCTV).us" xmltv_id="INCTV (INCTV).us">INCTV (INCTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="INCTV (99R) (INCTV).us" xmltv_id="INCTV (99R) (INCTV).us">INCTV (99R) (INCTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="GMA Life (GMAL).us" xmltv_id="GMA Life (GMAL).us">GMA Life (GMAL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="GMA Life (99R) (GMAL).us" xmltv_id="GMA Life (99R) (GMAL).us">GMA Life (99R) (GMAL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Lifestyle Network (99R) (LSN).us" xmltv_id="Lifestyle Network (99R) (LSN).us">Lifestyle Network (99R) (LSN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Lifestyle Network (LSN).us" xmltv_id="Lifestyle Network (LSN).us">Lifestyle Network (LSN)</channel>
     <channel update="i" site="merge-xmltv" site_id="Kapatid TV5 (TV5).us" xmltv_id="Kapatid TV5 (TV5).us">Kapatid TV5 (TV5)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TV5 (99R) (TV5).us" xmltv_id="TV5 (99R) (TV5).us">TV5 (99R) (TV5)</channel>
     <channel update="i" site="merge-xmltv" site_id="SBS 2080 (SBS).us" xmltv_id="SBS 2080 (SBS).us">SBS 2080 (SBS)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SBS 2080 (99R) (SBS).us" xmltv_id="SBS 2080 (99R) (SBS).us">SBS 2080 (99R) (SBS)</channel>
     <channel update="i" site="merge-xmltv" site_id="SBS HD (SBSHD).us" xmltv_id="SBS HD (SBSHD).us">SBS HD (SBSHD)</channel>
     <channel update="i" site="merge-xmltv" site_id="MBC 2081 (MBC).us" xmltv_id="MBC 2081 (MBC).us">MBC 2081 (MBC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MBC (99R) (MBC).us" xmltv_id="MBC (99R) (MBC).us">MBC (99R) (MBC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="KBS World (99R) (KBS).us" xmltv_id="KBS World (99R) (KBS).us">KBS World (99R) (KBS)</channel>
     <channel update="i" site="merge-xmltv" site_id="KBS World (KBS).us" xmltv_id="KBS World (KBS).us">KBS World (KBS)</channel>
     <channel update="i" site="merge-xmltv" site_id="YTN (YTN).us" xmltv_id="YTN (YTN).us">YTN (YTN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="YTN (99R) (YTN).us" xmltv_id="YTN (99R) (YTN).us">YTN (99R) (YTN)</channel>
     <channel update="i" site="merge-xmltv" site_id="SBS Plus 2084 (SBSP).us" xmltv_id="SBS Plus 2084 (SBSP).us">SBS Plus 2084 (SBSP)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SBS Plus (99R) (SBSP).us" xmltv_id="SBS Plus (99R) (SBSP).us">SBS Plus (99R) (SBSP)</channel>
     <channel update="i" site="merge-xmltv" site_id="KBS World 24 (KBSW24).us" xmltv_id="KBS World 24 (KBSW24).us">KBS World 24 (KBSW24)</channel>
-    <channel update="i" site="merge-xmltv" site_id="KBS World 24 (99R) (KBSW24).us" xmltv_id="KBS World 24 (99R) (KBSW24).us">KBS World 24 (99R) (KBSW24)</channel>
     <channel update="i" site="merge-xmltv" site_id="TVN Test Ch. (EngTestBox) (TVN).us" xmltv_id="TVN Test Ch. (EngTestBox) (TVN).us">TVN Test Ch. (EngTestBox) (TVN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TVN (99R) (TVN).us" xmltv_id="TVN (99R) (TVN).us">TVN (99R) (TVN)</channel>
     <channel update="i" site="merge-xmltv" site_id="TVN (TVN).us" xmltv_id="TVN (TVN).us">TVN (TVN)</channel>
     <channel update="i" site="merge-xmltv" site_id="EBS (EBS).us" xmltv_id="EBS (EBS).us">EBS (EBS)</channel>
-    <channel update="i" site="merge-xmltv" site_id="EBS (99R) (EBS).us" xmltv_id="EBS (99R) (EBS).us">EBS (99R) (EBS)</channel>
     <channel update="i" site="merge-xmltv" site_id="MBN (MBN).us" xmltv_id="MBN (MBN).us">MBN (MBN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MBN (99R) (MBN).us" xmltv_id="MBN (99R) (MBN).us">MBN (99R) (MBN)</channel>
     <channel update="i" site="merge-xmltv" site_id="TAN (TAN).us" xmltv_id="TAN (TAN).us">TAN (TAN)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Tan (99R) (TAN).us" xmltv_id="Tan (99R) (TAN).us">Tan (99R) (TAN)</channel>
     <channel update="i" site="merge-xmltv" site_id="National Geographic Korea (NGCK).us" xmltv_id="National Geographic Korea (NGCK).us">National Geographic Korea (NGCK)</channel>
-    <channel update="i" site="merge-xmltv" site_id="National Geographic Korea (99R) (NGCK).us" xmltv_id="National Geographic Korea (99R) (NGCK).us">National Geographic Korea (99R) (NGCK)</channel>
     <channel update="i" site="merge-xmltv" site_id="CTS (CTS).us" xmltv_id="CTS (CTS).us">CTS (CTS)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CTS (99R) (CTS).us" xmltv_id="CTS (99R) (CTS).us">CTS (99R) (CTS)</channel>
     <channel update="i" site="merge-xmltv" site_id="Radio Korea (RAKO).us" xmltv_id="Radio Korea (RAKO).us">Radio Korea (RAKO)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Radio Korea (99R) (RAKO).us" xmltv_id="Radio Korea (99R) (RAKO).us">Radio Korea (99R) (RAKO)</channel>
     <channel update="i" site="merge-xmltv" site_id="Arirang TV (ARANG).us" xmltv_id="Arirang TV (ARANG).us">Arirang TV (ARANG)</channel>
-    <channel update="i" site="merge-xmltv" site_id="GZTV (99R) (GZTV).us" xmltv_id="GZTV (99R) (GZTV).us">GZTV (99R) (GZTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="GZ Television (GZTV).us" xmltv_id="GZ Television (GZTV).us">GZ Television (GZTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="88 TV (99R) (88TV).us" xmltv_id="88 TV (99R) (88TV).us">88 TV (99R) (88TV)</channel>
     <channel update="i" site="merge-xmltv" site_id="88 TV (88TV).us" xmltv_id="88 TV (88TV).us">88 TV (88TV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Phoenix Hong Kong Channel (PHKC).us" xmltv_id="Phoenix Hong Kong Channel (PHKC).us">Phoenix Hong Kong Channel (PHKC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Phoenix Hong Kong (99R) (PHKC).us" xmltv_id="Phoenix Hong Kong (99R) (PHKC).us">Phoenix Hong Kong (99R) (PHKC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="88 Films (99R) (88FLM).us" xmltv_id="88 Films (99R) (88FLM).us">88 Films (99R) (88FLM)</channel>
     <channel update="i" site="merge-xmltv" site_id="88 Films (88FLM).us" xmltv_id="88 Films (88FLM).us">88 Films (88FLM)</channel>
-    <channel update="i" site="merge-xmltv" site_id="I Cable Finance (99R) (ICFIN).us" xmltv_id="I Cable Finance (99R) (ICFIN).us">I Cable Finance (99R) (ICFIN)</channel>
     <channel update="i" site="merge-xmltv" site_id="iCable Financial Info News (ICFIN).us" xmltv_id="iCable Financial Info News (ICFIN).us">iCable Financial Info News (ICFIN)</channel>
     <channel update="i" site="merge-xmltv" site_id="i-CABLE (ICBL).us" xmltv_id="i-CABLE (ICBL).us">i-CABLE (ICBL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="I Cable News (99R) (ICBL).us" xmltv_id="I Cable News (99R) (ICBL).us">I Cable News (99R) (ICBL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CTI Zhong Tian (99R) (CTI).us" xmltv_id="CTI Zhong Tian (99R) (CTI).us">CTI Zhong Tian (99R) (CTI)</channel>
     <channel update="i" site="merge-xmltv" site_id="CTI TV (Zhong Tian) (CTI).us" xmltv_id="CTI TV (Zhong Tian) (CTI).us">CTI TV (Zhong Tian) (CTI)</channel>
     <channel update="i" site="merge-xmltv" site_id="CCTV-4 (CTV4).us" xmltv_id="CCTV-4 (CTV4).us">CCTV-4 (CTV4)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CCTV-4 (99R) (CTV4).us" xmltv_id="CCTV-4 (99R) (CTV4).us">CCTV-4 (99R) (CTV4)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Phoenix TV (99R) (PNAX).us" xmltv_id="Phoenix TV (99R) (PNAX).us">Phoenix TV (99R) (PNAX)</channel>
     <channel update="i" site="merge-xmltv" site_id="Phoenix TV (PNAX).us" xmltv_id="Phoenix TV (PNAX).us">Phoenix TV (PNAX)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Charming China (99R) (HXTV).us" xmltv_id="Charming China (99R) (HXTV).us">Charming China (99R) (HXTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="Charming China (119) (HXTV).us" xmltv_id="Charming China (119) (HXTV).us">Charming China (119) (HXTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="CGTN 2119 (99R) (CGTN).us" xmltv_id="CGTN 2119 (99R) (CGTN).us">CGTN 2119 (99R) (CGTN)</channel>
     <channel update="i" site="merge-xmltv" site_id="CGTN 2119 (CGTN).us" xmltv_id="CGTN 2119 (CGTN).us">CGTN 2119 (CGTN)</channel>
     <channel update="i" site="merge-xmltv" site_id="TV Globo (GLOB).us" xmltv_id="TV Globo (GLOB).us">TV Globo (GLOB)</channel>
-    <channel update="i" site="merge-xmltv" site_id="TV Globo (99R) (GLOB).us" xmltv_id="TV Globo (99R) (GLOB).us">TV Globo (99R) (GLOB)</channel>
     <channel update="i" site="merge-xmltv" site_id="PFC (Portuguese) (PFC).us" xmltv_id="PFC (Portuguese) (PFC).us">PFC (Portuguese) (PFC)</channel>
-    <channel update="i" site="merge-xmltv" site_id="PFC (99R) (PFC).us" xmltv_id="PFC (99R) (PFC).us">PFC (99R) (PFC)</channel>
     <channel update="i" site="merge-xmltv" site_id="C1RW 2140 (C1RW).us" xmltv_id="C1RW 2140 (C1RW).us">C1RW 2140 (C1RW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="C1RW (99R) (C1RW).us" xmltv_id="C1RW (99R) (C1RW).us">C1RW (99R) (C1RW)</channel>
     <channel update="i" site="merge-xmltv" site_id="RTR Planeta 2141 (RTRP).us" xmltv_id="RTR Planeta 2141 (RTRP).us">RTR Planeta 2141 (RTRP)</channel>
-    <channel update="i" site="merge-xmltv" site_id="RTR Planeta (99R) (RTRP).us" xmltv_id="RTR Planeta (99R) (RTRP).us">RTR Planeta (99R) (RTRP)</channel>
     <channel update="i" site="merge-xmltv" site_id="Dom Kino 2142 (KINO).us" xmltv_id="Dom Kino 2142 (KINO).us">Dom Kino 2142 (KINO)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Dom Kino (99R) (KINO).us" xmltv_id="Dom Kino (99R) (KINO).us">Dom Kino (99R) (KINO)</channel>
     <channel update="i" site="merge-xmltv" site_id="M1: Music Entertainment 2143 (M1).us" xmltv_id="M1: Music Entertainment 2143 (M1).us">M1: Music Entertainment 2143 (M1)</channel>
-    <channel update="i" site="merge-xmltv" site_id="M1: Music Entertainment (99R) (M1).us" xmltv_id="M1: Music Entertainment (99R) (M1).us">M1: Music Entertainment (99R) (M1)</channel>
     <channel update="i" site="merge-xmltv" site_id="Vremya: Retro Channel 2144 (VREM).us" xmltv_id="Vremya: Retro Channel 2144 (VREM).us">Vremya: Retro Channel 2144 (VREM)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Vremya: Retro Channel (99R) (VREM).us" xmltv_id="Vremya: Retro Channel (99R) (VREM).us">Vremya: Retro Channel (99R) (VREM)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Carousel (99R) (CARL).us" xmltv_id="Carousel (99R) (CARL).us">Carousel (99R) (CARL)</channel>
     <channel update="i" site="merge-xmltv" site_id="Carousel (CARL).us" xmltv_id="Carousel (CARL).us">Carousel (CARL)</channel>
-    <channel update="i" site="merge-xmltv" site_id="NTV America (99R) (NTVA).us" xmltv_id="NTV America (99R) (NTVA).us">NTV America (99R) (NTVA)</channel>
     <channel update="i" site="merge-xmltv" site_id="NTV America (NTVA).us" xmltv_id="NTV America (NTVA).us">NTV America (NTVA)</channel>
     <channel update="i" site="merge-xmltv" site_id="Rossiya 24 (RU24).us" xmltv_id="Rossiya 24 (RU24).us">Rossiya 24 (RU24)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Rossiya 24 (99R) (RU24).us" xmltv_id="Rossiya 24 (99R) (RU24).us">Rossiya 24 (99R) (RU24)</channel>
-    <channel update="i" site="merge-xmltv" site_id="RTVI (99R) (RTVI).us" xmltv_id="RTVI (99R) (RTVI).us">RTVI (99R) (RTVI)</channel>
     <channel update="i" site="merge-xmltv" site_id="RTVI (RTVI).us" xmltv_id="RTVI (RTVI).us">RTVI (RTVI)</channel>
     <channel update="i" site="merge-xmltv" site_id="MHz Worldview 2183 (MHzW).us" xmltv_id="MHz Worldview 2183 (MHzW).us">MHz Worldview 2183 (MHzW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="MHz Worldview (99R) (MHzW).us" xmltv_id="MHz Worldview (99R) (MHzW).us">MHz Worldview (99R) (MHzW)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Satellite A Test Channel 101 Odd (DTV).us" xmltv_id="Satellite A Test Channel 101 Odd (DTV).us">Satellite A Test Channel 101 Odd (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Satellite A Test Chnl. 101 Even (DTV).us" xmltv_id="Satellite A Test Chnl. 101 Even (DTV).us">Satellite A Test Chnl. 101 Even (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Satellite Test channel 95 Horiz (DTV).us" xmltv_id="Satellite Test channel 95 Horiz (DTV).us">Satellite Test channel 95 Horiz (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SAT Test Channel, 99R Even (DTV).us" xmltv_id="SAT Test Channel, 99R Even (DTV).us">SAT Test Channel, 99R Even (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Satellite Test Channel 99 A Odd (DTV).us" xmltv_id="Satellite Test Channel 99 A Odd (DTV).us">Satellite Test Channel 99 A Odd (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Satellite Test Channel 99 A Even (DTV).us" xmltv_id="Satellite Test Channel 99 A Even (DTV).us">Satellite Test Channel 99 A Even (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Satellite A Test Channel 99 Odd (DTV).us" xmltv_id="Satellite A Test Channel 99 Odd (DTV).us">Satellite A Test Channel 99 Odd (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Satellite B Test Channel 99 Even (DTV).us" xmltv_id="Satellite B Test Channel 99 Even (DTV).us">Satellite B Test Channel 99 Even (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Satellite A Band Test 103 Odd (DTV).us" xmltv_id="Satellite A Band Test 103 Odd (DTV).us">Satellite A Band Test 103 Odd (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Sat Test Channel 103A Test Even (DTV).us" xmltv_id="Sat Test Channel 103A Test Even (DTV).us">Sat Test Channel 103A Test Even (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Satellite A Test Channel 103 Odd (DTV).us" xmltv_id="Satellite A Test Channel 103 Odd (DTV).us">Satellite A Test Channel 103 Odd (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Satellite B Test Chnl. 103 Even (DTV).us" xmltv_id="Satellite B Test Chnl. 103 Even (DTV).us">Satellite B Test Chnl. 103 Even (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Satellite Test Channel 119 Odd (DTV).us" xmltv_id="Satellite Test Channel 119 Odd (DTV).us">Satellite Test Channel 119 Odd (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="SAT B Test Channel, 119 Even (DTV).us" xmltv_id="SAT B Test Channel, 119 Even (DTV).us">SAT B Test Channel, 119 Even (DTV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Commercial Spec. Events 9535 HD (PPVHD).us" xmltv_id="Commercial Spec. Events 9535 HD (PPVHD).us">Commercial Spec. Events 9535 HD (PPVHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Commercial Special Events 9536 (PPV).us" xmltv_id="Commercial Special Events 9536 (PPV).us">Commercial Special Events 9536 (PPV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Commercial Spec. Events HD 9537 (PPVHD).us" xmltv_id="Commercial Spec. Events HD 9537 (PPVHD).us">Commercial Spec. Events HD 9537 (PPVHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Commercial Special Events 9538 (PPV).us" xmltv_id="Commercial Special Events 9538 (PPV).us">Commercial Special Events 9538 (PPV)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Commercial Spec. Events 9539 HD (PPVHD).us" xmltv_id="Commercial Spec. Events 9539 HD (PPVHD).us">Commercial Spec. Events 9539 HD (PPVHD)</channel>
-    <channel update="i" site="merge-xmltv" site_id="Commercial Special Events 9540 (PPV).us" xmltv_id="Commercial Special Events 9540 (PPV).us">Commercial Special Events 9540 (PPV)</channel>
     <channel update="i" site="merge-xmltv" site_id="DVR Showcase (DTV).us" xmltv_id="DVR Showcase (DTV).us">DVR Showcase (DTV)</channel>
     <channel update="i" site="merge-xmltv" site_id="9542 PTNW (PTNW).us" xmltv_id="9542 PTNW (PTNW).us">9542 PTNW (PTNW)</channel>
     <channel update="i" site="merge-xmltv" site_id="PVN 9543 (PTNW).us" xmltv_id="PVN 9543 (PTNW).us">PVN 9543 (PTNW)</channel>

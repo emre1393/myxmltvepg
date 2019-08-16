@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0"?>
 <settings>
-   
+
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-   
+
   <filename>D:\xiaomi\epg\merged\xmltv.de.xml</filename>
   <mode></mode>
   <postprocess grab="y" run="n">mdb</postprocess>
@@ -10,16 +10,16 @@
   <logging>on</logging>
   <retry time-out="5">4</retry>
   <timespan>0</timespan>
-  <update>f</update>
- 
+  <update>s</update>
+
   <!--
             Replace the next dummy channel entry with the channels you want.
 			You can look into the installed siteini.pack folder on your computer
-  
+
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
-  
+
    <channel update="i" site="vodafone.de" site_id="1566" xmltv_id="Vodafone Infochannel.de">Vodafone Infochannel</channel>
     <channel update="i" site="vodafone.de" site_id="1" xmltv_id="Das Erste.de">Das Erste</channel>
     <channel update="i" site="vodafone.de" site_id="2" xmltv_id="ZDF.de">ZDF</channel>
@@ -300,5 +300,5 @@
     <channel update="i" site="vodafone.de" site_id="4105" xmltv_id="Sky Sport Austria.de">Sky Sport Austria</channel>
     <channel update="i" site="vodafone.de" site_id="2129" xmltv_id="Zee.One.de">Zee.One</channel>
 
- 
+
 </settings>

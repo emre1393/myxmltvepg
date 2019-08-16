@@ -1,0 +1,1848 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.10.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 16/08/2019 12:07:04
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: D:\xiaomi\epg\ro\WebGrab++.config.xml
+[  Debug ] 
+[  Info  ] found: D:\xiaomi\epg\ro\horizon.tv.ini -- Revision 07
+[  Debug ] xmltv input file - D:\xiaomi\epg\merged\xmltv.ro.xml - found
+[  Debug ] 0 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=TVR 1.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=PRO TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Antena 1.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Antena Stars.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Prima TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Kanal D.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Look Plus.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Look TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVR 2.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Naţional TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVR 3.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Top Shop TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Neptun TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Naţional 24 Plus.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=PRO GOLD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=PRO 2.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Filmcafe.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Happy Channel.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=E Entertainment.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fine Living.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fashion TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=TLC.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV Paprika.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Food TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=PRO CINEMA.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Diva Universal.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXN.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXN White.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXN Black.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=AMC.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=TNT.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV 1000.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=FilmBox.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sundance.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Paramount Channel.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Comedy Central.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Romance TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Axn Spin.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=HBO.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=HBO 2.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=HBO 3.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cinemax.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cinemax 2.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bollywood TV Film.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bollywood Clasic.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bollywood TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=FilmBox Extra HDSD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=FilmBox Family.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=FilmBox Plus.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=FilmBox Premium.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=HBO HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=FilmBox Extra HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sundance HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bollywood HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cinemax HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=HBO 2 HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=HBO 3 HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 1 HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 2 HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=PRO X HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Auto Motor Sport HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Look Plus HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Look HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trace Sport Stars HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trace Urban HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=MyZen HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Motorvision HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVR HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=PRO TV HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Kanal D HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Antena 1 HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Antena 3 HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=PRO 2 HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Happy Channel HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=History HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=National Geographic HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nat Geo Wild HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disc Showcase HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Animal Planet HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Travel HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat NatureHistory HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fashion TV HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Golf Channel.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Taraf HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Live HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Etno HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mooz Dance HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mezzo HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Arte HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=PRO X.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 1.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Motorsport TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Extreme Sports.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nautical Channel.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 2.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=FishingHunting.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trace Sport Stars.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Motorvision SD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery Channel.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=National Geographic.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=CBS Reality.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=ID.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=CrimeInvestigation Network.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Animal Planet.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=DTX.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery Science.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Travel Mix.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Travel Channel.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nat Geo Wild.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=History Channel.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Da Vinci Learning.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat Explore.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat History.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat Nature.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=DoQ.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Realitatea TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Antena 3.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=România Tv.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=B1.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Digi24.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Naşul TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Euronews.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNN.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=France 24.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNBC.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bloomberg.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Russia Today.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=CGTN.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Al Jazeera English.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Al Jazeera Arabic.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Minimax.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cartoon Network.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney Channel.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Megamax.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Boomerang.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nickelodeon.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=JimJam.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney Junior.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Baby TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nickelodeon Jr.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Kiss TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=VH1 Channel.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=VH1 Classic.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Rocks.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Hits.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Dance.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=ZU TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=U TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Music Channel.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=HT Music.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mooz SD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Rock TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Magic TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mezzo.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Favorit.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Etno.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Inedit TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Taraf TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Balkanika MTV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=KBS HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV5 Monde.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=DW.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL Channel.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=PRO 7.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=SAT1.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Duna TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=M2.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV2.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=ATV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hír TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=M1.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL II.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=M4 Sport HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=M4 Sport SD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVE.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Rai Uno.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Film.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL Gold.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL .ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sorozat.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cool TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTL Klub.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Slager TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Muzsika TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Erdély TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVH.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Estrada TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trinitas TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Speranţa TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Alfa Omega TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Credo TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Agro TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hustler TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Private TV.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Penthouse HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hustler HD.ro) in the config file
+[  Info  ] Found existing channel (xmltv_id=Penthouse HD1.ro) in the config file
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 197 - out of - 197 - channels for 1 day(s)
+[  Debug ] 
+[  Info  ] (   1/197 ) HORIZON.TV -- chan. (xmltv_id=TVR 1.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/197 ) HORIZON.TV -- chan. (xmltv_id=PRO TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/197 ) HORIZON.TV -- chan. (xmltv_id=Antena 1.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/197 ) HORIZON.TV -- chan. (xmltv_id=Antena Stars.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/197 ) HORIZON.TV -- chan. (xmltv_id=Prima TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/197 ) HORIZON.TV -- chan. (xmltv_id=Kanal D.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/197 ) HORIZON.TV -- chan. (xmltv_id=Look Plus.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/197 ) HORIZON.TV -- chan. (xmltv_id=Look TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/197 ) HORIZON.TV -- chan. (xmltv_id=TVR 2.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  10/197 ) HORIZON.TV -- chan. (xmltv_id=Naţional TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/197 ) HORIZON.TV -- chan. (xmltv_id=TVR 3.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/197 ) HORIZON.TV -- chan. (xmltv_id=Top Shop TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:08
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:13
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:23
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:33
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:43
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:48
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:56
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:01
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:11
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:21
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:31
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:36
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:44
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:49
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:59
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:09
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:19
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:24
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:32
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:37
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:47
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:57
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/197 ) HORIZON.TV -- chan. (xmltv_id=Neptun TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  14/197 ) HORIZON.TV -- chan. (xmltv_id=Naţional 24 Plus.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  15/197 ) HORIZON.TV -- chan. (xmltv_id=PRO GOLD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  16/197 ) HORIZON.TV -- chan. (xmltv_id=PRO 2.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  17/197 ) HORIZON.TV -- chan. (xmltv_id=Filmcafe.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  18/197 ) HORIZON.TV -- chan. (xmltv_id=Happy Channel.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  19/197 ) HORIZON.TV -- chan. (xmltv_id=E Entertainment.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  20/197 ) HORIZON.TV -- chan. (xmltv_id=Fine Living.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:42
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  21/197 ) HORIZON.TV -- chan. (xmltv_id=Fashion TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  22/197 ) HORIZON.TV -- chan. (xmltv_id=TLC.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:24
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:48
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  23/197 ) HORIZON.TV -- chan. (xmltv_id=TV Paprika.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  24/197 ) HORIZON.TV -- chan. (xmltv_id=Food TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:22
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:52
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  25/197 ) HORIZON.TV -- chan. (xmltv_id=PRO CINEMA.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  26/197 ) HORIZON.TV -- chan. (xmltv_id=Diva Universal.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  27/197 ) HORIZON.TV -- chan. (xmltv_id=AXN.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  28/197 ) HORIZON.TV -- chan. (xmltv_id=AXN White.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  29/197 ) HORIZON.TV -- chan. (xmltv_id=AXN Black.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  30/197 ) HORIZON.TV -- chan. (xmltv_id=AMC.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  31/197 ) HORIZON.TV -- chan. (xmltv_id=TNT.ro) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  32/197 ) HORIZON.TV -- chan. (xmltv_id=TV 1000.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/197 ) HORIZON.TV -- chan. (xmltv_id=FilmBox.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/197 ) HORIZON.TV -- chan. (xmltv_id=Sundance.ro) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/197 ) HORIZON.TV -- chan. (xmltv_id=Paramount Channel.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  36/197 ) HORIZON.TV -- chan. (xmltv_id=Comedy Central.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  37/197 ) HORIZON.TV -- chan. (xmltv_id=Romance TV.ro) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  38/197 ) HORIZON.TV -- chan. (xmltv_id=Axn Spin.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  39/197 ) HORIZON.TV -- chan. (xmltv_id=HBO.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  40/197 ) HORIZON.TV -- chan. (xmltv_id=HBO 2.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  41/197 ) HORIZON.TV -- chan. (xmltv_id=HBO 3.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  42/197 ) HORIZON.TV -- chan. (xmltv_id=Cinemax.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  43/197 ) HORIZON.TV -- chan. (xmltv_id=Cinemax 2.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  44/197 ) HORIZON.TV -- chan. (xmltv_id=Bollywood TV Film.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  45/197 ) HORIZON.TV -- chan. (xmltv_id=Bollywood Clasic.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  46/197 ) HORIZON.TV -- chan. (xmltv_id=Bollywood TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  47/197 ) HORIZON.TV -- chan. (xmltv_id=FilmBox Extra HDSD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  48/197 ) HORIZON.TV -- chan. (xmltv_id=FilmBox Family.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  49/197 ) HORIZON.TV -- chan. (xmltv_id=FilmBox Plus.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  50/197 ) HORIZON.TV -- chan. (xmltv_id=FilmBox Premium.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  51/197 ) HORIZON.TV -- chan. (xmltv_id=HBO HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  52/197 ) HORIZON.TV -- chan. (xmltv_id=FilmBox Extra HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  53/197 ) HORIZON.TV -- chan. (xmltv_id=Sundance HD.ro) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  54/197 ) HORIZON.TV -- chan. (xmltv_id=Bollywood HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  55/197 ) HORIZON.TV -- chan. (xmltv_id=Cinemax HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  56/197 ) HORIZON.TV -- chan. (xmltv_id=HBO 2 HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  57/197 ) HORIZON.TV -- chan. (xmltv_id=HBO 3 HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  58/197 ) HORIZON.TV -- chan. (xmltv_id=Eurosport 1 HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:01
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:01
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:31
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Volei: Campionatele Europene de volei pe plajă CEV la masculin"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Beach Volleyball – European Championship: Campionatele Europene de volei pe plajă CEV la masculin"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Volei: Campionatele Europene de volei pe plajă CEV la feminin"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Beach Volleyball – European Championship: Campionatele Europene de volei pe plajă CEV la feminin"
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  59/197 ) HORIZON.TV -- chan. (xmltv_id=Eurosport 2 HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:34
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:37
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:49
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:29
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  60/197 ) HORIZON.TV -- chan. (xmltv_id=PRO X HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  61/197 ) HORIZON.TV -- chan. (xmltv_id=Auto Motor Sport HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  62/197 ) HORIZON.TV -- chan. (xmltv_id=Look Plus HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  63/197 ) HORIZON.TV -- chan. (xmltv_id=Look HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  64/197 ) HORIZON.TV -- chan. (xmltv_id=Trace Sport Stars HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  65/197 ) HORIZON.TV -- chan. (xmltv_id=Trace Urban HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  66/197 ) HORIZON.TV -- chan. (xmltv_id=MyZen HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  67/197 ) HORIZON.TV -- chan. (xmltv_id=Motorvision HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  68/197 ) HORIZON.TV -- chan. (xmltv_id=TVR HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  69/197 ) HORIZON.TV -- chan. (xmltv_id=PRO TV HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  70/197 ) HORIZON.TV -- chan. (xmltv_id=Kanal D HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  71/197 ) HORIZON.TV -- chan. (xmltv_id=Antena 1 HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  72/197 ) HORIZON.TV -- chan. (xmltv_id=Antena 3 HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  73/197 ) HORIZON.TV -- chan. (xmltv_id=PRO 2 HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  74/197 ) HORIZON.TV -- chan. (xmltv_id=Happy Channel HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  75/197 ) HORIZON.TV -- chan. (xmltv_id=History HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  76/197 ) HORIZON.TV -- chan. (xmltv_id=National Geographic HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  77/197 ) HORIZON.TV -- chan. (xmltv_id=Nat Geo Wild HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  78/197 ) HORIZON.TV -- chan. (xmltv_id=Disc Showcase HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  79/197 ) HORIZON.TV -- chan. (xmltv_id=Animal Planet HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  80/197 ) HORIZON.TV -- chan. (xmltv_id=Travel HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  81/197 ) HORIZON.TV -- chan. (xmltv_id=Viasat NatureHistory HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  82/197 ) HORIZON.TV -- chan. (xmltv_id=Fashion TV HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  83/197 ) HORIZON.TV -- chan. (xmltv_id=Golf Channel.ro) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  84/197 ) HORIZON.TV -- chan. (xmltv_id=Taraf HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  85/197 ) HORIZON.TV -- chan. (xmltv_id=MTV Live HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  86/197 ) HORIZON.TV -- chan. (xmltv_id=Etno HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:29
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  87/197 ) HORIZON.TV -- chan. (xmltv_id=Mooz Dance HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  88/197 ) HORIZON.TV -- chan. (xmltv_id=Mezzo HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  89/197 ) HORIZON.TV -- chan. (xmltv_id=Arte HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  90/197 ) HORIZON.TV -- chan. (xmltv_id=PRO X.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  91/197 ) HORIZON.TV -- chan. (xmltv_id=Eurosport 1.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:01
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:01
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:31
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Volei: Campionatele Europene de volei pe plajă CEV la masculin"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Beach Volleyball – European Championship: Campionatele Europene de volei pe plajă CEV la masculin"
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]                        "Volei: Campionatele Europene de volei pe plajă CEV la feminin"
+[  Debug ]  (sub)detail title(s):
+[  Debug ]                        "Beach Volleyball – European Championship: Campionatele Europene de volei pe plajă CEV la feminin"
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  92/197 ) HORIZON.TV -- chan. (xmltv_id=Motorsport TV.ro) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  93/197 ) HORIZON.TV -- chan. (xmltv_id=Extreme Sports.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  94/197 ) HORIZON.TV -- chan. (xmltv_id=Nautical Channel.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  95/197 ) HORIZON.TV -- chan. (xmltv_id=Eurosport 2.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:34
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:37
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:49
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:29
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  96/197 ) HORIZON.TV -- chan. (xmltv_id=FishingHunting.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  97/197 ) HORIZON.TV -- chan. (xmltv_id=Trace Sport Stars.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  98/197 ) HORIZON.TV -- chan. (xmltv_id=Motorvision SD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  99/197 ) HORIZON.TV -- chan. (xmltv_id=Discovery Channel.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 100/197 ) HORIZON.TV -- chan. (xmltv_id=National Geographic.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 101/197 ) HORIZON.TV -- chan. (xmltv_id=CBS Reality.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 102/197 ) HORIZON.TV -- chan. (xmltv_id=ID.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 103/197 ) HORIZON.TV -- chan. (xmltv_id=CrimeInvestigation Network.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 104/197 ) HORIZON.TV -- chan. (xmltv_id=Animal Planet.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 105/197 ) HORIZON.TV -- chan. (xmltv_id=DTX.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 106/197 ) HORIZON.TV -- chan. (xmltv_id=Discovery Science.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 107/197 ) HORIZON.TV -- chan. (xmltv_id=Travel Mix.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 108/197 ) HORIZON.TV -- chan. (xmltv_id=Travel Channel.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 109/197 ) HORIZON.TV -- chan. (xmltv_id=Nat Geo Wild.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 110/197 ) HORIZON.TV -- chan. (xmltv_id=History Channel.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 111/197 ) HORIZON.TV -- chan. (xmltv_id=Da Vinci Learning.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 112/197 ) HORIZON.TV -- chan. (xmltv_id=Viasat Explore.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 113/197 ) HORIZON.TV -- chan. (xmltv_id=Viasat History.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 114/197 ) HORIZON.TV -- chan. (xmltv_id=Viasat Nature.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 115/197 ) HORIZON.TV -- chan. (xmltv_id=DoQ.ro) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 116/197 ) HORIZON.TV -- chan. (xmltv_id=Realitatea TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 117/197 ) HORIZON.TV -- chan. (xmltv_id=Antena 3.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 118/197 ) HORIZON.TV -- chan. (xmltv_id=România Tv.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 119/197 ) HORIZON.TV -- chan. (xmltv_id=B1.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 120/197 ) HORIZON.TV -- chan. (xmltv_id=Digi24.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 121/197 ) HORIZON.TV -- chan. (xmltv_id=Naşul TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 122/197 ) HORIZON.TV -- chan. (xmltv_id=Euronews.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:38
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:19
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:39
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:17
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:42
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:17
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:42
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 123/197 ) HORIZON.TV -- chan. (xmltv_id=CNN.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 124/197 ) HORIZON.TV -- chan. (xmltv_id=France 24.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:46
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 125/197 ) HORIZON.TV -- chan. (xmltv_id=CNBC.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 126/197 ) HORIZON.TV -- chan. (xmltv_id=Bloomberg.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 127/197 ) HORIZON.TV -- chan. (xmltv_id=Russia Today.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:29
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:29
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:29
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:29
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 128/197 ) HORIZON.TV -- chan. (xmltv_id=CGTN.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 129/197 ) HORIZON.TV -- chan. (xmltv_id=Al Jazeera English.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 130/197 ) HORIZON.TV -- chan. (xmltv_id=Al Jazeera Arabic.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 131/197 ) HORIZON.TV -- chan. (xmltv_id=Minimax.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 132/197 ) HORIZON.TV -- chan. (xmltv_id=Cartoon Network.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:18
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:48
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:58
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:09
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:31
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:42
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:53
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:16
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:27
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:38
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 133/197 ) HORIZON.TV -- chan. (xmltv_id=Disney Channel.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 134/197 ) HORIZON.TV -- chan. (xmltv_id=Megamax.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 135/197 ) HORIZON.TV -- chan. (xmltv_id=Boomerang.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:54
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:06
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:13
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:32
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:42
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:58
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:08
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:27
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:33
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:39
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:46
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:52
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:42
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:49
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:56
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 136/197 ) HORIZON.TV -- chan. (xmltv_id=Nickelodeon.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 137/197 ) HORIZON.TV -- chan. (xmltv_id=JimJam.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:48
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:11
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:22
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:33
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:39
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:51
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:08
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:16
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:24
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:32
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:38
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:44
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:57
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:37
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:57
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 138/197 ) HORIZON.TV -- chan. (xmltv_id=Disney Junior.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 139/197 ) HORIZON.TV -- chan. (xmltv_id=Baby TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:59
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:03
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:13
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:17
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:27
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:37
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:44
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:54
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:58
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:02
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:06
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:16
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:22
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:39
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:43
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:46
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:56
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:03
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:07
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:24
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:39
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:58
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 140/197 ) HORIZON.TV -- chan. (xmltv_id=Nickelodeon Jr.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 141/197 ) HORIZON.TV -- chan. (xmltv_id=Kiss TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 18:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 142/197 ) HORIZON.TV -- chan. (xmltv_id=VH1 Channel.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 143/197 ) HORIZON.TV -- chan. (xmltv_id=VH1 Classic.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 144/197 ) HORIZON.TV -- chan. (xmltv_id=MTV Rocks.ro) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 145/197 ) HORIZON.TV -- chan. (xmltv_id=MTV Hits.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 146/197 ) HORIZON.TV -- chan. (xmltv_id=MTV Dance.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 147/197 ) HORIZON.TV -- chan. (xmltv_id=ZU TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 13:02
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:02
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 148/197 ) HORIZON.TV -- chan. (xmltv_id=U TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 14:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 149/197 ) HORIZON.TV -- chan. (xmltv_id=Music Channel.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 150/197 ) HORIZON.TV -- chan. (xmltv_id=HT Music.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 151/197 ) HORIZON.TV -- chan. (xmltv_id=Mooz SD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 152/197 ) HORIZON.TV -- chan. (xmltv_id=Rock TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 17:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 153/197 ) HORIZON.TV -- chan. (xmltv_id=Magic TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 154/197 ) HORIZON.TV -- chan. (xmltv_id=Mezzo.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:05
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 155/197 ) HORIZON.TV -- chan. (xmltv_id=Favorit.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 12:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 156/197 ) HORIZON.TV -- chan. (xmltv_id=Etno.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:29
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 157/197 ) HORIZON.TV -- chan. (xmltv_id=Inedit TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 158/197 ) HORIZON.TV -- chan. (xmltv_id=Taraf TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 159/197 ) HORIZON.TV -- chan. (xmltv_id=Balkanika MTV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 16:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 160/197 ) HORIZON.TV -- chan. (xmltv_id=KBS HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 161/197 ) HORIZON.TV -- chan. (xmltv_id=TV5 Monde.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:49
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:16
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:19
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:46
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:13
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 162/197 ) HORIZON.TV -- chan. (xmltv_id=DW.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:02
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:02
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 163/197 ) HORIZON.TV -- chan. (xmltv_id=RTL Channel.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:27
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 164/197 ) HORIZON.TV -- chan. (xmltv_id=PRO 7.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 18:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 165/197 ) HORIZON.TV -- chan. (xmltv_id=SAT1.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 166/197 ) HORIZON.TV -- chan. (xmltv_id=Duna TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 167/197 ) HORIZON.TV -- chan. (xmltv_id=M2.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 168/197 ) HORIZON.TV -- chan. (xmltv_id=TV2.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 169/197 ) HORIZON.TV -- chan. (xmltv_id=ATV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:20
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 170/197 ) HORIZON.TV -- chan. (xmltv_id=Hír TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 171/197 ) HORIZON.TV -- chan. (xmltv_id=M1.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:20
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:02
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 172/197 ) HORIZON.TV -- chan. (xmltv_id=RTL II.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:15
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 173/197 ) HORIZON.TV -- chan. (xmltv_id=M4 Sport HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 174/197 ) HORIZON.TV -- chan. (xmltv_id=M4 Sport SD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 175/197 ) HORIZON.TV -- chan. (xmltv_id=TVE.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 176/197 ) HORIZON.TV -- chan. (xmltv_id=Rai Uno.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:45
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 177/197 ) HORIZON.TV -- chan. (xmltv_id=Film.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:25
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 178/197 ) HORIZON.TV -- chan. (xmltv_id=RTL Gold.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 179/197 ) HORIZON.TV -- chan. (xmltv_id=RTL .ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 180/197 ) HORIZON.TV -- chan. (xmltv_id=Sorozat.ro) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 181/197 ) HORIZON.TV -- chan. (xmltv_id=Cool TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 182/197 ) HORIZON.TV -- chan. (xmltv_id=RTL Klub.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:05
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:45
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 183/197 ) HORIZON.TV -- chan. (xmltv_id=Slager TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 184/197 ) HORIZON.TV -- chan. (xmltv_id=Muzsika TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 185/197 ) HORIZON.TV -- chan. (xmltv_id=Erdély TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 186/197 ) HORIZON.TV -- chan. (xmltv_id=TVH.ro) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 187/197 ) HORIZON.TV -- chan. (xmltv_id=Estrada TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 19:15
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 188/197 ) HORIZON.TV -- chan. (xmltv_id=Trinitas TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:40
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:55
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:10
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:25
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:59
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 189/197 ) HORIZON.TV -- chan. (xmltv_id=Speranţa TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:50
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 190/197 ) HORIZON.TV -- chan. (xmltv_id=Alfa Omega TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 191/197 ) HORIZON.TV -- chan. (xmltv_id=Credo TV.ro) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 192/197 ) HORIZON.TV -- chan. (xmltv_id=Agro TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:00
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 193/197 ) HORIZON.TV -- chan. (xmltv_id=Hustler TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 194/197 ) HORIZON.TV -- chan. (xmltv_id=Private TV.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 18:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:55
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 195/197 ) HORIZON.TV -- chan. (xmltv_id=Penthouse HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 196/197 ) HORIZON.TV -- chan. (xmltv_id=Hustler HD.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:30
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 197/197 ) HORIZON.TV -- chan. (xmltv_id=Penthouse HD1.ro) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 20:48
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:12
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 21:35
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:00
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:21
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 22:47
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:12
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:34
+[  Debug ]    skipped : show that happened before 'today' @ 15/08/2019 23:56
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Debug ]    suspicious      title in index page
+[  Debug ] Can't match any (sub)detail title(s) with any index title(s):
+[  Debug ]        index title(s):
+[  Debug ]  (sub)detail title(s):
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 5710 shows in 197 channels
+[  Debug ] 0 updated shows
+[  Debug ] 5710 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 16/08/2019 13:05:06 done in 58m 1s
+[  Debug ] statistics upload error: Uzak sunucu hata döndürdü: (404) Bulunamadı.

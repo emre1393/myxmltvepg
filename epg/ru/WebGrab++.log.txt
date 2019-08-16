@@ -1,0 +1,942 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.10.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 16/08/2019 13:05:14
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: D:\xiaomi\epg\ru\WebGrab++.config.xml
+[  Debug ] 
+[  Info  ] found: D:\xiaomi\epg\ru\tv.mail.ru.ini -- Revision 03
+[  Debug ] xmltv input file - D:\xiaomi\epg\merged\xmltv.ru.xml - found
+[  Debug ] 64 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=Первый.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Россия 1.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=НТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ТВ Центр.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Культура.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МАТЧ!.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=СТС.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=РЕН ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ТНТ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Dомашний.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Че.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ТВ-3.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Звезда.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=5 канал.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ю.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Пятница.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Канал Disney.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=2x2.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МИР.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Карусель.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ТНТ4.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Супер.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Общественное телевидение России.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Спас ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МИР PREMIUM.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Россия 24.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Москва-24.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Москва. Доверие.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Семья.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ВКТ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Первый Мытищинский.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Башкортостан 24.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Балашиха ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Солнечногорское TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV XXI.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=КИНОСЕМЬЯ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Paramount Comedy Russia.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=НАШЕ НОВОЕ КИНО.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=КИНОСЕРИЯ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=AMC.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Настоящее Страшное Телевидение.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fox Life.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Русский Иллюзион.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Иллюзион +.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=КИНОКОМЕДИЯ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=SONY ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Zee-TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=РОДНОЕ КИНО.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=КИНОМИКС.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=КИНОСВИДАНИЕ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Дом кино.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=КИНОХИТ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=SONY Sci-Fi.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=КИНОПРЕМЬЕРА.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sony Turbo.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Еврокино.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Paramount Channel.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Дом Кино Премиум.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Комедия.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurochannel.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Vintage.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Наше ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sony Channel.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Теленовелла.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Мир сериалов.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Калейдоскоп ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Открытый мир.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Пес и Ко.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Кинопоказ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Феникс+Кино.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=РТВ - Любимое кино.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=РТВ - Наше кино.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Русский бестселлер.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Русский роман.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Поехали!.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=360° Новости.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Кино ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Дорама.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Russia Hualiang TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=RUSSIAN MUSICBOX HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Наше Любимое.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=НТВ Право.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=НТВ Сериал.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Продвижение.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Классика Кино.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Неизвестная Планета.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ратник.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Большая Азия.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Любимое.ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ТВТУР.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Маруся ФМ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=НТВ Хит.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Радио Страна ФМ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=КБС Рус.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Новый мир.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRICK.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Центральное телевидение.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=CCTV4.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Spike.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Дикий.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Тномер.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Точка отрыва.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Star Cinema.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Star Family.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=BOLT.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Советское кино.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Русский Детектив.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=БУМ ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=RT Arabic.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=HOME 4K.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Rai 1.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Тайна.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV BRICS.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Detektive TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Наш Детектив.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Наш Кинороман.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Альянс ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVRUS.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=SHANT Premium.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Russia Today Doc (RT Doc).ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МУЖСКОЕ КИНО.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Noise.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=FilmBox Arthouse.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=7 TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 1.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 2.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport News.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МАТЧ! ФУТБОЛ 1.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МАТЧ! ФУТБОЛ 2.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МАТЧ! ФУТБОЛ 3.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Русский Экстрим.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Телеканал КХЛ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Футбол.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Extreme Sports.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МАТЧ! БОЕЦ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МАТЧ! НАШ СПОРТ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МАТЧ! ИГРА.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МАТЧ! АРЕНА.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МАТЧ ПРЕМЬЕР.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat Sport.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Морской.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat Golf.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Старт.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Моторспорт ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport Gold.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 4K.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=FightBox.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=M-1 GLOBAL.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Бокс ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=РБК.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Russia Today.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC World.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC Entertainment.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=NHK WORLD-JAPAN.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNN (eng).ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNN.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=NewsOne.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Deutsche Welle.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Евроновости.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNBC.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Deutsche Welle (deu).ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МИР 24.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=PRO Business.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ЧП.Info.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Дождь.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Время.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=France 24.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=БелРос.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Коммерсант ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Эхо TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bloomberg.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Первый метео.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=France 24 (fr).ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Известия.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Deutsche Welle (Rus).ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTД.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Хабар 24.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Вместе-РФ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=CGTN.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=RT Espanol.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery Channel.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Animal Planet.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery Science.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Доктор.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Моя Планета.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=History.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat History.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat Nature.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat Explore.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Кто есть кто.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=365 дней ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Совершенно секретно.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Психология 21.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat History HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Russian Travel Guide International.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Наука.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Зоо ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nat Geo WILD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Вопросы и ответы.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Da Vinci.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ocean TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Zooпарк.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=History-viasat (eng).ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery channel Центральная Европа.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Нано.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Живая планета.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Первый образовательный.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Просвещение.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Тайны галактики.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=История.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ЕГЭ ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Московский образовательный.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Синергия ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=NANO HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=В мире животных.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Rocks International.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Dance International.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Hits International.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=VH1 European.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=VH1 Classic.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=BRIDGE TV DANCE.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Россия.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=MCM TOP.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=BRIDGE TV Русский Хит.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=C Music TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=BRIDGE TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ля-минор ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=О2ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=RAP.RU.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=BizTV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=MusicBox TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Музыка Первого.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МУЗ ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=RUSSIAN MUSICBOX.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Шансон-TB.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mezzo.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ТНТ MUSIC.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ru.TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=RE:Music.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Stingray iConcerts.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Europa Plus TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=A-ONE Hip-Hop.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=FRESHTV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Festival 4K.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Жар Птица.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Восток ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Мультимузыка.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=BRIDGE TV CLASSIC.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=SONG TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Clubbing TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=360 TuneBox.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Матур ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МузСоюз.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=HITV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=JuCe TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TLC.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ностальгия.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Food Network.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Диалоги о рыбалке.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV5MONDE.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ретро.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Техно 24.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ЕДА.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Усадьба.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Загородная жизнь.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Здоровое ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fashion TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Outdoor Channel.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Оружие.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Охота и рыбалка.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Russian Travel Guide.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Драйв.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fashion One.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Театр.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=CBS Reality.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Охотник и Рыболов.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Здоровье.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Телепутешествия.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=World Fashion Channel.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Жара.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ЖИВИ!.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Загородный.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Travel Channel.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Мужской.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Кухня ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Авто Плюс.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=E TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Охотник и Рыболов Int.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Союз.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Конный мир.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Телекафе.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=DTX.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Твой Дом.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=National Geographic.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Домашние животные.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=English Club TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=C4K360.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Chasse & Peche.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Travel+Adventure.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Мир Увлечений.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Загородный Int.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Дайвинг.TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Foodman.club.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Вкусное TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Бобер.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Анекдот ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Первый вегетарианский.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=БАЛАНС-ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=4K Fashion TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Глазами туриста.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fashion One 4K.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=НТВ Стиль.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=КВН ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=World Business Channel.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Детский мир.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cartoon Network.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nickelodeon.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Радость Моя.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=JimJam.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Детский.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Gulli Girl.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TiJi.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Мультимания.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Boomerang.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Baby TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nick Jr.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Рыжий.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Советские мультфильмы.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Мульт.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Малыш.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=О!.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Смайлик ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Сказки Зайки.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=В гостях у сказки.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Пингвин Лоло.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ani.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Россия 1 HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Первый HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mezzo Live HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Luxe HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=HDL.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fashion TV HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Еда Премиум.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Кинопоказ HD-2.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nat Geo Wild HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Приключения HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=HD Медиа.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=National Geographic HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Animal Planet HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Travel Channel HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fashion One HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=MGM HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Travel+Adventure HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Live International HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fox Life HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nickelodeon HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trace Sports HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 1 HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Телеканал КХЛ HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Outdoor HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Дождь HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=SONY ТВ HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Arte HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Amedia Premium HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=МАТЧ! АРЕНА HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Food Network HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ТНТ HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Телеканал 360° HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ViP Megahit.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ViP Premiere.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ViP Comedy.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Русский роман HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat Nature/History HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat Golf HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat Sport HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Museum HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Insight Ultra HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fuel TV HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Охотник и Рыболов HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Paramount Channel HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Paramount Comedy Russia HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Russian Travel Guide HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Кино ТВ HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Остросюжетное HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Авто24 HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Планета HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Slow HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=H2 HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Дикая Рыбалка HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Дикая Охота HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport Gold HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Сериал Ultra HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Кино Ultra HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=СТС Kids HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=History HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ТЛУМ HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Candy TV HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Candy 3D HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=BRIDGE HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=КиноПремиум HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hustler HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Шалун HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fashion Box HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fast & FunBox HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Романтичное HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Эврика HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTД HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=1 HD Music Television.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ginger HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Живая природа HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bollywood HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Страшное HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Мультик HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=DocuBox HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=FilmBox HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=HD Media 3D.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Russian Extreme ULTRA HD.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Russian Extreme TV ULTRA HD CINEMA.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=O-la-la.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Hustler TV Europe.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Private TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Русская ночь.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Blue Hustler.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Playboy TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Brazzers TV Europe.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Blue Hustler 24.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=French Lover.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Candy TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Candy Man.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Erox.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Barely legal.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Babes TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Шалун.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Беларусь 24.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cinema.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Мама.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Три Ангела.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Luxe.TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV Sale.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV Mall.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Домашний Магазин.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=CGTN Русский.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Эгоист ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Shop24.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fine Living Network.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Shopping Live.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=РазТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV club.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Top Shop TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ТНВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Теледом.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ЮМОР TV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TDK.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Успех.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ТНВ-планета.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Global Star.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Сарафан.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=myZen.tv.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=8 Канал.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=LUXURY.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ID Investigation Discovery.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=JSTV.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=R1.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Живая природа.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ТБН.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVM Channel.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Надежда.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=ЛДПР ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Война & Мир.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Твой.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Точка ТВ.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Красная линия.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ювелирочка.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=РЖД.ru) in the config file
+[  Info  ] Found existing channel (xmltv_id=Arirang TV.ru) in the config file
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 476 - out of - 476 - channels for 1 day(s)
+[  Debug ] 
+[  Info  ] (   1/476 ) TV.MAIL.RU -- chan. (xmltv_id=Первый.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/476 ) TV.MAIL.RU -- chan. (xmltv_id=Россия 1.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/476 ) TV.MAIL.RU -- chan. (xmltv_id=НТВ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/476 ) TV.MAIL.RU -- chan. (xmltv_id=ТВ Центр.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/476 ) TV.MAIL.RU -- chan. (xmltv_id=Культура.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/476 ) TV.MAIL.RU -- chan. (xmltv_id=МАТЧ!.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/476 ) TV.MAIL.RU -- chan. (xmltv_id=СТС.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/476 ) TV.MAIL.RU -- chan. (xmltv_id=РЕН ТВ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/476 ) TV.MAIL.RU -- chan. (xmltv_id=ТНТ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  10/476 ) TV.MAIL.RU -- chan. (xmltv_id=Dомашний.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/476 ) TV.MAIL.RU -- chan. (xmltv_id=Че.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/476 ) TV.MAIL.RU -- chan. (xmltv_id=ТВ-3.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/476 ) TV.MAIL.RU -- chan. (xmltv_id=Звезда.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  14/476 ) TV.MAIL.RU -- chan. (xmltv_id=5 канал.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  15/476 ) TV.MAIL.RU -- chan. (xmltv_id=Ю.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  16/476 ) TV.MAIL.RU -- chan. (xmltv_id=Пятница.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  17/476 ) TV.MAIL.RU -- chan. (xmltv_id=Канал Disney.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  18/476 ) TV.MAIL.RU -- chan. (xmltv_id=2x2.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  19/476 ) TV.MAIL.RU -- chan. (xmltv_id=МИР.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  20/476 ) TV.MAIL.RU -- chan. (xmltv_id=Карусель.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  21/476 ) TV.MAIL.RU -- chan. (xmltv_id=ТНТ4.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  22/476 ) TV.MAIL.RU -- chan. (xmltv_id=Супер.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  23/476 ) TV.MAIL.RU -- chan. (xmltv_id=Общественное телевидение России.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  24/476 ) TV.MAIL.RU -- chan. (xmltv_id=Спас ТВ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  25/476 ) TV.MAIL.RU -- chan. (xmltv_id=МИР PREMIUM.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  26/476 ) TV.MAIL.RU -- chan. (xmltv_id=Россия 24.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  27/476 ) TV.MAIL.RU -- chan. (xmltv_id=Москва-24.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  28/476 ) TV.MAIL.RU -- chan. (xmltv_id=Москва. Доверие.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  29/476 ) TV.MAIL.RU -- chan. (xmltv_id=Семья.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  30/476 ) TV.MAIL.RU -- chan. (xmltv_id=ВКТ.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  31/476 ) TV.MAIL.RU -- chan. (xmltv_id=Первый Мытищинский.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  32/476 ) TV.MAIL.RU -- chan. (xmltv_id=Башкортостан 24.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/476 ) TV.MAIL.RU -- chan. (xmltv_id=Балашиха ТВ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/476 ) TV.MAIL.RU -- chan. (xmltv_id=Солнечногорское TV.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/476 ) TV.MAIL.RU -- chan. (xmltv_id=TV XXI.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  36/476 ) TV.MAIL.RU -- chan. (xmltv_id=КИНОСЕМЬЯ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  37/476 ) TV.MAIL.RU -- chan. (xmltv_id=Paramount Comedy Russia.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  38/476 ) TV.MAIL.RU -- chan. (xmltv_id=НАШЕ НОВОЕ КИНО.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  39/476 ) TV.MAIL.RU -- chan. (xmltv_id=КИНОСЕРИЯ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  40/476 ) TV.MAIL.RU -- chan. (xmltv_id=AMC.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  41/476 ) TV.MAIL.RU -- chan. (xmltv_id=Настоящее Страшное Телевидение.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  42/476 ) TV.MAIL.RU -- chan. (xmltv_id=Fox Life.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  43/476 ) TV.MAIL.RU -- chan. (xmltv_id=Русский Иллюзион.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  44/476 ) TV.MAIL.RU -- chan. (xmltv_id=Иллюзион +.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  45/476 ) TV.MAIL.RU -- chan. (xmltv_id=КИНОКОМЕДИЯ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  46/476 ) TV.MAIL.RU -- chan. (xmltv_id=SONY ТВ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  47/476 ) TV.MAIL.RU -- chan. (xmltv_id=Zee-TV.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  48/476 ) TV.MAIL.RU -- chan. (xmltv_id=РОДНОЕ КИНО.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  49/476 ) TV.MAIL.RU -- chan. (xmltv_id=КИНОМИКС.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  50/476 ) TV.MAIL.RU -- chan. (xmltv_id=КИНОСВИДАНИЕ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  51/476 ) TV.MAIL.RU -- chan. (xmltv_id=Дом кино.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  52/476 ) TV.MAIL.RU -- chan. (xmltv_id=КИНОХИТ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  53/476 ) TV.MAIL.RU -- chan. (xmltv_id=SONY Sci-Fi.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  54/476 ) TV.MAIL.RU -- chan. (xmltv_id=КИНОПРЕМЬЕРА.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  55/476 ) TV.MAIL.RU -- chan. (xmltv_id=Sony Turbo.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  56/476 ) TV.MAIL.RU -- chan. (xmltv_id=Еврокино.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  57/476 ) TV.MAIL.RU -- chan. (xmltv_id=Paramount Channel.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  58/476 ) TV.MAIL.RU -- chan. (xmltv_id=Дом Кино Премиум.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  59/476 ) TV.MAIL.RU -- chan. (xmltv_id=Комедия.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  60/476 ) TV.MAIL.RU -- chan. (xmltv_id=Eurochannel.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  61/476 ) TV.MAIL.RU -- chan. (xmltv_id=Vintage.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  62/476 ) TV.MAIL.RU -- chan. (xmltv_id=Наше ТВ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  63/476 ) TV.MAIL.RU -- chan. (xmltv_id=Sony Channel.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  64/476 ) TV.MAIL.RU -- chan. (xmltv_id=Теленовелла.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  65/476 ) TV.MAIL.RU -- chan. (xmltv_id=Мир сериалов.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  66/476 ) TV.MAIL.RU -- chan. (xmltv_id=Калейдоскоп ТВ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  67/476 ) TV.MAIL.RU -- chan. (xmltv_id=Открытый мир.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  68/476 ) TV.MAIL.RU -- chan. (xmltv_id=Пес и Ко.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  69/476 ) TV.MAIL.RU -- chan. (xmltv_id=Кинопоказ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  70/476 ) TV.MAIL.RU -- chan. (xmltv_id=Феникс+Кино.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  71/476 ) TV.MAIL.RU -- chan. (xmltv_id=РТВ - Любимое кино.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  72/476 ) TV.MAIL.RU -- chan. (xmltv_id=РТВ - Наше кино.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  73/476 ) TV.MAIL.RU -- chan. (xmltv_id=Русский бестселлер.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  74/476 ) TV.MAIL.RU -- chan. (xmltv_id=Русский роман.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  75/476 ) TV.MAIL.RU -- chan. (xmltv_id=Поехали!.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  76/476 ) TV.MAIL.RU -- chan. (xmltv_id=360° Новости.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  77/476 ) TV.MAIL.RU -- chan. (xmltv_id=Кино ТВ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  78/476 ) TV.MAIL.RU -- chan. (xmltv_id=Дорама.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  79/476 ) TV.MAIL.RU -- chan. (xmltv_id=Russia Hualiang TV.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  80/476 ) TV.MAIL.RU -- chan. (xmltv_id=RUSSIAN MUSICBOX HD.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  81/476 ) TV.MAIL.RU -- chan. (xmltv_id=Наше Любимое.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  82/476 ) TV.MAIL.RU -- chan. (xmltv_id=НТВ Право.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  83/476 ) TV.MAIL.RU -- chan. (xmltv_id=НТВ Сериал.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  84/476 ) TV.MAIL.RU -- chan. (xmltv_id=Продвижение.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  85/476 ) TV.MAIL.RU -- chan. (xmltv_id=Классика Кино.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  86/476 ) TV.MAIL.RU -- chan. (xmltv_id=Неизвестная Планета.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  87/476 ) TV.MAIL.RU -- chan. (xmltv_id=Ратник.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  88/476 ) TV.MAIL.RU -- chan. (xmltv_id=Большая Азия.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  89/476 ) TV.MAIL.RU -- chan. (xmltv_id=Любимое.ТВ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  90/476 ) TV.MAIL.RU -- chan. (xmltv_id=ТВТУР.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  91/476 ) TV.MAIL.RU -- chan. (xmltv_id=Маруся ФМ.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  92/476 ) TV.MAIL.RU -- chan. (xmltv_id=НТВ Хит.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  93/476 ) TV.MAIL.RU -- chan. (xmltv_id=Радио Страна ФМ.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  94/476 ) TV.MAIL.RU -- chan. (xmltv_id=КБС Рус.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  95/476 ) TV.MAIL.RU -- chan. (xmltv_id=Новый мир.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  96/476 ) TV.MAIL.RU -- chan. (xmltv_id=TRICK.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  97/476 ) TV.MAIL.RU -- chan. (xmltv_id=Центральное телевидение.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  98/476 ) TV.MAIL.RU -- chan. (xmltv_id=CCTV4.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  99/476 ) TV.MAIL.RU -- chan. (xmltv_id=Spike.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 100/476 ) TV.MAIL.RU -- chan. (xmltv_id=Дикий.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 101/476 ) TV.MAIL.RU -- chan. (xmltv_id=Тномер.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 102/476 ) TV.MAIL.RU -- chan. (xmltv_id=Точка отрыва.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 103/476 ) TV.MAIL.RU -- chan. (xmltv_id=Star Cinema.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 104/476 ) TV.MAIL.RU -- chan. (xmltv_id=Star Family.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 105/476 ) TV.MAIL.RU -- chan. (xmltv_id=BOLT.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 106/476 ) TV.MAIL.RU -- chan. (xmltv_id=Советское кино.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 107/476 ) TV.MAIL.RU -- chan. (xmltv_id=Русский Детектив.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 108/476 ) TV.MAIL.RU -- chan. (xmltv_id=БУМ ТВ.ru) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 109/476 ) TV.MAIL.RU -- chan. (xmltv_id=RT Arabic.ru) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 110/476 ) TV.MAIL.RU -- chan. (xmltv_id=HOME 4K.ru) -- mode Force

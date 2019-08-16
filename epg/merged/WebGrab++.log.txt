@@ -1,0 +1,49 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.10.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 16/08/2019 13:13:59
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: D:\xiaomi\epg\merged\WebGrab++.config.xml
+[  Debug ] 
+[  Info  ] found: D:\xiaomi\epg\merged\merge-xmltv.ini -- Revision 03
+[Warning ] 
+[Warning ] !! SiteIni merge-xmltv.ini in channelfile creation mode !!!
+[Warning ] 
+[  Debug ] xmltv input file - D:\xiaomi\epg\merged\guide.xml - found
+[  Debug ] 0 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=dummy) in the config file
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 1 - out of - 1 - channels for 1 day(s)
+[  Debug ] 
+[  Info  ] (   1/1   ) MERGE-XMLTV -- chan. (xmltv_id=dummy) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       dummy
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Debug ] 0 shows in 1 channels
+[  Debug ] 0 updated shows
+[  Debug ] 0 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 16/08/2019 13:14:09 done in 10s
+[  Debug ] statistics upload error: Uzak sunucu hata döndürdü: (404) Bulunamadı.

@@ -238,11 +238,11 @@
   <channel update="i" site="directv.com" site_id="387" xmltv_id="A Wealth of Entertainment HD.us">A Wealth of Entertainment HD</channel>
   <channel update="i" site="directv.com" site_id="388" xmltv_id="JBS.us">JBS</channel>
   <channel update="i" site="directv.com" site_id="389" xmltv_id="PBSNET.us">PBSNET</channel>
-  <channel update="i" site="directv.com" site_id="390" xmltv_id="WCBS CBS HD East.us">WCBS</channel>
-  <channel update="i" site="directv.com" site_id="392" xmltv_id="WNBC NBC HD East.us">WNBC</channel>
-  <channel update="i" site="directv.com" site_id="394" xmltv_id="WDCW CW.us">WDCW</channel>
-  <channel update="i" site="directv.com" site_id="396" xmltv_id="WABC ABC HD East.us">WABC</channel>
-  <channel update="i" site="directv.com" site_id="398" xmltv_id="WNYW FOX HD East.us">WNYW</channel>
+  <channel update="i" site="directv.com" site_id="390" xmltv_id="WCBS CBS HD East.us">WCBS CBS HD East</channel>
+  <channel update="i" site="directv.com" site_id="392" xmltv_id="WNBC NBC HD East.us">WNBC NBC HD East</channel>
+  <channel update="i" site="directv.com" site_id="394" xmltv_id="WDCW CW.us">WDCW CW</channel>
+  <channel update="i" site="directv.com" site_id="396" xmltv_id="WABC ABC HD East.us">WABC ABC HD East</channel>
+  <channel update="i" site="directv.com" site_id="398" xmltv_id="WNYW FOX HD East.us">WNYW FOX HD East</channel>
   <channel update="i" site="directv.com" site_id="400" xmltv_id="DTV Cinema 400.us">DTV Cinema 400</channel>
   <channel update="i" site="directv.com" site_id="401" xmltv_id="Aqui.us">Aqui</channel>
   <channel update="i" site="directv.com" site_id="402" xmltv_id="Univision East HD.us">Univision East HD</channel>

@@ -61,21 +61,14 @@
     <channel update="i" site="vodafone.de" site_id="5428" xmltv_id="NDR FS SH HD.de">NDR FS SH HD</channel>
     <channel update="i" site="vodafone.de" site_id="121" xmltv_id="COMEDY CENTRAL / VIVA.de">COMEDY CENTRAL / VIVA</channel>
     <channel update="i" site="vodafone.de" site_id="105" xmltv_id="TELE 5.de">TELE 5</channel>
-    <channel update="i" site="vodafone.de" site_id="931" xmltv_id="Disney Channel.de">Disney Channel</channel>
     <channel update="i" site="vodafone.de" site_id="955" xmltv_id="One.de">One</channel>
-    <channel update="i" site="vodafone.de" site_id="4130" xmltv_id="ZDFneo.de">ZDFneo</channel>
     <channel update="i" site="vodafone.de" site_id="1562" xmltv_id="AstroTV.de">AstroTV</channel>
-    <channel update="i" site="vodafone.de" site_id="30774" xmltv_id="RTLplus.de">RTLplus</channel>
-    <channel update="i" site="vodafone.de" site_id="5602" xmltv_id="SAT.1 Gold.de">SAT.1 Gold</channel>
-    <channel update="i" site="vodafone.de" site_id="9159" xmltv_id="ProSieben MAXX.de">ProSieben MAXX</channel>
     <channel update="i" site="vodafone.de" site_id="23939" xmltv_id="TLC.de">TLC</channel>
     <channel update="i" site="vodafone.de" site_id="3877" xmltv_id="ANIXE SD.de">ANIXE SD</channel>
     <channel update="i" site="vodafone.de" site_id="4637" xmltv_id="sixx HD.de">sixx HD</channel>
     <channel update="i" site="vodafone.de" site_id="5479" xmltv_id="RTL NITRO HD.de">RTL NITRO HD</channel>
     <channel update="i" site="vodafone.de" site_id="4731" xmltv_id="E! Entertainment.de">E! Entertainment</channel>
-    <channel update="i" site="vodafone.de" site_id="16018" xmltv_id="MTV.de">MTV</channel>
     <channel update="i" site="vodafone.de" site_id="1513" xmltv_id="Bon Gusto.de">Bon Gusto</channel>
-    <channel update="i" site="vodafone.de" site_id="718" xmltv_id="RTL Living.de">RTL Living</channel>
     <channel update="i" site="vodafone.de" site_id="4740" xmltv_id="TELE 5 HD.de">TELE 5 HD</channel>
     <channel update="i" site="vodafone.de" site_id="4633" xmltv_id="MTV HD.de">MTV HD</channel>
     <channel update="i" site="vodafone.de" site_id="4640" xmltv_id="COMEDY CENTRAL/VIVA HD.de">COMEDY CENTRAL/VIVA HD</channel>
@@ -100,15 +93,10 @@
     <channel update="i" site="vodafone.de" site_id="1565" xmltv_id="Juwelo TV.de">Juwelo TV</channel>
     <channel update="i" site="vodafone.de" site_id="23944" xmltv_id="HSE24 EXTRA.de">HSE24 EXTRA</channel>
     <channel update="i" site="vodafone.de" site_id="23942" xmltv_id="QVC2.de">QVC2</channel>
-    <channel update="i" site="vodafone.de" site_id="3865" xmltv_id="13th Street.de">13th Street</channel>
     <channel update="i" site="vodafone.de" site_id="16021" xmltv_id="eoTV.de">eoTV</channel>
-    <channel update="i" site="vodafone.de" site_id="844" xmltv_id="KinoweltTV.de">KinoweltTV</channel>
     <channel update="i" site="vodafone.de" site_id="847" xmltv_id="AXN.de">AXN</channel>
     <channel update="i" site="vodafone.de" site_id="838" xmltv_id="Silverline.de">Silverline</channel>
     <channel update="i" site="vodafone.de" site_id="701" xmltv_id="kabel eins CLASSICS.de">kabel eins CLASSICS</channel>
-    <channel update="i" site="vodafone.de" site_id="4945" xmltv_id="TNT Comedy.de">TNT Comedy</channel>
-    <channel update="i" site="vodafone.de" site_id="717" xmltv_id="TNT Film.de">TNT Film</channel>
-    <channel update="i" site="vodafone.de" site_id="3906" xmltv_id="TNT Serie.de">TNT Serie</channel>
     <channel update="i" site="vodafone.de" site_id="3805" xmltv_id="Romance TV.de">Romance TV</channel>
     <channel update="i" site="vodafone.de" site_id="4277" xmltv_id="TNT Film HD.de">TNT Film HD</channel>
     <channel update="i" site="vodafone.de" site_id="4276" xmltv_id="TNT Serie HD.de">TNT Serie HD</channel>
@@ -130,12 +118,9 @@
     <channel update="i" site="vodafone.de" site_id="9161" xmltv_id="Sport1 US HD.de">Sport1 US HD</channel>
     <channel update="i" site="vodafone.de" site_id="24487" xmltv_id="sportdigital HD.de">sportdigital HD</channel>
     <channel update="i" site="vodafone.de" site_id="57" xmltv_id="ARD-alpha.de">ARD-alpha</channel>
-    <channel update="i" site="vodafone.de" site_id="227" xmltv_id="DMAX.de">DMAX</channel>
-    <channel update="i" site="vodafone.de" site_id="937" xmltv_id="PLANET.de">PLANET</channel>
     <channel update="i" site="vodafone.de" site_id="23072" xmltv_id="Welt der Wunder.de">Welt der Wunder</channel>
     <channel update="i" site="vodafone.de" site_id="16002" xmltv_id="kabel eins Doku.de">kabel eins Doku</channel>
     <channel update="i" site="vodafone.de" site_id="16023" xmltv_id="health tv.de">health tv</channel>
-    <channel update="i" site="vodafone.de" site_id="854" xmltv_id="HISTORY.de">HISTORY</channel>
     <channel update="i" site="vodafone.de" site_id="721" xmltv_id="A&amp;E.de">A&amp;E</channel>
     <channel update="i" site="vodafone.de" site_id="4723" xmltv_id="SPIEGEL TV WISSEN.de">SPIEGEL TV WISSEN</channel>
     <channel update="i" site="vodafone.de" site_id="5445" xmltv_id="DMAX HD.de">DMAX HD</channel>
@@ -148,8 +133,6 @@
     <channel update="i" site="vodafone.de" site_id="30008" xmltv_id="Discovery HD (KD).de">Discovery HD (KD)</channel>
     <channel update="i" site="vodafone.de" site_id="16014" xmltv_id="GEO TV HD.de">GEO TV HD</channel>
     <channel update="i" site="vodafone.de" site_id="837" xmltv_id="Bibel TV.de">Bibel TV</channel>
-    <channel update="i" site="vodafone.de" site_id="7" xmltv_id="n-tv.de">n-tv</channel>
-    <channel update="i" site="vodafone.de" site_id="206" xmltv_id="PHOENIX.de">PHOENIX</channel>
     <channel update="i" site="vodafone.de" site_id="953" xmltv_id="WELT.de">WELT</channel>
     <channel update="i" site="vodafone.de" site_id="962" xmltv_id="tagesschau24.de">tagesschau24</channel>
     <channel update="i" site="vodafone.de" site_id="963" xmltv_id="ZDFinfo.de">ZDFinfo</channel>
@@ -161,7 +144,6 @@
     <channel update="i" site="vodafone.de" site_id="5429" xmltv_id="PHOENIX HD.de">PHOENIX HD</channel>
     <channel update="i" site="vodafone.de" site_id="9286" xmltv_id="n-tv HD.de">n-tv HD</channel>
     <channel update="i" site="vodafone.de" site_id="9615" xmltv_id="Bibel TV HD.de">Bibel TV HD</channel>
-    <channel update="i" site="vodafone.de" site_id="179" xmltv_id="SUPER RTL.de">SUPER RTL</channel>
     <channel update="i" site="vodafone.de" site_id="63" xmltv_id="KiKA.de">KiKA</channel>
     <channel update="i" site="vodafone.de" site_id="16001" xmltv_id="TOGGO plus.de">TOGGO plus</channel>
     <channel update="i" site="vodafone.de" site_id="4942" xmltv_id="SUPER RTL HD.de">SUPER RTL HD</channel>
@@ -173,7 +155,6 @@
     <channel update="i" site="vodafone.de" site_id="9289" xmltv_id="Disney Jr. HD.de">Disney Jr. HD</channel>
     <channel update="i" site="vodafone.de" site_id="9290" xmltv_id="Disney XD HD.de">Disney XD HD</channel>
     <channel update="i" site="vodafone.de" site_id="9319" xmltv_id="Deutsches Musik Fernsehen.de">Deutsches Musik Fernsehen</channel>
-    <channel update="i" site="vodafone.de" site_id="3800" xmltv_id="DELUXE MUSIC.de">DELUXE MUSIC</channel>
     <channel update="i" site="vodafone.de" site_id="9095" xmltv_id="Deluxe Music HD.de">Deluxe Music HD</channel>
     <channel update="i" site="vodafone.de" site_id="4291" xmltv_id="MTV Brand New.de">MTV Brand New</channel>
     <channel update="i" site="vodafone.de" site_id="1508" xmltv_id="Gute Laune TV.de">Gute Laune TV</channel>
@@ -231,16 +212,13 @@
     <channel update="i" site="vodafone.de" site_id="4096" xmltv_id="Sky Cinema Comedy.de">Sky Cinema Comedy</channel>
     <channel update="i" site="vodafone.de" site_id="4097" xmltv_id="Sky Cinema Emotion.de">Sky Cinema Emotion</channel>
     <channel update="i" site="vodafone.de" site_id="940" xmltv_id="Sky Cinema Nostalgie.de">Sky Cinema Nostalgie</channel>
-    <channel update="i" site="vodafone.de" site_id="4098" xmltv_id="Disney Cinemagic.de">Disney Cinemagic</channel>
     <channel update="i" site="vodafone.de" site_id="4099" xmltv_id="NatGeo HD.de">NatGeo HD</channel>
     <channel update="i" site="vodafone.de" site_id="4736" xmltv_id="NatGeo Wild HD.de">NatGeo Wild HD</channel>
     <channel update="i" site="vodafone.de" site_id="895" xmltv_id="Discovery HD.de">Discovery HD</channel>
     <channel update="i" site="vodafone.de" site_id="16004" xmltv_id="Sky1.de">Sky1</channel>
     <channel update="i" site="vodafone.de" site_id="936" xmltv_id="Sky Krimi.de">Sky Krimi</channel>
-    <channel update="i" site="vodafone.de" site_id="719" xmltv_id="RTL Crime.de">RTL Crime</channel>
     <channel update="i" site="vodafone.de" site_id="720" xmltv_id="RTL Passion.de">RTL Passion</channel>
     <channel update="i" site="vodafone.de" site_id="27323" xmltv_id="Fox Serie.de">Fox Serie</channel>
-    <channel update="i" site="vodafone.de" site_id="934" xmltv_id="SYFY.de">SYFY</channel>
     <channel update="i" site="vodafone.de" site_id="944" xmltv_id="Beate-Uhse.TV.de">Beate-Uhse.TV</channel>
     <channel update="i" site="vodafone.de" site_id="916" xmltv_id="Heimatkanal.de">Heimatkanal</channel>
     <channel update="i" site="vodafone.de" site_id="975" xmltv_id="Goldstar TV.de">Goldstar TV</channel>

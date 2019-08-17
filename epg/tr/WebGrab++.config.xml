@@ -9,7 +9,7 @@
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>0</timespan>
+  <timespan>4</timespan>
   <update>f</update>
 
   <!--
@@ -79,13 +79,13 @@
     <channel update="i" site="digiturk.com.tr" site_id="54" xmltv_id="BJK TV HD.tr">BJK TV HD</channel>
     <channel update="i" site="digiturk.com.tr" site_id="250" xmltv_id="GS TV HD.tr">GS TV HD</channel>
     <channel update="i" site="digiturk.com.tr" site_id="55" xmltv_id="FB TV HD.tr">FB TV HD</channel>
-	<channel update="i" site="digiturk.com.tr" site_id="193" xmltv_id="beIN SPORTS HD 1.tr">beIN SPORTS HD 1</channel>
-	<channel update="i" site="digiturk.com.tr" site_id="310" xmltv_id="beIN SPORTS HD 2.tr">beIN SPORTS HD 2</channel>
+	  <channel update="i" site="digiturk.com.tr" site_id="193" xmltv_id="beIN SPORTS HD 1.tr">beIN SPORTS HD 1</channel>
+	  <channel update="i" site="digiturk.com.tr" site_id="310" xmltv_id="beIN SPORTS HD 2.tr">beIN SPORTS HD 2</channel>
     <channel update="i" site="digiturk.com.tr" site_id="312" xmltv_id="beIN SPORTS HD 3.tr">beIN SPORTS HD 3</channel>
     <channel update="i" site="digiturk.com.tr" site_id="495" xmltv_id="beIN SPORTS HD 4.tr">beIN SPORTS HD 4</channel>
     <channel update="i" site="digiturk.com.tr" site_id="506" xmltv_id="beIN SPORTS MAX 1 HD.tr">beIN SPORTS MAX 1 HD</channel>
     <channel update="i" site="digiturk.com.tr" site_id="507" xmltv_id="beIN SPORTS MAX 2 HD.tr">beIN SPORTS MAX 2 HD</channel>
-	<channel update="i" site="digiturk.com.tr" site_id="508" xmltv_id="beIN SPORTS HABER HD.tr">beIN SPORTS HABER HD</channel>
+	  <channel update="i" site="digiturk.com.tr" site_id="508" xmltv_id="beIN SPORTS HABER HD.tr">beIN SPORTS HABER HD</channel>
     <channel update="i" site="digiturk.com.tr" site_id="497" xmltv_id="S SPORT HD.tr">S SPORT HD</channel>
     <channel update="i" site="digiturk.com.tr" site_id="331" xmltv_id="TRT SPOR HD.tr">TRT SPOR HD</channel>
     <channel update="i" site="digiturk.com.tr" site_id="433" xmltv_id="A Spor HD.tr">A Spor HD</channel>
@@ -156,7 +156,6 @@
     <channel update="i" site="digiturk.com.tr" site_id="466" xmltv_id="Beyaz TV HD.tr">Beyaz TV HD</channel>
 
 
-	<channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606290" xmltv_id="MovieSmart Premium.tr">MovieSmart Premium</channel>
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606291" xmltv_id="MovieSmart Premium 2.tr">MovieSmart Premium 2</channel>
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606292" xmltv_id="MovieSmart Platin.tr">MovieSmart Platin</channel>
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606293" xmltv_id="MovieSmart Platin 2.tr">MovieSmart Platin 2</channel>
@@ -173,7 +172,7 @@
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062ba" xmltv_id="FilmBox.tr">FilmBox</channel>
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606278" xmltv_id="Dizi Smart Max.tr">Dizi Smart Max</channel>
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60628a" xmltv_id="Smart Sport HD.tr">Smart Sport HD</channel>
-	<channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062c5" xmltv_id="Trace Urban.tr">Trace Urban</channel>
+	  <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062c5" xmltv_id="Trace Urban.tr">Trace Urban</channel>
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062bf" xmltv_id="Fast &amp; Fun.tr">Fast &amp; Fun</channel>
     <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60626e" xmltv_id="NBA TV.tr">NBA TV</channel>
     <channel update="i" site="dsmart.com.tr" site_id="59dca4d8cfef0b4d80a47b7a" xmltv_id="TAY TV.tr">TAY TV</channel>

@@ -52,8 +52,7 @@
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1266" xmltv_id="BET:BlackEntTV.uk">BET:BlackEntTV</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1154" xmltv_id="Birmingham TV.uk">Birmingham TV</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1013" xmltv_id="Blaze.uk">Blaze</channel>
-    <channel update="i" site="m.tvguide.co.uk-index" site_id="1155" xmltv_id="Blaze Freeview +1.uk">Blaze Freeview +1</channel>
-    <channel update="i" site="m.tvguide.co.uk-index" site_id="1156" xmltv_id="Bloomberg HD.uk">Bloomberg HD</channel>
+        <channel update="i" site="m.tvguide.co.uk-index" site_id="1156" xmltv_id="Bloomberg HD.uk">Bloomberg HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1267" xmltv_id="Boomerang HD.uk">Boomerang HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="267" xmltv_id="Box Hits.uk">Box Hits</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="756" xmltv_id="Box Upfront.uk">Box Upfront</channel>
@@ -80,8 +79,7 @@
     <channel update="i" site="m.tvguide.co.uk-index" site_id="493" xmltv_id="CBS Drama.uk">CBS Drama</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="498" xmltv_id="CBS Justice.uk">CBS Justice</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="385" xmltv_id="CBS Reality.uk">CBS Reality</channel>
-    <channel update="i" site="m.tvguide.co.uk-index" site_id="424" xmltv_id="CBS Reality +1.uk">CBS Reality +1</channel>
-    <channel update="i" site="m.tvguide.co.uk-index" site_id="1277" xmltv_id="CGTN HD.uk">CGTN HD</channel>
+        <channel update="i" site="m.tvguide.co.uk-index" site_id="1277" xmltv_id="CGTN HD.uk">CGTN HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="120" xmltv_id="Challenge.uk">Challenge</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="476" xmltv_id="Channel 4 HD.uk">Channel 4 HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="657" xmltv_id="Channel 5 HD.uk">Channel 5 HD</channel>
@@ -99,10 +97,8 @@
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1177" xmltv_id="Colors Cineplex.uk">Colors Cineplex</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1178" xmltv_id="Colors HD.uk">Colors HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="868" xmltv_id="Colors Rishtey.uk">Colors Rishtey</channel>
-    <channel update="i" site="m.tvguide.co.uk-index" site_id="409" xmltv_id="Comedy Central +1.uk">Comedy Central +1</channel>
-    <channel update="i" site="m.tvguide.co.uk-index" site_id="215" xmltv_id="Comedy Central Extra.uk">Comedy Central Extra</channel>
-    <channel update="i" site="m.tvguide.co.uk-index" site_id="617" xmltv_id="Comedy Central Extra +1.uk">Comedy Central Extra +1</channel>
-    <channel update="i" site="m.tvguide.co.uk-index" site_id="664" xmltv_id="Comedy Central HD.uk">Comedy Central HD</channel>
+        <channel update="i" site="m.tvguide.co.uk-index" site_id="215" xmltv_id="Comedy Central Extra.uk">Comedy Central Extra</channel>
+        <channel update="i" site="m.tvguide.co.uk-index" site_id="664" xmltv_id="Comedy Central HD.uk">Comedy Central HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="586" xmltv_id="Create and Craft.uk">Create and Craft</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="727" xmltv_id="Dave HD.uk">Dave HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="455" xmltv_id="Dave ja vu.uk">Dave ja vu</channel>
@@ -160,8 +156,7 @@
     <channel update="i" site="m.tvguide.co.uk-index" site_id="690" xmltv_id="ITV3HD.uk">ITV3HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="691" xmltv_id="ITV4HD.uk">ITV4HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="958" xmltv_id="ITVBe HD.uk">ITVBe HD</channel>
-    <channel update="i" site="m.tvguide.co.uk-index" site_id="957" xmltv_id="ITVBe+1.uk">ITVBe+1</channel>
-    <channel update="i" site="m.tvguide.co.uk-index" site_id="723" xmltv_id="ITVHD Central.uk">ITVHD Central</channel>
+   <channel update="i" site="m.tvguide.co.uk-index" site_id="723" xmltv_id="ITVHD Central.uk">ITVHD Central</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="642" xmltv_id="ITVHD London.uk">ITVHD London</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1205" xmltv_id="Jazz FM.uk">Jazz FM</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1207" xmltv_id="Kerrang!.uk">Kerrang!</channel>
@@ -190,7 +185,6 @@
     <channel update="i" site="m.tvguide.co.uk-index" site_id="702" xmltv_id="MTV Music.uk">MTV Music</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="286" xmltv_id="MTV OMG.uk">MTV OMG</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="191" xmltv_id="MTV Rocks.uk">MTV Rocks</channel>
-    <channel update="i" site="m.tvguide.co.uk-index" site_id="204" xmltv_id="MUTV.uk">MUTV</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="920" xmltv_id="MUTV HD.uk">MUTV HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="408" xmltv_id="National Geographic Channel HD.uk">National Geographic Channel HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="557" xmltv_id="National Geographic WILD HD.uk">National Geographic WILD HD</channel>

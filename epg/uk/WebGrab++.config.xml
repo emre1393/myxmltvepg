@@ -52,7 +52,7 @@
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1266" xmltv_id="BET:BlackEntTV.uk">BET:BlackEntTV</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1154" xmltv_id="Birmingham TV.uk">Birmingham TV</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1013" xmltv_id="Blaze.uk">Blaze</channel>
-        <channel update="i" site="m.tvguide.co.uk-index" site_id="1156" xmltv_id="Bloomberg HD.uk">Bloomberg HD</channel>
+    <channel update="i" site="m.tvguide.co.uk-index" site_id="1156" xmltv_id="Bloomberg HD.uk">Bloomberg HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1267" xmltv_id="Boomerang HD.uk">Boomerang HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="267" xmltv_id="Box Hits.uk">Box Hits</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="756" xmltv_id="Box Upfront.uk">Box Upfront</channel>
@@ -156,7 +156,7 @@
     <channel update="i" site="m.tvguide.co.uk-index" site_id="690" xmltv_id="ITV3HD.uk">ITV3HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="691" xmltv_id="ITV4HD.uk">ITV4HD</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="958" xmltv_id="ITVBe HD.uk">ITVBe HD</channel>
-   <channel update="i" site="m.tvguide.co.uk-index" site_id="723" xmltv_id="ITVHD Central.uk">ITVHD Central</channel>
+    <channel update="i" site="m.tvguide.co.uk-index" site_id="723" xmltv_id="ITVHD Central.uk">ITVHD Central</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="642" xmltv_id="ITVHD London.uk">ITVHD London</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1205" xmltv_id="Jazz FM.uk">Jazz FM</channel>
     <channel update="i" site="m.tvguide.co.uk-index" site_id="1207" xmltv_id="Kerrang!.uk">Kerrang!</channel>

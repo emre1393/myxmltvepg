@@ -1,0 +1,332 @@
+﻿<?xml version="1.0"?>
+<settings>
+
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+
+  <filename>D:\xiaomi\myxmltvepg\epg\merged\xmltv.uk.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>4</timespan>
+  <update>f</update>
+
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+
+
+  <channel update="i" site="uk-sky.com" site_id="2076" xmltv_id="BBC One HD.uk">BBC One HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="2006" xmltv_id="BBC Two Eng.uk">BBC Two Eng</channel>
+  <channel update="i" site="uk-sky.com" site_id="2086" xmltv_id="BBC Four HD.uk">BBC Four HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="2072" xmltv_id="BBC Parliament.uk">BBC Parliament</channel>
+  <channel update="i" site="uk-sky.com" site_id="2085" xmltv_id="BBC NEWS HD.uk">BBC NEWS HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="6504" xmltv_id="ITV HD.uk">ITV HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="6532" xmltv_id="ITV2 HD.uk">ITV2 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="6533" xmltv_id="ITV3 HD.uk">ITV3 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="6534" xmltv_id="ITV4 HD.uk">ITV4 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="6508" xmltv_id="ITVBe.uk">ITVBe</channel>
+  <channel update="i" site="uk-sky.com" site_id="6506" xmltv_id="ITV Encore HD.uk">ITV Encore HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4061" xmltv_id="Sky1 HD.uk">Sky1 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="1833" xmltv_id="Sky2.uk">Sky2</channel>
+  <channel update="i" site="uk-sky.com" site_id="4066" xmltv_id="Sky Living HD.uk">Sky Living HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4053" xmltv_id="Sky Atlantic HD.uk">Sky Atlantic HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4063" xmltv_id="Sky Arts HD.uk">Sky Arts HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4021" xmltv_id="Sky Premiere HD.uk">Sky Premiere HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4033" xmltv_id="Sky ShowcseHD.uk">Sky ShowcseHD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4015" xmltv_id="Sky StarWars HD.uk">SkyStarWar sHD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4013" xmltv_id="Sky Disney HD.uk">Sky Disney HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4018" xmltv_id="Sky Family HD.uk">Sky Family HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4014" xmltv_id="Sky Action HD.uk">Sky Action HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4019" xmltv_id="Sky Comedy HD.uk">Sky Comedy HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4062" xmltv_id="Sky Thriller HD.uk">Sky Thriller HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4016" xmltv_id="Sky DramaRomHD.uk">Sky DramaRomHD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4017" xmltv_id="Sky ScFi\/HorHD.uk">Sky ScFi\/HorHD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4020" xmltv_id="Sky Select HD.uk">Sky Select HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4050" xmltv_id="Sky News HD.uk">Sky News HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3260" xmltv_id="Bloomberg.uk">Bloomberg</channel>
+  <channel update="i" site="uk-sky.com" site_id="3611" xmltv_id="CNBC.uk">CNBC</channel>
+  <channel update="i" site="uk-sky.com" site_id="5602" xmltv_id="CNN.uk">CNN</channel>
+  <channel update="i" site="uk-sky.com" site_id="3147" xmltv_id="NHK World HD.uk">NHK World HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4604" xmltv_id="Euronews.uk">Euronews</channel>
+  <channel update="i" site="uk-sky.com" site_id="1357" xmltv_id="FOX News.uk">FOX News</channel>
+  <channel update="i" site="uk-sky.com" site_id="3211" xmltv_id="CCTV News.uk">CCTV News</channel>
+  <channel update="i" site="uk-sky.com" site_id="1821" xmltv_id="NDTV 24x7.uk">NDTV 24x7</channel>
+  <channel update="i" site="uk-sky.com" site_id="3213" xmltv_id="RT.uk">RT</channel>
+  <channel update="i" site="uk-sky.com" site_id="4560" xmltv_id="FRANCE Eng.uk">FRANCE Eng</channel>
+  <channel update="i" site="uk-sky.com" site_id="3107" xmltv_id="Al Jazeera Eng.uk">Al Jazeera Eng</channel>
+  <channel update="i" site="uk-sky.com" site_id="5337" xmltv_id="CNC World.uk">CNC World</channel>
+  <channel update="i" site="uk-sky.com" site_id="5882" xmltv_id="TVC News.uk">TVC News</channel>
+  <channel update="i" site="uk-sky.com" site_id="5314" xmltv_id="RT HD.uk">RT HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="5071" xmltv_id="ARISE News.uk">ARISE News</channel>
+  <channel update="i" site="uk-sky.com" site_id="5530" xmltv_id="BON TV.uk">BON TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="5520" xmltv_id="Channels 24.uk">Channels 24</channel>
+  <channel update="i" site="uk-sky.com" site_id="5040" xmltv_id="Times Now.uk">Times Now</channel>
+  <channel update="i" site="uk-sky.com" site_id="5521" xmltv_id="News18.uk">News18</channel>
+  <channel update="i" site="uk-sky.com" site_id="2304" xmltv_id="GOLD.uk">GOLD</channel>
+  <channel update="i" site="uk-sky.com" site_id="2510" xmltv_id="ComedyCentral.uk">ComedyCentral</channel>
+  <channel update="i" site="uk-sky.com" site_id="5090" xmltv_id="London Live.uk">London Live</channel>
+  <channel update="i" site="uk-sky.com" site_id="1813" xmltv_id="ComedyXtra.uk">ComedyXtra</channel>
+  <channel update="i" site="uk-sky.com" site_id="2303" xmltv_id="alibi.uk">alibi</channel>
+  <channel update="i" site="uk-sky.com" site_id="2308" xmltv_id="Good Food.uk">Good Food</channel>
+  <channel update="i" site="uk-sky.com" site_id="5701" xmltv_id="S4C.uk">S4C</channel>
+  <channel update="i" site="uk-sky.com" site_id="1628" xmltv_id="E4.uk">E4</channel>
+  <channel update="i" site="uk-sky.com" site_id="3340" xmltv_id="More4.uk">More4</channel>
+  <channel update="i" site="uk-sky.com" site_id="3150" xmltv_id="4seven.uk">4seven</channel>
+  <channel update="i" site="uk-sky.com" site_id="6761" xmltv_id="QUEST.uk">QUEST</channel>
+  <channel update="i" site="uk-sky.com" site_id="2202" xmltv_id="Challenge.uk">Challenge</channel>
+  <channel update="i" site="uk-sky.com" site_id="3352" xmltv_id="CBS Reality.uk">CBS Reality</channel>
+  <channel update="i" site="uk-sky.com" site_id="4610" xmltv_id="CBS Action.uk">CBS Action</channel>
+  <channel update="i" site="uk-sky.com" site_id="3617" xmltv_id="CBS Drama.uk">CBS Drama</channel>
+  <channel update="i" site="uk-sky.com" site_id="1832" xmltv_id="Pick.uk">Pick</channel>
+  <channel update="i" site="uk-sky.com" site_id="2325" xmltv_id="Really.uk">Really</channel>
+  <channel update="i" site="uk-sky.com" site_id="4320" xmltv_id="Lifetime.uk">Lifetime</channel>
+  <channel update="i" site="uk-sky.com" site_id="3358" xmltv_id="Sony Channel.uk">Sony Channel</channel>
+  <channel update="i" site="uk-sky.com" site_id="2612" xmltv_id="Drama.uk">Drama</channel>
+  <channel update="i" site="uk-sky.com" site_id="1032" xmltv_id="Spike.uk">Spike</channel>
+  <channel update="i" site="uk-sky.com" site_id="3618" xmltv_id="DMAX.uk">DMAX</channel>
+  <channel update="i" site="uk-sky.com" site_id="4075" xmltv_id="Channel 4 HD.uk">Channel 4 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4058" xmltv_id="Channel 5 HD.uk">Channel 5 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="2207" xmltv_id="Real Lives.uk">Real Lives</channel>
+  <channel update="i" site="uk-sky.com" site_id="3022" xmltv_id="5 USA.uk">5 USA</channel>
+  <channel update="i" site="uk-sky.com" site_id="3023" xmltv_id="5STAR.uk">5STAR</channel>
+  <channel update="i" site="uk-sky.com" site_id="3208" xmltv_id="BEN.uk">BEN</channel>
+  <channel update="i" site="uk-sky.com" site_id="5338" xmltv_id="True Drama.uk">True Drama</channel>
+  <channel update="i" site="uk-sky.com" site_id="4266" xmltv_id="True Ent.uk">True Ent</channel>
+  <channel update="i" site="uk-sky.com" site_id="1048" xmltv_id="True Crime.uk">True Crime</channel>
+  <channel update="i" site="uk-sky.com" site_id="3719" xmltv_id="BET:BlackEntTv.uk">BET:BlackEntTv</channel>
+  <channel update="i" site="uk-sky.com" site_id="4023" xmltv_id="FOX HD.uk">FOX HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4350" xmltv_id="propeller.uk">propeller</channel>
+  <channel update="i" site="uk-sky.com" site_id="6758" xmltv_id="Irish TV.uk">Irish TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="2301" xmltv_id="Home.uk">Home</channel>
+  <channel update="i" site="uk-sky.com" site_id="5414" xmltv_id="tru TV.uk">tru TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="5254" xmltv_id="YourTV.uk">YourTV</channel>
+  <channel update="i" site="uk-sky.com" site_id="4074" xmltv_id="Syfy HD.uk">Syfy HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4076" xmltv_id="E4 HD.uk">E4 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3731" xmltv_id="My Channel.uk">My Channel</channel>
+  <channel update="i" site="uk-sky.com" site_id="4080" xmltv_id="Universal HD.uk">Universal HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4056" xmltv_id="ComedyCentHD.uk">ComedyCentHD</channel>
+  <channel update="i" site="uk-sky.com" site_id="5358" xmltv_id="Showcase.uk">Showcase</channel>
+  <channel update="i" site="uk-sky.com" site_id="2320" xmltv_id="Dave ja vu.uk">Dave ja vu</channel>
+  <channel update="i" site="uk-sky.com" site_id="3108" xmltv_id="Vox Africa.uk">Vox Africa</channel>
+  <channel update="i" site="uk-sky.com" site_id="4043" xmltv_id="More4 HD.uk">More4 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3406" xmltv_id="AIT Intl.uk">AIT Intl</channel>
+  <channel update="i" site="uk-sky.com" site_id="3812" xmltv_id="TLC HD.uk">TLC HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3411" xmltv_id="ABN TV.uk">ABN TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="3920" xmltv_id="Lifetime HD.uk">Lifetime HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="5201" xmltv_id="FoTV.uk">FoTV</channel>
+  <channel update="i" site="uk-sky.com" site_id="5297" xmltv_id="Property Show.uk">Property Show</channel>
+  <channel update="i" site="uk-sky.com" site_id="4028" xmltv_id="E! HD.uk">E! HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="2408" xmltv_id="Home &amp; Health.uk">Home &amp; Health</channel>
+  <channel update="i" site="uk-sky.com" site_id="2410" xmltv_id="Home&amp;Health+.uk">Home&amp;Health+</channel>
+  <channel update="i" site="uk-sky.com" site_id="4548" xmltv_id="Discovery Shed.uk">Discovery Shed</channel>
+  <channel update="i" site="uk-sky.com" site_id="3810" xmltv_id="W HD.uk">W HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3809" xmltv_id="Dave HD.uk">Dave HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3825" xmltv_id="alibi HD.uk">alibi HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3590" xmltv_id="Food Network.uk">Food Network</channel>
+  <channel update="i" site="uk-sky.com" site_id="5607" xmltv_id="Travel Channel.uk">Travel Channel</channel>
+  <channel update="i" site="uk-sky.com" site_id="1046" xmltv_id="Wellbeing.uk">Wellbeing</channel>
+  <channel update="i" site="uk-sky.com" site_id="3001" xmltv_id="Horse &amp; Country.uk">Horse &amp; Country</channel>
+  <channel update="i" site="uk-sky.com" site_id="4067" xmltv_id="Good Food HD.uk">Good Food HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3583" xmltv_id="holiday+cruise.uk">holiday+cruise</channel>
+  <channel update="i" site="uk-sky.com" site_id="5539" xmltv_id="Fashion One.uk">Fashion One</channel>
+  <channel update="i" site="uk-sky.com" site_id="5415" xmltv_id="Forces TV.uk">Forces TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="5308" xmltv_id="ShowBiz TV.uk">ShowBiz TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="5037" xmltv_id="AMC from BTHD.uk">AMC from BTHD</channel>
+  <channel update="i" site="uk-sky.com" site_id="1047" xmltv_id="Insight HD.uk">Insight HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="1627" xmltv_id="Film4.uk">Film4</channel>
+  <channel update="i" site="uk-sky.com" site_id="5605" xmltv_id="TCM.uk">TCM</channel>
+  <channel update="i" site="uk-sky.com" site_id="3605" xmltv_id="horror channel.uk">horror channel</channel>
+  <channel update="i" site="uk-sky.com" site_id="3643" xmltv_id="True Movies 1.uk">True Movies 1</channel>
+  <channel update="i" site="uk-sky.com" site_id="3751" xmltv_id="True Movies 2.uk">True Movies 2</channel>
+  <channel update="i" site="uk-sky.com" site_id="3709" xmltv_id="Sony Movies.uk">Sony Movies</channel>
+  <channel update="i" site="uk-sky.com" site_id="3708" xmltv_id="movies4men.uk">movies4men</channel>
+  <channel update="i" site="uk-sky.com" site_id="4420" xmltv_id="Movies 24.uk">Movies 24</channel>
+  <channel update="i" site="uk-sky.com" site_id="4421" xmltv_id="Movies 24+.uk">Movies 24+</channel>
+  <channel update="i" site="uk-sky.com" site_id="3510" xmltv_id="Nollywood.uk">Nollywood</channel>
+  <channel update="i" site="uk-sky.com" site_id="3811" xmltv_id="TCM HD.uk">TCM HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4044" xmltv_id="Film4 HD.uk">Film4 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="5252" xmltv_id="TalkingPictures.uk">TalkingPictures</channel>
+  <channel update="i" site="uk-sky.com" site_id="4049" xmltv_id="Sky Sp News HD.uk">Sky Sp News HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4002" xmltv_id="Sky Sports 1 HD.uk">Sky Sports 1 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4081" xmltv_id="Sky Sports 2 HD.uk">Sky Sports 2 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4022" xmltv_id="Sky Sports 3 HD.uk">Sky Sports 3 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4026" xmltv_id="Sky Sports 4 HD.uk">Sky Sports 4 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4010" xmltv_id="Sky Sports 5 HD.uk">Sky Sports 5 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3835" xmltv_id="Sky Sports F1 HD.uk">Sky Sports F1 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4004" xmltv_id="Eurosport 1 HD.uk">Eurosport 1 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4009" xmltv_id="Eurosport 2 HD.uk">Eurosport 2 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3735" xmltv_id="MOTORS TV UK.uk">MOTORS TV UK</channel>
+  <channel update="i" site="uk-sky.com" site_id="3625" xmltv_id="BT Sport 1 HD.uk">BT Sport 1 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3627" xmltv_id="BT Sport 2 HD.uk">BT Sport 2 HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4040" xmltv_id="BT Sport ESPN HD.uk">BT Sport ESPN HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3629" xmltv_id="BT Sport Europe HD.uk">BT Sport Europe HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="1354" xmltv_id="At The Races.uk">At The Races</channel>
+  <channel update="i" site="uk-sky.com" site_id="3663" xmltv_id="BT Sport 2.uk">BT Sport 2</channel>
+  <channel update="i" site="uk-sky.com" site_id="4038" xmltv_id="Chelsea TV HD.uk">Chelsea TV HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="5311" xmltv_id="Premier Sports.uk">Premier Sports</channel>
+  <channel update="i" site="uk-sky.com" site_id="3636" xmltv_id="Racing UK.uk">Racing UK</channel>
+  <channel update="i" site="uk-sky.com" site_id="3417" xmltv_id="BoxNation.uk">BoxNation</channel>
+  <channel update="i" site="uk-sky.com" site_id="1003" xmltv_id="MUTV HD.uk">MUTV HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3845" xmltv_id="LFCTV HD.uk">LFCTV HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="5153" xmltv_id="Premier HD.uk">Premier HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="5229" xmltv_id="Bike.uk">Bike</channel>
+  <channel update="i" site="uk-sky.com" site_id="5272" xmltv_id="Racing UK HD.uk">Racing UK HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3641" xmltv_id="FrontRunner.uk">FrontRunner</channel>
+  <channel update="i" site="uk-sky.com" site_id="5039" xmltv_id="BoxNation HD.uk">BoxNation HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="1035" xmltv_id="SkySpBoxOffHD.uk">SkySpBoxOffHD</channel>
+  <channel update="i" site="uk-sky.com" site_id="1879" xmltv_id="H2.uk">H2</channel>
+  <channel update="i" site="uk-sky.com" site_id="2302" xmltv_id="Eden.uk">Eden</channel>
+  <channel update="i" site="uk-sky.com" site_id="5500" xmltv_id="PBS America.uk">PBS America</channel>
+  <channel update="i" site="uk-sky.com" site_id="2305" xmltv_id="YESTERDAY.uk">YESTERDAY</channel>
+  <channel update="i" site="uk-sky.com" site_id="1872" xmltv_id="Community.uk">Community</channel>
+  <channel update="i" site="uk-sky.com" site_id="4031" xmltv_id="Nat Geo HD.uk">Nat Geo HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4025" xmltv_id="Nat Geo Wild HD.uk">Nat Geo Wild HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4086" xmltv_id="History HD.uk">History HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4088" xmltv_id="Crime+Inv HD.uk">Crime+Inv HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4003" xmltv_id="Discovery HD.uk">Discovery HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3813" xmltv_id="Animal Planet HD.uk">Animal Planet HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="2406" xmltv_id="Discovery Science.uk">Discovery Science</channel>
+  <channel update="i" site="uk-sky.com" site_id="2413" xmltv_id="ID.uk">ID</channel>
+  <channel update="i" site="uk-sky.com" site_id="2409" xmltv_id="Discovery Turbo.uk">Discovery Turbo</channel>
+  <channel update="i" site="uk-sky.com" site_id="2407" xmltv_id="Discovery History.uk">Discovery History</channel>
+  <channel update="i" site="uk-sky.com" site_id="4068" xmltv_id="Eden HD.uk">Eden HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="1849" xmltv_id="Nicktoons.uk">Nicktoons</channel>
+  <channel update="i" site="uk-sky.com" site_id="1857" xmltv_id="Nick Jr..uk">Nick Jr.</channel>
+  <channel update="i" site="uk-sky.com" site_id="3750" xmltv_id="POP.uk">POP</channel>
+  <channel update="i" site="uk-sky.com" site_id="3780" xmltv_id="Tiny Pop.uk">Tiny Pop</channel>
+  <channel update="i" site="uk-sky.com" site_id="1371" xmltv_id="Cartoonito.uk">Cartoonito</channel>
+  <channel update="i" site="uk-sky.com" site_id="4340" xmltv_id="Nick Jr Too.uk">Nick Jr Too</channel>
+  <channel update="i" site="uk-sky.com" site_id="6273" xmltv_id="CITV.uk">CITV</channel>
+  <channel update="i" site="uk-sky.com" site_id="4070" xmltv_id="Disney XD HD.uk">Disney XD HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3645" xmltv_id="BabyTV.uk">BabyTV</channel>
+  <channel update="i" site="uk-sky.com" site_id="2088" xmltv_id="CBeebies HD.uk">CBeebies HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4262" xmltv_id="Kix.uk">Kix</channel>
+  <channel update="i" site="uk-sky.com" site_id="4073" xmltv_id="Disney Jnr HD.uk">Disney Jnr HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4071" xmltv_id="Disney Chnl HD.uk">Disney Chnl HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4069" xmltv_id="NickelodeonHD.uk">NickelodeonHD</channel>
+  <channel update="i" site="uk-sky.com" site_id="2078" xmltv_id="CBBC HD.uk">CBBC HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4077" xmltv_id="Cartoon Net HD.uk">Cartoon Net HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4030" xmltv_id="Boomerang HD.uk">Boomerang HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3831" xmltv_id="MTV HD.uk">MTV HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="4006" xmltv_id="MTV Live HD.uk">MTV Live HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="2512" xmltv_id="MTV MUSIC.uk">MTV MUSIC</channel>
+  <channel update="i" site="uk-sky.com" site_id="2508" xmltv_id="MTV BASE.uk">MTV BASE</channel>
+  <channel update="i" site="uk-sky.com" site_id="2506" xmltv_id="MTV HITS.uk">MTV HITS</channel>
+  <channel update="i" site="uk-sky.com" site_id="2511" xmltv_id="VIVA.uk">VIVA</channel>
+  <channel update="i" site="uk-sky.com" site_id="2507" xmltv_id="MTV DANCE.uk">MTV DANCE</channel>
+  <channel update="i" site="uk-sky.com" site_id="2503" xmltv_id="MTV ROCKS.uk">MTV ROCKS</channel>
+  <channel update="i" site="uk-sky.com" site_id="2509" xmltv_id="MTV CLASSIC.uk">MTV CLASSIC</channel>
+  <channel update="i" site="uk-sky.com" site_id="2502" xmltv_id="VH1.uk">VH1</channel>
+  <channel update="i" site="uk-sky.com" site_id="1802" xmltv_id="The Box.uk">The Box</channel>
+  <channel update="i" site="uk-sky.com" site_id="1758" xmltv_id="4Music.uk">4Music</channel>
+  <channel update="i" site="uk-sky.com" site_id="1858" xmltv_id="KISS.uk">KISS</channel>
+  <channel update="i" site="uk-sky.com" site_id="1350" xmltv_id="Smash Hits!.uk">Smash Hits!</channel>
+  <channel update="i" site="uk-sky.com" site_id="1877" xmltv_id="Magic.uk">Magic</channel>
+  <channel update="i" site="uk-sky.com" site_id="1874" xmltv_id="Heat.uk">Heat</channel>
+  <channel update="i" site="uk-sky.com" site_id="3505" xmltv_id="Chart Show TV.uk">Chart Show TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="3935" xmltv_id="The Vault.uk">The Vault</channel>
+  <channel update="i" site="uk-sky.com" site_id="4210" xmltv_id="Scuzz.uk">Scuzz</channel>
+  <channel update="i" site="uk-sky.com" site_id="1853" xmltv_id="Kerrang!.uk">Kerrang!</channel>
+  <channel update="i" site="uk-sky.com" site_id="3531" xmltv_id="Vintage TV.uk">Vintage TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="3682" xmltv_id="Chilled TV.uk">Chilled TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="3603" xmltv_id="Starz TV.uk">Starz TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="4215" xmltv_id="Chartshw Dnce.uk">Chartshw Dnce</channel>
+  <channel update="i" site="uk-sky.com" site_id="3781" xmltv_id="Flava.uk">Flava</channel>
+  <channel update="i" site="uk-sky.com" site_id="4541" xmltv_id="NOW Music.uk">NOW Music</channel>
+  <channel update="i" site="uk-sky.com" site_id="4505" xmltv_id="Clubland TV.uk">Clubland TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="3403" xmltv_id="Channel AKA.uk">Channel AKA</channel>
+  <channel update="i" site="uk-sky.com" site_id="3830" xmltv_id="Heart TV.uk">Heart TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="2552" xmltv_id="CAPITAL TV.uk">CAPITAL TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="4933" xmltv_id="Keep It Country.uk">Keep It Country</channel>
+  <channel update="i" site="uk-sky.com" site_id="5907" xmltv_id="QVC.uk">QVC</channel>
+  <channel update="i" site="uk-sky.com" site_id="5761" xmltv_id="JML Direct.uk">JML Direct</channel>
+  <channel update="i" site="uk-sky.com" site_id="1033" xmltv_id="TJC.uk">TJC</channel>
+  <channel update="i" site="uk-sky.com" site_id="3351" xmltv_id="GR SHOP.uk">GR SHOP</channel>
+  <channel update="i" site="uk-sky.com" site_id="5900" xmltv_id="Ideal World.uk">Ideal World</channel>
+  <channel update="i" site="uk-sky.com" site_id="3010" xmltv_id="Gems TV.uk">Gems TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="3580" xmltv_id="Tristar.uk">Tristar</channel>
+  <channel update="i" site="uk-sky.com" site_id="5608" xmltv_id="Retail TV.uk">Retail TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="5706" xmltv_id="High Street TV.uk">High Street TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="4100" xmltv_id="Best Direct.uk">Best Direct</channel>
+  <channel update="i" site="uk-sky.com" site_id="5707" xmltv_id="TJC Choice.uk">TJC Choice</channel>
+  <channel update="i" site="uk-sky.com" site_id="5740" xmltv_id="Ideal Extra.uk">Ideal Extra</channel>
+  <channel update="i" site="uk-sky.com" site_id="5212" xmltv_id="High Street TV 2.uk">High Street TV 2</channel>
+  <channel update="i" site="uk-sky.com" site_id="3357" xmltv_id="Hochanda.uk">Hochanda</channel>
+  <channel update="i" site="uk-sky.com" site_id="3354" xmltv_id="Jewelry Maker.uk">Jewelry Maker</channel>
+  <channel update="i" site="uk-sky.com" site_id="3404" xmltv_id="High Street TV 3.uk">High Street TV 3</channel>
+  <channel update="i" site="uk-sky.com" site_id="3632" xmltv_id="TV Warehouse.uk">TV Warehouse</channel>
+  <channel update="i" site="uk-sky.com" site_id="4105" xmltv_id="QVC Beauty.uk">QVC Beauty</channel>
+  <channel update="i" site="uk-sky.com" site_id="3800" xmltv_id="PaversShoes.tv.uk">PaversShoes.tv</channel>
+  <channel update="i" site="uk-sky.com" site_id="3805" xmltv_id="Thane.uk">Thane</channel>
+  <channel update="i" site="uk-sky.com" site_id="4360" xmltv_id="V Channel.uk">V Channel</channel>
+  <channel update="i" site="uk-sky.com" site_id="3353" xmltv_id="Rocks &amp; Co 1.uk">Rocks &amp; Co 1</channel>
+  <channel update="i" site="uk-sky.com" site_id="3359" xmltv_id="QVC Extra.uk">QVC Extra</channel>
+  <channel update="i" site="uk-sky.com" site_id="5741" xmltv_id="Create &amp; Craft.uk">Create &amp; Craft</channel>
+  <channel update="i" site="uk-sky.com" site_id="3012" xmltv_id="Craft Extra.uk">Craft Extra</channel>
+  <channel update="i" site="uk-sky.com" site_id="3525" xmltv_id="The Dept Store.uk">The Dept Store</channel>
+  <channel update="i" site="uk-sky.com" site_id="3585" xmltv_id="The Mall.uk">The Mall</channel>
+  <channel update="i" site="uk-sky.com" site_id="4410" xmltv_id="QVC Style.uk">QVC Style</channel>
+  <channel update="i" site="uk-sky.com" site_id="5296" xmltv_id="Craft Channel.uk">Craft Channel</channel>
+  <channel update="i" site="uk-sky.com" site_id="3116" xmltv_id="revelation.uk">revelation</channel>
+  <channel update="i" site="uk-sky.com" site_id="3109" xmltv_id="TBN UK.uk">TBN UK</channel>
+  <channel update="i" site="uk-sky.com" site_id="3111" xmltv_id="DAYSTAR.uk">DAYSTAR</channel>
+  <channel update="i" site="uk-sky.com" site_id="3219" xmltv_id="Inspiration.uk">Inspiration</channel>
+  <channel update="i" site="uk-sky.com" site_id="4245" xmltv_id="LOVEWORLD TV.uk">LOVEWORLD TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="6548" xmltv_id="Gospel Channel.uk">Gospel Channel</channel>
+  <channel update="i" site="uk-sky.com" site_id="3205" xmltv_id="Word Network.uk">Word Network</channel>
+  <channel update="i" site="uk-sky.com" site_id="3117" xmltv_id="EWTN Catholic.uk">EWTN Catholic</channel>
+  <channel update="i" site="uk-sky.com" site_id="5354" xmltv_id="Flow TV.uk">Flow TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="5541" xmltv_id="DAYSTAR HD.uk">DAYSTAR HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="5703" xmltv_id="B4U Movies.uk">B4U Movies</channel>
+  <channel update="i" site="uk-sky.com" site_id="5708" xmltv_id="B4U Music.uk">B4U Music</channel>
+  <channel update="i" site="uk-sky.com" site_id="3608" xmltv_id="Star Life OK.uk">Star Life OK</channel>
+  <channel update="i" site="uk-sky.com" site_id="1771" xmltv_id="Star Plus.uk">Star Plus</channel>
+  <channel update="i" site="uk-sky.com" site_id="3714" xmltv_id="COLORS.uk">COLORS</channel>
+  <channel update="i" site="uk-sky.com" site_id="2607" xmltv_id="Zee TV.uk">Zee TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="2606" xmltv_id="Zing.uk">Zing</channel>
+  <channel update="i" site="uk-sky.com" site_id="2608" xmltv_id="Zee Cinema.uk">Zee Cinema</channel>
+  <channel update="i" site="uk-sky.com" site_id="4753" xmltv_id="ARY Digital.uk">ARY Digital</channel>
+  <channel update="i" site="uk-sky.com" site_id="3000" xmltv_id="PTV Prime.uk">PTV Prime</channel>
+  <channel update="i" site="uk-sky.com" site_id="3401" xmltv_id="MATV National.uk">MATV National</channel>
+  <channel update="i" site="uk-sky.com" site_id="1805" xmltv_id="TV5 MONDE.uk">TV5 MONDE</channel>
+  <channel update="i" site="uk-sky.com" site_id="3251" xmltv_id="UMP Movies.uk">UMP Movies</channel>
+  <channel update="i" site="uk-sky.com" site_id="2603" xmltv_id="SONY MAX.uk">SONY MAX</channel>
+  <channel update="i" site="uk-sky.com" site_id="3609" xmltv_id="DM Plus TV.uk">DM Plus TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="3806" xmltv_id="ARY News.uk">ARY News</channel>
+  <channel update="i" site="uk-sky.com" site_id="3646" xmltv_id="PTV Global.uk">PTV Global</channel>
+  <channel update="i" site="uk-sky.com" site_id="4265" xmltv_id="ARY QTV.uk">ARY QTV</channel>
+  <channel update="i" site="uk-sky.com" site_id="3720" xmltv_id="Venus TV.uk">Venus TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="4110" xmltv_id="GEO TV.uk">GEO TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="3612" xmltv_id="Star Jalsha.uk">Star Jalsha</channel>
+  <channel update="i" site="uk-sky.com" site_id="3613" xmltv_id="Star GOLD.uk">Star GOLD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3631" xmltv_id="SONY SAB.uk">SONY SAB</channel>
+  <channel update="i" site="uk-sky.com" site_id="5416" xmltv_id="ABP News.uk">ABP News</channel>
+  <channel update="i" site="uk-sky.com" site_id="3715" xmltv_id="Noor TV.uk">Noor TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="3704" xmltv_id="Peace TV.uk">Peace TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="3815" xmltv_id="CHSTV.uk">CHSTV</channel>
+  <channel update="i" site="uk-sky.com" site_id="5715" xmltv_id="PTC PUNJABI.uk">PTC PUNJABI</channel>
+  <channel update="i" site="uk-sky.com" site_id="4402" xmltv_id="GEO TEZ.uk">GEO TEZ</channel>
+  <channel update="i" site="uk-sky.com" site_id="4407" xmltv_id="GEO News.uk">GEO News</channel>
+  <channel update="i" site="uk-sky.com" site_id="3255" xmltv_id="AAJ TAK.uk">AAJ TAK</channel>
+  <channel update="i" site="uk-sky.com" site_id="3916" xmltv_id="Rishtey.uk">Rishtey</channel>
+  <channel update="i" site="uk-sky.com" site_id="4403" xmltv_id="Glory TV.uk">Glory TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="4102" xmltv_id="Channel i.uk">Channel i</channel>
+  <channel update="i" site="uk-sky.com" site_id="4540" xmltv_id="NTV.uk">NTV</channel>
+  <channel update="i" site="uk-sky.com" site_id="5300" xmltv_id="Star Plus HD.uk">Star Plus HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="5285" xmltv_id="TV 99.uk">TV 99</channel>
+  <channel update="i" site="uk-sky.com" site_id="5217" xmltv_id="Safeer TV.uk">Safeer TV</channel>
+  <channel update="i" site="uk-sky.com" site_id="5426" xmltv_id="TV One.uk">TV One</channel>
+  <channel update="i" site="uk-sky.com" site_id="1038" xmltv_id="Dunya News.uk">Dunya News</channel>
+  <channel update="i" site="uk-sky.com" site_id="5050" xmltv_id="&amp;tv HD.uk">&amp;tv HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3414" xmltv_id="TV Record HD.uk">TV Record HD</channel>
+  <channel update="i" site="uk-sky.com" site_id="3407" xmltv_id="Chat Box.uk">Chat Box</channel>
+  <channel update="i" site="uk-sky.com" site_id="3415" xmltv_id="Psychic Today.uk">Psychic Today</channel>
+
+
+</settings>

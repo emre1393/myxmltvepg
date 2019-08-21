@@ -266,7 +266,7 @@ epg data from awk.epgsky.com and m.tvguide.co.uk-index
   <channel update="i" site="awk.epgsky.com" site_id="4216" xmltv_id="POP+1.uk">POP+1</channel>
   <channel update="i" site="awk.epgsky.com" site_id="4262" xmltv_id="POP Max.uk">POP Max</channel>
   <channel update="i" site="awk.epgsky.com" site_id="4263" xmltv_id="POP Max+1.uk">POP Max+1</channel>
-  <channel update="i" site="awk.epgsky.com" site_id="4077" xmltv_id="Cartoon Network HD.uk">Cartoon Net HD</channel>
+  <channel update="i" site="awk.epgsky.com" site_id="4077" xmltv_id="Cartoon Network HD.uk">Cartoon Network HD</channel>
   <channel update="i" site="awk.epgsky.com" site_id="4030" xmltv_id="Boomerang HD.uk">Boomerang HD</channel>
   <channel update="i" site="awk.epgsky.com" site_id="4069" xmltv_id="Nickelodeon HD.uk">NickelodeonHD</channel>
   <channel update="i" site="awk.epgsky.com" site_id="4073" xmltv_id="Disney Junior HD.uk">Disney Junior HD</channel>

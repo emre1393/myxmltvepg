@@ -1,0 +1,2327 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.10.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 27/08/2019 12:46:42
+[  Debug ] 
+[  Debug ] Running  on: Microsoft Windows NT 6.2.9200.0
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: D:\xiaomi\myxmltvepg\epg\tr\WebGrab++.config.xml
+[Warning ] timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
+[  Debug ] 
+[  Info  ] found: D:\xiaomi\myxmltvepg\epg\tr\digiturk.com.tr.ini -- Revision 05
+[Warning ] timezone=UTC+03:00 mapped with timezone_id "Europe/Moscow"
+[  Debug ] 
+[  Info  ] found: D:\xiaomi\myxmltvepg\epg\tr\dsmart.com.tr.ini -- Revision 06
+[  Debug ] 
+[  Info  ] found: D:\xiaomi\myxmltvepg\epg\tr\turksatkablo.com.tr.ini -- Revision 00
+[  Debug ] xmltv input file - D:\xiaomi\myxmltvepg\epg\merged\xmltv.tr.xml - found
+[  Debug ] 6454 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=beIN HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN SERIES SCI-FI HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN SERIES COMEDY HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN SERIES VICE HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN SERIES DRAMA HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN MOVIES PREMIERE HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN MOVIES PREMIERE 2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN MOVIES STARS HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN MOVIES ACTION HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN MOVIES ACTION 2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN MOVIES FAMILY HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN MOVIES TURK HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN İZ HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN HOME & ENTERTAINMENT HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN GURME HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Show TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT 1 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Kanal D HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=ATV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Star TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV8 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=360 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TLC.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bloomberg HT HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=A Haber HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=KANAL 7 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=A2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=BEYAZ TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV 100.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Ülke TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVNET HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=24 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=NTV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNN TÜRK HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=A Para HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=HABERTURK HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TGRT Haber HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=EKOTÜRK TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=HABER GLOBAL HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TELE 1.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=DMAX HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Halk TV.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Teve2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV 8,5 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT 3 - TRT Spor.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT AVAZ.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT Kurdi.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT TURK.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=KRT TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT 2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Diyanet TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 1 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Eurosport 2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=BJK TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=GS TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=FB TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN SPORTS HD 1.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN SPORTS HD 2.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN SPORTS HD 3.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN SPORTS HD 4.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN SPORTS MAX 1 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN SPORTS MAX 2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN SPORTS HABER HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=S SPORT HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT SPOR HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=A Spor HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TJK TV.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MCM Top HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Mezzo HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=VH1.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT Müzik.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Kral TV.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Live HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MTV Hits.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fashion TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC Entertainment.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=RAI UNO.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV5 Monde Europe.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT Arabi.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=CGTN HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTR PLANETA.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=BLOOMBERG HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=A News HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC World News HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT World HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNN INTERNATIONAL.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=AL JAZEERA ENGLISH HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=EURONEWS.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=France 24 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Al Quran Al Kareem TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Al Sunnah Al Nabawiyah TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT Çocuk.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=CBEEBIES HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Baby TV.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Da Vinci.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney Junior.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney XD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Disney Channel.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=BOOMERANG HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Cartoon Network.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MinikaGO.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nick Jr..tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nickelodeon.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nickelodeon HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=National Geographic.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC EARTH HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nat Geo People HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nat Geo Wild HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=History HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT Belgesel HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery Channel HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Discovery Science HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=CGTN DOCUMENTARY HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN BOX OFFICE 1 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN BOX OFFICE 2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=beIN BOX OFFICE 3 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=İdman Azerbaycan.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT1 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT Haber HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Digiturk 4K.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=ALEM FM.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Best FM.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Kral Pop Radyo.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Slow Türk.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Show Radyo.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Kral FM.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Radyo Viva.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Baba Radyo.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=5+1 Concerts.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Beyaz TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MovieSmart Premium 2.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MovieSmart Platin.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MovieSmart Platin 2.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MovieSmart Gold.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MovieSmart Action.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MovieSmart Fest.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MovieSmart Family.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MovieSmart Classic.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=MovieSmart Türk.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Dizi Smart Premium.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fox Life.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=FX.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fox Crime.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=FilmBox.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Dizi Smart Max.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Smart Sport HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trace Urban.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Fast & Fun.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=NBA TV.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TAY TV.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Spor Smart.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=FOX Sports.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=FightBox.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Sports Tv.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Wm TV Woman Kadın.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=24Kitchen.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Outdoor.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Viasat History.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=DocuBox.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=ID.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Animal Planet.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Euro D.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Euro Star.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Planet Çocuk.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Planet Pembe.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Planet Mutfak.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=Planet Türk.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TRT 4K.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA 2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA AKSİYON HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA AKSİYON 2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA YERLİ.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA YERLİ 2.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA AİLE HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA AİLE 2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA 1001 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA 1002.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA KOMEDİ HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SİNEMA KOMEDİ 2 HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=DEUTSCHE WELLE (EN).tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=DEUTSCHE WELLE (DE).tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=FRANCE 24 HD-EN.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=FRANCE 24 HD-FR.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=CGTN.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=RUSSIA 24.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=VIASAT NATURE - HISTORY.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TREK HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SCIENCE & VIE HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=VIASAT EXPLORE.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=ANIMAUX.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTG INT.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=CGTN 9 DOCUMENTARY.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=CHASSE ET PECHE.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=AZ TV 1.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TÜRKMENELİ TV HD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=BBC ENTERTAINMENT.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=TV5 MONDE.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=CCTV 4.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=SAUDI TV 1.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=KAZAKH TV.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=HAYAT PLUS.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=KBS TV.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=NHK WORLD.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=ARIRANG.tr) in the config file
+[  Info  ] Found existing channel (xmltv_id=ULUSAL KANAL.tr) in the config file
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 208 - out of - 208 - channels for 5 day(s)
+[  Debug ] 
+[  Info  ] (   1/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN HD.tr) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           119
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        119
+
+[  Debug ] 
+[  Info  ] (   2/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN SERIES SCI-FI HD.tr) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN SERIES SCI-FI HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           119
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        119
+
+[  Debug ] 
+[  Info  ] (   3/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN SERIES COMEDY HD.tr) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN SERIES COMEDY HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           213
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        213
+
+[  Debug ] 
+[  Info  ] (   4/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN SERIES VICE HD.tr) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN SERIES VICE HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           119
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        119
+
+[  Debug ] 
+[  Info  ] (   5/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN SERIES DRAMA HD.tr) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN SERIES DRAMA HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           119
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        119
+
+[  Debug ] 
+[  Info  ] (   6/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN MOVIES PREMIERE HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:01
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN MOVIES PREMIERE HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           62
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        62
+
+[  Debug ] 
+[  Info  ] (   7/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN MOVIES PREMIERE 2 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN MOVIES PREMIERE 2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           62
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        62
+
+[  Debug ] 
+[  Info  ] (   8/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN MOVIES STARS HD.tr) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN MOVIES STARS HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] (   9/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN MOVIES ACTION HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:10
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN MOVIES ACTION HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] (  10/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN MOVIES ACTION 2 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN MOVIES ACTION 2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] (  11/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN MOVIES FAMILY HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:55
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN MOVIES FAMILY HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           91
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        91
+
+[  Debug ] 
+[  Info  ] (  12/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN MOVIES TURK HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:56
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN MOVIES TURK HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           71
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        71
+
+[  Debug ] 
+[  Info  ] (  13/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN İZ HD.tr) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN İZ HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           206
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        206
+
+[  Debug ] 
+[  Info  ] (  14/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN HOME & ENTERTAINMENT HD.tr) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN HOME & ENTERTAINMENT HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           138
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        138
+
+[  Debug ] 
+[  Info  ] (  15/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN GURME HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:31
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN GURME HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           229
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        229
+
+[  Debug ] 
+[  Info  ] (  16/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Show TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Show TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           51
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        51
+
+[  Debug ] 
+[  Info  ] (  17/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT 1 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:15
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT 1 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] (  18/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Kanal D HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:15
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Kanal D HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           49
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        49
+
+[  Debug ] 
+[  Info  ] (  19/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=ATV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 20:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       ATV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           49
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        49
+
+[  Debug ] 
+[  Info  ] (  20/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=FOX.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 20:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       FOX.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] (  21/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Star TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:45
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Star TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           44
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        44
+
+[  Debug ] 
+[  Info  ] (  22/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TV8 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 20:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TV8 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           45
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        45
+
+[  Debug ] 
+[  Info  ] (  23/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=360 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       360 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           76
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        76
+
+[  Debug ] 
+[  Info  ] (  24/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TLC.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TLC.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           177
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        177
+
+[  Debug ] 
+[  Info  ] (  25/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Bloomberg HT HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:10
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Bloomberg HT HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           132
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        132
+
+[  Debug ] 
+[  Info  ] (  26/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=A Haber HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       A Haber HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           85
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        85
+
+[  Debug ] 
+[  Info  ] (  27/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=KANAL 7 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:50
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       KANAL 7 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           57
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        57
+
+[  Debug ] 
+[  Info  ] (  28/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=A2 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:15
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       A2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           11
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        11
+
+[  Debug ] 
+[  Info  ] (  29/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=BEYAZ TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       BEYAZ TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] (  30/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TV 100.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 21:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TV 100.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           115
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        115
+
+[  Debug ] 
+[  Info  ] (  31/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Ülke TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Ülke TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           12
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        12
+
+[  Debug ] 
+[  Info  ] (  32/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TVNET HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TVNET HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           93
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        93
+
+[  Debug ] 
+[  Info  ] (  33/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=24 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       24 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           144
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        144
+
+[  Debug ] 
+[  Info  ] (  34/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=NTV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:55
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       NTV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           456
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        456
+
+[  Debug ] 
+[  Info  ] (  35/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=CNN TÜRK HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       CNN TÜRK HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           139
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        139
+
+[  Debug ] 
+[  Info  ] (  36/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=A Para HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       A Para HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           79
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        79
+
+[  Debug ] 
+[  Info  ] (  37/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=HABERTURK HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 21:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       HABERTURK HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           114
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        114
+
+[  Debug ] 
+[  Info  ] (  38/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TGRT Haber HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:45
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TGRT Haber HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           40
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        40
+
+[  Debug ] 
+[  Info  ] (  39/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=EKOTÜRK TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       EKOTÜRK TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           103
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        103
+
+[  Debug ] 
+[  Info  ] (  40/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=HABER GLOBAL HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 21:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       HABER GLOBAL HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           95
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        95
+
+[  Debug ] 
+[  Info  ] (  41/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TELE 1.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TELE 1.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           19
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        19
+
+[  Debug ] 
+[  Info  ] (  42/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=DMAX HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:55
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       DMAX HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           180
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        180
+
+[  Debug ] 
+[  Info  ] (  43/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Halk TV.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Halk TV.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           119
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        119
+
+[  Debug ] 
+[  Info  ] (  44/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Teve2 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Teve2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           75
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        75
+
+[  Debug ] 
+[  Info  ] (  45/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TV 8,5 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 21:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TV 8,5 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           56
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        56
+
+[  Debug ] 
+[  Info  ] (  46/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT 3 - TRT Spor.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT 3 - TRT Spor.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           154
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        154
+
+[  Debug ] 
+[  Info  ] (  47/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT AVAZ.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT AVAZ.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           196
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        196
+
+[  Debug ] 
+[  Info  ] (  48/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT Kurdi.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:15
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT Kurdi.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           161
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        161
+
+[  Debug ] 
+[  Info  ] (  49/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT TURK.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:15
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT TURK.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           81
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        81
+
+[  Debug ] 
+[  Info  ] (  50/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=KRT TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       KRT TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           68
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        68
+
+[  Debug ] 
+[  Info  ] (  51/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT 2 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT 2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           189
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        189
+
+[  Debug ] 
+[  Info  ] (  52/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Diyanet TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Diyanet TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           35
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        35
+
+[  Debug ] 
+[  Info  ] (  53/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Eurosport 1 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Eurosport 1 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           97
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        97
+
+[  Debug ] 
+[  Info  ] (  54/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Eurosport 2 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Eurosport 2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           56
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        56
+
+[  Debug ] 
+[  Info  ] (  55/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=BJK TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       BJK TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           26
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        26
+
+[  Debug ] 
+[  Info  ] (  56/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=GS TV HD.tr) -- mode Force
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       GS TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] (  57/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=FB TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:45
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       FB TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           46
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        46
+
+[  Debug ] 
+[  Info  ] (  58/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN SPORTS HD 1.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN SPORTS HD 1.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           17
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        17
+
+[  Debug ] 
+[  Info  ] (  59/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN SPORTS HD 2.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN SPORTS HD 2.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           19
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        19
+
+[  Debug ] 
+[  Info  ] (  60/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN SPORTS HD 3.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:45
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN SPORTS HD 3.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           18
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        18
+
+[  Debug ] 
+[  Info  ] (  61/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN SPORTS HD 4.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:45
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN SPORTS HD 4.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           19
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        19
+
+[  Debug ] 
+[  Info  ] (  62/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN SPORTS MAX 1 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:15
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN SPORTS MAX 1 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] (  63/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN SPORTS MAX 2 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN SPORTS MAX 2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] (  64/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN SPORTS HABER HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN SPORTS HABER HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           50
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        50
+
+[  Debug ] 
+[  Info  ] (  65/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=S SPORT HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       S SPORT HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           90
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        90
+
+[  Debug ] 
+[  Info  ] (  66/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT SPOR HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT SPOR HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           33
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        33
+
+[  Debug ] 
+[  Info  ] (  67/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=A Spor HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       A Spor HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           37
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        37
+
+[  Debug ] 
+[  Info  ] (  68/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TJK TV.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TJK TV.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           21
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        21
+
+[  Debug ] 
+[  Info  ] (  69/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=MCM Top HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       MCM Top HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           38
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        38
+
+[  Debug ] 
+[  Info  ] (  70/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Mezzo HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:40
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Mezzo HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           93
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        93
+
+[  Debug ] 
+[  Info  ] (  71/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=VH1.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       VH1.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           50
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        50
+
+[  Debug ] 
+[  Info  ] (  72/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT Müzik.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT Müzik.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           165
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        165
+
+[  Debug ] 
+[  Info  ] (  73/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Kral TV.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Kral TV.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           68
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        68
+
+[  Debug ] 
+[  Info  ] (  74/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=MTV Live HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:45
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       MTV Live HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           107
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        107
+
+[  Debug ] 
+[  Info  ] (  75/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=MTV Hits.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 20:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       MTV Hits.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           24
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        24
+
+[  Debug ] 
+[  Info  ] (  76/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Fashion TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Fashion TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           319
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        319
+
+[  Debug ] 
+[  Info  ] (  77/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=BBC HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:25
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           141
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        141
+
+[  Debug ] 
+[  Info  ] (  78/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=BBC Entertainment.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:40
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC Entertainment.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           163
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        163
+
+[  Debug ] 
+[  Info  ] (  79/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=RAI UNO.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:25
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       RAI UNO.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           131
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        131
+
+[  Debug ] 
+[  Info  ] (  80/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TV5 Monde Europe.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:55
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TV5 Monde Europe.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           265
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        265
+
+[  Debug ] 
+[  Info  ] (  81/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT Arabi.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT Arabi.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           179
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        179
+
+[  Debug ] 
+[  Info  ] (  82/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=CGTN HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:15
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       CGTN HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           211
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        211
+
+[  Debug ] 
+[  Info  ] (  83/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=RTR PLANETA.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       RTR PLANETA.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] (  84/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=BLOOMBERG HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       BLOOMBERG HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           129
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        129
+
+[  Debug ] 
+[  Info  ] (  85/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=A News HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:55
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       A News HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           175
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        175
+
+[  Debug ] 
+[  Info  ] (  86/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=BBC World News HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC World News HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           289
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        289
+
+[  Debug ] 
+[  Info  ] (  87/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT World HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT World HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           229
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        229
+
+[  Debug ] 
+[  Info  ] (  88/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=CNN INTERNATIONAL.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       CNN INTERNATIONAL.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           138
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        138
+
+[  Debug ] 
+[  Info  ] (  89/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=AL JAZEERA ENGLISH HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       AL JAZEERA ENGLISH HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           184
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        184
+
+[  Debug ] 
+[  Info  ] (  90/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=EURONEWS.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:54
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       EURONEWS.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           270
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        270
+
+[  Debug ] 
+[  Info  ] (  91/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=France 24 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:45
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       France 24 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           561
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        561
+
+[  Debug ] 
+[  Info  ] (  92/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Al Quran Al Kareem TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Al Quran Al Kareem TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] (  93/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Al Sunnah Al Nabawiyah TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Al Sunnah Al Nabawiyah TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] (  94/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT Çocuk.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:50
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT Çocuk.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           69
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        69
+
+[  Debug ] 
+[  Info  ] (  95/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=CBEEBIES HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:55
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       CBEEBIES HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           491
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        491
+
+[  Debug ] 
+[  Info  ] (  96/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Baby TV.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Baby TV.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] (  97/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Da Vinci.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Da Vinci.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           228
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        228
+
+[  Debug ] 
+[  Info  ] (  98/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Disney Junior.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Disney Junior.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           323
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        323
+
+[  Debug ] 
+[  Info  ] (  99/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Disney XD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:50
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Disney XD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           307
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        307
+
+[  Debug ] 
+[  Info  ] ( 100/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Disney Channel.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:25
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Disney Channel.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           269
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        269
+
+[  Debug ] 
+[  Info  ] ( 101/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=BOOMERANG HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:55
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       BOOMERANG HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           282
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        282
+
+[  Debug ] 
+[  Info  ] ( 102/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Cartoon Network.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:45
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Cartoon Network.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           254
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        254
+
+[  Debug ] 
+[  Info  ] ( 103/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=MinikaGO.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:55
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       MinikaGO.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           407
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        407
+
+[  Debug ] 
+[  Info  ] ( 104/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Nick Jr..tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:40
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Nick Jr..tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           331
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        331
+
+[  Debug ] 
+[  Info  ] ( 105/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Nickelodeon.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:45
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Nickelodeon.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           299
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        299
+
+[  Debug ] 
+[  Info  ] ( 106/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Nickelodeon HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:40
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Nickelodeon HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           307
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        307
+
+[  Debug ] 
+[  Info  ] ( 107/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=National Geographic.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:50
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       National Geographic.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           162
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        162
+
+[  Debug ] 
+[  Info  ] ( 108/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=BBC EARTH HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:50
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC EARTH HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           168
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        168
+
+[  Debug ] 
+[  Info  ] ( 109/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Nat Geo People HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:10
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Nat Geo People HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           177
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        177
+
+[  Debug ] 
+[  Info  ] ( 110/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Nat Geo Wild HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:35
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Nat Geo Wild HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           147
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        147
+
+[  Debug ] 
+[  Info  ] ( 111/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=History HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       History HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           188
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        188
+
+[  Debug ] 
+[  Info  ] ( 112/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT Belgesel HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:50
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT Belgesel HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           172
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        172
+
+[  Debug ] 
+[  Info  ] ( 113/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Discovery Channel HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:45
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Discovery Channel HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           158
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        158
+
+[  Debug ] 
+[  Info  ] ( 114/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Discovery Science HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:35
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Discovery Science HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           172
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        172
+
+[  Debug ] 
+[  Info  ] ( 115/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=CGTN DOCUMENTARY HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       CGTN DOCUMENTARY HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           179
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        179
+
+[  Debug ] 
+[  Info  ] ( 116/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN BOX OFFICE 1 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:05
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN BOX OFFICE 1 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           49
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        49
+
+[  Debug ] 
+[  Info  ] ( 117/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN BOX OFFICE 2 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:10
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN BOX OFFICE 2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           54
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        54
+
+[  Debug ] 
+[  Info  ] ( 118/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=beIN BOX OFFICE 3 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:55
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       beIN BOX OFFICE 3 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           53
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        53
+
+[  Debug ] 
+[  Info  ] ( 119/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=İdman Azerbaycan.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       İdman Azerbaycan.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           119
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        119
+
+[  Debug ] 
+[  Info  ] ( 120/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT1 HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:15
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT1 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           55
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        55
+
+[  Debug ] 
+[  Info  ] ( 121/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=TRT Haber HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       TRT Haber HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           234
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        234
+
+[  Debug ] 
+[  Info  ] ( 122/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Digiturk 4K.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:53
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Digiturk 4K.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           62
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        62
+
+[  Debug ] 
+[  Info  ] ( 123/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=ALEM FM.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       ALEM FM.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           45
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        45
+
+[  Debug ] 
+[  Info  ] ( 124/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Best FM.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Best FM.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           48
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        48
+
+[  Debug ] 
+[  Info  ] ( 125/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Kral Pop Radyo.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 21:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Kral Pop Radyo.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           39
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        39
+
+[  Debug ] 
+[  Info  ] ( 126/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Slow Türk.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Slow Türk.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           119
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        119
+
+[  Debug ] 
+[  Info  ] ( 127/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Show Radyo.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Show Radyo.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           119
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        119
+
+[  Debug ] 
+[  Info  ] ( 128/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Kral FM.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Kral FM.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           48
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        48
+
+[  Debug ] 
+[  Info  ] ( 129/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Radyo Viva.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Radyo Viva.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           119
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        119
+
+[  Debug ] 
+[  Info  ] ( 130/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Baba Radyo.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Baba Radyo.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           39
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        39
+
+[  Debug ] 
+[  Info  ] ( 131/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=5+1 Concerts.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 22:00
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       5+1 Concerts.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] ( 132/208 ) DIGITURK.COM.TR -- chan. (xmltv_id=Beyaz TV HD.tr) -- mode Force
+[  Debug ]    skipped : show that happened before 'today' @ 26/08/2019 23:30
+[  Debug ]    skipped  : last show, no next startime to use as stop
+[  Info  ] 
+[  Info  ]    Summary for update of       Beyaz TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           41
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        41
+
+[  Debug ] 
+[  Info  ] ( 133/208 ) DSMART.COM.TR -- chan. (xmltv_id=MovieSmart Premium 2.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 134/208 ) DSMART.COM.TR -- chan. (xmltv_id=MovieSmart Platin.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 135/208 ) DSMART.COM.TR -- chan. (xmltv_id=MovieSmart Platin 2.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 136/208 ) DSMART.COM.TR -- chan. (xmltv_id=MovieSmart Gold.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 137/208 ) DSMART.COM.TR -- chan. (xmltv_id=MovieSmart Action.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 138/208 ) DSMART.COM.TR -- chan. (xmltv_id=MovieSmart Fest.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 139/208 ) DSMART.COM.TR -- chan. (xmltv_id=MovieSmart Family.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 140/208 ) DSMART.COM.TR -- chan. (xmltv_id=MovieSmart Classic.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 141/208 ) DSMART.COM.TR -- chan. (xmltv_id=MovieSmart Türk.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 142/208 ) DSMART.COM.TR -- chan. (xmltv_id=Dizi Smart Premium.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 143/208 ) DSMART.COM.TR -- chan. (xmltv_id=Fox Life.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 144/208 ) DSMART.COM.TR -- chan. (xmltv_id=FX.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 145/208 ) DSMART.COM.TR -- chan. (xmltv_id=Fox Crime.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 146/208 ) DSMART.COM.TR -- chan. (xmltv_id=FilmBox.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 147/208 ) DSMART.COM.TR -- chan. (xmltv_id=Dizi Smart Max.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 148/208 ) DSMART.COM.TR -- chan. (xmltv_id=Smart Sport HD.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 149/208 ) DSMART.COM.TR -- chan. (xmltv_id=Trace Urban.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 150/208 ) DSMART.COM.TR -- chan. (xmltv_id=Fast & Fun.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 151/208 ) DSMART.COM.TR -- chan. (xmltv_id=NBA TV.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 152/208 ) DSMART.COM.TR -- chan. (xmltv_id=TAY TV.tr) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 153/208 ) DSMART.COM.TR -- chan. (xmltv_id=Spor Smart.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 154/208 ) DSMART.COM.TR -- chan. (xmltv_id=FOX Sports.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 155/208 ) DSMART.COM.TR -- chan. (xmltv_id=FightBox.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 156/208 ) DSMART.COM.TR -- chan. (xmltv_id=Sports Tv.tr) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 157/208 ) DSMART.COM.TR -- chan. (xmltv_id=Wm TV Woman Kadın.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 158/208 ) DSMART.COM.TR -- chan. (xmltv_id=24Kitchen.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 159/208 ) DSMART.COM.TR -- chan. (xmltv_id=Outdoor.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 160/208 ) DSMART.COM.TR -- chan. (xmltv_id=Viasat History.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 161/208 ) DSMART.COM.TR -- chan. (xmltv_id=DocuBox.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 162/208 ) DSMART.COM.TR -- chan. (xmltv_id=ID.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 163/208 ) DSMART.COM.TR -- chan. (xmltv_id=Animal Planet.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 164/208 ) DSMART.COM.TR -- chan. (xmltv_id=Euro D.tr) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 165/208 ) DSMART.COM.TR -- chan. (xmltv_id=Euro Star.tr) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 166/208 ) DSMART.COM.TR -- chan. (xmltv_id=Planet Çocuk.tr) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 167/208 ) DSMART.COM.TR -- chan. (xmltv_id=Planet Pembe.tr) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 168/208 ) DSMART.COM.TR -- chan. (xmltv_id=Planet Mutfak.tr) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 169/208 ) DSMART.COM.TR -- chan. (xmltv_id=Planet Türk.tr) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 170/208 ) DSMART.COM.TR -- chan. (xmltv_id=TRT 4K.tr) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] ( 171/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA TV HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           37
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        37
+
+[  Debug ] 
+[  Info  ] ( 172/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA 2 HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA 2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           38
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        38
+
+[  Debug ] 
+[  Info  ] ( 173/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA AKSİYON HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA AKSİYON HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           37
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        37
+
+[  Debug ] 
+[  Info  ] ( 174/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA AKSİYON 2 HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA AKSİYON 2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           37
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        37
+
+[  Debug ] 
+[  Info  ] ( 175/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA YERLİ.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA YERLİ.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           39
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        39
+
+[  Debug ] 
+[  Info  ] ( 176/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA YERLİ 2.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA YERLİ 2.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           39
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        39
+
+[  Debug ] 
+[  Info  ] ( 177/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA AİLE HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA AİLE HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] ( 178/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA AİLE 2 HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA AİLE 2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           59
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        59
+
+[  Debug ] 
+[  Info  ] ( 179/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA 1001 HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA 1001 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           34
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        34
+
+[  Debug ] 
+[  Info  ] ( 180/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA 1002.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA 1002.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           34
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        34
+
+[  Debug ] 
+[  Info  ] ( 181/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA KOMEDİ HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA KOMEDİ HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           42
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        42
+
+[  Debug ] 
+[  Info  ] ( 182/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SİNEMA KOMEDİ 2 HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SİNEMA KOMEDİ 2 HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           42
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        42
+
+[  Debug ] 
+[  Info  ] ( 183/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=DEUTSCHE WELLE (EN).tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       DEUTSCHE WELLE (EN).tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           204
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        204
+
+[  Debug ] 
+[  Info  ] ( 184/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=DEUTSCHE WELLE (DE).tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       DEUTSCHE WELLE (DE).tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           121
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        121
+
+[  Debug ] 
+[  Info  ] ( 185/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=FRANCE 24 HD-EN.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       FRANCE 24 HD-EN.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           341
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        341
+
+[  Debug ] 
+[  Info  ] ( 186/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=FRANCE 24 HD-FR.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       FRANCE 24 HD-FR.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           340
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        340
+
+[  Debug ] 
+[  Info  ] ( 187/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=CGTN.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       CGTN.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           132
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        132
+
+[  Debug ] 
+[  Info  ] ( 188/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=RUSSIA 24.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RUSSIA 24.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           25
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        25
+
+[  Debug ] 
+[  Info  ] ( 189/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=VIASAT NATURE - HISTORY.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       VIASAT NATURE - HISTORY.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           87
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        87
+
+[  Debug ] 
+[  Info  ] ( 190/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=TREK HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TREK HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           105
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        105
+
+[  Debug ] 
+[  Info  ] ( 191/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SCIENCE & VIE HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SCIENCE & VIE HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           90
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        90
+
+[  Debug ] 
+[  Info  ] ( 192/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=VIASAT EXPLORE.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       VIASAT EXPLORE.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           101
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        101
+
+[  Debug ] 
+[  Info  ] ( 193/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=ANIMAUX.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ANIMAUX.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           74
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        74
+
+[  Debug ] 
+[  Info  ] ( 194/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=RTG INT.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       RTG INT.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           111
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        111
+
+[  Debug ] 
+[  Info  ] ( 195/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=CGTN 9 DOCUMENTARY.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       CGTN 9 DOCUMENTARY.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           108
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        108
+
+[  Debug ] 
+[  Info  ] ( 196/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=CHASSE ET PECHE.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       CHASSE ET PECHE.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           128
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        128
+
+[  Debug ] 
+[  Info  ] ( 197/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=AZ TV 1.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       AZ TV 1.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           32
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        32
+
+[  Debug ] 
+[  Info  ] ( 198/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=TÜRKMENELİ TV HD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TÜRKMENELİ TV HD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           74
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        74
+
+[  Debug ] 
+[  Info  ] ( 199/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=BBC ENTERTAINMENT.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       BBC ENTERTAINMENT.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           96
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        96
+
+[  Debug ] 
+[  Info  ] ( 200/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=TV5 MONDE.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       TV5 MONDE.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           145
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        145
+
+[  Debug ] 
+[  Info  ] ( 201/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=CCTV 4.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       CCTV 4.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           132
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        132
+
+[  Debug ] 
+[  Info  ] ( 202/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=SAUDI TV 1.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       SAUDI TV 1.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           60
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        60
+
+[  Debug ] 
+[  Info  ] ( 203/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=KAZAKH TV.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       KAZAKH TV.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           20
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        20
+
+[  Debug ] 
+[  Info  ] ( 204/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=HAYAT PLUS.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       HAYAT PLUS.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           13
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        13
+
+[  Debug ] 
+[  Info  ] ( 205/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=KBS TV.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       KBS TV.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           92
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        92
+
+[  Debug ] 
+[  Info  ] ( 206/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=NHK WORLD.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       NHK WORLD.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           159
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        159
+
+[  Debug ] 
+[  Info  ] ( 207/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=ARIRANG.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ARIRANG.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           137
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        137
+
+[  Debug ] 
+[  Info  ] ( 208/208 ) TURKSATKABLO.COM.TR -- chan. (xmltv_id=ULUSAL KANAL.tr) -- mode Force
+[  Info  ] 
+[  Info  ]    Summary for update of       ULUSAL KANAL.tr
+[  Info  ]      missing shows added       0
+[  Info  ]      changed shows updated     0
+[  Info  ]      new shows added           23
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        23
+
+[  Debug ] 
+[  Debug ] 22663 shows in 208 channels
+[  Debug ] 0 updated shows
+[  Debug ] 22663 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 27/08/2019 13:02:14 done in 15m 32s
+[  Debug ] statistics upload error: Uzak sunucu hata döndürdü: (404) Bulunamadı.

@@ -9,7 +9,7 @@
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>4</timespan>
+  <timespan>2</timespan>
   <update>f</update>
 
   <!--
@@ -156,7 +156,7 @@
       <channel update="i" site="digiturk.com.tr" site_id="107" xmltv_id="5+1 Concerts.tr">5+1 Concerts</channel>
       <channel update="i" site="digiturk.com.tr" site_id="466" xmltv_id="Beyaz TV HD.tr">Beyaz TV HD</channel>
 
-
+      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606290" xmltv_id="MovieSmart Premium.tr">MovieSmart Premium</channel>
       <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606291" xmltv_id="MovieSmart Premium 2.tr">MovieSmart Premium 2</channel>
       <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606292" xmltv_id="MovieSmart Platin.tr">MovieSmart Platin</channel>
       <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606293" xmltv_id="MovieSmart Platin 2.tr">MovieSmart Platin 2</channel>
@@ -236,7 +236,6 @@
       <channel update="i" site="turksatkablo.com.tr" site_id="150" xmltv_id="NHK WORLD.tr">NHK WORLD</channel>
       <channel update="i" site="turksatkablo.com.tr" site_id="151" xmltv_id="ARIRANG.tr">ARIRANG</channel>
       <channel update="i" site="turksatkablo.com.tr" site_id="39" xmltv_id="ULUSAL KANAL.tr">ULUSAL KANAL</channel>
-
-
+      
 
 </settings>

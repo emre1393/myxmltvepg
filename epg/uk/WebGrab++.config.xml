@@ -21,6 +21,7 @@ epg data from awk.epgsky.com and m.tvguide.co.uk-index
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
+
   <channel update="i" site="awk.epgsky.com" site_id="2076" xmltv_id="BBC One HD.uk">BBC One HD</channel>
   <channel update="i" site="awk.epgsky.com" site_id="2075" xmltv_id="BBC Two HD.uk">BBC Two HD</channel>
   <channel update="i" site="awk.epgsky.com" site_id="6504" xmltv_id="ITV HD.uk">ITV HD</channel>
@@ -396,5 +397,6 @@ epg data from awk.epgsky.com and m.tvguide.co.uk-index
   <channel update="i" site="m.tvguide.co.uk-index" site_id="1168" xmltv_id="BT Sport X5 HD.uk">BT Sport X5 HD</channel>
   <channel update="i" site="m.tvguide.co.uk-index" site_id="1170" xmltv_id="BT Sport X6 HD.uk">BT Sport X6 HD</channel>
   <channel update="i" site="m.tvguide.co.uk-index" site_id="375" xmltv_id="5USA.uk">5USA</channel>
+
 
 </settings>

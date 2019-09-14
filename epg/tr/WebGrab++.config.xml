@@ -9,7 +9,7 @@
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>2</timespan>
+  <timespan>3</timespan>
   <update>f</update>
 
   <!--
@@ -77,7 +77,6 @@
       <channel update="i" site="digiturk.com.tr" site_id="332" xmltv_id="Diyanet TV HD.tr">Diyanet TV HD</channel>
       <channel update="i" site="digiturk.com.tr" site_id="47" xmltv_id="Eurosport 1 HD.tr">Eurosport 1 HD</channel>
       <channel update="i" site="digiturk.com.tr" site_id="82" xmltv_id="Eurosport 2 HD.tr">Eurosport 2 HD</channel>
-      <channel update="i" site="digiturk.com.tr" site_id="54" xmltv_id="BJK TV HD.tr">BJK TV HD</channel>
       <channel update="i" site="digiturk.com.tr" site_id="250" xmltv_id="GS TV HD.tr">GS TV HD</channel>
       <channel update="i" site="digiturk.com.tr" site_id="55" xmltv_id="FB TV HD.tr">FB TV HD</channel>
   	  <channel update="i" site="digiturk.com.tr" site_id="193" xmltv_id="beIN SPORTS HD 1.tr">beIN SPORTS HD 1</channel>
@@ -236,6 +235,6 @@
       <channel update="i" site="turksatkablo.com.tr" site_id="150" xmltv_id="NHK WORLD.tr">NHK WORLD</channel>
       <channel update="i" site="turksatkablo.com.tr" site_id="151" xmltv_id="ARIRANG.tr">ARIRANG</channel>
       <channel update="i" site="turksatkablo.com.tr" site_id="39" xmltv_id="ULUSAL KANAL.tr">ULUSAL KANAL</channel>
-      
+
 
 </settings>

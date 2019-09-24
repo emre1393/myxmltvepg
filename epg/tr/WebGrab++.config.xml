@@ -8,7 +8,7 @@
   <postprocess grab="y" run="n">mdb</postprocess>
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
   <logging>on</logging>
-  <retry time-out="5">4</retry>
+  <retry time-out="10">4</retry>
   <timespan>3</timespan>
   <update>f</update>
 
@@ -18,10 +18,7 @@
 
             For the latest version,
             see http://webgrabplus.com/epg-channels for the available sites/channels
-
-
   -->
-
 
       <channel update="i" site="digiturk.com.tr" site_id="484" xmltv_id="beIN HD.tr">beIN HD</channel>
       <channel update="i" site="digiturk.com.tr" site_id="375" xmltv_id="beIN SERIES SCI-FI HD.tr">beIN SERIES SCI-FI HD</channel>
@@ -155,45 +152,41 @@
       <channel update="i" site="digiturk.com.tr" site_id="107" xmltv_id="5+1 Concerts.tr">5+1 Concerts</channel>
       <channel update="i" site="digiturk.com.tr" site_id="466" xmltv_id="Beyaz TV HD.tr">Beyaz TV HD</channel>
 
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606290" xmltv_id="MovieSmart Premium.tr">MovieSmart Premium</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606291" xmltv_id="MovieSmart Premium 2.tr">MovieSmart Premium 2</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606292" xmltv_id="MovieSmart Platin.tr">MovieSmart Platin</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606293" xmltv_id="MovieSmart Platin 2.tr">MovieSmart Platin 2</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606260" xmltv_id="MovieSmart Gold.tr">MovieSmart Gold</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60625b" xmltv_id="MovieSmart Action.tr">MovieSmart Action</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606261" xmltv_id="MovieSmart Fest.tr">MovieSmart Fest</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60628f" xmltv_id="MovieSmart Family.tr">MovieSmart Family</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60629a" xmltv_id="MovieSmart Classic.tr">MovieSmart Classic</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606299" xmltv_id="MovieSmart Türk.tr">MovieSmart Türk</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60625a" xmltv_id="Dizi Smart Premium.tr">Dizi Smart Premium</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606280" xmltv_id="Fox Life.tr">Fox Life</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606269" xmltv_id="FX.tr">FX</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606268" xmltv_id="Fox Crime.tr">Fox Crime</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062ba" xmltv_id="FilmBox.tr">FilmBox</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606278" xmltv_id="Dizi Smart Max.tr">Dizi Smart Max</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60628a" xmltv_id="Smart Sport HD.tr">Smart Sport HD</channel>
-  	  <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062c5" xmltv_id="Trace Urban.tr">Trace Urban</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062bf" xmltv_id="Fast &amp; Fun.tr">Fast &amp; Fun</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60626e" xmltv_id="NBA TV.tr">NBA TV</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="59dca4d8cfef0b4d80a47b7a" xmltv_id="TAY TV.tr">TAY TV</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60628a" xmltv_id="Spor Smart.tr">Spor Smart</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606271" xmltv_id="FOX Sports.tr">FOX Sports</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062b4" xmltv_id="FightBox.tr">FightBox</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606296" xmltv_id="Sports Tv.tr">Sports Tv</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="5c0688d8cfef0b4d8d49ccd8" xmltv_id="Wm TV Woman Kadın.tr">Wm TV Woman Kadın</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60627b" xmltv_id="24Kitchen.tr">24Kitchen</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062bb" xmltv_id="Outdoor.tr">Outdoor</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062bd" xmltv_id="Viasat History.tr">Viasat History</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c6062be" xmltv_id="DocuBox.tr">DocuBox</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="5b14fbfacfef0b29cf6f479a" xmltv_id="ID.tr">ID</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c60624e" xmltv_id="Animal Planet.tr">Animal Planet</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="59dcbfdccfef0b4d80a4974a" xmltv_id="Euro D.tr">Euro D</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="59dcc000cfef0b4d80a4974d" xmltv_id="Euro Star.tr">Euro Star</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606284" xmltv_id="Planet Çocuk.tr">Planet Çocuk</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606285" xmltv_id="Planet Pembe.tr">Planet Pembe</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606286" xmltv_id="Planet Mutfak.tr">Planet Mutfak</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="58d29bb0eefad3db9c606287" xmltv_id="Planet Türk.tr">Planet Türk</channel>
-      <channel update="i" site="dsmart.com.tr" site_id="59dcbee1cfef0b4d80a49650" xmltv_id="TRT 4K.tr">TRT 4K</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="1" xmltv_id="MovieSmart Premium.tr">MovieSmart Premium</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="2" xmltv_id="MovieSmart Premium 2.tr">MovieSmart Premium 2</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="3" xmltv_id="MovieSmart Platin.tr">MovieSmart Platin</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="4" xmltv_id="MovieSmart Platin 2.tr">MovieSmart Platin 2</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="5" xmltv_id="MovieSmart Gold.tr">MovieSmart Gold</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="6" xmltv_id="MovieSmart Action.tr">MovieSmart Action</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="7" xmltv_id="MovieSmart Fest.tr">MovieSmart Fest</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="8" xmltv_id="MovieSmart Family.tr">MovieSmart Family</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="9" xmltv_id="MovieSmart Classic.tr">MovieSmart Classic</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="10" xmltv_id="MovieSmart Türk.tr">MovieSmart Türk</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="11" xmltv_id="Dizi Smart Premium.tr">Dizi Smart Premium</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="12" xmltv_id="Fox Life.tr">Fox Life</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="13" xmltv_id="FX.tr">FX</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="14" xmltv_id="Fox Crime.tr">Fox Crime</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="15" xmltv_id="FilmBox.tr">FilmBox</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="16" xmltv_id="Dizi Smart Max.tr">Dizi Smart Max</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="49" xmltv_id="Wm TV Woman Kadın.tr">Wm TV Woman Kadın</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="50" xmltv_id="24Kitchen.tr">24Kitchen</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="51" xmltv_id="Outdoor.tr">Outdoor</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="53" xmltv_id="Viasat History.tr">Viasat History</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="54" xmltv_id="DocuBox.tr">DocuBox</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="56" xmltv_id="Animal Planet.tr">Animal Planet</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="58" xmltv_id="ID.tr">ID</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="62" xmltv_id="Ambiance.tr">Ambiance</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="64" xmltv_id="Fashion TV.tr">Fashion TV</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="65" xmltv_id="Trace Urban.tr">Trace Urban</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="66" xmltv_id="Fast &amp; Fun.tr">Fast &amp; Fun</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="67" xmltv_id="NBA TV.tr">NBA TV</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="68" xmltv_id="TAY TV.tr">TAY TV</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="71" xmltv_id="Spor Smart.tr">Spor Smart</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="73" xmltv_id="FOX Sports.tr">FOX Sports</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="75" xmltv_id="FightBox.tr">FightBox</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="76" xmltv_id="FB TV.tr">FB TV</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="77" xmltv_id="Sports Tv.tr">Sports Tv</channel>
+      <channel update="i" site="dsmart.com.tr" site_id="157" xmltv_id="TRT 4K.tr">TRT 4K</channel>
 
 
 
@@ -235,6 +228,5 @@
       <channel update="i" site="turksatkablo.com.tr" site_id="150" xmltv_id="NHK WORLD.tr">NHK WORLD</channel>
       <channel update="i" site="turksatkablo.com.tr" site_id="151" xmltv_id="ARIRANG.tr">ARIRANG</channel>
       <channel update="i" site="turksatkablo.com.tr" site_id="39" xmltv_id="ULUSAL KANAL.tr">ULUSAL KANAL</channel>
-
 
 </settings>

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0"?>
+<settings>
+
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+
+  <filename>D:\xiaomi\myxmltvepg\epg\merged\xmltv.hu.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>4</timespan>
+  <update>f</update>
+
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439246__https://wp15-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_75_c_d2833062eaff6dc96b18f25694620e09.png" xmltv_id="M1.hu">M1</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439245__https://wp9-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_85_c_4358a60096362522a82f67eb6540c361.png" xmltv_id="M1HD.hu">M1 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439188__https://wp19-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_76_c_becd6df1980c276778639314fc05e1a4.png" xmltv_id="M2Petőfi.hu">M2Petőfi</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439192__https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_86_c_c9681d1c865d31cdad3a6b0776022eb4.png" xmltv_id="M2PetőfiHD.hu">M2Petőfi HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439183__https://wp24-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_68_c_f722c641cc8eee9954c7d17090dbb352.png" xmltv_id="Duna.hu">Duna</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439184__https://wp18-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_89_c_82877b44d04c46e44442a921f5b2598e.png" xmltv_id="DunaHD.hu">Duna HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439140__https://wp16-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_134_c_4aa2207a16baa43a8cddcab4e92dd977.png" xmltv_id="M4.hu">M4</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439141__https://wp19-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_135_c_56848362068d94e5bc5a646bc68c4b51.png" xmltv_id="M4HD.hu">M4 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439196__https://wp13-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_1_c_67a1cc500fb0219ad22022f9b6a5bdf5.png" xmltv_id="DunaWorld.hu">Duna World</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439185__https://wp26-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_140_c_49d02d1d28023e23a46199e49badeda5.png" xmltv_id="M5.hu">M5</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439186__https://wp21-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_141_c_ad7c8f02fae9b000f29e8ec86bd4547d.png" xmltv_id="M5HD.hu">M5 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439276__https://wp16-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_124_c_5636b12a9c92841cc3c2d9bcb6ca1423.png" xmltv_id="upcinfocsatorna.hu">upc info csatorna</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439247__https://wp28-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_6_c_2d430c787e0910ec1ddc3692847fd0a1.png" xmltv_id="ComedyCentral.hu">Comedy Central</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439274__https://wp1-images-hu-dynamic.horizon.tv/HU/Logos/focused/CC_Family_2.png" xmltv_id="ComedyCentralFamily.hu">Comedy Central Family</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439162__https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_153_c_39fb28749b19edc663b8fb436ff19289.png" xmltv_id="RTLSpike.hu">RTL Spike</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439131__https://wp8-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_119_c_76a4882033687c9390ba7d4365c23fa7.png" xmltv_id="ParamountChannel.hu">Paramount Channel</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439135__https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_79_c_a3d559aa63f5f7892b903d4e19d03d6a.png" xmltv_id="RTLKlub.hu">RTL Klub</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439136__https://wp27-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_87_c_283358347d7ce9a25ad14d253e9617bb.png" xmltv_id="RTLKlubHD.hu">RTL Klub HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439209__https://wp10-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_84_c_40d526b7f6d74a16cc7fc3c7cfdb455f.png" xmltv_id="TV2.hu">TV2</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439210__https://wp2-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_88_c_c21cbfdbb04c8685b46b96f728fcce44.png" xmltv_id="TV2HD.hu">TV2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439204__https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_2_c_9ac47ea15934ee14ecc0c68e881224d7.png" xmltv_id="VIASAT3.hu">VIASAT3</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439213__https://wp12-images-hu-dynamic.horizon.tv/HU/Logos/focused/Viasat3_HD.png" xmltv_id="Viasat3HD.hu">Viasat3 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439205__https://wp28-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_3_c_107ecd9c076b3a1b2647379a89d504df.png" xmltv_id="VIASAT6.hu">VIASAT6</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439221__https://wp19-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_107_c_1cae97d83ed8c6dd05e6b5b6952b31fb.png" xmltv_id="RTLII.hu">RTL II</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439227__https://wp21-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_148_c_f97f7d2861d60b52c113e62ba6f48539.png" xmltv_id="RTLIIHD.hu">RTL II HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439189__https://wp23-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_4_c_b1e9b194148e6807313e4f0857023c44.png" xmltv_id="SuperTV2.hu">Super TV2</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439193__https://wp4-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_92_c_6104f02834bc83438af9891831d0140a.png" xmltv_id="SuperTV2HD.hu">Super TV2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439265__https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_66_c_b0512fcf56051fb60e240a360ced3a57.png" xmltv_id="CoolTV.hu">Cool TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439283__https://wp13-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_147_c_d51037cb03a060cd1e58d1f759452e8b.png" xmltv_id="CoolHD.hu">Cool HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439266__https://wp7-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70_c_d9f427b1c54449c2ffc8e16acebaa0e4.png" xmltv_id="Film.hu">Film</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439284__https://wp20-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_149_c_4481f1f32753ee30de0da495bfa9862e.png" xmltv_id="FilmHD.hu">Film HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439130__https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/RTL_GOLD_c.png" xmltv_id="RTLGold.hu">RTL Gold</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439164__https://wp10-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_5_c_0a800a87da2494849f1cc8aeaba0f4ab.png" xmltv_id="AXN.hu">AXN</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439165__https://wp18-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_91_c_61e3e9c6d8f628a1a7dd5a802fa6c05c.png" xmltv_id="AXNHD.hu">AXN HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439149__https://wp22-images-hu-dynamic.horizon.tv/HU/Logos/focused/SONY_MAX.png" xmltv_id="SonyMax.hu">Sony Max</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439190__https://wp12-images-hu-dynamic.horizon.tv/HU/Logos/focused/Sony_Movie.png" xmltv_id="SonyMovieChannel.hu">Sony Movie Channel</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_875878439188__https://wp15-images-hu-dynamic.horizon.tv/HU/Logos/focused/Moziverzum.png" xmltv_id="Moziverzum.hu">Moziverzum</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_875878439189__https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/Moziverzum_HD.png" xmltv_id="MoziverzumHD.hu">Moziverzum HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_875878439190__https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/Jocky_TV.png" xmltv_id="JockyTV.hu">Jocky TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439144__https://wp9-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_80_c_b58a5822b41a199dad72018a612e03ab.png" xmltv_id="Sorozat.hu">Sorozat</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439182__https://wp11-images-hu-dynamic.horizon.tv/HU/Logos/focused/TV4.png" xmltv_id="TV4.hu">TV4</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439201__https://wp15-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_144_c_15ded2667b040b8239e0aa94102b2831.png" xmltv_id="IzauraTV.hu">Izaura TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439138__https://wp4-images-hu-dynamic.horizon.tv/HU/Logos/focused/STORY4.png" xmltv_id="Story4.hu">Story4</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439147__https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_9_c_714de3eec92df3993fbd588437750403.png" xmltv_id="FilmMánia.hu">Film Mánia</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439215__https://wp27-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_36_c_35909f553b3f894d1efcf5ee67d62856.png" xmltv_id="FilmCafé.hu">Film Café</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439151__https://wp26-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_77_c_935916ef1d0f9335bd4cf4b2df2e0700.png" xmltv_id="RTL.hu">RTL</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439158__https://wp15-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_10_c_1ea569f3a9e35cc16d8b3b175946fd50.png" xmltv_id="AMC.hu">AMC</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439163__https://wp9-images-hu-dynamic.horizon.tv/HU/Logos/focused/AMC_HD.png" xmltv_id="AMCHD.hu">AMC HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439197__https://wp3-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_11_c_fb20dc51e04cbe881f95c1b9ddedcb87.png" xmltv_id="Mozi.hu">Mozi</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439203__https://wp18-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_154_c_a451b10ce5548c109af0c02c04c1db77.png" xmltv_id="MoziHD.hu">Mozi HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439225__https://wp2-images-hu-dynamic.horizon.tv/HU/Logos/focused/Spiler1.png" xmltv_id="Spíler1TV.hu">Spíler1 TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439226__https://wp12-images-hu-dynamic.horizon.tv/HU/Logos/focused/Spiler1_HD.png" xmltv_id="Spíler1TVHD.hu">Spíler1 TV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_868095527426__https://wp5-images-hu-dynamic.horizon.tv/HU/Logos/focused/sp_ler2_tv.png" xmltv_id="Spíler2TV.hu">Spíler2 TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_868103207167__https://wp7-images-hu-dynamic.horizon.tv/HU/Logos/focused/sp_ler2_tv_hd.png" xmltv_id="Spíler2TVHD.hu">Spíler2 TV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439167__https://wp5-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_12_c_5ca636e5e0f79decd42f269308668bed.png" xmltv_id="Prime.hu">Prime</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439288__https://wp4-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_39_c_14def19b7d06cb11201738e86ea989c1.png" xmltv_id="FilmBox.hu">FilmBox</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439285__https://wp11-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_152_c_fdb09ce8eca93bb130b1176738a31a6c.png" xmltv_id="Humor.hu">Humor</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439257__https://wp4-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_37_c_5ae140a33fe9288b46dcede8af4f015b.png" xmltv_id="LifeTv.hu">LifeTv</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439248__https://wp22-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_13_c_e7ac96f07f5c8c8bec3f8aa09456e510.png" xmltv_id="TLC.hu">TLC</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439249__https://wp20-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_14_c_ff8b19c61d9c13a68691d5a7b7c13ed1.png" xmltv_id="MTVHungary.hu">MTV Hungary</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439180__https://wp8-images-hu-dynamic.horizon.tv/HU/Logos/focused/GALAXY4.png" xmltv_id="Galaxy4.hu">Galaxy4</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439181__https://wp7-images-hu-dynamic.horizon.tv/HU/Logos/focused/epic_drama.png" xmltv_id="EpicDrama.hu">Epic Drama</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439194__https://wp5-images-hu-dynamic.horizon.tv/HU/Logos/focused/film4_colour.png" xmltv_id="Film4.hu">Film4</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_875878439187__https://wp26-images-hu-dynamic.horizon.tv/HU/Logos/focused/atv_spirit.png" xmltv_id="ATVSpirit.hu">ATV Spirit</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439175__https://wp3-images-hu-dynamic.horizon.tv/HU/Logos/focused/atv.png" xmltv_id="ATV.hu">ATV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439176__https://wp23-images-hu-dynamic.horizon.tv/HU/Logos/focused/atv_hd.png" xmltv_id="ATVHD.hu">ATV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439267__https://wp16-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_72_c_8c438f56a055eb522959f7d1d67c3316.png" xmltv_id="HírTV.hu">Hír TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439218__https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_54_c_8fbca6ff1964a45dfeb5bb287453fc2a.png" xmltv_id="HBO.hu">HBO</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439222__https://wp9-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_111_c_303f4a96c325cb5044e8cf71a0bfb654.png" xmltv_id="HBOHD.hu">HBO HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439219__https://wp4-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_55_c_8e0ece8d8843603ea5711c724413d475.png" xmltv_id="HBO2.hu">HBO2</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439139__https://wp24-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_56_c_2c8b41c50b1a67e73ccf240b246102e3.png" xmltv_id="HBO3.hu">HBO3</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439145__https://wp13-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_57_c_702387d96e1e92a5a7b40a4942ff619c.png" xmltv_id="Cinemax.hu">Cinemax</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439137__https://wp7-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_58_c_5fb7cce80035ab930db6e075d2211610.png" xmltv_id="Cinemax2.hu">Cinemax2</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439142__https://wp21-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_114_c_d837c37e1f6ea3f4133344f84552980a.png" xmltv_id="FilmBoxExtraHD.hu">FilmBox Extra HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439156__https://wp24-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_59_c_a31fc6cb849a78fa0cbbaa9abceaa86c.png" xmltv_id="FilmBoxPremium.hu">FilmBox Premium</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439169__https://wp28-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_60_c_7a584cb448a8b3e26bc7d2c542a4de7d.png" xmltv_id="FilmBoxFamily.hu">FilmBox Family</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439143__https://wp8-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_61_c_1001b0de3c7b96c753549c3903301461.png" xmltv_id="FilmBoxPlus.hu">FilmBox Plus</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_868067367173__https://wp9-images-hu-dynamic.horizon.tv/HU/Logos/focused/Fightbox.png" xmltv_id="FightBox.hu">FightBox</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_868067879406__https://wp10-images-hu-dynamic.horizon.tv/HU/Logos/focused/Docubox.png" xmltv_id="DocuBox.hu">DocuBox</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_875878439186__https://wp12-images-hu-dynamic.horizon.tv/HU/Logos/focused/Gametoon.png" xmltv_id="GameToon.hu">GameToon</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439172__https://wp13-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_19_c_1fee6004492dc67351003e89ae127f7e.png" xmltv_id="Sport1.hu">Sport1</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439177__https://wp21-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_95_c_81d797dc1875a4b226601ce9bae320b4.png" xmltv_id="Sport1HD.hu">Sport1 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439173__https://wp12-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_20_c_a34008a4efd3d094377438412c5dac24.png" xmltv_id="Sport2.hu">Sport2</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439179__https://wp13-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_113_c_2232d2bfa790148e5396e4e80ac9c84f.png" xmltv_id="Sport2HD.hu">Sport2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439174__https://wp9-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_21_c_a0ca1e3d924e4463b757860d6a21134a.png" xmltv_id="Eurosport1.hu">Eurosport 1</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439178__https://wp15-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_96_c_ca3980b98fec35f1c04113ae95b4cd48.png" xmltv_id="Eurosport1HD.hu">Eurosport 1 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439148__https://wp1-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_22_c_9f847bd48ae03d4f1fb91a79d2f52113.png" xmltv_id="Eurosport2.hu">Eurosport 2</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439152__https://wp26-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_97_c_947db48db585fe4fb87463d7f3160a5d.png" xmltv_id="Eurosport2HD.hu">Eurosport 2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439259__https://wp12-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_41_c_1bf19e734f9a08adad1242a09c533976.png" xmltv_id="FishingHunting.hu">FishingHunting</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439216__https://wp26-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_42_c_0ef4cff47ec312b10fb7b4f9cb0a037c.png" xmltv_id="ExtremeSportsChannel.hu">Extreme Sports Channel</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439154__https://wp16-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_23_c_f0c10366bd1cad16ae45b63f82a7db2c.png" xmltv_id="Spektrum.hu">Spektrum</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439155__https://wp16-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_94_c_319b6fa637db647baee55f759d72c1ac.png" xmltv_id="SpektrumHD.hu">Spektrum HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439254__https://wp14-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_25_c_3a10e34fc8e9d03ad6d3e130df708e8a.png" xmltv_id="NationalGeographic.hu">National Geographic</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439263__https://wp7-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_62_c_e506e764cb091cd09d5eaf5e23ee5909.png" xmltv_id="NatGeoHD.hu">Nat Geo HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439260__https://wp7-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_43_c_49b9b10e65186e5149d984cddbd714b8.png" xmltv_id="NatGeoWILD.hu">Nat Geo WILD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439271__https://wp13-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_99_c_d69dce465c15f42d01df92ed462a999d.png" xmltv_id="NatGeoWILDHD.hu">Nat Geo WILD HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439255__https://wp13-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_26_c_82ca6dfebfa6a4a7f1c1b57ff8185721.png" xmltv_id="DiscoveryChannel.hu">Discovery Channel</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439264__https://wp14-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_63_c_7a5a88faaff6fda794016da8a0270d0e.png" xmltv_id="DiscoveryShowcaseHD.hu">Discovery Showcase HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439159__https://wp11-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_27_c_7961707e7fb1e2743695f29d92bdffe6.png" xmltv_id="AnimalPlanet.hu">Animal Planet</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439161__https://wp21-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_64_c_6d0937be2c97d410435507744b48e245.png" xmltv_id="AnimalPlanetHD.hu">Animal Planet HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439228__https://wp12-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_155_c_35cf2f46edc01967e663b47a827cd709.png" xmltv_id="DTX.hu">DTX</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439207__https://wp26-images-hu-dynamic.horizon.tv/HU/Logos/focused/SCI.png" xmltv_id="DiscoveryScience.hu">Discovery Science</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439160__https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/ID.png" xmltv_id="ID.hu">ID</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439217__https://wp16-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_47_c_1515c6305af70fd98261502f241697ec.png" xmltv_id="HISTORY.hu">HISTORY</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439220__https://wp3-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_105_c_1e098e333d016f763ac3d30dc9337af4.png" xmltv_id="HistoryHD.hu">History HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439258__https://wp19-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_38_c_9937e9614eb806a5daf7ab55b3e8547b.png" xmltv_id="OzoneTv.hu">OzoneTv</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439198__https://wp25-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_46_c_2070a8b27ed67f8aad0b62b622ca2b55.png" xmltv_id="ViasatExplore.hu">Viasat Explore</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439200__https://wp18-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_108_c_2858285c7f394d96d6a4eb7e3343b2f2.png" xmltv_id="ViasatNatureHistoryHD.hu">Viasat NatureHistory HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439281__https://wp14-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70017_c_823aa1520849e2bbadb9458746be492d.png" xmltv_id="TravelChannelHD.hu">Travel Channel HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439280__https://wp23-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70016_c_89f0c33431e67025a640019e948ed6ea.png" xmltv_id="TravelChannel.hu">Travel Channel</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439214__https://wp23-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_29_c_eab7e22223b2f21783db42169b86697d.png" xmltv_id="CBSReality.hu">CBS Reality</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439261__https://wp11-images-hu-dynamic.horizon.tv/HU/Logos/focused/davinci_tv.png" xmltv_id="DaVinci.hu">Da Vinci</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439292__https://wp4-images-hu-dynamic.horizon.tv/HU/Logos/focused/ECTV_colour.png" xmltv_id="EnglishClubTV.hu">English Club TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439270__https://wp18-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_83_c_b69b782c5646f3f76ff133acfb5f24f2.png" xmltv_id="TVPaprika.hu">TV Paprika</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439253__https://wp8-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_24_c_ffc50b0d93e2b2e04f12784222486998.png" xmltv_id="SpektrumHome.hu">Spektrum Home</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439224__https://wp27-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_138_c_176b1d9585bcf5d695c42cd863cb08bc.png" xmltv_id="FoodNetwork.hu">Food Network</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439282__https://wp28-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_137_c_7794027d769f896efaa7103d3e44341d.png" xmltv_id="FineLiving.hu">Fine Living</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439230__https://wp12-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_151_c_a46dd5c569d78d934654b8f10f435b5e.png" xmltv_id="LiChiTV.hu">LiChi TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439202__https://wp27-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_146_c_af4a804d60d620b4a69f1de14c465be5.png" xmltv_id="FEM3.hu">FEM3</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439256__https://wp7-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_30_c_587513d235e7d33c3dd7d87a80e68770.png" xmltv_id="DisneyChannel.hu">Disney Channel</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439208__https://wp10-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_50_c_8520e9bd2f77179c64cd128499cea65a.png" xmltv_id="Nickelodeon.hu">Nickelodeon</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439211__https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_120_c_ebb456b6ab7d9bbc7c41bfe89a7b482e.png" xmltv_id="NickelodeonHD.hu">Nickelodeon HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439212__https://wp10-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_121_c_fd50f65ad9354813a54a5ab2dc039088.png" xmltv_id="NickJr.hu">Nick Jr</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439268__https://wp16-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_73_c_103e21069c8675a00b8936821050a6e1.png" xmltv_id="Minimax.hu">Minimax</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439191__https://wp26-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_51_c_6607bdce16c2c970d0dce57b23142374.png" xmltv_id="Megamax.hu">Megamax</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439206__https://wp23-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_31_c_705dda98b9593e612b0a64a6389021ca.png" xmltv_id="CartoonNetwork.hu">Cartoon Network</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439262__https://wp8-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_52_c_1e53ffb303119039226c2fcaf7506b9e.png" xmltv_id="JimJam.hu">JimJam</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439231__https://wp4-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70012_c_ec02743f8b2b9fb6ccb8637f5f22d744.png" xmltv_id="BabyTV.hu">BabyTV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439229__https://wp24-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_150_c_c9e4365f56a541b050dc88c97f955cdc.png" xmltv_id="KiwiTV.hu">Kiwi TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_875461159351__https://wp22-images-hu-dynamic.horizon.tv/HU/Logos/focused/nicktoons.png" xmltv_id="Nicktoons.hu">Nicktoons</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439171__https://wp10-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70010_c_89e95fd35eba6f43b976430676d187b7.png" xmltv_id="Mezzo.hu">Mezzo</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439150__https://wp5-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_74_c_081ac334bbdd650ccee8414ab054f067.png" xmltv_id="MuzsikaTV.hu">Muzsika TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439223__https://wp25-images-hu-dynamic.horizon.tv/HU/Logos/focused/slager_tv.png" xmltv_id="SlágerTV.hu">Sláger TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439128__https://wp19-images-hu-dynamic.horizon.tv/HU/Logos/focused/MtvHits.png" xmltv_id="MTVHits.hu">MTV Hits</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439133__https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70021_c_76ccfbeced78daad95280d3e94782862.png" xmltv_id="MTVRocks.hu">MTV Rocks</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439240__https://wp9-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70020_c_5451bca83d3b7322609dedbbe8b511c4.png" xmltv_id="MTVLiveHD.hu">MTV Live HD</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439238__https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70022_c_f3ddc172b0554b099f6e3253b5ea17e9.png" xmltv_id="VH1.hu">VH1</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439166__https://wp5-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_145_c_4c09ce9ad5976fe11cfc2d28388209d9.png" xmltv_id="Zenebutik.hu">Zenebutik</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439132__https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70007_c_fbc593dfe40e7ba9e1c975440495a9cc.png" xmltv_id="CNNInternational.hu">CNN International</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439236__https://wp8-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70008_c_fd4782bb3a83a2b07eb3a0785117e608.png" xmltv_id="BBCWorldNews.hu">BBC World News</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439237__https://wp21-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70009_c_b96a12873978ac100036beaf8364185b.png" xmltv_id="Euronews.hu">Euronews</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439242__https://wp14-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70004_c_10579d2633083717f7bc0a4677cb5c43.png" xmltv_id="AlJazeeraEnglish.hu">Al Jazeera English</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439291__https://wp11-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70005_c_3b13d7cc9531c099fe84a31522352054.png" xmltv_id="RussiaToday.hu">Russia Today</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439187__https://wp4-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70002_c_a6fbb891af8e174a04c0ef92861ac66d.png" xmltv_id="TV5MONDE.hu">TV5MONDE</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439168__https://wp26-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70003_c_df36ee82b4bc8093de4c32dd1b572f35.png" xmltv_id="TVE.hu">TVE</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439234__https://wp20-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_110006_c_7cf314478ef4373727995305a75573ba.png" xmltv_id="ZDF.hu">ZDF</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439243__https://wp11-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_110001_c_a39398e71c57ccbe35af81aef95e4bb4.png" xmltv_id="DWEnglish.hu">DW English</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439129__https://wp9-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_110005_c_e051e3d4a1274f965874a5117218978c.png" xmltv_id="SAT1.hu">SAT1</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439232__https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_110004_c_13134c68f3d625820f8972c4d5c86386.png" xmltv_id="RTL.hu">RTL</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439289__https://wp4-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_110002_c_24be597d5cb8be829e24e0ab76a01104.png" xmltv_id="ORF1.hu">ORF 1</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439233__https://wp11-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_110003_c_4cd61e5457bbdb250c155ffa3ddc059d.png" xmltv_id="ORF2.hu">ORF 2</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439287__https://wp11-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_100001_c_8397530b138250aab97f171e353b471c.png" xmltv_id="RaiUno.hu">Rai Uno</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439241__https://wp5-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70011_c_a89a37a0dea0c81a418a91657e9a37e8.png" xmltv_id="RTRPlaneta.hu">RTRPlaneta</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439239__https://wp12-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70015_c_05bcd81909ecaab328f2a78c7ada592b.png" xmltv_id="CCTV4.hu">CCTV4</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439146__https://wp25-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70014_c_80f45de825d3b335e9c2acbf43c42a83.png" xmltv_id="Polonia.hu">Polonia</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439134__https://wp13-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_90001_c_ac72ca2d36fd92e1bd616137f5ed4366.png" xmltv_id="RTVSLO1.hu">RTV SLO 1</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439170__https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_101_c_9653e18e639693807ac7e487d290aad4.png" xmltv_id="HUSTLERTV.hu">HUSTLER TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439195__https://wp21-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_100_c_eaabbe0b975d7b78917b9fb99e1d7ed4.png" xmltv_id="PrivateTV.hu">Private TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439250__https://wp21-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_15_c_44410b9ffa85f98326617f86e360ce42.png" xmltv_id="D1TV.hu">D1 TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439272__https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_106_c_b79c90133e6f8ffd7f2e1507998d7d17.png" xmltv_id="PaxTelevízió.hu">Pax Televízió</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439251__https://wp3-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_16_c_32b2a4db5c0a79a2865b08f7032e0555.png" xmltv_id="FIXTV.hu">FIX TV</channel>
+  <channel update="i" site="horizon.tv" site_id="HU/hun_858598439290__https://wp28-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_102_c_5fdabd11174b63cd6b8abcb9ac2c5552.png" xmltv_id="hatoscsatorna.hu">hatoscsatorna</channel>
+
+</settings>

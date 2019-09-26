@@ -9,8 +9,8 @@
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>0</timespan>
-  <update>s</update>
+  <timespan>4</timespan>
+  <update>f</update>
 
   <!--
             Replace the next dummy channel entry with the channels you want.
@@ -20,187 +20,183 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443942983__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo1.png" xmltv_id="NPO 1 HD.nl">NPO 1 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443942987__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo2.png" xmltv_id="NPO 2 HD.nl">NPO 2 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_672816167173__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo3.png" xmltv_id="NPO 3 HD.nl">NPO 3 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943096__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl4_v6.png" xmltv_id="RTL 4 HD.nl">RTL 4 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943146__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl5_2017.png" xmltv_id="RTL 5 HD.nl">RTL 5 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638969__https://wp19-images-nl-dynamic.horizon.tv/ChannelLogos/02/sbs6_1.png" xmltv_id="SBS6 HD.nl">SBS6 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943014__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl7_2017.png" xmltv_id="RTL 7 HD.nl">RTL 7 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943190__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/veronica_disney_xd3.png" xmltv_id="Veronica HD  Disney XD.nl">Veronica HD  Disney XD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943091__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/net5_5.png" xmltv_id="Net5 HD.nl">Net5 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943182__https://wp17-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl8_2017.png" xmltv_id="RTL 8 HD.nl">RTL 8 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_120746535305__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox.png" xmltv_id="FOX HD.nl">FOX HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_660696615380__https://wp21-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl_z.png" xmltv_id="RTL Z HD.nl">RTL Z HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_722568742989__https://wp2-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_tv_1.png" xmltv_id="Ziggo TV HD.nl">Ziggo TV HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_675503655063__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport.png" xmltv_id="Ziggo Sport HD.nl">Ziggo Sport HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943012__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/comedy_central_hd.png" xmltv_id="Comedy Central HD.nl">Comedy Central HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_763312167446__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/spike.png" xmltv_id="Spike HD.nl">Spike HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943009__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/discovery_hd.png" xmltv_id="Discovery HD.nl">Discovery HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943035__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/nat_geo_v3.png" xmltv_id="National Geographic Channel HD.nl">National Geographic Channel HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_728310311065__https://wp17-images-nl-dynamic.horizon.tv/ChannelLogos/02/sbs9.png" xmltv_id="SBS9 HD.nl">SBS9 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638987__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/eurosport1_v2.png" xmltv_id="Eurosport 1 HD.nl">Eurosport 1 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_562458663437__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/tlc_hd.png" xmltv_id="TLC HD.nl">TLC HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_728310311078__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_first.png" xmltv_id="BBC First HD.nl">BBC First HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943006__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/mtv_hd.png" xmltv_id="MTV HD.nl">MTV HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_540738087345__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/24kitchen_v3.png" xmltv_id="24Kitchen HD.nl">24Kitchen HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_802696743168__https://wp11-images-nl-dynamic.horizon.tv/ChannelLogos/02/xite_2017.png" xmltv_id="XITE HD.nl">XITE HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_779532327091__https://wp12-images-nl-dynamic.horizon.tv/ChannelLogos/02/viceland.png" xmltv_id="Viceland HD.nl">Viceland HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_728310311082__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/disney_channel_2.png" xmltv_id="Disney Channel HD.nl">Disney Channel HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_540738087343__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/historyhd.png" xmltv_id="HISTORY HD.nl">HISTORY HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_542836775318__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/nickelodeon_v5.png" xmltv_id="Nickelodeon HD.nl">Nickelodeon HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638992__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/ons_2018.png" xmltv_id="ONS.nl">ONS</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943058__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/een_v2.png" xmltv_id="één HD.nl">één HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_555680807173__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/canvas_v2.png" xmltv_id="Canvas HD.nl">Canvas HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943087__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/ketnet_v2.png" xmltv_id="Ketnet.nl">Ketnet</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_429332519216__https://wp21-images-nl-dynamic.horizon.tv/ChannelLogos/02/ard_hd.png" xmltv_id="ARD HD.nl">ARD HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_429332519214__https://wp9-images-nl-dynamic.horizon.tv/ChannelLogos/02/zdf_hd.png" xmltv_id="ZDF HD.nl">ZDF HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_728310311075__https://wp11-images-nl-dynamic.horizon.tv/ChannelLogos/02/wdr.png" xmltv_id="WDR.nl">WDR</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943105__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/ndr.png" xmltv_id="NDR.nl">NDR</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_555680807174__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl_television.png" xmltv_id="RTL.nl">RTL</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638995__https://wp21-images-nl-dynamic.horizon.tv/ChannelLogos/02/sat_1.png" xmltv_id="Sat 1.nl">Sat 1</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443942999__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_one_hd.png" xmltv_id="BBC One HD.nl">BBC One HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_560453158983__https://wp25-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_two_hd.png" xmltv_id="BBC Two HD.nl">BBC Two HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943013__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc3.png" xmltv_id="BBC Three  CBBC.nl">BBC Three  CBBC</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943080__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_four.png" xmltv_id="BBC Four  Cbeebies.nl">BBC Four  Cbeebies</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638989__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_entertainment.png" xmltv_id="BBC Entertainment.nl">BBC Entertainment</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441127318__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv5monde_europe.png" xmltv_id="TV5 Monde.nl">TV5 Monde</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639006__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/arte.png" xmltv_id="Arte.nl">Arte</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_672816167175__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/tve.png" xmltv_id="TVE.nl">TVE</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638971__https://wp1-images-nl-dynamic.horizon.tv/ChannelLogos/02/mediaset_italia.png" xmltv_id="Mediaset Italia.nl">Mediaset Italia</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638984__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtv7.png" xmltv_id="RTV7.nl">RTV7</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639004__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/trt_turk.png" xmltv_id="TRT Türk.nl">TRT Türk</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_606274087098__https://wp27-images-nl-dynamic.horizon.tv/ChannelLogos/02/2m.png" xmltv_id="2M.nl">2M</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638993__https://wp2-images-nl-dynamic.horizon.tv/ChannelLogos/02/film1_premiere_1.png" xmltv_id="Film1 Premiere HD.nl">Film1 Premiere HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638998__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/film1_action_1.png" xmltv_id="Film1 Action HD.nl">Film1 Action HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639002__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/film1_family_1.png" xmltv_id="Film1 Family HD.nl">Film1 Family HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_153935399225__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/film1_drama_1.png" xmltv_id="Film1 Drama HD.nl">Film1 Drama HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638999__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/film1_ondemand_2017.png" xmltv_id="Film1 On Demand.nl">Film1 On Demand</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943033__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl_crime2.png" xmltv_id="RTL Crime HD.nl">RTL Crime HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639009__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/crime_invest.png" xmltv_id="CI.nl">CI</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_776540711439__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/investigation_discovery_2017.png" xmltv_id="ID HD.nl">ID HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639010__https://wp27-images-nl-dynamic.horizon.tv/ChannelLogos/02/comedy_central_extra_2018.png" xmltv_id="Comedy Central Extra.nl">Comedy Central Extra</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639001__https://wp19-images-nl-dynamic.horizon.tv/ChannelLogos/02/shorts_tv2.png" xmltv_id="Shorts TV.nl">Shorts TV</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_728310311071__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/e_entertainment_new.png" xmltv_id="E HD.nl">E HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639041__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/comedy_central_family1.png" xmltv_id="Comedy Central Family.nl">Comedy Central Family</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943148__https://wp16-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo3_extra_2018.png" xmltv_id="NPO 3 Extra.nl">NPO 3 Extra</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638996__https://wp1-images-nl-dynamic.horizon.tv/ChannelLogos/02/outtv_v4.png" xmltv_id="OUTTV HD.nl">OUTTV HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_563391527030__https://wp15-images-nl-dynamic.horizon.tv/ChannelLogos/02/amc.png" xmltv_id="AMC HD.nl">AMC HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639040__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/cbs_reality.png" xmltv_id="CBS Reality.nl">CBS Reality</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943044__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/fashiontv.png" xmltv_id="Fashion TV HD.nl">Fashion TV HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638967__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/myzen_tv.png" xmltv_id="MyZen HD.nl">MyZen HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_606274087102__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/horse_country.png" xmltv_id="Horse  Country TV.nl">Horse  Country TV</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639013__https://wp25-images-nl-dynamic.horizon.tv/ChannelLogos/02/food_network.png" xmltv_id="Food Network HD.nl">Food Network HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_728310311079__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/fine_living2.png" xmltv_id="Fine Living HD.nl">Fine Living HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639032__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl_lounge_v2.png" xmltv_id="RTL Lounge HD.nl">RTL Lounge HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_760422951406__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/netflix_1.png" xmltv_id="Netflix.nl">Netflix</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_760730662979__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/videoland_1.png" xmltv_id="Videoland.nl">Videoland</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943097__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/discovery_science_2017.png" xmltv_id="Discovery Science HD.nl">Discovery Science HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943084__https://wp27-images-nl-dynamic.horizon.tv/ChannelLogos/02/discovery_world.png" xmltv_id="Discovery World.nl">Discovery World</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_540738087344__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/natgeowild_hd.png" xmltv_id="Nat Geo Wild HD.nl">Nat Geo Wild HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943106__https://wp21-images-nl-dynamic.horizon.tv/ChannelLogos/02/animal_planet_hd.png" xmltv_id="Animal Planet HD.nl">Animal Planet HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_728310311067__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/travel_channel_2017.png" xmltv_id="Travel Channel HD.nl">Travel Channel HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943108__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo2_extra_2018.png" xmltv_id="NPO 2 Extra.nl">NPO 2 Extra</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639007__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/family7.png" xmltv_id="Family7.nl">Family7</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639021__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/disney_xd_v2.png" xmltv_id="Disney XD.nl">Disney XD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_541838374997__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/disney_junior.png" xmltv_id="Disney Junior.nl">Disney Junior</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443942994__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/nick_toons1.png" xmltv_id="Nicktoons.nl">Nicktoons</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796440615450__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/nick_music.png" xmltv_id="Nick Music.nl">Nick Music</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_560453158987__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/pebble_tv.png" xmltv_id="Pebble TV.nl">Pebble TV</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443942992__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/nick_jr.png" xmltv_id="Nick Jr.nl">Nick Jr</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638994__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/cartoon_network.png" xmltv_id="Cartoon Network.nl">Cartoon Network</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639039__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/boomerang_1.png" xmltv_id="Boomerang.nl">Boomerang</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639026__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/babytv.png" xmltv_id="Baby TV.nl">Baby TV</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_564193831242__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo_zapp_npo1_extra_2018.png" xmltv_id="NPO 1 Extra  NPO Zapp Xtra.nl">NPO 1 Extra  NPO Zapp Xtra</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639018__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl_telekids_2017.png" xmltv_id="RTL Telekids HD.nl">RTL Telekids HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943161__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport_select.png" xmltv_id="Ziggo Sport Select HD.nl">Ziggo Sport Select HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639011__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport_voetbal.png" xmltv_id="Ziggo Sport Voetbal HD.nl">Ziggo Sport Voetbal HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_777839143135__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport_golf.png" xmltv_id="Ziggo Sport Golf HD.nl">Ziggo Sport Golf HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_777839143134__https://wp16-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport_racing.png" xmltv_id="Ziggo Sport Racing HD.nl">Ziggo Sport Racing HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638965__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport_extra1.png" xmltv_id="Ziggo Sport Extra1.nl">Ziggo Sport Extra1</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638966__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport_extra2.png" xmltv_id="Ziggo Sport Extra2.nl">Ziggo Sport Extra2</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_561138215257__https://wp15-images-nl-dynamic.horizon.tv/ChannelLogos/02/eurosport2_v2.png" xmltv_id="Eurosport 2 HD.nl">Eurosport 2 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639005__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/extreme_sports.png" xmltv_id="Extreme Sports Channel.nl">Extreme Sports Channel</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943016__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/motors_sporttv.png" xmltv_id="Motorsport TV HD.nl">Motorsport TV HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_614261799194__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports.png" xmltv_id="FOX Sports Info.nl">FOX Sports Info</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_119414823233__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports_ere_1_hd.png" xmltv_id="FOX Sports 1 Eredivisie HD.nl">FOX Sports 1 Eredivisie HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_119414823227__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports2_hd.png" xmltv_id="FOX Sports 2 HD.nl">FOX Sports 2 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_119414823235__https://wp15-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports_ere_3_hd.png" xmltv_id="FOX Sports 3 Eredivisie HD.nl">FOX Sports 3 Eredivisie HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_119414823230__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports4_hd.png" xmltv_id="FOX Sports 4 HD.nl">FOX Sports 4 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_555680807172__https://wp9-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports_ere_5_hd.png" xmltv_id="FOX Sports 5 Eredivisie HD.nl">FOX Sports 5 Eredivisie HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_606274087106__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports6_hd.png" xmltv_id="FOX Sports 6 HD.nl">FOX Sports 6 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_624196647052__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_live_events_1.png" xmltv_id="Ziggo Live Events.nl">Ziggo Live Events</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_635928103345__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_live_events_1.png" xmltv_id="Ziggo Live Events FOX Sports.nl">Ziggo Live Events FOX Sports</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638972__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo_nieuws.png" xmltv_id="NPO Nieuws.nl">NPO Nieuws</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638973__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo_politiek.png" xmltv_id="NPO Politiek.nl">NPO Politiek</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_561138215261__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/cnn.png" xmltv_id="CNN.nl">CNN</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943049__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_world_news.png" xmltv_id="BBC World News.nl">BBC World News</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638964__https://wp12-images-nl-dynamic.horizon.tv/ChannelLogos/02/euronews_1.png" xmltv_id="Euronews.nl">Euronews</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638983__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/al_jazeera_english1.png" xmltv_id="Aljazeera English.nl">Aljazeera English</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943051__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/cnbc.png" xmltv_id="CNBC Europe.nl">CNBC Europe</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_544430119366__https://wp12-images-nl-dynamic.horizon.tv/ChannelLogos/02/cgtn.png" xmltv_id="CGTN.nl">CGTN</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639008__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/russia_today.png" xmltv_id="RT.nl">RT</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638954__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv_538_2.png" xmltv_id="TV538.nl">TV538</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943214__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/mtv_music_24.png" xmltv_id="MTV Music 24.nl">MTV Music 24</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943025__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/dancetrippin_2017.png" xmltv_id="DanceTrippin HD.nl">DanceTrippin HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638952__https://wp9-images-nl-dynamic.horizon.tv/ChannelLogos/02/slam_tv_v2.png" xmltv_id="SLAM.nl">SLAM</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943136__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/mtv_brand_new.png" xmltv_id="MTV Brand New.nl">MTV Brand New</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638956__https://wp11-images-nl-dynamic.horizon.tv/ChannelLogos/02/stingray_lite_tv.png" xmltv_id="Stingray LiteTV.nl">Stingray LiteTV</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796440615446__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/vh1_classic.png" xmltv_id="VH1 Classic.nl">VH1 Classic</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943156__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/stingray_brava.png" xmltv_id="Brava.nl">Brava</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638982__https://wp12-images-nl-dynamic.horizon.tv/ChannelLogos/02/mezzo.png" xmltv_id="Mezzo.nl">Mezzo</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_560453158982__https://wp15-images-nl-dynamic.horizon.tv/ChannelLogos/02/stingray_djazz.png" xmltv_id="DJAZZ.nl">DJAZZ</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796440615449__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv_oranje.png" xmltv_id="TV Oranje.nl">TV Oranje</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638951__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/100pnl_tv.png" xmltv_id="100 NL TV.nl">100 NL TV</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638955__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/192_tv.png" xmltv_id="192TV.nl">192TV</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_728310311070__https://wp1-images-nl-dynamic.horizon.tv/ChannelLogos/02/mtv_live_hd.png" xmltv_id="MTV Live HD.nl">MTV Live HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943192__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtv_noord.png" xmltv_id="TV Noord.nl">TV Noord</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639037__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_friesland_1.png" xmltv_id="Omrop Fryslân.nl">Omrop Fryslân</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639023__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtv_drenthe_1.png" xmltv_id="TV Drenthe.nl">TV Drenthe</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441127316__https://wp16-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtv_oost_1.png" xmltv_id="TV Oost.nl">TV Oost</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796440615447__https://wp1-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_gelderland.png" xmltv_id="TV Gelderland.nl">TV Gelderland</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796440615444__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_flevoland.png" xmltv_id="Omroep Flevoland.nl">Omroep Flevoland</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639035__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/nh.png" xmltv_id="NH.nl">NH</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639027__https://wp25-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtv_utrecht_2.png" xmltv_id="RTV Utrecht.nl">RTV Utrecht</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638962__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv_west.png" xmltv_id="TV West.nl">TV West</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638960__https://wp2-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv_rijnmond.png" xmltv_id="TV Rijnmond.nl">TV Rijnmond</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441127315__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_zeeland2.png" xmltv_id="Omroep Zeeland.nl">Omroep Zeeland</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639033__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_brabant.png" xmltv_id="Omroep Brabant.nl">Omroep Brabant</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943061__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_limburg_1.png" xmltv_id="L1 TV.nl">L1 TV</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639029__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/at5_new.png" xmltv_id="AT5.nl">AT5</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639012__https://wp25-images-nl-dynamic.horizon.tv/ChannelLogos/02/star_plus.png" xmltv_id="STAR Plus.nl">STAR Plus</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638980__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/stargold1.png" xmltv_id="STAR Gold.nl">STAR Gold</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639014__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/zee-tv-2018.png" xmltv_id="Zee TV.nl">Zee TV</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639015__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/zee-cinema-2018.png" xmltv_id="Zee Cinema.nl">Zee Cinema</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638985__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/zing_2017.png" xmltv_id="Zing.nl">Zing</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639003__https://wp19-images-nl-dynamic.horizon.tv/ChannelLogos/02/set_asia.png" xmltv_id="SET Asia.nl">SET Asia</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_606274087101__https://wp17-images-nl-dynamic.horizon.tv/ChannelLogos/02/show_tv.png" xmltv_id="Show TV.nl">Show TV</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_728310311069__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/euro_d1.png" xmltv_id="Euro D.nl">Euro D</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_728310311073__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/eurostar.png" xmltv_id="Eurostar.nl">Eurostar</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796724263299__https://wp16-images-nl-dynamic.horizon.tv/ChannelLogos/02/haberturk.png" xmltv_id="Habertürk.nl">Habertürk</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638979__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv8.png" xmltv_id="TV 8.nl">TV 8</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639016__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/trt_1.png" xmltv_id="TRT 1.nl">TRT 1</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_760422951409__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/trt_cocuk.png" xmltv_id="TRT Çocuk.nl">TRT Çocuk</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638988__https://wp17-images-nl-dynamic.horizon.tv/ChannelLogos/02/atv.png" xmltv_id="ATV Avrupa.nl">ATV Avrupa</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_760422951408__https://wp12-images-nl-dynamic.horizon.tv/ChannelLogos/02/trt_muzik.png" xmltv_id="TRT Müzik.nl">TRT Müzik</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638953__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/al_abrabiya.png" xmltv_id="Al Arabiya.nl">Al Arabiya</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639017__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/mbc.png" xmltv_id="MBC.nl">MBC</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639022__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/tvm_europe.png" xmltv_id="TVM Europe.nl">TVM Europe</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638990__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/al_jazeera.png" xmltv_id="Aljazeera.nl">Aljazeera</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638957__https://wp1-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_erotiek_overzicht_1.png" xmltv_id="Erotiek Pakket info.nl">Erotiek Pakket info</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639031__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/secret-circle.png" xmltv_id="Secret Circle.nl">Secret Circle</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638974__https://wp27-images-nl-dynamic.horizon.tv/ChannelLogos/02/penthouse.png" xmltv_id="Penthouse.nl">Penthouse</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_330522663235__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/evil_angel.png" xmltv_id="Evil Angel.nl">Evil Angel</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943083__https://wp16-images-nl-dynamic.horizon.tv/ChannelLogos/02/passie_xxx.png" xmltv_id="PassieXXX.nl">PassieXXX</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639019__https://wp17-images-nl-dynamic.horizon.tv/ChannelLogos/02/dusk.png" xmltv_id="DUSK.nl">DUSK</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441639000__https://wp25-images-nl-dynamic.horizon.tv/ChannelLogos/02/mvholland_hard.png" xmltv_id="MvH Hard.nl">MvH Hard</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943126__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/xmo_1.png" xmltv_id="XMO.nl">XMO</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943085__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_zender_vd_maand_1.png" xmltv_id="Zender van de Maand.nl">Zender van de Maand</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_24443943135__https://wp15-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_testbeeld_1.png" xmltv_id="Testbeeld.nl">Testbeeld</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_614261799193__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_zenderoverzicht_1.png" xmltv_id="Ziggo Zenderoverzicht HD.nl">Ziggo Zenderoverzicht HD</channel>
-    <channel update="i" site="horizon.tv" site_id="NL/nld_796441638958__https://wp19-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_eventkanaal_1.png" xmltv_id="Eventkanaal.nl">Eventkanaal</channel>
-
-
-
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443942983__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo1.png" xmltv_id="NPO1HD.nl">NPO 1 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443942987__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo2.png" xmltv_id="NPO2HD.nl">NPO 2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_672816167173__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo3.png" xmltv_id="NPO3HD.nl">NPO 3 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943096__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl4_v6.png" xmltv_id="RTL4HD.nl">RTL 4 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943146__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl5_2017.png" xmltv_id="RTL5HD.nl">RTL 5 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638969__https://wp19-images-nl-dynamic.horizon.tv/ChannelLogos/02/sbs6_2018.png" xmltv_id="SBS6HD.nl">SBS6 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943014__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl7_2017.png" xmltv_id="RTL7HD.nl">RTL 7 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943190__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/veronica_disney_2018.png" xmltv_id="VeronicaHDDisneyXD.nl">Veronica HD  Disney XD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943091__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/net5_5.png" xmltv_id="Net5HD.nl">Net5 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943182__https://wp17-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl8_2017.png" xmltv_id="RTL8HD.nl">RTL 8 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_120746535305__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_v2.png" xmltv_id="FOXHD.nl">FOX HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_660696615380__https://wp21-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl_z.png" xmltv_id="RTLZHD.nl">RTL Z HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_722568742989__https://wp2-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_tv_1.png" xmltv_id="ZiggoTVHD.nl">Ziggo TV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_675503655063__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport.png" xmltv_id="ZiggoSportHD.nl">Ziggo Sport HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943012__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/comedy_central_v2.png" xmltv_id="ComedyCentralHD.nl">Comedy Central HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_763312167446__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/spike.png" xmltv_id="SpikeHD.nl">Spike HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943009__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/discovery_hd.png" xmltv_id="DiscoveryHD.nl">Discovery HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943035__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/nat_geo_v3.png" xmltv_id="NationalGeographicChannelHD.nl">National Geographic Channel HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_728310311065__https://wp17-images-nl-dynamic.horizon.tv/ChannelLogos/02/sbs9_2018.png" xmltv_id="SBS9HD.nl">SBS9 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638987__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/eurosport1_v2.png" xmltv_id="Eurosport1HD.nl">Eurosport 1 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_562458663437__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/tlc_hd.png" xmltv_id="TLCHD.nl">TLC HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_728310311078__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_first.png" xmltv_id="BBCFirstHD.nl">BBC First HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943006__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/mtv_hd.png" xmltv_id="MTVHD.nl">MTV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_540738087345__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/24kitchen_v3.png" xmltv_id="24KitchenHD.nl">24Kitchen HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_802696743168__https://wp11-images-nl-dynamic.horizon.tv/ChannelLogos/02/xite_2017.png" xmltv_id="XITEHD.nl">XITE HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_779532327091__https://wp12-images-nl-dynamic.horizon.tv/ChannelLogos/02/viceland.png" xmltv_id="VicelandHD.nl">Viceland HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_728310311082__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/disney_channel_2.png" xmltv_id="DisneyChannelHD.nl">Disney Channel HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_540738087343__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/historyhd.png" xmltv_id="HISTORYHD.nl">HISTORY HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_542836775318__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/nickelodeon_v5.png" xmltv_id="NickelodeonHD.nl">Nickelodeon HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638992__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/ons_2018.png" xmltv_id="ONS.nl">ONS</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943058__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/een_v2.png" xmltv_id="éénHD.nl">één HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_555680807173__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/canvas_v2.png" xmltv_id="CanvasHD.nl">Canvas HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943087__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/ketnet_v2.png" xmltv_id="Ketnet.nl">Ketnet</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_429332519216__https://wp21-images-nl-dynamic.horizon.tv/ChannelLogos/02/ard_hd.png" xmltv_id="ARDHD.nl">ARD HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_429332519214__https://wp9-images-nl-dynamic.horizon.tv/ChannelLogos/02/zdf_hd.png" xmltv_id="ZDFHD.nl">ZDF HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_728310311075__https://wp11-images-nl-dynamic.horizon.tv/ChannelLogos/02/wdr.png" xmltv_id="WDR.nl">WDR</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943105__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/ndr.png" xmltv_id="NDR.nl">NDR</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_555680807174__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl_television.png" xmltv_id="RTL.nl">RTL</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638995__https://wp21-images-nl-dynamic.horizon.tv/ChannelLogos/02/sat_1.png" xmltv_id="Sat1.nl">Sat 1</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443942999__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_one_hd.png" xmltv_id="BBCOneHD.nl">BBC One HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_560453158983__https://wp25-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_two_hd.png" xmltv_id="BBCTwoHD.nl">BBC Two HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943013__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc3.png" xmltv_id="BBCThreeCBBC.nl">BBC Three  CBBC</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943080__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_four.png" xmltv_id="BBCFourCbeebies.nl">BBC Four  Cbeebies</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638989__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_entertainment.png" xmltv_id="BBCEntertainment.nl">BBC Entertainment</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441127318__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv5monde_europe.png" xmltv_id="TV5Monde.nl">TV5 Monde</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639006__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/arte.png" xmltv_id="Arte.nl">Arte</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_672816167175__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/tve.png" xmltv_id="TVE.nl">TVE</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638971__https://wp1-images-nl-dynamic.horizon.tv/ChannelLogos/02/mediaset_italia.png" xmltv_id="MediasetItalia.nl">Mediaset Italia</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638984__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtv7.png" xmltv_id="RTV7.nl">RTV7</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639004__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/trt_turk.png" xmltv_id="TRTTürk.nl">TRT Türk</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_606274087098__https://wp27-images-nl-dynamic.horizon.tv/ChannelLogos/02/2m.png" xmltv_id="2M.nl">2M</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638993__https://wp2-images-nl-dynamic.horizon.tv/ChannelLogos/02/film1_premiere_1.png" xmltv_id="Film1PremiereHD.nl">Film1 Premiere HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638998__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/film1_action_1.png" xmltv_id="Film1ActionHD.nl">Film1 Action HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639002__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/film1_family_1.png" xmltv_id="Film1FamilyHD.nl">Film1 Family HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_153935399225__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/film1_drama_1.png" xmltv_id="Film1DramaHD.nl">Film1 Drama HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638999__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/film1_ondemand_2017.png" xmltv_id="Film1OnDemand.nl">Film1 On Demand</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943033__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl_crime2.png" xmltv_id="RTLCrimeHD.nl">RTL Crime HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639009__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/crime_invest.png" xmltv_id="CI.nl">CI</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_776540711439__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/investigation_discovery_2017.png" xmltv_id="IDHD.nl">ID HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639010__https://wp27-images-nl-dynamic.horizon.tv/ChannelLogos/02/comedy_central_extra_2018.png" xmltv_id="ComedyCentralExtra.nl">Comedy Central Extra</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639001__https://wp19-images-nl-dynamic.horizon.tv/ChannelLogos/02/shorts_tv2.png" xmltv_id="ShortsTVHD.nl">Shorts TV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_728310311071__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/e_entertainment_new.png" xmltv_id="EHD.nl">E HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943148__https://wp16-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo1_extra_2019.png" xmltv_id="NPO1extra.nl">NPO 1 extra</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638996__https://wp1-images-nl-dynamic.horizon.tv/ChannelLogos/02/outtv_v4.png" xmltv_id="OUTTVHD.nl">OUTTV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639040__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/cbs_reality.png" xmltv_id="CBSReality.nl">CBS Reality</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943044__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/fashiontv.png" xmltv_id="FashionTVHD.nl">Fashion TV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638967__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/myzen_tv.png" xmltv_id="MyZenHD.nl">MyZen HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_606274087102__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/horse_country.png" xmltv_id="HorseCountryTVHD.nl">Horse  Country TV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639032__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl_lounge_v2.png" xmltv_id="RTLLoungeHD.nl">RTL Lounge HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_760422951406__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/netflix_1.png" xmltv_id="Netflix.nl">Netflix</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_760730662979__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/videoland_1.png" xmltv_id="Videoland.nl">Videoland</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943097__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/discovery_science_2017.png" xmltv_id="DiscoveryScienceHD.nl">Discovery Science HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943084__https://wp27-images-nl-dynamic.horizon.tv/ChannelLogos/02/discovery_world.png" xmltv_id="DiscoveryWorld.nl">Discovery World</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_540738087344__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/natgeowild_hd_v2.png" xmltv_id="NatGeoWILDHD.nl">Nat Geo WILD HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_866242598984__https://wp27-images-nl-dynamic.horizon.tv/ChannelLogos/02/love_nature_hd.png" xmltv_id="LoveNatureHD.nl">Love Nature HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943106__https://wp21-images-nl-dynamic.horizon.tv/ChannelLogos/02/animal_planet_hd_v2.png" xmltv_id="AnimalPlanetHD.nl">Animal Planet HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943108__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo2_extra_2018.png" xmltv_id="NPO2extra.nl">NPO 2 extra</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639007__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/family7.png" xmltv_id="Family7.nl">Family7</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443942994__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/nick_toons1.png" xmltv_id="Nicktoons.nl">Nicktoons</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796440615450__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/nick_music.png" xmltv_id="NickMusic.nl">Nick Music</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_560453158987__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/pebble_tv.png" xmltv_id="PebbleTV.nl">Pebble TV</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443942992__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/nick_jr.png" xmltv_id="NickJr.nl">Nick Jr</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638994__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/cartoon_network.png" xmltv_id="CartoonNetworkHD.nl">Cartoon Network HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639039__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/boomerang_1.png" xmltv_id="Boomerang.nl">Boomerang</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639026__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/babytv_20182.png" xmltv_id="BabyTV.nl">Baby TV</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_564193831242__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo_zappelin_extra_2019.png" xmltv_id="NPOZappelinextra.nl">NPO Zappelin extra</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639018__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtl_telekids_2017.png" xmltv_id="RTLTelekidsHD.nl">RTL Telekids HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943161__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport_select.png" xmltv_id="ZiggoSportSelectHD.nl">Ziggo Sport Select HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639011__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport_voetbal.png" xmltv_id="ZiggoSportVoetbalHD.nl">Ziggo Sport Voetbal HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_777839143135__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport_golf.png" xmltv_id="ZiggoSportGolfHD.nl">Ziggo Sport Golf HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_777839143134__https://wp16-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_sport_racing.png" xmltv_id="ZiggoSportRacingHD.nl">Ziggo Sport Racing HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638965__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggosport_docu_2018.png" xmltv_id="ZiggoSportDocuHD.nl">Ziggo Sport Docu HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638966__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggosport_extra_2018.png" xmltv_id="ZiggoSportExtraHD.nl">Ziggo Sport Extra HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_561138215257__https://wp15-images-nl-dynamic.horizon.tv/ChannelLogos/02/eurosport2_v2.png" xmltv_id="Eurosport2HD.nl">Eurosport 2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639005__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/extreme_sports.png" xmltv_id="ExtremeSportsChannel.nl">Extreme Sports Channel</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_119414823233__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports1_2018.png" xmltv_id="FOXSports1HD.nl">FOX Sports 1 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_119414823227__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports2_2018.png" xmltv_id="FOXSports2HD.nl">FOX Sports 2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_119414823235__https://wp15-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports3_2018.png" xmltv_id="FOXSports3HD.nl">FOX Sports 3 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_119414823230__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports4_2018.png" xmltv_id="FOXSports4HD.nl">FOX Sports 4 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_555680807172__https://wp9-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports5_2018.png" xmltv_id="FOXSports5HD.nl">FOX Sports 5 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_606274087106__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/fox_sports6_2018.png" xmltv_id="FOXSports6HD.nl">FOX Sports 6 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_624196647052__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_live_events_1.png" xmltv_id="ZiggoLiveEvents.nl">Ziggo Live Events</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_772368423293__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_live_events_1.png" xmltv_id="ZiggoLiveEventsFOXSports.nl">Ziggo Live Events FOX Sports</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_772368423294__https://wp9-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_live_events_1.png" xmltv_id="ZiggoLiveEventsFOXSports.nl">Ziggo Live Events FOX Sports</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_635928103348__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_live_events_1.png" xmltv_id="ZiggoLiveEventsFOXSports.nl">Ziggo Live Events FOX Sports</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_635928103347__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_live_events_1.png" xmltv_id="ZiggoLiveEventsFOXSports.nl">Ziggo Live Events FOX Sports</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_635928103346__https://wp27-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_live_events_1.png" xmltv_id="ZiggoLiveEventsFOXSports.nl">Ziggo Live Events FOX Sports</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_635928103351__https://wp16-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_live_events_1.png" xmltv_id="ZiggoLiveEventsFOXSports.nl">Ziggo Live Events FOX Sports</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_635928103349__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_live_events_1.png" xmltv_id="ZiggoLiveEventsFOXSports.nl">Ziggo Live Events FOX Sports</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_635928103345__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_live_events_1.png" xmltv_id="ZiggoLiveEventsFOXSports.nl">Ziggo Live Events FOX Sports</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638972__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo_nieuws.png" xmltv_id="NPONieuws.nl">NPO Nieuws</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638973__https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo_politiek.png" xmltv_id="NPOPolitiek.nl">NPO Politiek</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_561138215261__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/cnn.png" xmltv_id="CNN.nl">CNN</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943049__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/bbc_world_news.png" xmltv_id="BBCWorldNews.nl">BBC World News</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638964__https://wp12-images-nl-dynamic.horizon.tv/ChannelLogos/02/euronews_1.png" xmltv_id="Euronews.nl">Euronews</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638983__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/al_jazeera_english1.png" xmltv_id="AljazeeraEnglish.nl">Aljazeera English</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943051__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/cnbc.png" xmltv_id="CNBCEurope.nl">CNBC Europe</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_544430119366__https://wp12-images-nl-dynamic.horizon.tv/ChannelLogos/02/cgtn.png" xmltv_id="CGTN.nl">CGTN</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639008__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/russia_today.png" xmltv_id="RT.nl">RT</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638954__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv_538_2.png" xmltv_id="TV538.nl">TV538</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943214__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/mtv_music_24.png" xmltv_id="MTVMusic24.nl">MTV Music 24</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943025__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/dancetrippin_2017.png" xmltv_id="DanceTrippinHD.nl">DanceTrippin HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638952__https://wp9-images-nl-dynamic.horizon.tv/ChannelLogos/02/slam_tv_v2.png" xmltv_id="SLAM.nl">SLAM</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943136__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/mtv_brand_new.png" xmltv_id="MTVBrandNew.nl">MTV Brand New</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638956__https://wp11-images-nl-dynamic.horizon.tv/ChannelLogos/02/stingray_lite_tv.png" xmltv_id="StingrayLiteTV.nl">Stingray Lite TV</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796440615446__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/vh1_classic.png" xmltv_id="VH1Classic.nl">VH1 Classic</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943156__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/stingray_classica.png" xmltv_id="StingrayClassica.nl">Stingray Classica</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638982__https://wp12-images-nl-dynamic.horizon.tv/ChannelLogos/02/mezzo.png" xmltv_id="Mezzo.nl">Mezzo</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_560453158982__https://wp15-images-nl-dynamic.horizon.tv/ChannelLogos/02/stingray_djazz.png" xmltv_id="StingrayDJAZZ.nl">Stingray DJAZZ</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796440615449__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv_oranje.png" xmltv_id="TVOranje.nl">TV Oranje</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638951__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/100pnl_tv.png" xmltv_id="100NLTV.nl">100 NL TV</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638955__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/192_tv.png" xmltv_id="192TV.nl">192TV</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_728310311070__https://wp1-images-nl-dynamic.horizon.tv/ChannelLogos/02/mtv_live_hd.png" xmltv_id="MTVLiveHD.nl">MTV Live HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943192__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtv_noord.png" xmltv_id="TVNoord.nl">TV Noord</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639037__https://wp5-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_friesland_1.png" xmltv_id="OmropFryslân.nl">Omrop Fryslân</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639023__https://wp24-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtv_drenthe_1.png" xmltv_id="TVDrenthe.nl">TV Drenthe</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441127316__https://wp16-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtv_oost_1.png" xmltv_id="TVOost.nl">TV Oost</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796440615447__https://wp1-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_gelderland.png" xmltv_id="TVGelderland.nl">TV Gelderland</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796440615444__https://wp23-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_flevoland.png" xmltv_id="OmroepFlevoland.nl">Omroep Flevoland</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639035__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/nh_nieuws_2019.png" xmltv_id="NHNieuws.nl">NH Nieuws</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639027__https://wp25-images-nl-dynamic.horizon.tv/ChannelLogos/02/rtv_utrecht_2.png" xmltv_id="RTVUtrecht.nl">RTV Utrecht</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638962__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv_west.png" xmltv_id="TVWest.nl">TV West</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638960__https://wp2-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv_rijnmond.png" xmltv_id="TVRijnmond.nl">TV Rijnmond</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441127315__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_zeeland2.png" xmltv_id="OmroepZeeland.nl">Omroep Zeeland</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639033__https://wp8-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_brabant.png" xmltv_id="OmroepBrabant.nl">Omroep Brabant</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943061__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/omroep_limburg_1.png" xmltv_id="L1TV.nl">L1 TV</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639029__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/at5_new.png" xmltv_id="AT5.nl">AT5</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639012__https://wp25-images-nl-dynamic.horizon.tv/ChannelLogos/02/star_plus.png" xmltv_id="STARPlus.nl">STAR Plus</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638980__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/stargold1.png" xmltv_id="STARGold.nl">STAR Gold</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639014__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/zee-tv-2018.png" xmltv_id="ZeeTV.nl">Zee TV</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639015__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/zee-cinema-2018.png" xmltv_id="ZeeCinema.nl">Zee Cinema</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638985__https://wp7-images-nl-dynamic.horizon.tv/ChannelLogos/02/zing_2017.png" xmltv_id="Zing.nl">Zing</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639003__https://wp19-images-nl-dynamic.horizon.tv/ChannelLogos/02/set_asia.png" xmltv_id="SETAsia.nl">SET Asia</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_606274087101__https://wp17-images-nl-dynamic.horizon.tv/ChannelLogos/02/show_tv.png" xmltv_id="ShowTV.nl">Show TV</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_728310311069__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/euro_d1.png" xmltv_id="EuroD.nl">Euro D</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_728310311073__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/eurostar.png" xmltv_id="Eurostar.nl">Eurostar</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796724263299__https://wp16-images-nl-dynamic.horizon.tv/ChannelLogos/02/haberturk.png" xmltv_id="Habertürk.nl">Habertürk</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638979__https://wp26-images-nl-dynamic.horizon.tv/ChannelLogos/02/tv8.png" xmltv_id="TV8.nl">TV 8</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639016__https://wp4-images-nl-dynamic.horizon.tv/ChannelLogos/02/trt_turk2018.png" xmltv_id="TRTTurk.nl">TRT Turk</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_760422951409__https://wp6-images-nl-dynamic.horizon.tv/ChannelLogos/02/trt_cocuk.png" xmltv_id="TRTÇocuk.nl">TRT Çocuk</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638988__https://wp17-images-nl-dynamic.horizon.tv/ChannelLogos/02/atv.png" xmltv_id="ATVAvrupa.nl">ATV Avrupa</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_760422951408__https://wp12-images-nl-dynamic.horizon.tv/ChannelLogos/02/trt_muzik.png" xmltv_id="TRTMüzik.nl">TRT Müzik</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638953__https://wp18-images-nl-dynamic.horizon.tv/ChannelLogos/02/al_abrabiya.png" xmltv_id="AlArabiya.nl">Al Arabiya</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639017__https://wp13-images-nl-dynamic.horizon.tv/ChannelLogos/02/mbc.png" xmltv_id="MBC.nl">MBC</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639022__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/tvm_europe.png" xmltv_id="TVMEurope.nl">TVM Europe</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638990__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/al_jazeera.png" xmltv_id="Aljazeera.nl">Aljazeera</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638957__https://wp1-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_erotiek_overzicht_1.png" xmltv_id="ErotiekPakketinfo.nl">Erotiek Pakket info</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639031__https://wp14-images-nl-dynamic.horizon.tv/ChannelLogos/02/secret-circle.png" xmltv_id="SecretCircle.nl">Secret Circle</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638974__https://wp27-images-nl-dynamic.horizon.tv/ChannelLogos/02/penthouse_gold.png" xmltv_id="PenthouseGold.nl">Penthouse Gold</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_330522663235__https://wp10-images-nl-dynamic.horizon.tv/ChannelLogos/02/evil_angel.png" xmltv_id="EvilAngel.nl">Evil Angel</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943083__https://wp16-images-nl-dynamic.horizon.tv/ChannelLogos/02/passie_xxx.png" xmltv_id="PassieXXX.nl">PassieXXX</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639019__https://wp17-images-nl-dynamic.horizon.tv/ChannelLogos/02/dusk.png" xmltv_id="DUSK.nl">DUSK</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441639000__https://wp25-images-nl-dynamic.horizon.tv/ChannelLogos/02/mvholland_hard.png" xmltv_id="MvHHard.nl">MvH Hard</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943126__https://wp3-images-nl-dynamic.horizon.tv/ChannelLogos/02/xmo_1.png" xmltv_id="XMO.nl">XMO</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_796441638997__https://wp19-images-nl-dynamic.horizon.tv/ChannelLogos/02/outtv_v4.png" xmltv_id="OUTTVHD.nl">OUTTV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943085__https://wp28-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_zender_vd_maand_1.png" xmltv_id="ZendervandeMaand.nl">Zender van de Maand</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_24443943135__https://wp15-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_testbeeld_1.png" xmltv_id="Testbeeld.nl">Testbeeld</channel>
+  <channel update="i" site="horizon.tv" site_id="NL/nld_614261799193__https://wp22-images-nl-dynamic.horizon.tv/ChannelLogos/02/ziggo_zenderoverzicht_1.png" xmltv_id="ZiggoZenderoverzichtHD.nl">Ziggo Zenderoverzicht HD</channel>
 
 </settings>

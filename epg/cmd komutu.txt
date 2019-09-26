@@ -11,7 +11,12 @@
 "C:\Program Files (x86)\WebGrab+Plus\bin\WebGrab+Plus.exe" "D:\xiaomi\myxmltvepg\epg\ro"
 "C:\Program Files (x86)\WebGrab+Plus\bin\WebGrab+Plus.exe" "D:\xiaomi\myxmltvepg\epg\ru"
 "C:\Program Files (x86)\WebGrab+Plus\bin\WebGrab+Plus.exe" "D:\xiaomi\myxmltvepg\epg\sk"
+"C:\Program Files (x86)\WebGrab+Plus\bin\WebGrab+Plus.exe" "D:\xiaomi\myxmltvepg\epg\test"
 "C:\Program Files (x86)\WebGrab+Plus\bin\WebGrab+Plus.exe" "D:\xiaomi\myxmltvepg\epg\tr"
 "C:\Program Files (x86)\WebGrab+Plus\bin\WebGrab+Plus.exe" "D:\xiaomi\myxmltvepg\epg\uk"
 "C:\Program Files (x86)\WebGrab+Plus\bin\WebGrab+Plus.exe" "D:\xiaomi\myxmltvepg\epg\usa"
 "C:\Program Files (x86)\WebGrab+Plus\bin\WebGrab+Plus.exe" "D:\xiaomi\myxmltvepg\epg\merged"
+
+
+xmltv_id="(.*)\s(.*)"
+xmltv_id="$1$2"

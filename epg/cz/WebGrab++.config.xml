@@ -9,8 +9,8 @@
   <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
   <logging>on</logging>
   <retry time-out="5">4</retry>
-  <timespan>0</timespan>
-  <update>s</update>
+  <timespan>4</timespan>
+  <update>f</update>
 
   <!--
             Replace the next dummy channel entry with the channels you want.
@@ -20,138 +20,142 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775187__https://wp14-images-cz-dynamic.horizon.tv/Logos/5053.f.png" xmltv_id="CT 1 HD.cz">CT 1 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775251__https://wp22-images-cz-dynamic.horizon.tv/Logos/5054.f.png" xmltv_id="CT 2 HD.cz">CT 2 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287056__https://wp20-images-cz-dynamic.horizon.tv/Logos/5127.f.png" xmltv_id="Nova HD.cz">Nova HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287033__https://wp27-images-cz-dynamic.horizon.tv/Logos/5136.f.png" xmltv_id="Prima HD.cz">Prima HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_759036967156__https://wp5-images-cz-dynamic.horizon.tv/Logos/8431.f.png" xmltv_id="CT 24 HD.cz">CT 24 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287040__https://wp21-images-cz-dynamic.horizon.tv/Logos/5055.f.png" xmltv_id="CT sport HD.cz">CT sport HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_759036967157__https://wp10-images-cz-dynamic.horizon.tv/Logos/8432.f.png" xmltv_id="CT D HD  CT art HD.cz">CT D HD  CT art HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775242__https://wp1-images-cz-dynamic.horizon.tv/Logos/5126.f.png" xmltv_id="Nova Cinema HD.cz">Nova Cinema HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286985__https://wp6-images-cz-dynamic.horizon.tv/Logos/5073.f.png" xmltv_id="Nova Action HD.cz">Nova Action HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_711694375046__https://wp27-images-cz-dynamic.horizon.tv/Logos/8098.f.png" xmltv_id="Nova Gold HD.cz">Nova Gold HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863134__https://wp22-images-cz-dynamic.horizon.tv/Logos/8097.f.png" xmltv_id="Nova 2 HD.cz">Nova 2 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_691489318956__https://wp24-images-cz-dynamic.horizon.tv/Logos/769677.f.png" xmltv_id="Prima Comedy Central.cz">Prima Comedy Central</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287017__https://wp19-images-cz-dynamic.horizon.tv/Logos/5134.f.png" xmltv_id="Prima COOL HD.cz">Prima COOL HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775215__https://wp22-images-cz-dynamic.horizon.tv/Logos/5139.f.png" xmltv_id="Prima ZOOM HD.cz">Prima ZOOM HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863137__https://wp19-images-cz-dynamic.horizon.tv/Logos/769702.f.png" xmltv_id="Prima love HD.cz">Prima love HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863136__https://wp17-images-cz-dynamic.horizon.tv/Logos/769676.f.png" xmltv_id="Prima MAX HD.cz">Prima MAX HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775246__https://wp8-images-cz-dynamic.horizon.tv/Logos/5039.f.png" xmltv_id="Barrandov TV HD.cz">Barrandov TV HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495297__https://wp23-images-cz-dynamic.horizon.tv/Logos/7230.f.png" xmltv_id="Kino Barrandov HD.cz">Kino Barrandov HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_633239079105__https://wp23-images-cz-dynamic.horizon.tv/Logos/7236.f.png" xmltv_id="Barrandov Plus HD.cz">Barrandov Plus HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_727933479255__https://wp6-images-cz-dynamic.horizon.tv/Logos/8271.f.png" xmltv_id="RELAX HD.cz">RELAX HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775196__https://wp9-images-cz-dynamic.horizon.tv/Logos/8090.f.png" xmltv_id="Jednotka.cz">Jednotka</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775205__https://wp8-images-cz-dynamic.horizon.tv/Logos/8408.f.png" xmltv_id="Dvojka.cz">Dvojka</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_829414951279__https://wp22-images-cz-dynamic.horizon.tv/Logos/8671.f.png" xmltv_id="Seznamcz TV HD.cz">Seznamcz TV HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_745581607139__https://wp6-images-cz-dynamic.horizon.tv/Logos/8411.f.png" xmltv_id="JOJ Family HD.cz">JOJ Family HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_727933479256__https://wp9-images-cz-dynamic.horizon.tv/Logos/8269.f.png" xmltv_id="JOJ Cinema HD.cz">JOJ Cinema HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287047__https://wp4-images-cz-dynamic.horizon.tv/Logos/5092.f.png" xmltv_id="FilmBox.cz">FilmBox</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_710739495269__https://wp9-images-cz-dynamic.horizon.tv/Logos/8200.f.png" xmltv_id="AMC HD.cz">AMC HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_834036263199__https://wp23-images-cz-dynamic.horizon.tv/Logos/8738.f.png" xmltv_id="Prima KRIMI HD.cz">Prima KRIMI HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_727932967279__https://wp20-images-cz-dynamic.horizon.tv/Logos/8272.f.png" xmltv_id="UPC show HD.cz">UPC show HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775190__https://wp9-images-cz-dynamic.horizon.tv/Logos/5104.f.png" xmltv_id="HBO HD.cz">HBO HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775229__https://wp22-images-cz-dynamic.horizon.tv/Logos/5077.f.png" xmltv_id="HBO 2 HD.cz">HBO 2 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_745581095122__https://wp14-images-cz-dynamic.horizon.tv/Logos/5103.f.png" xmltv_id="HBO 3 HD.cz">HBO 3 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287015__https://wp22-images-cz-dynamic.horizon.tv/Logos/5048.f.png" xmltv_id="Cinemax HD.cz">Cinemax HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287054__https://wp15-images-cz-dynamic.horizon.tv/Logos/5047.f.png" xmltv_id="Cinemax 2 HD.cz">Cinemax 2 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775226__https://wp8-images-cz-dynamic.horizon.tv/Logos/5090.f.png" xmltv_id="Film Europe HD.cz">Film Europe HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_711694375045__https://wp9-images-cz-dynamic.horizon.tv/Logos/5011.f.png" xmltv_id="FilmBox Extra HD.cz">FilmBox Extra HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_711694375047__https://wp6-images-cz-dynamic.horizon.tv/Logos/8201.f.png" xmltv_id="FilmBox Premium HD.cz">FilmBox Premium HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287020__https://wp10-images-cz-dynamic.horizon.tv/Logos/5001.f.png" xmltv_id="AXN.cz">AXN</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775206__https://wp18-images-cz-dynamic.horizon.tv/Logos/5037.f.png" xmltv_id="AXN HD.cz">AXN HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286992__https://wp12-images-cz-dynamic.horizon.tv/Logos/5038.f.png" xmltv_id="AXN Black.cz">AXN Black</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287009__https://wp22-images-cz-dynamic.horizon.tv/Logos/5036.f.png" xmltv_id="AXN White.cz">AXN White</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287019__https://wp21-images-cz-dynamic.horizon.tv/Logos/5051.f.png" xmltv_id="CS mini  CS film  Horor film.cz">CS mini  CS film  Horor film</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287050__https://wp23-images-cz-dynamic.horizon.tv/Logos/5111.f.png" xmltv_id="Kino Svet.cz">Kino Svet</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_815217191056__https://wp20-images-cz-dynamic.horizon.tv/Logos/8004.f.png" xmltv_id="Film HD CZ.cz">Film HD CZ</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287057__https://wp8-images-cz-dynamic.horizon.tv/Logos/5095.f.png" xmltv_id="FilmBox Plus.cz">FilmBox Plus</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775197__https://wp28-images-cz-dynamic.horizon.tv/Logos/5094.f.png" xmltv_id="FilmBox Family.cz">FilmBox Family</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_795498535285__https://wp3-images-cz-dynamic.horizon.tv/Logos/8064.f.png" xmltv_id="Barrandov Family.cz">Barrandov Family</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287018__https://wp25-images-cz-dynamic.horizon.tv/Logos/5061.f.png" xmltv_id="TLC.cz">TLC</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495296__https://wp24-images-cz-dynamic.horizon.tv/Logos/5128.f.png" xmltv_id="Nova Sport 1 HD.cz">Nova Sport 1 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_667808295282__https://wp23-images-cz-dynamic.horizon.tv/Logos/8079.f.png" xmltv_id="Nova Sport 2 HD.cz">Nova Sport 2 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775228__https://wp15-images-cz-dynamic.horizon.tv/Logos/5070.f.png" xmltv_id="Eurosport 1 HD.cz">Eurosport 1 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287007__https://wp6-images-cz-dynamic.horizon.tv/Logos/5069.f.png" xmltv_id="Eurosport 2 HD.cz">Eurosport 2 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495298__https://wp28-images-cz-dynamic.horizon.tv/Logos/7212.f.png" xmltv_id="Sport 1 HD.cz">Sport 1 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495291__https://wp22-images-cz-dynamic.horizon.tv/Logos/5165.f.png" xmltv_id="Sport 2 HD.cz">Sport 2 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286987__https://wp16-images-cz-dynamic.horizon.tv/Logos/5166.f.png" xmltv_id="Sport 5.cz">Sport 5</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286983__https://wp16-images-cz-dynamic.horizon.tv/Logos/5157.f.png" xmltv_id="arena sport 1 HD.cz">arena sport 1 HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_604944423343__https://wp11-images-cz-dynamic.horizon.tv/Logos/5158.f.png" xmltv_id="arena sport 2.cz">arena sport 2</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287013__https://wp27-images-cz-dynamic.horizon.tv/Logos/5035.f.png" xmltv_id="AutoMotorSport HD.cz">AutoMotorSport HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286986__https://wp24-images-cz-dynamic.horizon.tv/Logos/5100.f.png" xmltv_id="Golf Channel HD.cz">Golf Channel HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775233__https://wp24-images-cz-dynamic.horizon.tv/Logos/1236.f.png" xmltv_id="Extreme Sports.cz">Extreme Sports</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_815217191120__https://wp3-images-cz-dynamic.horizon.tv/Logos/8006.f.png" xmltv_id="Fightbox HD.cz">Fightbox HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_815216679228__https://wp8-images-cz-dynamic.horizon.tv/Logos/8005.f.png" xmltv_id="Fast  Fun HD.cz">Fast  Fun HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_815216679227__https://wp5-images-cz-dynamic.horizon.tv/Logos/8633.f.png" xmltv_id="Docubox HD.cz">Docubox HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_815216679166__https://wp14-images-cz-dynamic.horizon.tv/Logos/8603.f.png" xmltv_id="WAR.cz">WAR</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_818897447347__https://wp1-images-cz-dynamic.horizon.tv/Logos/5060.f.png" xmltv_id="Discovery Showcase HD.cz">Discovery Showcase HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775245__https://wp21-images-cz-dynamic.horizon.tv/Logos/5000.f.png" xmltv_id="Animal Planet HD.cz">Animal Planet HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775244__https://wp6-images-cz-dynamic.horizon.tv/Logos/5006.f.png" xmltv_id="Discovery HD.cz">Discovery HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_745581095123__https://wp10-images-cz-dynamic.horizon.tv/Logos/8414.f.png" xmltv_id="DTX HD.cz">DTX HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_745581606959__https://wp27-images-cz-dynamic.horizon.tv/Logos/8415.f.png" xmltv_id="Discovery Science HD.cz">Discovery Science HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_745581606960__https://wp24-images-cz-dynamic.horizon.tv/Logos/8416.f.png" xmltv_id="IDX HD.cz">IDX HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775217__https://wp16-images-cz-dynamic.horizon.tv/Logos/5162.f.png" xmltv_id="Spektrum HD.cz">Spektrum HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287045__https://wp3-images-cz-dynamic.horizon.tv/Logos/5013.f.png" xmltv_id="History HD.cz">History HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287011__https://wp18-images-cz-dynamic.horizon.tv/Logos/5017.f.png" xmltv_id="National Geographic.cz">National Geographic</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287036__https://wp7-images-cz-dynamic.horizon.tv/Logos/5122.f.png" xmltv_id="National Geographic HD.cz">National Geographic HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_745581606961__https://wp13-images-cz-dynamic.horizon.tv/Logos/8081.f.png" xmltv_id="Nat Geo Wild HD.cz">Nat Geo Wild HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775195__https://wp5-images-cz-dynamic.horizon.tv/Logos/5163.f.png" xmltv_id="Spektrum home.cz">Spektrum home</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775234__https://wp18-images-cz-dynamic.horizon.tv/Logos/5193.f.png" xmltv_id="TV Paprika.cz">TV Paprika</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775254__https://wp23-images-cz-dynamic.horizon.tv/Logos/5044.f.png" xmltv_id="CBS Reality.cz">CBS Reality</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287002__https://wp9-images-cz-dynamic.horizon.tv/Logos/5096.f.png" xmltv_id="Fishing and Hunting.cz">Fishing and Hunting</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863135__https://wp8-images-cz-dynamic.horizon.tv/Logos/7253.f.png" xmltv_id="Travel Channel HD.cz">Travel Channel HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287039__https://wp10-images-cz-dynamic.horizon.tv/Logos/5184.f.png" xmltv_id="Viasat Explore.cz">Viasat Explore</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775230__https://wp8-images-cz-dynamic.horizon.tv/Logos/5186.f.png" xmltv_id="Viasat History.cz">Viasat History</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_745581095124__https://wp25-images-cz-dynamic.horizon.tv/Logos/8413.f.png" xmltv_id="Viasat NH HD.cz">Viasat NH HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_710740007033__https://wp19-images-cz-dynamic.horizon.tv/Logos/8202.f.png" xmltv_id="Crime and Investigation.cz">Crime and Investigation</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775199__https://wp5-images-cz-dynamic.horizon.tv/Logos/5129.f.png" xmltv_id="Ocko.cz">Ocko</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_818897959307__https://wp8-images-cz-dynamic.horizon.tv/Logos/5130.f.png" xmltv_id="Ocko Star.cz">Ocko Star</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_624788006998__https://wp26-images-cz-dynamic.horizon.tv/Logos/7008.f.png" xmltv_id="Ocko Expres HD.cz">Ocko Expres HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287053__https://wp21-images-cz-dynamic.horizon.tv/Logos/5153.f.png" xmltv_id="Retro Music TV.cz">Retro Music TV</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775257__https://wp4-images-cz-dynamic.horizon.tv/Logos/5133.f.png" xmltv_id="REBEL.cz">REBEL</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_710740007038__https://wp19-images-cz-dynamic.horizon.tv/Logos/5072.f.png" xmltv_id="Slusnej kanal.cz">Slusnej kanal</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495295__https://wp9-images-cz-dynamic.horizon.tv/Logos/1183.f.png" xmltv_id="MTV Live HD.cz">MTV Live HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775239__https://wp20-images-cz-dynamic.horizon.tv/Logos/5016.f.png" xmltv_id="MTV Europe.cz">MTV Europe</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775227__https://wp8-images-cz-dynamic.horizon.tv/Logos/8464.f.png" xmltv_id="MTV Dance.cz">MTV Dance</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775198__https://wp6-images-cz-dynamic.horizon.tv/Logos/4608.f.png" xmltv_id="MTV Rocks.cz">MTV Rocks</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287046__https://wp17-images-cz-dynamic.horizon.tv/Logos/0145.f.png" xmltv_id="VH 1.cz">VH 1</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775213__https://wp27-images-cz-dynamic.horizon.tv/Logos/1178.f.png" xmltv_id="VH 1 Classic.cz">VH 1 Classic</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_839861287198__https://wp9-images-cz-dynamic.horizon.tv/Logos/slagr2.f.png" xmltv_id="Slagr 2.cz">Slagr 2</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775210__https://wp7-images-cz-dynamic.horizon.tv/Logos/7005.f.png" xmltv_id="Slagr TV.cz">Slagr TV</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_835824679275__https://wp17-images-cz-dynamic.horizon.tv/Logos/4700.f.png" xmltv_id="Mezzo live HD.cz">Mezzo live HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775184__https://wp10-images-cz-dynamic.horizon.tv/Logos/1151.f.png" xmltv_id="Mezzo.cz">Mezzo</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287051__https://wp22-images-cz-dynamic.horizon.tv/Logos/5042.f.png" xmltv_id="C Music.cz">C Music</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_815216679165__https://wp22-images-cz-dynamic.horizon.tv/Logos/8634.f.png" xmltv_id="Cartoon Network HD.cz">Cartoon Network HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287027__https://wp10-images-cz-dynamic.horizon.tv/Logos/5123.f.png" xmltv_id="Nickelodeon.cz">Nickelodeon</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_795498023311__https://wp6-images-cz-dynamic.horizon.tv/Logos/5199.f.png" xmltv_id="Nick Jr.cz">Nick Jr</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287010__https://wp7-images-cz-dynamic.horizon.tv/Logos/5063.f.png" xmltv_id="Disney Channel.cz">Disney Channel</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775252__https://wp17-images-cz-dynamic.horizon.tv/Logos/5117.f.png" xmltv_id="Minimax.cz">Minimax</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287016__https://wp26-images-cz-dynamic.horizon.tv/Logos/5076.f.png" xmltv_id="Megamax.cz">Megamax</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775208__https://wp19-images-cz-dynamic.horizon.tv/Logos/5109.f.png" xmltv_id="JimJam.cz">JimJam</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_815216679164__https://wp26-images-cz-dynamic.horizon.tv/Logos/8479.f.png" xmltv_id="TuTy HD.cz">TuTy HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775218__https://wp6-images-cz-dynamic.horizon.tv/Logos/5007.f.png" xmltv_id="ducktv.cz">ducktv</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775204__https://wp10-images-cz-dynamic.horizon.tv/Logos/5172.f.png" xmltv_id="Noe TV.cz">Noe TV</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_731788839107__https://wp27-images-cz-dynamic.horizon.tv/Logos/8203.f.png" xmltv_id="Mnau TV.cz">Mnau TV</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_624788006995__https://wp4-images-cz-dynamic.horizon.tv/Logos/7213.f.png" xmltv_id="Mnam TV.cz">Mnam TV</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_711694375048__https://wp15-images-cz-dynamic.horizon.tv/Logos/8085.f.png" xmltv_id="Food Network HD.cz">Food Network HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287055__https://wp6-images-cz-dynamic.horizon.tv/Logos/1202.f.png" xmltv_id="TV5 Monde.cz">TV5 Monde</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_835824679274__https://wp2-images-cz-dynamic.horizon.tv/Logos/5074.f.png" xmltv_id="Fine Living HD.cz">Fine Living HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_727932967278__https://wp20-images-cz-dynamic.horizon.tv/Logos/8274.f.png" xmltv_id="Fashion TV HD.cz">Fashion TV HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863138__https://wp20-images-cz-dynamic.horizon.tv/Logos/8073.f.png" xmltv_id="regiony.cz">regiony</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287022__https://wp10-images-cz-dynamic.horizon.tv/Logos/5151.f.png" xmltv_id="regionalnitelevizecz.cz">regionalnitelevizecz</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286982__https://wp8-images-cz-dynamic.horizon.tv/Logos/0011.f.png" xmltv_id="BBC World News.cz">BBC World News</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287021__https://wp11-images-cz-dynamic.horizon.tv/Logos/1166.f.png" xmltv_id="CNN.cz">CNN</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775256__https://wp26-images-cz-dynamic.horizon.tv/Logos/0016.f.png" xmltv_id="CNBC Europe.cz">CNBC Europe</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_818897447346__https://wp25-images-cz-dynamic.horizon.tv/Logos/8649.f.png" xmltv_id="Euronews HD.cz">Euronews HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287032__https://wp18-images-cz-dynamic.horizon.tv/Logos/1140.f.png" xmltv_id="France 24.cz">France 24</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775237__https://wp11-images-cz-dynamic.horizon.tv/Logos/4667.f.png" xmltv_id="Deutsche Welle.cz">Deutsche Welle</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287034__https://wp26-images-cz-dynamic.horizon.tv/Logos/5169.f.png" xmltv_id="TA3.cz">TA3</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775221__https://wp25-images-cz-dynamic.horizon.tv/Logos/7004.f.png" xmltv_id="Russia Today HD.cz">Russia Today HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287026__https://wp21-images-cz-dynamic.horizon.tv/Logos/5132.f.png" xmltv_id="Channel One Russia.cz">Channel One Russia</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495293__https://wp22-images-cz-dynamic.horizon.tv/Logos/7218.f.png" xmltv_id="KBS World HD.cz">KBS World HD</channel>
-    <channel update="i" site="horizon.tv" site_id="CZ/ces_624788007000__https://wp28-images-cz-dynamic.horizon.tv/Logos/0132.f.png" xmltv_id="CGTN.cz">CGTN</channel>
-
-
-
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775187__https://wp14-images-cz-dynamic.horizon.tv/Logos/5053.f.png" xmltv_id="CT1HD.cz">CT 1 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775251__https://wp22-images-cz-dynamic.horizon.tv/Logos/5054.f.png" xmltv_id="CT2HD.cz">CT 2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287056__https://wp20-images-cz-dynamic.horizon.tv/Logos/5127.f.png" xmltv_id="NovaHD.cz">Nova HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287033__https://wp27-images-cz-dynamic.horizon.tv/Logos/5136.f.png" xmltv_id="PrimaHD.cz">Prima HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_759036967156__https://wp5-images-cz-dynamic.horizon.tv/Logos/8431.f.png" xmltv_id="CT24HD.cz">CT 24 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287040__https://wp21-images-cz-dynamic.horizon.tv/Logos/5055.f.png" xmltv_id="CTsportHD.cz">CT sport HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_759036967157__https://wp10-images-cz-dynamic.horizon.tv/Logos/8432.f.png" xmltv_id="CTDHDCTartHD.cz">CT D HD  CT art HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775242__https://wp1-images-cz-dynamic.horizon.tv/Logos/5126.f.png" xmltv_id="NovaCinemaHD.cz">Nova Cinema HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286985__https://wp6-images-cz-dynamic.horizon.tv/Logos/5073.f.png" xmltv_id="NovaActionHD.cz">Nova Action HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_711694375046__https://wp27-images-cz-dynamic.horizon.tv/Logos/8098.f.png" xmltv_id="NovaGoldHD.cz">Nova Gold HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863134__https://wp22-images-cz-dynamic.horizon.tv/Logos/8097.f.png" xmltv_id="Nova2HD.cz">Nova 2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_691489318956__https://wp24-images-cz-dynamic.horizon.tv/Logos/769677.f.png" xmltv_id="PrimaComedyCentralHD.cz">Prima Comedy Central HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287017__https://wp19-images-cz-dynamic.horizon.tv/Logos/5134.f.png" xmltv_id="PrimaCOOLHD.cz">Prima COOL HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775215__https://wp22-images-cz-dynamic.horizon.tv/Logos/5139.f.png" xmltv_id="PrimaZOOMHD.cz">Prima ZOOM HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863137__https://wp19-images-cz-dynamic.horizon.tv/Logos/769702.f.png" xmltv_id="PrimaloveHD.cz">Prima love HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863136__https://wp17-images-cz-dynamic.horizon.tv/Logos/769676.f.png" xmltv_id="PrimaMAXHD.cz">Prima MAX HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775246__https://wp8-images-cz-dynamic.horizon.tv/Logos/5039.f.png" xmltv_id="BarrandovTVHD.cz">Barrandov TV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495297__https://wp23-images-cz-dynamic.horizon.tv/Logos/7230.f.png" xmltv_id="KinoBarrandovHD.cz">Kino Barrandov HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_633239079105__https://wp23-images-cz-dynamic.horizon.tv/Logos/7236.f.png" xmltv_id="BarrandovKrimiHD.cz">Barrandov Krimi HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_727933479255__https://wp6-images-cz-dynamic.horizon.tv/Logos/8271.f.png" xmltv_id="RELAXHD.cz">RELAX HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_662969383084__https://wp9-images-cz-dynamic.horizon.tv/Logos/8090.f.png" xmltv_id="JednotkaHD.cz">Jednotka HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_900616231427__https://wp24-images-cz-dynamic.horizon.tv/Logos/8408.f.png" xmltv_id="DvojkaHD.cz">Dvojka HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_829414951279__https://wp22-images-cz-dynamic.horizon.tv/Logos/8671.f.png" xmltv_id="SeznamczTVHD.cz">Seznamcz TV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_745581607139__https://wp6-images-cz-dynamic.horizon.tv/Logos/8411.f.png" xmltv_id="JOJFamilyHD.cz">JOJ Family HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_727933479256__https://wp9-images-cz-dynamic.horizon.tv/Logos/8269.f.png" xmltv_id="JOJCinemaHD.cz">JOJ Cinema HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287047__https://wp4-images-cz-dynamic.horizon.tv/Logos/5092.f.png" xmltv_id="FilmBoxHD.cz">FilmBox HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_710739495269__https://wp9-images-cz-dynamic.horizon.tv/Logos/8200.f.png" xmltv_id="AMCHD.cz">AMC HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_834036263199__https://wp23-images-cz-dynamic.horizon.tv/Logos/8738.f.png" xmltv_id="PrimaKRIMIHD.cz">Prima KRIMI HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775190__https://wp9-images-cz-dynamic.horizon.tv/Logos/5104.f.png" xmltv_id="HBOHD.cz">HBO HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775229__https://wp22-images-cz-dynamic.horizon.tv/Logos/5077.f.png" xmltv_id="HBO2HD.cz">HBO 2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_745581095122__https://wp14-images-cz-dynamic.horizon.tv/Logos/5103.f.png" xmltv_id="HBO3HD.cz">HBO 3 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287015__https://wp22-images-cz-dynamic.horizon.tv/Logos/5048.f.png" xmltv_id="CinemaxHD.cz">Cinemax HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287054__https://wp15-images-cz-dynamic.horizon.tv/Logos/5047.f.png" xmltv_id="Cinemax2HD.cz">Cinemax 2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775226__https://wp8-images-cz-dynamic.horizon.tv/Logos/5090.f.png" xmltv_id="FilmEuropeHD.cz">Film Europe HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_711694375045__https://wp9-images-cz-dynamic.horizon.tv/Logos/5011.f.png" xmltv_id="FilmBoxExtraHD.cz">FilmBox Extra HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_711694375047__https://wp6-images-cz-dynamic.horizon.tv/Logos/8201.f.png" xmltv_id="FilmBoxPremiumHD.cz">FilmBox Premium HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287020__https://wp10-images-cz-dynamic.horizon.tv/Logos/5001.f.png" xmltv_id="AXN.cz">AXN</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775206__https://wp18-images-cz-dynamic.horizon.tv/Logos/5037.f.png" xmltv_id="AXNHD.cz">AXN HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286992__https://wp12-images-cz-dynamic.horizon.tv/Logos/5038.f.png" xmltv_id="AXNBlack.cz">AXN Black</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287009__https://wp22-images-cz-dynamic.horizon.tv/Logos/5036.f.png" xmltv_id="AXNWhite.cz">AXN White</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287019__https://wp21-images-cz-dynamic.horizon.tv/Logos/5051.f.png" xmltv_id="CSminiCSfilmHororfilm.cz">CS mini  CS film  Horor film</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287050__https://wp23-images-cz-dynamic.horizon.tv/Logos/5111.f.png" xmltv_id="KinoSvet.cz">Kino Svet</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_855446567276__https://wp18-images-cz-dynamic.horizon.tv/Logos/cs_fest.f.png" xmltv_id="CSFestivalHD.cz">CS Festival HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_815217191056__https://wp20-images-cz-dynamic.horizon.tv/Logos/8004.f.png" xmltv_id="FilmHDCZ.cz">Film HD CZ</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287057__https://wp8-images-cz-dynamic.horizon.tv/Logos/5095.f.png" xmltv_id="FilmBoxPlus.cz">FilmBox Plus</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775197__https://wp28-images-cz-dynamic.horizon.tv/Logos/5094.f.png" xmltv_id="FilmBoxFamily.cz">FilmBox Family</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_795498535285__https://wp3-images-cz-dynamic.horizon.tv/Logos/8064news.f.png" xmltv_id="BarrandovNews.cz">Barrandov News</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287018__https://wp25-images-cz-dynamic.horizon.tv/Logos/5061.f.png" xmltv_id="TLC.cz">TLC</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495296__https://wp24-images-cz-dynamic.horizon.tv/Logos/5128.f.png" xmltv_id="NovaSport1HD.cz">Nova Sport 1 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_667808295282__https://wp23-images-cz-dynamic.horizon.tv/Logos/8079.f.png" xmltv_id="NovaSport2HD.cz">Nova Sport 2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775228__https://wp15-images-cz-dynamic.horizon.tv/Logos/5070.f.png" xmltv_id="Eurosport1HD.cz">Eurosport 1 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287007__https://wp6-images-cz-dynamic.horizon.tv/Logos/5069.f.png" xmltv_id="Eurosport2HD.cz">Eurosport 2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495298__https://wp28-images-cz-dynamic.horizon.tv/Logos/7212.f.png" xmltv_id="Sport1HD.cz">Sport 1 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495291__https://wp22-images-cz-dynamic.horizon.tv/Logos/5165.f.png" xmltv_id="Sport2HD.cz">Sport 2 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286987__https://wp16-images-cz-dynamic.horizon.tv/Logos/5166.f.png" xmltv_id="Sport5.cz">Sport 5</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_860761127012__https://wp10-images-cz-dynamic.horizon.tv/Logos/adventure.f.png" xmltv_id="AdventureHD.cz">Adventure HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286983__https://wp16-images-cz-dynamic.horizon.tv/Logos/5157.f.png" xmltv_id="arenasport1HD.cz">arena sport 1 HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_604944423343__https://wp11-images-cz-dynamic.horizon.tv/Logos/5158.f.png" xmltv_id="arenasport2.cz">arena sport 2</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287013__https://wp27-images-cz-dynamic.horizon.tv/Logos/5035.f.png" xmltv_id="AutoMotorSportHD.cz">AutoMotorSport HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286986__https://wp24-images-cz-dynamic.horizon.tv/Logos/5100.f.png" xmltv_id="GolfChannelHD.cz">Golf Channel HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775233__https://wp24-images-cz-dynamic.horizon.tv/Logos/1236.f.png" xmltv_id="ExtremeSports.cz">Extreme Sports</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_815217191120__https://wp3-images-cz-dynamic.horizon.tv/Logos/8006.f.png" xmltv_id="FightboxHD.cz">Fightbox HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_815216679228__https://wp8-images-cz-dynamic.horizon.tv/Logos/8005.f.png" xmltv_id="FastFunHD.cz">Fast  Fun HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_815216679227__https://wp5-images-cz-dynamic.horizon.tv/Logos/8633.f.png" xmltv_id="DocuboxHD.cz">Docubox HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_815216679166__https://wp14-images-cz-dynamic.horizon.tv/Logos/8603.f.png" xmltv_id="WAR.cz">WAR</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_818897447347__https://wp1-images-cz-dynamic.horizon.tv/Logos/5060.f.png" xmltv_id="DiscoveryShowcaseHD.cz">Discovery Showcase HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775245__https://wp21-images-cz-dynamic.horizon.tv/Logos/5000.f.png" xmltv_id="AnimalPlanetHD.cz">Animal Planet HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775244__https://wp6-images-cz-dynamic.horizon.tv/Logos/5006.f.png" xmltv_id="DiscoveryHD.cz">Discovery HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_745581095123__https://wp10-images-cz-dynamic.horizon.tv/Logos/8414.f.png" xmltv_id="DTXHD.cz">DTX HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_745581606959__https://wp27-images-cz-dynamic.horizon.tv/Logos/8415.f.png" xmltv_id="DiscoveryScienceHD.cz">Discovery Science HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_745581606960__https://wp24-images-cz-dynamic.horizon.tv/Logos/8416.f.png" xmltv_id="IDHD.cz">ID HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775217__https://wp16-images-cz-dynamic.horizon.tv/Logos/5162.f.png" xmltv_id="SpektrumHD.cz">Spektrum HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287045__https://wp3-images-cz-dynamic.horizon.tv/Logos/5013.f.png" xmltv_id="HistoryHD.cz">History HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287011__https://wp18-images-cz-dynamic.horizon.tv/Logos/5017.f.png" xmltv_id="NationalGeographic.cz">National Geographic</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287036__https://wp7-images-cz-dynamic.horizon.tv/Logos/5122.f.png" xmltv_id="NationalGeographicHD.cz">National Geographic HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_745581606961__https://wp13-images-cz-dynamic.horizon.tv/Logos/8081.f.png" xmltv_id="NatGeoWildHD.cz">Nat Geo Wild HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775195__https://wp5-images-cz-dynamic.horizon.tv/Logos/5163.f.png" xmltv_id="Spektrumhome.cz">Spektrum home</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775234__https://wp18-images-cz-dynamic.horizon.tv/Logos/5193.f.png" xmltv_id="TVPaprika.cz">TV Paprika</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775254__https://wp23-images-cz-dynamic.horizon.tv/Logos/5044.f.png" xmltv_id="CBSReality.cz">CBS Reality</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287002__https://wp9-images-cz-dynamic.horizon.tv/Logos/5096.f.png" xmltv_id="FishingandHunting.cz">Fishing and Hunting</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863135__https://wp8-images-cz-dynamic.horizon.tv/Logos/7253.f.png" xmltv_id="TravelChannelHD.cz">Travel Channel HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_868721191296__https://wp6-images-cz-dynamic.horizon.tv/Logos/764620.f.png" xmltv_id="ViasatExplore.cz">Viasat Explore</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_868720679425__https://wp10-images-cz-dynamic.horizon.tv/Logos/764622.f.png" xmltv_id="ViasatHistoryHD.cz">Viasat History HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_868721191364__https://wp16-images-cz-dynamic.horizon.tv/Logos/770412.f.png" xmltv_id="ViasatNatureHD.cz">Viasat Nature HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_710740007033__https://wp19-images-cz-dynamic.horizon.tv/Logos/8202.f.png" xmltv_id="CrimeandInvestigation.cz">Crime and Investigation</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775199__https://wp5-images-cz-dynamic.horizon.tv/Logos/5129.f.png" xmltv_id="Ocko.cz">Ocko</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_818897959307__https://wp8-images-cz-dynamic.horizon.tv/Logos/5130.f.png" xmltv_id="OckoStar.cz">Ocko Star</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_868721191374__https://wp15-images-cz-dynamic.horizon.tv/Logos/oblack.f.png" xmltv_id="OckoBlackHD.cz">Ocko Black HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287053__https://wp21-images-cz-dynamic.horizon.tv/Logos/5153.f.png" xmltv_id="RetroMusicTV.cz">Retro Music TV</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775257__https://wp4-images-cz-dynamic.horizon.tv/Logos/5133.f.png" xmltv_id="REBEL.cz">REBEL</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_710740007038__https://wp19-images-cz-dynamic.horizon.tv/Logos/5072.f.png" xmltv_id="Slusnejkanal.cz">Slusnej kanal</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495295__https://wp9-images-cz-dynamic.horizon.tv/Logos/1183.f.png" xmltv_id="MTVLiveHD.cz">MTV Live HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775239__https://wp20-images-cz-dynamic.horizon.tv/Logos/5016.f.png" xmltv_id="MTVEurope.cz">MTV Europe</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775227__https://wp8-images-cz-dynamic.horizon.tv/Logos/8464.f.png" xmltv_id="MTVDance.cz">MTV Dance</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775198__https://wp6-images-cz-dynamic.horizon.tv/Logos/5207.f.png" xmltv_id="MTVRocks.cz">MTV Rocks</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287046__https://wp17-images-cz-dynamic.horizon.tv/Logos/0145.f.png" xmltv_id="VH1.cz">VH 1</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775213__https://wp27-images-cz-dynamic.horizon.tv/Logos/1178.f.png" xmltv_id="VH1Classic.cz">VH 1 Classic</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_839861287198__https://wp9-images-cz-dynamic.horizon.tv/Logos/slagr2.f.png" xmltv_id="Slagr2.cz">Slagr 2</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775210__https://wp7-images-cz-dynamic.horizon.tv/Logos/7005.f.png" xmltv_id="SlagrTV.cz">Slagr TV</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_835824679275__https://wp17-images-cz-dynamic.horizon.tv/Logos/4700.f.png" xmltv_id="MezzoliveHD.cz">Mezzo live HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775184__https://wp10-images-cz-dynamic.horizon.tv/Logos/1151.f.png" xmltv_id="Mezzo.cz">Mezzo</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_868721702952__https://wp26-images-cz-dynamic.horizon.tv/Logos/5042.f.png" xmltv_id="CMusicHD.cz">C Music HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_624788006998__https://wp26-images-cz-dynamic.horizon.tv/Logos/7008.f.png" xmltv_id="OckoExpresHD.cz">Ocko Expres HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_848960039211__https://wp4-images-cz-dynamic.horizon.tv/Logos/8909.f.png" xmltv_id="PowerTVHD.cz">Power TV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_815216679165__https://wp22-images-cz-dynamic.horizon.tv/Logos/8634.f.png" xmltv_id="CartoonNetworkHD.cz">Cartoon Network HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287027__https://wp10-images-cz-dynamic.horizon.tv/Logos/5123.f.png" xmltv_id="Nickelodeon.cz">Nickelodeon</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_795498023311__https://wp6-images-cz-dynamic.horizon.tv/Logos/5199.f.png" xmltv_id="NickJr.cz">Nick Jr</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287010__https://wp7-images-cz-dynamic.horizon.tv/Logos/5063.f.png" xmltv_id="DisneyChannel.cz">Disney Channel</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775252__https://wp17-images-cz-dynamic.horizon.tv/Logos/5117.f.png" xmltv_id="Minimax.cz">Minimax</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287016__https://wp26-images-cz-dynamic.horizon.tv/Logos/5076.f.png" xmltv_id="Megamax.cz">Megamax</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775208__https://wp19-images-cz-dynamic.horizon.tv/Logos/5109.f.png" xmltv_id="JimJam.cz">JimJam</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775218__https://wp6-images-cz-dynamic.horizon.tv/Logos/5007.f.png" xmltv_id="ducktv.cz">ducktv</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775204__https://wp10-images-cz-dynamic.horizon.tv/Logos/5172.f.png" xmltv_id="NoeTV.cz">Noe TV</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_855447079069__https://wp9-images-cz-dynamic.horizon.tv/Logos/hobby_tv.f.png" xmltv_id="HobbyTVHD.cz">Hobby TV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_731788839107__https://wp27-images-cz-dynamic.horizon.tv/Logos/8203.f.png" xmltv_id="MnauTV.cz">Mnau TV</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_868721191375__https://wp12-images-cz-dynamic.horizon.tv/Logos/7213.f.png" xmltv_id="MnamTV.cz">Mnam TV</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_711694375048__https://wp15-images-cz-dynamic.horizon.tv/Logos/8085.f.png" xmltv_id="FoodNetworkHD.cz">Food Network HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287055__https://wp6-images-cz-dynamic.horizon.tv/Logos/1202.f.png" xmltv_id="TV5Monde.cz">TV5 Monde</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_835824679274__https://wp2-images-cz-dynamic.horizon.tv/Logos/5074.f.png" xmltv_id="FineLivingHD.cz">Fine Living HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_727932967278__https://wp20-images-cz-dynamic.horizon.tv/Logos/8274.f.png" xmltv_id="FashionTVHD.cz">Fashion TV HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_711693863138__https://wp20-images-cz-dynamic.horizon.tv/Logos/8073.f.png" xmltv_id="regiony.cz">regiony</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287022__https://wp10-images-cz-dynamic.horizon.tv/Logos/5151.f.png" xmltv_id="regionalnitelevizecz.cz">regionalnitelevizecz</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_848960039212__https://wp28-images-cz-dynamic.horizon.tv/Logos/7121.f.png" xmltv_id="PRAHATV.cz">PRAHA TV</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_848959527200__https://wp8-images-cz-dynamic.horizon.tv/Logos/8911.f.png" xmltv_id="rtm.cz">rtm</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287038__https://wp17-images-cz-dynamic.horizon.tv/Logos/5174.f.png" xmltv_id="TVZAK.cz">TV ZAK</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287037__https://wp19-images-cz-dynamic.horizon.tv/Logos/5189.f.png" xmltv_id="PolarTV.cz">Polar TV</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677286982__https://wp8-images-cz-dynamic.horizon.tv/Logos/0011.f.png" xmltv_id="BBCWorldNews.cz">BBC World News</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287021__https://wp11-images-cz-dynamic.horizon.tv/Logos/1166.f.png" xmltv_id="CNN.cz">CNN</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775256__https://wp26-images-cz-dynamic.horizon.tv/Logos/0016.f.png" xmltv_id="CNBCEurope.cz">CNBC Europe</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_818897447346__https://wp25-images-cz-dynamic.horizon.tv/Logos/8649.f.png" xmltv_id="EuronewsHD.cz">Euronews HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287032__https://wp18-images-cz-dynamic.horizon.tv/Logos/1140.f.png" xmltv_id="France24.cz">France 24</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775237__https://wp11-images-cz-dynamic.horizon.tv/Logos/4667.f.png" xmltv_id="DeutscheWelle.cz">Deutsche Welle</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546677287034__https://wp26-images-cz-dynamic.horizon.tv/Logos/5169.f.png" xmltv_id="TA3.cz">TA3</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_546676775221__https://wp25-images-cz-dynamic.horizon.tv/Logos/7004.f.png" xmltv_id="RussiaTodayHD.cz">Russia Today HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_897782311051__https://wp21-images-cz-dynamic.horizon.tv/Logos/5132.f.png" xmltv_id="ChannelOneRussia.cz">Channel One Russia</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_624787495293__https://wp22-images-cz-dynamic.horizon.tv/Logos/7218.f.png" xmltv_id="KBSWorldHD.cz">KBS World HD</channel>
+  <channel update="i" site="horizon.tv" site_id="CZ/ces_624788007000__https://wp28-images-cz-dynamic.horizon.tv/Logos/0132.f.png" xmltv_id="CGTN.cz">CGTN</channel>
 
 </settings>

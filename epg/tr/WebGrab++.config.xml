@@ -20,6 +20,7 @@
             see http://webgrabplus.com/epg-channels for the available sites/channels
   -->
 
+
       <channel update="i" site="digiturk.com.tr" site_id="484" xmltv_id="beIN HD.tr">beIN HD</channel>
       <channel update="i" site="digiturk.com.tr" site_id="375" xmltv_id="beIN SERIES SCI-FI HD.tr">beIN SERIES SCI-FI HD</channel>
       <channel update="i" site="digiturk.com.tr" site_id="326" xmltv_id="beIN SERIES COMEDY HD.tr">beIN SERIES COMEDY HD</channel>

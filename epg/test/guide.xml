@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.10.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="NPO 1 HD">
+    <display-name lang="en">NPO 1 HD</display-name>
+    <icon src="https://wp20-images-nl-dynamic.horizon.tv/ChannelLogos/02/npo1.png" />
+    <url>http://www.horizon.tv</url>
+  </channel>
+  <programme start="20190926000500 +0000" stop="20190926001000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/36652793.p.df7b7ebef54a63d8abe85fcc5f7822cdb7c2cf86.jpg" />
+  </programme>
+  <programme start="20190926001000 +0000" stop="20190926001500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/36652793.p.df7b7ebef54a63d8abe85fcc5f7822cdb7c2cf86.jpg" />
+  </programme>
+  <programme start="20190926001500 +0000" stop="20190926002000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/36652793.p.df7b7ebef54a63d8abe85fcc5f7822cdb7c2cf86.jpg" />
+  </programme>
+  <programme start="20190926002000 +0000" stop="20190926003500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/36652793.p.df7b7ebef54a63d8abe85fcc5f7822cdb7c2cf86.jpg" />
+  </programme>
+  <programme start="20190926003500 +0000" stop="20190926035500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2017</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/36652793.p.df7b7ebef54a63d8abe85fcc5f7822cdb7c2cf86.jpg" />
+  </programme>
+  <programme start="20190926035500 +0000" stop="20190926041000 +0000" channel="NPO 1 HD">
+    <title lang="en">Nederland in Beweging</title>
+    <desc lang="en">Beweeg mee met Nederland in Beweging! Kijkers kunnen door mee te doen aan de oefeningen al de helft van de dagelijkse norm van 30 minuten gezond bewegen behalen. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Vrije Tijd</category>
+    <category lang="en">Gezondheid</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp28-images-nl-dynamic.horizon.tv/EventImages/37394960.p.f3da0edf59b8c257554c00b14f72e5b86740d2e3.jpg" />
+    <episode-num system="onscreen">E191</episode-num>
+  </programme>
+  <programme start="20190926041000 +0000" stop="20190926043000 +0000" channel="NPO 1 HD">
+    <title lang="en">MAX Geheugentrainer</title>
+    <desc lang="en">Train uw brein. Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden. Dit programma geeft u de kans om het geheugen te trainen. Met eenvoudige oefeningen en opdrachten leert u binnen de kortste keren weer meer te onthouden dan u gewend was. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-nl-dynamic.horizon.tv/EventImages/37395678.p.a77b738de8f4b7e4c949043e2a04d46c4ffc2b19.jpg" />
+  </programme>
+  <programme start="20190926043000 +0000" stop="20190926043500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-nl-dynamic.horizon.tv/EventImages/46614724.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190926043500 +0000" stop="20190926044000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-nl-dynamic.horizon.tv/EventImages/46614724.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190926044000 +0000" stop="20190926044500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp14-images-nl-dynamic.horizon.tv/EventImages/46614724.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190926044500 +0000" stop="20190926045000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-nl-dynamic.horizon.tv/EventImages/46614724.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190926045000 +0000" stop="20190926050000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp11-images-nl-dynamic.horizon.tv/EventImages/46614724.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190926050000 +0000" stop="20190926051000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp28-images-nl-dynamic.horizon.tv/EventImages/36654318.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190926051000 +0000" stop="20190926053000 +0000" channel="NPO 1 HD">
+    <title lang="en">Goedemorgen Nederland</title>
+    <desc lang="en">Ochtendshow. Met een goed humeur wordt de nieuwe nieuwsdag geduid. Met prominente gasten, opmerkelijk nieuws uit de media en compacte reportages. Met aandacht voor politiek, economie, veiligheid en entertainment. Afwisselend gepresenteerd door: Welmoed Sijtsma, Maaike Timmerman, Lisette Wellens en Nikki Herr.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Actualiteiten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-nl-dynamic.horizon.tv/EventImages/36654417.p.d8bc3b99779746ce716c64df529117898023236a.jpg" />
+  </programme>
+  <programme start="20190926053000 +0000" stop="20190926054000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp22-images-nl-dynamic.horizon.tv/EventImages/46614930.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190926054000 +0000" stop="20190926060000 +0000" channel="NPO 1 HD">
+    <title lang="en">Goedemorgen Nederland</title>
+    <desc lang="en">Ochtendshow. Met een goed humeur wordt de nieuwe nieuwsdag geduid. Met prominente gasten, opmerkelijk nieuws uit de media en compacte reportages. Met aandacht voor politiek, economie, veiligheid en entertainment. Afwisselend gepresenteerd door: Welmoed Sijtsma, Maaike Timmerman, Lisette Wellens en Nikki Herr.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Actualiteiten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-nl-dynamic.horizon.tv/EventImages/36654417.p.d8bc3b99779746ce716c64df529117898023236a.jpg" />
+  </programme>
+  <programme start="20190926060000 +0000" stop="20190926061000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-nl-dynamic.horizon.tv/EventImages/43694599.p.d198802b330a57c781641b0c678fdf17de2ce007.jpg" />
+  </programme>
+  <programme start="20190926061000 +0000" stop="20190926063000 +0000" channel="NPO 1 HD">
+    <title lang="en">Goedemorgen Nederland</title>
+    <desc lang="en">Ochtendshow. Met een goed humeur wordt de nieuwe nieuwsdag geduid. Met prominente gasten, opmerkelijk nieuws uit de media en compacte reportages. Met aandacht voor politiek, economie, veiligheid en entertainment. Afwisselend gepresenteerd door: Welmoed Sijtsma, Maaike Timmerman, Lisette Wellens en Nikki Herr.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Actualiteiten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-nl-dynamic.horizon.tv/EventImages/36654417.p.d8bc3b99779746ce716c64df529117898023236a.jpg" />
+  </programme>
+  <programme start="20190926063000 +0000" stop="20190926064000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-nl-dynamic.horizon.tv/EventImages/46615113.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190926064000 +0000" stop="20190926070000 +0000" channel="NPO 1 HD">
+    <title lang="en">Goedemorgen Nederland</title>
+    <desc lang="en">Ochtendshow. Met een goed humeur wordt de nieuwe nieuwsdag geduid. Met prominente gasten, opmerkelijk nieuws uit de media en compacte reportages. Met aandacht voor politiek, economie, veiligheid en entertainment. Afwisselend gepresenteerd door: Welmoed Sijtsma, Maaike Timmerman, Lisette Wellens en Nikki Herr.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Actualiteiten</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-nl-dynamic.horizon.tv/EventImages/36654417.p.d8bc3b99779746ce716c64df529117898023236a.jpg" />
+  </programme>
+  <programme start="20190926070000 +0000" stop="20190926071500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp26-images-nl-dynamic.horizon.tv/EventImages/36654453.p.13319f11e3bf0ce95fd988e6388c532539abde7d.jpg" />
+  </programme>
+  <programme start="20190926071500 +0000" stop="20190926073000 +0000" channel="NPO 1 HD">
+    <title lang="en">Nederland in Beweging</title>
+    <desc lang="en">Beweeg mee met Nederland in Beweging! Kijkers kunnen door mee te doen aan de oefeningen al de helft van de dagelijkse norm van 30 minuten gezond bewegen behalen. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Vrije Tijd</category>
+    <category lang="en">Gezondheid</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-nl-dynamic.horizon.tv/EventImages/37394960.p.f3da0edf59b8c257554c00b14f72e5b86740d2e3.jpg" />
+    <episode-num system="onscreen">E192</episode-num>
+  </programme>
+  <programme start="20190926073000 +0000" stop="20190926074000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp19-images-nl-dynamic.horizon.tv/EventImages/36654453.p.13319f11e3bf0ce95fd988e6388c532539abde7d.jpg" />
+  </programme>
+  <programme start="20190926074000 +0000" stop="20190926080000 +0000" channel="NPO 1 HD">
+    <title lang="en">MAX Geheugentrainer</title>
+    <desc lang="en">Train uw brein. Naarmate iemand ouder wordt, wil het geheugen nog wel eens iets minder scherp worden. Dit programma geeft u de kans om het geheugen te trainen. Met eenvoudige oefeningen en opdrachten leert u binnen de kortste keren weer meer te onthouden dan u gewend was. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp16-images-nl-dynamic.horizon.tv/EventImages/37395678.p.a77b738de8f4b7e4c949043e2a04d46c4ffc2b19.jpg" />
+  </programme>
+  <programme start="20190926080000 +0000" stop="20190926081500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp8-images-nl-dynamic.horizon.tv/EventImages/36654497.p.13319f11e3bf0ce95fd988e6388c532539abde7d.jpg" />
+  </programme>
+  <programme start="20190926081500 +0000" stop="20190926090000 +0000" channel="NPO 1 HD">
+    <title lang="en">Tijd voor MAX</title>
+    <desc lang="en">Presentator en filmkenner Jac Goderie krijgt volgende week een Gouden Kalf voor de Filmcultuur voor zijn jarenlange inzet voor de Nederlandse film. Hij vertelt waarom film hem zo na aan het hart ligt. Josine Droogendijk over Koningin Maxima tien jaar bij de VN. Foodblogger Jonneke de Zeeuw maakt een typisch Limburgs gerecht. Schrijver Michael Berg schreef de thriller Nacht in Parijs. Hij won in 2013 de prestigieuze Gouden Strop. Zijn twee volgende boeken werden genomineerd en mogelijk volgt een derde nominatie met de verschijning van zijn nieuwste boek Ik zie je. Ook hebben we het over de uitreiking van de felbegeerde Inktspotprijs 2019, de prijs voor de beste politieke tekening van het jaar. In deze Sittardse week mag Limburgs muzikale trots Rowwen Hèze natuurlijk niet ontbreken. Ze zingen hun nieuwe single Elke ierste kier, en net als op hun album Voorwaartsch! doen ze dat samen met zangeres Blackbird. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Documentaire</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp15-images-nl-dynamic.horizon.tv/EventImages/37395234.p.71302d2d6a9f3d695831fffe037c245e1ae9932f.jpg" />
+  </programme>
+  <programme start="20190926090000 +0000" stop="20190926100000 +0000" channel="NPO 1 HD">
+    <title lang="en">De Wereld Draait Door</title>
+    <sub-title lang="en">Abbey Road Special</sub-title>
+    <desc lang="en">Speciale uitzending die in het teken staat van het historische, legendarische album Abbey Road van The Beatles. Abbey Road wordt donderdag 26 september 50 jaar en dat gaan we vieren. Een studio vol muziekstudenten, Beatles-fans en muziek van de allerbeste Beatles tributeband van de wereld: The Analogues. Te gast zijn onder anderen Tessa Rose Jackson, Viktor van Woudenberg, Lizet Vink, Klaas Zijlstra, Nico Dijkshoorn én er is een eregast: minister van Justitie Ferd Grapperhaus. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Variete</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp24-images-nl-dynamic.horizon.tv/EventImages/37510974.p.4002721d60f54b1e5e52e143e7a9eb34dc11605c.jpg" />
+  </programme>
+  <programme start="20190926100000 +0000" stop="20190926102000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-nl-dynamic.horizon.tv/EventImages/36653775.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190926102000 +0000" stop="20190926103500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp17-images-nl-dynamic.horizon.tv/EventImages/36653775.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190926103500 +0000" stop="20190926110000 +0000" channel="NPO 1 HD">
+    <title lang="en">Kook mee met MAX</title>
+    <sub-title lang="en">Pasta met gerookte zalm en courgette</sub-title>
+    <desc lang="en">Wat eet ik vanavond? Topkoks Sandra Ysbrandy en Mounir Toub geven antwoord op die ene moeilijke vraag. Ze nemen de kijker aan de hand bij het maken van makkelijke en verrassende gerechten. De recepten blinken uit in eenvoud en diversiteit en er zijn geen ingewikkelde apparaten voor nodig. De chefs blijven weg van dure ingrediënten en werken zoveel mogelijk met seizoensproducten en ingrediënten van eigen bodem: zo duurzaam mogelijk. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Vrije Tijd</category>
+    <category lang="en">Koken</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-nl-dynamic.horizon.tv/EventImages/313591302.p.e57ea75d5312ab21cea367f94388bc60a24ec697.jpg" />
+    <episode-num system="onscreen">E154</episode-num>
+  </programme>
+  <programme start="20190926110000 +0000" stop="20190926112000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-nl-dynamic.horizon.tv/EventImages/36652625.p.d198802b330a57c781641b0c678fdf17de2ce007.jpg" />
+  </programme>
+  <programme start="20190926112000 +0000" stop="20190926120000 +0000" channel="NPO 1 HD">
+    <title lang="en">Na het nieuws</title>
+    <desc lang="en">Dzifa Kusenuh, Samya Hafsaoui en Sophie Frankenmolen geven verdieping en duiding bij onderwerpen uit het nieuws en de actualiteit. De presentatoren laten hierbij een nieuwe, jonge generatie opiniemakers, politici, ondernemers en deskundigen aan het woord over nieuws op het gebied van muziek, economie, politiek, misdaad, wetenschap, kunst en cultuur.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-nl-dynamic.horizon.tv/EventImages/304936992.p.d0d987a472646aa7e9327d6c83a401b18df42cc7.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20190926120000 +0000" stop="20190926121500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-nl-dynamic.horizon.tv/EventImages/92016397.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190926121500 +0000" stop="20190926122500 +0000" channel="NPO 1 HD">
+    <title lang="en">Kook mee met MAX</title>
+    <sub-title lang="en">Pasta met gerookte zalm en courgette</sub-title>
+    <desc lang="en">Wat eet ik vanavond? Topkoks Sandra Ysbrandy en Mounir Toub geven antwoord op die ene moeilijke vraag. Ze nemen de kijker aan de hand bij het maken van makkelijke en verrassende gerechten. De recepten blinken uit in eenvoud en diversiteit en er zijn geen ingewikkelde apparaten voor nodig. De chefs blijven weg van dure ingrediënten en werken zoveel mogelijk met seizoensproducten en ingrediënten van eigen bodem: zo duurzaam mogelijk. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Vrije Tijd</category>
+    <category lang="en">Koken</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-nl-dynamic.horizon.tv/EventImages/313591302.p.e57ea75d5312ab21cea367f94388bc60a24ec697.jpg" />
+    <episode-num system="onscreen">E154</episode-num>
+  </programme>
+  <programme start="20190926122500 +0000" stop="20190926123500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp28-images-nl-dynamic.horizon.tv/EventImages/92016397.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190926123500 +0000" stop="20190926124500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp5-images-nl-dynamic.horizon.tv/EventImages/92016397.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190926124500 +0000" stop="20190926130000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-nl-dynamic.horizon.tv/EventImages/92016397.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190926130000 +0000" stop="20190926132000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-nl-dynamic.horizon.tv/EventImages/92882079.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190926132000 +0000" stop="20190926142000 +0000" channel="NPO 1 HD">
+    <title lang="en">Jinek</title>
+    <desc lang="en">De nieuwe vampierenserie 'Heirs of the Night' wordt de grootste Nederlandse productie in televisiegeschiedenis. In de serie die zich in 1889 afspeelt, worden vijf rivaliserende vampierenclans gedwongen om samen te werken. Voor de productie zijn acteurs uit acht verschillende landen gezocht. Penoza-regisseur Diederik van Rooijen is de man die deze monsterklus mocht klaren. Vanavond vertelt hij erover bij Jinek, samen met actrices Sallie Harmsen en Anna Drijver. Als het populaire dj-duo Sunnery James en Ryan Marciano niet voor een dansende mensenmassa staat, zitten ze in het vliegtuig. Al jarenlang reizen ze de hele wereld over en boeken ze succes na succes. Binnenkort zien ze weer een nieuwe droom uitkomen: hun grootste soloshow ooit staat op het programma. Op eigen kracht gaat het duo de AFAS Live vullen tijdens het Amsterdam Dance Event. Vanavond vertellen ze er alles over bij Jinek. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp3-images-nl-dynamic.horizon.tv/EventImages/95348481.p.3609d2396e9db3c131f5365b233a82734b93f27b.jpg" />
+  </programme>
+  <programme start="20190926142000 +0000" stop="20190926150000 +0000" channel="NPO 1 HD">
+    <title lang="en">Het geheime dagboek van Hendrik Groen</title>
+    <sub-title lang="en">December</sub-title>
+    <desc lang="en">In een dagboek beschrijft Hendrik Groen zijn leven in een verzorgingshuis in Amsterdam-Noord. Hij mag dan wel oud zijn, hij is nog lang niet dood. Samen met enkele andere bewoners van het verzorgingstehuis richt hij de rebellenclub Omanido op: oud maar niet dood. Want, waarom zou het leven alleen nog moeten bestaan uit koffie drinken achter de geraniums en wachten op het einde? Kijkwijzer: Alle leeftijden, programma bevat grof taalgebruik.(n)</desc>
+    <credits>
+      <director>Tim Oliehoek</director>
+      <actor>Kees Hulst</actor>
+      <actor>Andre van Duin</actor>
+      <actor>Olga Zuiderhoek</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Series Drama</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-nl-dynamic.horizon.tv/EventImages/268132050.p.150fe3d2dbb4e4e27641462247afc479fc07295c.jpg" />
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme start="20190926150000 +0000" stop="20190926151000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp10-images-nl-dynamic.horizon.tv/EventImages/114159621.p.5b1ae9d32ee3bd3dccfa2eca5e3e995232ab39c2.jpg" />
+  </programme>
+  <programme start="20190926151000 +0000" stop="20190926155500 +0000" channel="NPO 1 HD">
+    <title lang="en">Tijd voor MAX</title>
+    <desc lang="en">Live middagmagazine met mix van nieuws, informatie, kunst, cultuur en entertainment met boeiende bekende en onbekende Nederlanders. Met deze gasten praten Martine van Os en Sybrand Niessen over actuele gebeurtenissen, interessante ontwikkelingen en persoonlijke ervaringen. Daarnaast staat er elke dag een bepaald onderwerp centraal. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Documentaire</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp11-images-nl-dynamic.horizon.tv/EventImages/37395234.p.71302d2d6a9f3d695831fffe037c245e1ae9932f.jpg" />
+  </programme>
+  <programme start="20190926155500 +0000" stop="20190926160000 +0000" channel="NPO 1 HD">
+    <title lang="en">Politieke Partijen: VVD</title>
+    <sub-title lang="en">VVD</sub-title>
+    <desc lang="en">Een uitzending van de politieke partijen. Vandaag is het woord aan de VVD.(n)</desc>
+    <date>2016</date>
+    <category lang="en">Maatschappelijk</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp6-images-nl-dynamic.horizon.tv/EventImages/38301304.p.97ed921d103cd899655da8254f3435df820e46d9.jpg" />
+  </programme>
+  <programme start="20190926160000 +0000" stop="20190926161500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp11-images-nl-dynamic.horizon.tv/EventImages/36653945.p.7177e20942698af428bb18ca616d3ca8e62be5eb.jpg" />
+  </programme>
+  <programme start="20190926161500 +0000" stop="20190926164500 +0000" channel="NPO 1 HD">
+    <title lang="en">EenVandaag</title>
+    <desc lang="en">Het laatste nieuws en achtergronden uit binnen- en buitenland. Via het EenVandaag Opiniepanel kunnen 50.000 leden hun stem laten horen en reageren op actuele thema's.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Discussie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp28-images-nl-dynamic.horizon.tv/EventImages/36652653.p.f44df1bffd9671952acd86d719b51af9d7451d45.jpg" />
+  </programme>
+  <programme start="20190926164500 +0000" stop="20190926170000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Sportjournaal</title>
+    <desc lang="en">Met het belangrijkste sportnieuws van vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp20-images-nl-dynamic.horizon.tv/EventImages/37520411.p.3c92ce99efd21d98dc55cbc750692da70b57dc9d.jpg" />
+  </programme>
+  <programme start="20190926170000 +0000" stop="20190926180000 +0000" channel="NPO 1 HD">
+    <title lang="en">De Wereld Draait Door</title>
+    <desc lang="en">Liveprogramma vanuit Amsterdam met actuele gasten uit de politiek, wetenschap, sport, cultuur en media.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Discussie</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp23-images-nl-dynamic.horizon.tv/EventImages/37510974.p.4002721d60f54b1e5e52e143e7a9eb34dc11605c.jpg" />
+  </programme>
+  <programme start="20190926180000 +0000" stop="20190926182500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Journaal</title>
+    <desc lang="en">Met het laatste nieuws, gebeurtenissen van nationaal en internationaal belang en de weersverwachting voor vandaag.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp2-images-nl-dynamic.horizon.tv/EventImages/36652741.p.a611dda0feb1c0329e0f40666eb2a2b01debd6ff.jpg" />
+  </programme>
+  <programme start="20190926182500 +0000" stop="20190926184000 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Bevrijdingsjournaal september 1944</title>
+    <desc lang="en">Serie Bevrijdingsjournaals met het nieuws van 75 jaar geleden, gebracht met de technieken en kennis van nu. Dit keer draait het om de gebeurtenissen rond Operation Market Garden, de geallieerde poging om een snelle doortocht te forceren naar het Ruhrgebied. Omdat de laatste brug over de grote rivieren, die bij Arnhem, niet kon worden veroverd, mislukte de operatie en daarmee ook de bevrijding van het noorden en westen van Nederland, waardoor die gebieden eerst nog de Hongerwinter moesten doorstaan.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Nieuws</category>
+    <category lang="en">Documentaire</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp13-images-nl-dynamic.horizon.tv/EventImages/343142735.p.1b3873c22add78290ab61d271c4302d7aa4cbc87.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20190926184000 +0000" stop="20190926194000 +0000" channel="NPO 1 HD">
+    <title lang="en">Earth from Space</title>
+    <sub-title lang="en">Een nieuwe blik</sub-title>
+    <desc lang="en">Satellieten volgen een olifantenfamilie die met droogte te kampen heeft. Ze herkennen nog onbekende kolonies keizerspinguïns aan de kleur van hun poep en ze ontdekken mysterieuze ijsringen die robbenjongen in gevaar kunnen brengen. Met camera's op de grond, in de lucht en in de ruimte zien we spectaculaire natuurverschijnselen, weersveranderingen en ingrijpende seizoenswisselingen. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Educatie</category>
+    <category lang="en">Natuur</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp1-images-nl-dynamic.horizon.tv/EventImages/321540476.p.a10f1a27b1efd02c8682cb3b75004ad84d40fa5d.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20190926194000 +0000" stop="20190926203000 +0000" channel="NPO 1 HD">
+    <title lang="en">Mannen in het wild</title>
+    <sub-title lang="en">Geluk</sub-title>
+    <desc lang="en">Tijdens de midlifecrisis wordt de balans van het leven opgemaakt. Ben je nu echt gelukkig? Maar waar word je nu echt gelukkig van? Dure auto's en grote huizen? Niemand roept op zijn sterfbed dat, terugkijkend op zijn leven, het geluk in kapitaal en spullen zat. Geluk zit in kleine momenten en bovenal liefde en relaties. En als geluk in liefde en relaties zit, lukt het mij dan om een goede vriend voor een ander te zijn? Inmiddels zijn de mannen al over de helft van hun avontuur en dat merken ze allemaal. Geluksmomenten worden afgewisseld met slapeloze nachten en irritaties onderling. Worden ze hier gelukkig van?(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Variete</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp12-images-nl-dynamic.horizon.tv/EventImages/341445360.p.4f1972267a44ff1e39cb04784802e68a24feb41f.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20190926203000 +0000" stop="20190926210500 +0000" channel="NPO 1 HD">
+    <title lang="en">NOS Studio Sport Eredivisie</title>
+    <desc lang="en">Samenvattingen van de Eredivisieduels.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Voetbal</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp21-images-nl-dynamic.horizon.tv/EventImages/38315897.p.5af431b6be8a112d518c8bf701ce98fd1915efe8.jpg" />
+  </programme>
+  <programme start="20190926210500 +0000" stop="20190926220500 +0000" channel="NPO 1 HD">
+    <title lang="en">Jinek</title>
+    <desc lang="en">Eva Jinek voert het gesprek van de dag met de hoofdrolspelers uit de actualiteit: journalistieke, scherpe en onderhoudende gesprekken over media, cultuur, sport en maatschappij. Verslaggever Jaïr Ferwerda peilt de stemming in politiek Den Haag en in den lande. Live vanuit de Westergasfabriek in Amsterdam. Kijkwijzer: Alle leeftijden.(n)</desc>
+    <date>2019</date>
+    <category lang="en">Show</category>
+    <category lang="en">Talk Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://wp7-images-nl-dynamic.horizon.tv/EventImages/95348481.p.3609d2396e9db3c131f5365b233a82734b93f27b.jpg" />
+  </programme>
+</tv>
